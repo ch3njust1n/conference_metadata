@@ -1,0 +1,5722 @@
+[
+    {
+        "title": "Translated Learning: Transfer Learning across Different Feature Spaces",
+        "authors": [
+            {
+                "given_name": "Wenyuan",
+                "family_name": "Dai",
+                "institution": null
+            },
+            {
+                "given_name": "Yuqiang",
+                "family_name": "Chen",
+                "institution": null
+            },
+            {
+                "given_name": "Gui-rong",
+                "family_name": "Xue",
+                "institution": null
+            },
+            {
+                "given_name": "Qiang",
+                "family_name": "Yang",
+                "institution": null
+            },
+            {
+                "given_name": "Yong",
+                "family_name": "Yu",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "0060ef47b12160b9198302ebdb144dcf",
+        "url": "https://papers.nips.cc/paper/2008/file/0060ef47b12160b9198302ebdb144dcf-Paper.pdf"
+    },
+    {
+        "title": "Designing neurophysiology experiments to optimally constrain receptive field models along parametric submanifolds",
+        "authors": [
+            {
+                "given_name": "Jeremy",
+                "family_name": "Lewi",
+                "institution": null
+            },
+            {
+                "given_name": "Robert",
+                "family_name": "Butera",
+                "institution": null
+            },
+            {
+                "given_name": "David",
+                "family_name": "Schneider",
+                "institution": null
+            },
+            {
+                "given_name": "Sarah",
+                "family_name": "Woolley",
+                "institution": null
+            },
+            {
+                "given_name": "Liam",
+                "family_name": "Paninski",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "0141a8aedb1b53970fac7c81dac79fbe",
+        "url": "https://papers.nips.cc/paper/2008/file/0141a8aedb1b53970fac7c81dac79fbe-Paper.pdf"
+    },
+    {
+        "title": "Differentiable Sparse Coding",
+        "authors": [
+            {
+                "given_name": "J.",
+                "family_name": "Bagnell",
+                "institution": null
+            },
+            {
+                "given_name": "David",
+                "family_name": "Bradley",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "1458e7509aa5f47ecfb92536e7dd1dc7",
+        "url": "https://papers.nips.cc/paper/2008/file/1458e7509aa5f47ecfb92536e7dd1dc7-Paper.pdf"
+    },
+    {
+        "title": "Breaking Audio CAPTCHAs",
+        "authors": [
+            {
+                "given_name": "Jennifer",
+                "family_name": "Tam",
+                "institution": null
+            },
+            {
+                "given_name": "Jiri",
+                "family_name": "Simsa",
+                "institution": null
+            },
+            {
+                "given_name": "Sean",
+                "family_name": "Hyde",
+                "institution": null
+            },
+            {
+                "given_name": "Luis",
+                "family_name": "Ahn",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "12092a75caa75e4644fd2869f0b6c45a",
+        "url": "https://papers.nips.cc/paper/2008/file/12092a75caa75e4644fd2869f0b6c45a-Paper.pdf"
+    },
+    {
+        "title": "Counting Solution Clusters in Graph Coloring Problems Using Belief Propagation",
+        "authors": [
+            {
+                "given_name": "Lukas",
+                "family_name": "Kroc",
+                "institution": null
+            },
+            {
+                "given_name": "Ashish",
+                "family_name": "Sabharwal",
+                "institution": null
+            },
+            {
+                "given_name": "Bart",
+                "family_name": "Selman",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "0dbb3fb9a5cd1d5f8a9075b5bb8070aa",
+        "url": "https://papers.nips.cc/paper/2008/file/0dbb3fb9a5cd1d5f8a9075b5bb8070aa-Paper.pdf"
+    },
+    {
+        "title": "From Online to Batch Learning with Cutoff-Averaging",
+        "authors": [
+            {
+                "given_name": "Ofer",
+                "family_name": "Dekel",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "0336dcbab05b9d5ad24f4333c7658a0e",
+        "url": "https://papers.nips.cc/paper/2008/file/0336dcbab05b9d5ad24f4333c7658a0e-Paper.pdf"
+    },
+    {
+        "title": "Local Gaussian Process Regression for Real Time Online Model Learning",
+        "authors": [
+            {
+                "given_name": "Duy",
+                "family_name": "Nguyen-tuong",
+                "institution": null
+            },
+            {
+                "given_name": "Jan",
+                "family_name": "Peters",
+                "institution": null
+            },
+            {
+                "given_name": "Matthias",
+                "family_name": "Seeger",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "01161aaa0b6d1345dd8fe4e481144d84",
+        "url": "https://papers.nips.cc/paper/2008/file/01161aaa0b6d1345dd8fe4e481144d84-Paper.pdf"
+    },
+    {
+        "title": "Analyzing human feature learning as nonparametric Bayesian inference",
+        "authors": [
+            {
+                "given_name": "Thomas",
+                "family_name": "Griffiths",
+                "institution": null
+            },
+            {
+                "given_name": "Joseph",
+                "family_name": "Austerweil",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "02a32ad2669e6fe298e607fe7cc0e1a0",
+        "url": "https://papers.nips.cc/paper/2008/file/02a32ad2669e6fe298e607fe7cc0e1a0-Paper.pdf"
+    },
+    {
+        "title": "Learning Bounded Treewidth Bayesian Networks",
+        "authors": [
+            {
+                "given_name": "Gal",
+                "family_name": "Elidan",
+                "institution": null
+            },
+            {
+                "given_name": "Stephen",
+                "family_name": "Gould",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "006f52e9102a8d3be2fe5614f42ba989",
+        "url": "https://papers.nips.cc/paper/2008/file/006f52e9102a8d3be2fe5614f42ba989-Paper.pdf"
+    },
+    {
+        "title": "Structured ranking learning using cumulative distribution networks",
+        "authors": [
+            {
+                "given_name": "Jim",
+                "family_name": "Huang",
+                "institution": null
+            },
+            {
+                "given_name": "Brendan",
+                "family_name": "Frey",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "03c6b06952c750899bb03d998e631860",
+        "url": "https://papers.nips.cc/paper/2008/file/03c6b06952c750899bb03d998e631860-Paper.pdf"
+    },
+    {
+        "title": "Modeling human function learning with Gaussian processes",
+        "authors": [
+            {
+                "given_name": "Thomas",
+                "family_name": "Griffiths",
+                "institution": null
+            },
+            {
+                "given_name": "Chris",
+                "family_name": "Lucas",
+                "institution": null
+            },
+            {
+                "given_name": "Joseph",
+                "family_name": "Williams",
+                "institution": null
+            },
+            {
+                "given_name": "Michael",
+                "family_name": "Kalish",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "07c5807d0d927dcd0980f86024e5208b",
+        "url": "https://papers.nips.cc/paper/2008/file/07c5807d0d927dcd0980f86024e5208b-Paper.pdf"
+    },
+    {
+        "title": "Near-minimax recursive density estimation on the binary hypercube",
+        "authors": [
+            {
+                "given_name": "Maxim",
+                "family_name": "Raginsky",
+                "institution": null
+            },
+            {
+                "given_name": "Svetlana",
+                "family_name": "Lazebnik",
+                "institution": null
+            },
+            {
+                "given_name": "Rebecca",
+                "family_name": "Willett",
+                "institution": null
+            },
+            {
+                "given_name": "Jorge",
+                "family_name": "Silva",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "00411460f7c92d2124a67ea0f4cb5f85",
+        "url": "https://papers.nips.cc/paper/2008/file/00411460f7c92d2124a67ea0f4cb5f85-Paper.pdf"
+    },
+    {
+        "title": "Cascaded Classification Models: Combining Models for Holistic Scene Understanding",
+        "authors": [
+            {
+                "given_name": "Geremy",
+                "family_name": "Heitz",
+                "institution": null
+            },
+            {
+                "given_name": "Stephen",
+                "family_name": "Gould",
+                "institution": null
+            },
+            {
+                "given_name": "Ashutosh",
+                "family_name": "Saxena",
+                "institution": null
+            },
+            {
+                "given_name": "Daphne",
+                "family_name": "Koller",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "072b030ba126b2f4b2374f342be9ed44",
+        "url": "https://papers.nips.cc/paper/2008/file/072b030ba126b2f4b2374f342be9ed44-Paper.pdf"
+    },
+    {
+        "title": "Domain Adaptation with Multiple Sources",
+        "authors": [
+            {
+                "given_name": "Yishay",
+                "family_name": "Mansour",
+                "institution": null
+            },
+            {
+                "given_name": "Mehryar",
+                "family_name": "Mohri",
+                "institution": null
+            },
+            {
+                "given_name": "Afshin",
+                "family_name": "Rostamizadeh",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "0e65972dce68dad4d52d063967f0a705",
+        "url": "https://papers.nips.cc/paper/2008/file/0e65972dce68dad4d52d063967f0a705-Paper.pdf"
+    },
+    {
+        "title": "Grouping Contours Via a Related Image",
+        "authors": [
+            {
+                "given_name": "Praveen",
+                "family_name": "Srinivasan",
+                "institution": null
+            },
+            {
+                "given_name": "Liming",
+                "family_name": "Wang",
+                "institution": null
+            },
+            {
+                "given_name": "Jianbo",
+                "family_name": "Shi",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "013a006f03dbc5392effeb8f18fda755",
+        "url": "https://papers.nips.cc/paper/2008/file/013a006f03dbc5392effeb8f18fda755-Paper.pdf"
+    },
+    {
+        "title": "Unlabeled data: Now it helps, now it doesn't",
+        "authors": [
+            {
+                "given_name": "Aarti",
+                "family_name": "Singh",
+                "institution": null
+            },
+            {
+                "given_name": "Robert",
+                "family_name": "Nowak",
+                "institution": null
+            },
+            {
+                "given_name": "Jerry",
+                "family_name": "Zhu",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "07871915a8107172b3b5dc15a6574ad3",
+        "url": "https://papers.nips.cc/paper/2008/file/07871915a8107172b3b5dc15a6574ad3-Paper.pdf"
+    },
+    {
+        "title": "Asynchronous Distributed Learning of Topic Models",
+        "authors": [
+            {
+                "given_name": "Padhraic",
+                "family_name": "Smyth",
+                "institution": null
+            },
+            {
+                "given_name": "Max",
+                "family_name": "Welling",
+                "institution": null
+            },
+            {
+                "given_name": "Arthur",
+                "family_name": "Asuncion",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "06997f04a7db92466a2baa6ebc8b872d",
+        "url": "https://papers.nips.cc/paper/2008/file/06997f04a7db92466a2baa6ebc8b872d-Paper.pdf"
+    },
+    {
+        "title": "Biasing Approximate Dynamic Programming with a Lower Discount Factor",
+        "authors": [
+            {
+                "given_name": "Marek",
+                "family_name": "Petrik",
+                "institution": null
+            },
+            {
+                "given_name": "Bruno",
+                "family_name": "Scherrer",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "08c5433a60135c32e34f46a71175850c",
+        "url": "https://papers.nips.cc/paper/2008/file/08c5433a60135c32e34f46a71175850c-Paper.pdf"
+    },
+    {
+        "title": "Kernel Change-point Analysis",
+        "authors": [
+            {
+                "given_name": "Zaïd",
+                "family_name": "Harchaoui",
+                "institution": null
+            },
+            {
+                "given_name": "Eric",
+                "family_name": "Moulines",
+                "institution": null
+            },
+            {
+                "given_name": "Francis",
+                "family_name": "Bach",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "08b255a5d42b89b0585260b6f2360bdd",
+        "url": "https://papers.nips.cc/paper/2008/file/08b255a5d42b89b0585260b6f2360bdd-Paper.pdf"
+    },
+    {
+        "title": "Influence of graph construction on graph-based clustering measures",
+        "authors": [
+            {
+                "given_name": "Markus",
+                "family_name": "Maier",
+                "institution": null
+            },
+            {
+                "given_name": "Ulrike",
+                "family_name": "Luxburg",
+                "institution": null
+            },
+            {
+                "given_name": "Matthias",
+                "family_name": "Hein",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "0a348ede8ac3768875037baca5de6e26",
+        "url": "https://papers.nips.cc/paper/2008/file/0a348ede8ac3768875037baca5de6e26-Paper.pdf"
+    },
+    {
+        "title": "Accelerating Bayesian Inference over Nonlinear Differential Equations with Gaussian Processes",
+        "authors": [
+            {
+                "given_name": "Ben",
+                "family_name": "Calderhead",
+                "institution": null
+            },
+            {
+                "given_name": "Mark",
+                "family_name": "Girolami",
+                "institution": null
+            },
+            {
+                "given_name": "Neil",
+                "family_name": "Lawrence",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "07563a3fe3bbe7e3ba84431ad9d055af",
+        "url": "https://papers.nips.cc/paper/2008/file/07563a3fe3bbe7e3ba84431ad9d055af-Paper.pdf"
+    },
+    {
+        "title": "Performance analysis for L\\_2 kernel classification",
+        "authors": [
+            {
+                "given_name": "Jooseuk",
+                "family_name": "Kim",
+                "institution": null
+            },
+            {
+                "given_name": "Clayton",
+                "family_name": "Scott",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "0a113ef6b61820daa5611c870ed8d5ee",
+        "url": "https://papers.nips.cc/paper/2008/file/0a113ef6b61820daa5611c870ed8d5ee-Paper.pdf"
+    },
+    {
+        "title": "Evaluating probabilities under high-dimensional latent variable models",
+        "authors": [
+            {
+                "given_name": "Iain",
+                "family_name": "Murray",
+                "institution": null
+            },
+            {
+                "given_name": "Russ",
+                "family_name": "Salakhutdinov",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "0d7de1aca9299fe63f3e0041f02638a3",
+        "url": "https://papers.nips.cc/paper/2008/file/0d7de1aca9299fe63f3e0041f02638a3-Paper.pdf"
+    },
+    {
+        "title": "An Empirical Analysis of Domain Adaptation Algorithms for Genomic Sequence Analysis",
+        "authors": [
+            {
+                "given_name": "Gabriele",
+                "family_name": "Schweikert",
+                "institution": null
+            },
+            {
+                "given_name": "Gunnar",
+                "family_name": "Rätsch",
+                "institution": null
+            },
+            {
+                "given_name": "Christian",
+                "family_name": "Widmer",
+                "institution": null
+            },
+            {
+                "given_name": "Bernhard",
+                "family_name": "Schölkopf",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "087408522c31eeb1f982bc0eaf81d35f",
+        "url": "https://papers.nips.cc/paper/2008/file/087408522c31eeb1f982bc0eaf81d35f-Paper.pdf"
+    },
+    {
+        "title": "Linear Classification and Selective Sampling Under Low Noise Conditions",
+        "authors": [
+            {
+                "given_name": "Giovanni",
+                "family_name": "Cavallanti",
+                "institution": null
+            },
+            {
+                "given_name": "Nicolò",
+                "family_name": "Cesa-bianchi",
+                "institution": null
+            },
+            {
+                "given_name": "Claudio",
+                "family_name": "Gentile",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "0777d5c17d4066b82ab86dff8a46af6f",
+        "url": "https://papers.nips.cc/paper/2008/file/0777d5c17d4066b82ab86dff8a46af6f-Paper.pdf"
+    },
+    {
+        "title": "Inferring rankings under constrained sensing",
+        "authors": [
+            {
+                "given_name": "Srikanth",
+                "family_name": "Jagabathula",
+                "institution": null
+            },
+            {
+                "given_name": "Devavrat",
+                "family_name": "Shah",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "147ebe637038ca50a1265abac8dea181",
+        "url": "https://papers.nips.cc/paper/2008/file/147ebe637038ca50a1265abac8dea181-Paper.pdf"
+    },
+    {
+        "title": "On the Efficient Minimization of Classification Calibrated Surrogates",
+        "authors": [
+            {
+                "given_name": "Richard",
+                "family_name": "Nock",
+                "institution": null
+            },
+            {
+                "given_name": "Frank",
+                "family_name": "Nielsen",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "077e29b11be80ab57e1a2ecabb7da330",
+        "url": "https://papers.nips.cc/paper/2008/file/077e29b11be80ab57e1a2ecabb7da330-Paper.pdf"
+    },
+    {
+        "title": "Sparse Convolved Gaussian Processes for Multi-output Regression",
+        "authors": [
+            {
+                "given_name": "Mauricio",
+                "family_name": "Alvarez",
+                "institution": null
+            },
+            {
+                "given_name": "Neil",
+                "family_name": "Lawrence",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "149e9677a5989fd342ae44213df68868",
+        "url": "https://papers.nips.cc/paper/2008/file/149e9677a5989fd342ae44213df68868-Paper.pdf"
+    },
+    {
+        "title": "Unifying the Sensory and Motor Components of Sensorimotor Adaptation",
+        "authors": [
+            {
+                "given_name": "Adrian",
+                "family_name": "Haith",
+                "institution": null
+            },
+            {
+                "given_name": "Carl",
+                "family_name": "Jackson",
+                "institution": null
+            },
+            {
+                "given_name": "R.",
+                "family_name": "Miall",
+                "institution": null
+            },
+            {
+                "given_name": "Sethu",
+                "family_name": "Vijayakumar",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "07a96b1f61097ccb54be14d6a47439b0",
+        "url": "https://papers.nips.cc/paper/2008/file/07a96b1f61097ccb54be14d6a47439b0-Paper.pdf"
+    },
+    {
+        "title": "Semi-supervised Learning with Weakly-Related Unlabeled Data : Towards Better Text Categorization",
+        "authors": [
+            {
+                "given_name": "Liu",
+                "family_name": "Yang",
+                "institution": null
+            },
+            {
+                "given_name": "Rong",
+                "family_name": "Jin",
+                "institution": null
+            },
+            {
+                "given_name": "Rahul",
+                "family_name": "Sukthankar",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "0d0871f0806eae32d30983b62252da50",
+        "url": "https://papers.nips.cc/paper/2008/file/0d0871f0806eae32d30983b62252da50-Paper.pdf"
+    },
+    {
+        "title": "Hebbian Learning of Bayes Optimal Decisions",
+        "authors": [
+            {
+                "given_name": "Bernhard",
+                "family_name": "Nessler",
+                "institution": null
+            },
+            {
+                "given_name": "Michael",
+                "family_name": "Pfeiffer",
+                "institution": null
+            },
+            {
+                "given_name": "Wolfgang",
+                "family_name": "Maass",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "07cdfd23373b17c6b337251c22b7ea57",
+        "url": "https://papers.nips.cc/paper/2008/file/07cdfd23373b17c6b337251c22b7ea57-Paper.pdf"
+    },
+    {
+        "title": "MDPs with Non-Deterministic Policies",
+        "authors": [
+            {
+                "given_name": "M.",
+                "family_name": "Fard",
+                "institution": null
+            },
+            {
+                "given_name": "Joelle",
+                "family_name": "Pineau",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "0c74b7f78409a4022a2c4c5a5ca3ee19",
+        "url": "https://papers.nips.cc/paper/2008/file/0c74b7f78409a4022a2c4c5a5ca3ee19-Paper.pdf"
+    },
+    {
+        "title": "A ``Shape Aware'' Model for semi-supervised Learning of Objects and its Context",
+        "authors": [
+            {
+                "given_name": "Abhinav",
+                "family_name": "Gupta",
+                "institution": null
+            },
+            {
+                "given_name": "Jianbo",
+                "family_name": "Shi",
+                "institution": null
+            },
+            {
+                "given_name": "Larry",
+                "family_name": "Davis",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "1595af6435015c77a7149e92a551338e",
+        "url": "https://papers.nips.cc/paper/2008/file/1595af6435015c77a7149e92a551338e-Paper.pdf"
+    },
+    {
+        "title": "Weighted Sums of Random Kitchen Sinks: Replacing minimization with randomization in learning",
+        "authors": [
+            {
+                "given_name": "Ali",
+                "family_name": "Rahimi",
+                "institution": null
+            },
+            {
+                "given_name": "Benjamin",
+                "family_name": "Recht",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "0efe32849d230d7f53049ddc4a4b0c60",
+        "url": "https://papers.nips.cc/paper/2008/file/0efe32849d230d7f53049ddc4a4b0c60-Paper.pdf"
+    },
+    {
+        "title": "Multi-task Gaussian Process Learning of Robot Inverse Dynamics",
+        "authors": [
+            {
+                "given_name": "Christopher",
+                "family_name": "Williams",
+                "institution": null
+            },
+            {
+                "given_name": "Stefan",
+                "family_name": "Klanke",
+                "institution": null
+            },
+            {
+                "given_name": "Sethu",
+                "family_name": "Vijayakumar",
+                "institution": null
+            },
+            {
+                "given_name": "Kian",
+                "family_name": "Chai",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "15d4e891d784977cacbfcbb00c48f133",
+        "url": "https://papers.nips.cc/paper/2008/file/15d4e891d784977cacbfcbb00c48f133-Paper.pdf"
+    },
+    {
+        "title": "Efficient Inference in Phylogenetic InDel Trees",
+        "authors": [
+            {
+                "given_name": "Alexandre",
+                "family_name": "Bouchard-côté",
+                "institution": null
+            },
+            {
+                "given_name": "Dan",
+                "family_name": "Klein",
+                "institution": null
+            },
+            {
+                "given_name": "Michael",
+                "family_name": "Jordan",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "1651cf0d2f737d7adeab84d339dbabd3",
+        "url": "https://papers.nips.cc/paper/2008/file/1651cf0d2f737d7adeab84d339dbabd3-Paper.pdf"
+    },
+    {
+        "title": "Supervised Bipartite Graph Inference",
+        "authors": [
+            {
+                "given_name": "Yoshihiro",
+                "family_name": "Yamanishi",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "0e01938fc48a2cfb5f2217fbfb00722d",
+        "url": "https://papers.nips.cc/paper/2008/file/0e01938fc48a2cfb5f2217fbfb00722d-Paper.pdf"
+    },
+    {
+        "title": "Probabilistic detection of short events, with application to critical care monitoring",
+        "authors": [
+            {
+                "given_name": "Norm",
+                "family_name": "Aleks",
+                "institution": null
+            },
+            {
+                "given_name": "Stuart",
+                "family_name": "Russell",
+                "institution": null
+            },
+            {
+                "given_name": "Michael",
+                "family_name": "Madden",
+                "institution": null
+            },
+            {
+                "given_name": "Diane",
+                "family_name": "Morabito",
+                "institution": null
+            },
+            {
+                "given_name": "Kristan",
+                "family_name": "Staudenmayer",
+                "institution": null
+            },
+            {
+                "given_name": "Mitchell",
+                "family_name": "Cohen",
+                "institution": null
+            },
+            {
+                "given_name": "Geoffrey",
+                "family_name": "Manley",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "170c944978496731ba71f34c25826a34",
+        "url": "https://papers.nips.cc/paper/2008/file/170c944978496731ba71f34c25826a34-Paper.pdf"
+    },
+    {
+        "title": "Regularized Learning with Networks of Features",
+        "authors": [
+            {
+                "given_name": "Ted",
+                "family_name": "Sandler",
+                "institution": null
+            },
+            {
+                "given_name": "John",
+                "family_name": "Blitzer",
+                "institution": null
+            },
+            {
+                "given_name": "Partha",
+                "family_name": "Talukdar",
+                "institution": null
+            },
+            {
+                "given_name": "Lyle",
+                "family_name": "Ungar",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "0f840be9b8db4d3fbd5ba2ce59211f55",
+        "url": "https://papers.nips.cc/paper/2008/file/0f840be9b8db4d3fbd5ba2ce59211f55-Paper.pdf"
+    },
+    {
+        "title": "Estimating vector fields using sparse basis field expansions",
+        "authors": [
+            {
+                "given_name": "Stefan",
+                "family_name": "Haufe",
+                "institution": null
+            },
+            {
+                "given_name": "Vadim",
+                "family_name": "Nikulin",
+                "institution": null
+            },
+            {
+                "given_name": "Andreas",
+                "family_name": "Ziehe",
+                "institution": null
+            },
+            {
+                "given_name": "Klaus-Robert",
+                "family_name": "Müller",
+                "institution": null
+            },
+            {
+                "given_name": "Guido",
+                "family_name": "Nolte",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "1679091c5a880faf6fb5e6087eb1b2dc",
+        "url": "https://papers.nips.cc/paper/2008/file/1679091c5a880faf6fb5e6087eb1b2dc-Paper.pdf"
+    },
+    {
+        "title": "Efficient Direct Density Ratio Estimation for Non-stationarity Adaptation and Outlier Detection",
+        "authors": [
+            {
+                "given_name": "Takafumi",
+                "family_name": "Kanamori",
+                "institution": null
+            },
+            {
+                "given_name": "Shohei",
+                "family_name": "Hido",
+                "institution": null
+            },
+            {
+                "given_name": "Masashi",
+                "family_name": "Sugiyama",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "1385974ed5904a438616ff7bdb3f7439",
+        "url": "https://papers.nips.cc/paper/2008/file/1385974ed5904a438616ff7bdb3f7439-Paper.pdf"
+    },
+    {
+        "title": "Learning Transformational Invariants from Natural Movies",
+        "authors": [
+            {
+                "given_name": "Charles",
+                "family_name": "Cadieu",
+                "institution": null
+            },
+            {
+                "given_name": "Bruno",
+                "family_name": "Olshausen",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "2e2c080d5490760af59d0baf5acbb84e",
+        "url": "https://papers.nips.cc/paper/2008/file/2e2c080d5490760af59d0baf5acbb84e-Paper.pdf"
+    },
+    {
+        "title": "Spike Feature Extraction Using Informative Samples",
+        "authors": [
+            {
+                "given_name": "Zhi",
+                "family_name": "Yang",
+                "institution": null
+            },
+            {
+                "given_name": "Qi",
+                "family_name": "Zhao",
+                "institution": null
+            },
+            {
+                "given_name": "Wentai",
+                "family_name": "Liu",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "2a2717956118b4d223ceca17ce3865e2",
+        "url": "https://papers.nips.cc/paper/2008/file/2a2717956118b4d223ceca17ce3865e2-Paper.pdf"
+    },
+    {
+        "title": "QUIC-SVD: Fast SVD Using Cosine Trees",
+        "authors": [
+            {
+                "given_name": "Michael",
+                "family_name": "Holmes",
+                "institution": null
+            },
+            {
+                "given_name": "Jr.",
+                "family_name": "Isbell",
+                "institution": null
+            },
+            {
+                "given_name": "Charles",
+                "family_name": "Lee",
+                "institution": null
+            },
+            {
+                "given_name": "Alexander",
+                "family_name": "Gray",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "31b3b31a1c2f8a370206f111127c0dbd",
+        "url": "https://papers.nips.cc/paper/2008/file/31b3b31a1c2f8a370206f111127c0dbd-Paper.pdf"
+    },
+    {
+        "title": "Characterizing response behavior in multisensory perception with conflicting cues",
+        "authors": [
+            {
+                "given_name": "Rama",
+                "family_name": "Natarajan",
+                "institution": null
+            },
+            {
+                "given_name": "Iain",
+                "family_name": "Murray",
+                "institution": null
+            },
+            {
+                "given_name": "Ladan",
+                "family_name": "Shams",
+                "institution": null
+            },
+            {
+                "given_name": "Richard",
+                "family_name": "Zemel",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "322f62469c5e3c7dc3e58f5a4d1ea399",
+        "url": "https://papers.nips.cc/paper/2008/file/322f62469c5e3c7dc3e58f5a4d1ea399-Paper.pdf"
+    },
+    {
+        "title": "The Infinite Hierarchical Factor Regression Model",
+        "authors": [
+            {
+                "given_name": "Piyush",
+                "family_name": "Rai",
+                "institution": null
+            },
+            {
+                "given_name": "Hal",
+                "family_name": "Daume",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "2bf283c05b601f21364d052ca0ec798d",
+        "url": "https://papers.nips.cc/paper/2008/file/2bf283c05b601f21364d052ca0ec798d-Paper.pdf"
+    },
+    {
+        "title": "Multi-stage Convex Relaxation for Learning with Sparse Regularization",
+        "authors": [
+            {
+                "given_name": "Tong",
+                "family_name": "Zhang",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "1be3bc32e6564055d5ca3e5a354acbef",
+        "url": "https://papers.nips.cc/paper/2008/file/1be3bc32e6564055d5ca3e5a354acbef-Paper.pdf"
+    },
+    {
+        "title": "Nonparametric sparse hierarchical models describe V1 fMRI responses to natural images",
+        "authors": [
+            {
+                "given_name": "Vincent",
+                "family_name": "Vu",
+                "institution": null
+            },
+            {
+                "given_name": "Bin",
+                "family_name": "Yu",
+                "institution": null
+            },
+            {
+                "given_name": "Thomas",
+                "family_name": "Naselaris",
+                "institution": null
+            },
+            {
+                "given_name": "Kendrick",
+                "family_name": "Kay",
+                "institution": null
+            },
+            {
+                "given_name": "Jack",
+                "family_name": "Gallant",
+                "institution": null
+            },
+            {
+                "given_name": "Pradeep",
+                "family_name": "Ravikumar",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "1ce927f875864094e3906a4a0b5ece68",
+        "url": "https://papers.nips.cc/paper/2008/file/1ce927f875864094e3906a4a0b5ece68-Paper.pdf"
+    },
+    {
+        "title": "Spectral Clustering with Perturbed Data",
+        "authors": [
+            {
+                "given_name": "Ling",
+                "family_name": "Huang",
+                "institution": null
+            },
+            {
+                "given_name": "Donghui",
+                "family_name": "Yan",
+                "institution": null
+            },
+            {
+                "given_name": "Nina",
+                "family_name": "Taft",
+                "institution": null
+            },
+            {
+                "given_name": "Michael",
+                "family_name": "Jordan",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "185e65bc40581880c4f2c82958de8cfe",
+        "url": "https://papers.nips.cc/paper/2008/file/185e65bc40581880c4f2c82958de8cfe-Paper.pdf"
+    },
+    {
+        "title": "A Scalable Hierarchical Distributed Language Model",
+        "authors": [
+            {
+                "given_name": "Andriy",
+                "family_name": "Mnih",
+                "institution": null
+            },
+            {
+                "given_name": "Geoffrey",
+                "family_name": "Hinton",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "1e056d2b0ebd5c878c550da6ac5d3724",
+        "url": "https://papers.nips.cc/paper/2008/file/1e056d2b0ebd5c878c550da6ac5d3724-Paper.pdf"
+    },
+    {
+        "title": "Stochastic Relational Models for Large-scale Dyadic Data using MCMC",
+        "authors": [
+            {
+                "given_name": "Shenghuo",
+                "family_name": "Zhu",
+                "institution": null
+            },
+            {
+                "given_name": "Kai",
+                "family_name": "Yu",
+                "institution": null
+            },
+            {
+                "given_name": "Yihong",
+                "family_name": "Gong",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "2291d2ec3b3048d1a6f86c2c4591b7e0",
+        "url": "https://papers.nips.cc/paper/2008/file/2291d2ec3b3048d1a6f86c2c4591b7e0-Paper.pdf"
+    },
+    {
+        "title": "Hierarchical Fisher Kernels for Longitudinal Data",
+        "authors": [
+            {
+                "given_name": "Zhengdong",
+                "family_name": "Lu",
+                "institution": null
+            },
+            {
+                "given_name": "Jeffrey",
+                "family_name": "Kaye",
+                "institution": null
+            },
+            {
+                "given_name": "Todd",
+                "family_name": "Leen",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "24b16fede9a67c9251d3e7c7161c83ac",
+        "url": "https://papers.nips.cc/paper/2008/file/24b16fede9a67c9251d3e7c7161c83ac-Paper.pdf"
+    },
+    {
+        "title": "Supervised Exponential Family Principal Component Analysis via Convex Optimization",
+        "authors": [
+            {
+                "given_name": "Yuhong",
+                "family_name": "Guo",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "1fc214004c9481e4c8073e85323bfd4b",
+        "url": "https://papers.nips.cc/paper/2008/file/1fc214004c9481e4c8073e85323bfd4b-Paper.pdf"
+    },
+    {
+        "title": "Sparse Signal Recovery Using Markov Random Fields",
+        "authors": [
+            {
+                "given_name": "Volkan",
+                "family_name": "Cevher",
+                "institution": null
+            },
+            {
+                "given_name": "Marco",
+                "family_name": "Duarte",
+                "institution": null
+            },
+            {
+                "given_name": "Chinmay",
+                "family_name": "Hegde",
+                "institution": null
+            },
+            {
+                "given_name": "Richard",
+                "family_name": "Baraniuk",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "287e03db1d99e0ec2edb90d079e142f3",
+        "url": "https://papers.nips.cc/paper/2008/file/287e03db1d99e0ec2edb90d079e142f3-Paper.pdf"
+    },
+    {
+        "title": "Robust Regression and Lasso",
+        "authors": [
+            {
+                "given_name": "Huan",
+                "family_name": "Xu",
+                "institution": null
+            },
+            {
+                "given_name": "Constantine",
+                "family_name": "Caramanis",
+                "institution": null
+            },
+            {
+                "given_name": "Shie",
+                "family_name": "Mannor",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "24681928425f5a9133504de568f5f6df",
+        "url": "https://papers.nips.cc/paper/2008/file/24681928425f5a9133504de568f5f6df-Paper.pdf"
+    },
+    {
+        "title": "The Infinite Factorial Hidden Markov Model",
+        "authors": [
+            {
+                "given_name": "Jurgen",
+                "family_name": "Gael",
+                "institution": null
+            },
+            {
+                "given_name": "Yee",
+                "family_name": "Teh",
+                "institution": null
+            },
+            {
+                "given_name": "Zoubin",
+                "family_name": "Ghahramani",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "2723d092b63885e0d7c260cc007e8b9d",
+        "url": "https://papers.nips.cc/paper/2008/file/2723d092b63885e0d7c260cc007e8b9d-Paper.pdf"
+    },
+    {
+        "title": "Clustering via LP-based Stabilities",
+        "authors": [
+            {
+                "given_name": "Nikos",
+                "family_name": "Komodakis",
+                "institution": null
+            },
+            {
+                "given_name": "Nikos",
+                "family_name": "Paragios",
+                "institution": null
+            },
+            {
+                "given_name": "Georgios",
+                "family_name": "Tziritas",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "288cc0ff022877bd3df94bc9360b9c5d",
+        "url": "https://papers.nips.cc/paper/2008/file/288cc0ff022877bd3df94bc9360b9c5d-Paper.pdf"
+    },
+    {
+        "title": "Correlated Bigram LSA for Unsupervised Language Model Adaptation",
+        "authors": [
+            {
+                "given_name": "Yik-cheung",
+                "family_name": "Tam",
+                "institution": null
+            },
+            {
+                "given_name": "Tanja",
+                "family_name": "Schultz",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "26e359e83860db1d11b6acca57d8ea88",
+        "url": "https://papers.nips.cc/paper/2008/file/26e359e83860db1d11b6acca57d8ea88-Paper.pdf"
+    },
+    {
+        "title": "An improved estimator of Variance Explained in the presence of noise",
+        "authors": [
+            {
+                "given_name": "Ralf",
+                "family_name": "Haefner",
+                "institution": null
+            },
+            {
+                "given_name": "Bruce",
+                "family_name": "Cumming",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "2ab56412b1163ee131e1246da0955bd1",
+        "url": "https://papers.nips.cc/paper/2008/file/2ab56412b1163ee131e1246da0955bd1-Paper.pdf"
+    },
+    {
+        "title": "Deep Learning with Kernel Regularization for Visual Recognition",
+        "authors": [
+            {
+                "given_name": "Kai",
+                "family_name": "Yu",
+                "institution": null
+            },
+            {
+                "given_name": "Wei",
+                "family_name": "Xu",
+                "institution": null
+            },
+            {
+                "given_name": "Yihong",
+                "family_name": "Gong",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "2dace78f80bc92e6d7493423d729448e",
+        "url": "https://papers.nips.cc/paper/2008/file/2dace78f80bc92e6d7493423d729448e-Paper.pdf"
+    },
+    {
+        "title": "Estimating the Location and Orientation of Complex, Correlated Neural Activity using MEG",
+        "authors": [
+            {
+                "given_name": "Julia",
+                "family_name": "Owen",
+                "institution": null
+            },
+            {
+                "given_name": "Hagai",
+                "family_name": "Attias",
+                "institution": null
+            },
+            {
+                "given_name": "Kensuke",
+                "family_name": "Sekihara",
+                "institution": null
+            },
+            {
+                "given_name": "Srikantan",
+                "family_name": "Nagarajan",
+                "institution": null
+            },
+            {
+                "given_name": "David",
+                "family_name": "Wipf",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "19b650660b253761af189682e03501dd",
+        "url": "https://papers.nips.cc/paper/2008/file/19b650660b253761af189682e03501dd-Paper.pdf"
+    },
+    {
+        "title": "Generative versus discriminative training of RBMs for classification of fMRI images",
+        "authors": [
+            {
+                "given_name": "Tanya",
+                "family_name": "Schmah",
+                "institution": null
+            },
+            {
+                "given_name": "Geoffrey",
+                "family_name": "E.",
+                "institution": null
+            },
+            {
+                "given_name": "Steven",
+                "family_name": "Small",
+                "institution": null
+            },
+            {
+                "given_name": "Stephen",
+                "family_name": "Strother",
+                "institution": null
+            },
+            {
+                "given_name": "Richard",
+                "family_name": "Zemel",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "3e77a14629775492504515dc4b23deda",
+        "url": "https://papers.nips.cc/paper/2008/file/3e77a14629775492504515dc4b23deda-Paper.pdf"
+    },
+    {
+        "title": "Fast Computation of Posterior Mode in Multi-Level Hierarchical Models",
+        "authors": [
+            {
+                "given_name": "Liang",
+                "family_name": "Zhang",
+                "institution": null
+            },
+            {
+                "given_name": "Deepak",
+                "family_name": "Agarwal",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "2a9d121cd9c3a1832bb6d2cc6bd7a8a7",
+        "url": "https://papers.nips.cc/paper/2008/file/2a9d121cd9c3a1832bb6d2cc6bd7a8a7-Paper.pdf"
+    },
+    {
+        "title": "A Massively Parallel Digital Learning Processor",
+        "authors": [
+            {
+                "given_name": "Hans",
+                "family_name": "Graf",
+                "institution": null
+            },
+            {
+                "given_name": "Srihari",
+                "family_name": "Cadambi",
+                "institution": null
+            },
+            {
+                "given_name": "Venkata",
+                "family_name": "Jakkula",
+                "institution": null
+            },
+            {
+                "given_name": "Murugan",
+                "family_name": "Sankaradass",
+                "institution": null
+            },
+            {
+                "given_name": "Eric",
+                "family_name": "Cosatto",
+                "institution": null
+            },
+            {
+                "given_name": "Srimat",
+                "family_name": "Chakradhar",
+                "institution": null
+            },
+            {
+                "given_name": "Igor",
+                "family_name": "Dourdanovic",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "31fefc0e570cb3860f2a6d4b38c6490d",
+        "url": "https://papers.nips.cc/paper/2008/file/31fefc0e570cb3860f2a6d4b38c6490d-Paper.pdf"
+    },
+    {
+        "title": "On Bootstrapping the ROC Curve",
+        "authors": [
+            {
+                "given_name": "Patrice",
+                "family_name": "Bertail",
+                "institution": null
+            },
+            {
+                "given_name": "Stéphan",
+                "family_name": "Clémençcon",
+                "institution": null
+            },
+            {
+                "given_name": "Nicolas",
+                "family_name": "Vayatis",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "30bb3825e8f631cc6075c0f87bb4978c",
+        "url": "https://papers.nips.cc/paper/2008/file/30bb3825e8f631cc6075c0f87bb4978c-Paper.pdf"
+    },
+    {
+        "title": "Online Models for Content Optimization",
+        "authors": [
+            {
+                "given_name": "Deepak",
+                "family_name": "Agarwal",
+                "institution": null
+            },
+            {
+                "given_name": "Bee-chung",
+                "family_name": "Chen",
+                "institution": null
+            },
+            {
+                "given_name": "Pradheep",
+                "family_name": "Elango",
+                "institution": null
+            },
+            {
+                "given_name": "Nitin",
+                "family_name": "Motgi",
+                "institution": null
+            },
+            {
+                "given_name": "Seung-taek",
+                "family_name": "Park",
+                "institution": null
+            },
+            {
+                "given_name": "Raghu",
+                "family_name": "Ramakrishnan",
+                "institution": null
+            },
+            {
+                "given_name": "Scott",
+                "family_name": "Roy",
+                "institution": null
+            },
+            {
+                "given_name": "Joe",
+                "family_name": "Zachariah",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "23ce1851341ec1fa9e0c259de10bf87c",
+        "url": "https://papers.nips.cc/paper/2008/file/23ce1851341ec1fa9e0c259de10bf87c-Paper.pdf"
+    },
+    {
+        "title": "The Gaussian Process Density Sampler",
+        "authors": [
+            {
+                "given_name": "Iain",
+                "family_name": "Murray",
+                "institution": null
+            },
+            {
+                "given_name": "David",
+                "family_name": "MacKay",
+                "institution": null
+            },
+            {
+                "given_name": "Ryan",
+                "family_name": "Adams",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "335f5352088d7d9bf74191e006d8e24c",
+        "url": "https://papers.nips.cc/paper/2008/file/335f5352088d7d9bf74191e006d8e24c-Paper.pdf"
+    },
+    {
+        "title": "A mixture model for the evolution of gene expression in non-homogeneous datasets",
+        "authors": [
+            {
+                "given_name": "Gerald",
+                "family_name": "Quon",
+                "institution": null
+            },
+            {
+                "given_name": "Yee",
+                "family_name": "Teh",
+                "institution": null
+            },
+            {
+                "given_name": "Esther",
+                "family_name": "Chan",
+                "institution": null
+            },
+            {
+                "given_name": "Timothy",
+                "family_name": "Hughes",
+                "institution": null
+            },
+            {
+                "given_name": "Michael",
+                "family_name": "Brudno",
+                "institution": null
+            },
+            {
+                "given_name": "Quaid",
+                "family_name": "Morris",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "38913e1d6a7b94cb0f55994f679f5956",
+        "url": "https://papers.nips.cc/paper/2008/file/38913e1d6a7b94cb0f55994f679f5956-Paper.pdf"
+    },
+    {
+        "title": "On the asymptotic equivalence between differential Hebbian and temporal difference learning using a local third factor",
+        "authors": [
+            {
+                "given_name": "Christoph",
+                "family_name": "Kolodziejski",
+                "institution": null
+            },
+            {
+                "given_name": "Bernd",
+                "family_name": "Porr",
+                "institution": null
+            },
+            {
+                "given_name": "Minija",
+                "family_name": "Tamosiunaite",
+                "institution": null
+            },
+            {
+                "given_name": "Florentin",
+                "family_name": "Wörgötter",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "4a533591763dfa743a13affab1a85793",
+        "url": "https://papers.nips.cc/paper/2008/file/4a533591763dfa743a13affab1a85793-Paper.pdf"
+    },
+    {
+        "title": "Adaptive Martingale Boosting",
+        "authors": [
+            {
+                "given_name": "Phil",
+                "family_name": "Long",
+                "institution": null
+            },
+            {
+                "given_name": "Rocco",
+                "family_name": "Servedio",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "38b3eff8baf56627478ec76a704e9b52",
+        "url": "https://papers.nips.cc/paper/2008/file/38b3eff8baf56627478ec76a704e9b52-Paper.pdf"
+    },
+    {
+        "title": "Cyclizing Clusters via Zeta Function of a Graph",
+        "authors": [
+            {
+                "given_name": "Deli",
+                "family_name": "Zhao",
+                "institution": null
+            },
+            {
+                "given_name": "Xiaoou",
+                "family_name": "Tang",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "3416a75f4cea9109507cacd8e2f2aefc",
+        "url": "https://papers.nips.cc/paper/2008/file/3416a75f4cea9109507cacd8e2f2aefc-Paper.pdf"
+    },
+    {
+        "title": "Fast High-dimensional Kernel Summations Using the Monte Carlo Multipole Method",
+        "authors": [
+            {
+                "given_name": "Dongryeol",
+                "family_name": "Lee",
+                "institution": null
+            },
+            {
+                "given_name": "Alexander",
+                "family_name": "Gray",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "39059724f73a9969845dfe4146c5660e",
+        "url": "https://papers.nips.cc/paper/2008/file/39059724f73a9969845dfe4146c5660e-Paper.pdf"
+    },
+    {
+        "title": "ICA based on a Smooth Estimation of the Differential Entropy",
+        "authors": [
+            {
+                "given_name": "Lev",
+                "family_name": "Faivishevsky",
+                "institution": null
+            },
+            {
+                "given_name": "Jacob",
+                "family_name": "Goldberger",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "3dc4876f3f08201c7c76cb71fa1da439",
+        "url": "https://papers.nips.cc/paper/2008/file/3dc4876f3f08201c7c76cb71fa1da439-Paper.pdf"
+    },
+    {
+        "title": "An Homotopy Algorithm for the Lasso with Online Observations",
+        "authors": [
+            {
+                "given_name": "Pierre",
+                "family_name": "Garrigues",
+                "institution": null
+            },
+            {
+                "given_name": "Laurent",
+                "family_name": "Ghaoui",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "38af86134b65d0f10fe33d30dd76442e",
+        "url": "https://papers.nips.cc/paper/2008/file/38af86134b65d0f10fe33d30dd76442e-Paper.pdf"
+    },
+    {
+        "title": "Model Selection in Gaussian Graphical Models: High-Dimensional Consistency of \\boldmath$\\ell_1$-regularized MLE",
+        "authors": [
+            {
+                "given_name": "Garvesh",
+                "family_name": "Raskutti",
+                "institution": null
+            },
+            {
+                "given_name": "Bin",
+                "family_name": "Yu",
+                "institution": null
+            },
+            {
+                "given_name": "Martin",
+                "family_name": "J.",
+                "institution": null
+            },
+            {
+                "given_name": "Pradeep",
+                "family_name": "Ravikumar",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "61f2585b0ebcf1f532c4d1ec9a7d51aa",
+        "url": "https://papers.nips.cc/paper/2008/file/61f2585b0ebcf1f532c4d1ec9a7d51aa-Paper.pdf"
+    },
+    {
+        "title": "Integrating Locally Learned Causal Structures with Overlapping Variables",
+        "authors": [
+            {
+                "given_name": "David",
+                "family_name": "Danks",
+                "institution": null
+            },
+            {
+                "given_name": "Clark",
+                "family_name": "Glymour",
+                "institution": null
+            },
+            {
+                "given_name": "Robert",
+                "family_name": "Tillman",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "37bc2f75bf1bcfe8450a1a41c200364c",
+        "url": "https://papers.nips.cc/paper/2008/file/37bc2f75bf1bcfe8450a1a41c200364c-Paper.pdf"
+    },
+    {
+        "title": "Algorithms for Infinitely Many-Armed Bandits",
+        "authors": [
+            {
+                "given_name": "Yizao",
+                "family_name": "Wang",
+                "institution": null
+            },
+            {
+                "given_name": "Jean-yves",
+                "family_name": "Audibert",
+                "institution": null
+            },
+            {
+                "given_name": "Rémi",
+                "family_name": "Munos",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "49ae49a23f67c759bf4fc791ba842aa2",
+        "url": "https://papers.nips.cc/paper/2008/file/49ae49a23f67c759bf4fc791ba842aa2-Paper.pdf"
+    },
+    {
+        "title": "Particle Filter-based Policy Gradient in POMDPs",
+        "authors": [
+            {
+                "given_name": "Pierre-arnaud",
+                "family_name": "Coquelin",
+                "institution": null
+            },
+            {
+                "given_name": "Romain",
+                "family_name": "Deguest",
+                "institution": null
+            },
+            {
+                "given_name": "Rémi",
+                "family_name": "Munos",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "42e77b63637ab381e8be5f8318cc28a2",
+        "url": "https://papers.nips.cc/paper/2008/file/42e77b63637ab381e8be5f8318cc28a2-Paper.pdf"
+    },
+    {
+        "title": "Gates",
+        "authors": [
+            {
+                "given_name": "Tom",
+                "family_name": "Minka",
+                "institution": null
+            },
+            {
+                "given_name": "John",
+                "family_name": "Winn",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "4b0a59ddf11c58e7446c9df0da541a84",
+        "url": "https://papers.nips.cc/paper/2008/file/4b0a59ddf11c58e7446c9df0da541a84-Paper.pdf"
+    },
+    {
+        "title": "Multi-Level Active Prediction of Useful Image Annotations for Recognition",
+        "authors": [
+            {
+                "given_name": "Sudheendra",
+                "family_name": "Vijayanarasimhan",
+                "institution": null
+            },
+            {
+                "given_name": "Kristen",
+                "family_name": "Grauman",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "4e0928de075538c593fbdabb0c5ef2c3",
+        "url": "https://papers.nips.cc/paper/2008/file/4e0928de075538c593fbdabb0c5ef2c3-Paper.pdf"
+    },
+    {
+        "title": "MAS: a multiplicative approximation scheme for probabilistic inference",
+        "authors": [
+            {
+                "given_name": "Ydo",
+                "family_name": "Wexler",
+                "institution": null
+            },
+            {
+                "given_name": "Christopher",
+                "family_name": "Meek",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "500e75a036dc2d7d2fec5da1b71d36cc",
+        "url": "https://papers.nips.cc/paper/2008/file/500e75a036dc2d7d2fec5da1b71d36cc-Paper.pdf"
+    },
+    {
+        "title": "Learning Hybrid Models for Image Annotation with Partially Labeled Data",
+        "authors": [
+            {
+                "given_name": "Xuming",
+                "family_name": "He",
+                "institution": null
+            },
+            {
+                "given_name": "Richard",
+                "family_name": "Zemel",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "53e3a7161e428b65688f14b84d61c610",
+        "url": "https://papers.nips.cc/paper/2008/file/53e3a7161e428b65688f14b84d61c610-Paper.pdf"
+    },
+    {
+        "title": "Sequential effects: Superstition or rational behavior?",
+        "authors": [
+            {
+                "given_name": "Angela",
+                "family_name": "Yu",
+                "institution": null
+            },
+            {
+                "given_name": "Jonathan",
+                "family_name": "Cohen",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "5f2c22cb4a5380af7ca75622a6426917",
+        "url": "https://papers.nips.cc/paper/2008/file/5f2c22cb4a5380af7ca75622a6426917-Paper.pdf"
+    },
+    {
+        "title": "An Online Algorithm for Maximizing Submodular Functions",
+        "authors": [
+            {
+                "given_name": "Matthew",
+                "family_name": "Streeter",
+                "institution": null
+            },
+            {
+                "given_name": "Daniel",
+                "family_name": "Golovin",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "5751ec3e9a4feab575962e78e006250d",
+        "url": "https://papers.nips.cc/paper/2008/file/5751ec3e9a4feab575962e78e006250d-Paper.pdf"
+    },
+    {
+        "title": "Efficient Sampling for Gaussian Process Inference using Control Variables",
+        "authors": [
+            {
+                "given_name": "Neil",
+                "family_name": "Lawrence",
+                "institution": null
+            },
+            {
+                "given_name": "Magnus",
+                "family_name": "Rattray",
+                "institution": null
+            },
+            {
+                "given_name": "Michalis",
+                "family_name": "Titsias",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "5487315b1286f907165907aa8fc96619",
+        "url": "https://papers.nips.cc/paper/2008/file/5487315b1286f907165907aa8fc96619-Paper.pdf"
+    },
+    {
+        "title": "Bayesian Exponential Family PCA",
+        "authors": [
+            {
+                "given_name": "Shakir",
+                "family_name": "Mohamed",
+                "institution": null
+            },
+            {
+                "given_name": "Zoubin",
+                "family_name": "Ghahramani",
+                "institution": null
+            },
+            {
+                "given_name": "Katherine",
+                "family_name": "Heller",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "5f0f5e5f33945135b874349cfbed4fb9",
+        "url": "https://papers.nips.cc/paper/2008/file/5f0f5e5f33945135b874349cfbed4fb9-Paper.pdf"
+    },
+    {
+        "title": "Support Vector Machines with a Reject Option",
+        "authors": [
+            {
+                "given_name": "Yves",
+                "family_name": "Grandvalet",
+                "institution": null
+            },
+            {
+                "given_name": "Alain",
+                "family_name": "Rakotomamonjy",
+                "institution": null
+            },
+            {
+                "given_name": "Joseph",
+                "family_name": "Keshet",
+                "institution": null
+            },
+            {
+                "given_name": "Stéphane",
+                "family_name": "Canu",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "3df1d4b96d8976ff5986393e8767f5b2",
+        "url": "https://papers.nips.cc/paper/2008/file/3df1d4b96d8976ff5986393e8767f5b2-Paper.pdf"
+    },
+    {
+        "title": "Kernel-ARMA for Hand Tracking and Brain-Machine interfacing During 3D Motor Control",
+        "authors": [
+            {
+                "given_name": "Lavi",
+                "family_name": "Shpigelman",
+                "institution": null
+            },
+            {
+                "given_name": "Hagai",
+                "family_name": "Lalazar",
+                "institution": null
+            },
+            {
+                "given_name": "Eilon",
+                "family_name": "Vaadia",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "61b4a64be663682e8cb037d9719ad8cd",
+        "url": "https://papers.nips.cc/paper/2008/file/61b4a64be663682e8cb037d9719ad8cd-Paper.pdf"
+    },
+    {
+        "title": "Diffeomorphic Dimensionality Reduction",
+        "authors": [
+            {
+                "given_name": "Christian",
+                "family_name": "Walder",
+                "institution": null
+            },
+            {
+                "given_name": "Bernhard",
+                "family_name": "Schölkopf",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "647bba344396e7c8170902bcf2e15551",
+        "url": "https://papers.nips.cc/paper/2008/file/647bba344396e7c8170902bcf2e15551-Paper.pdf"
+    },
+    {
+        "title": "PSDBoost: Matrix-Generation Linear Programming for Positive Semidefinite Matrices Learning",
+        "authors": [
+            {
+                "given_name": "Chunhua",
+                "family_name": "Shen",
+                "institution": null
+            },
+            {
+                "given_name": "Alan",
+                "family_name": "Welsh",
+                "institution": null
+            },
+            {
+                "given_name": "Lei",
+                "family_name": "Wang",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "605ff764c617d3cd28dbbdd72be8f9a2",
+        "url": "https://papers.nips.cc/paper/2008/file/605ff764c617d3cd28dbbdd72be8f9a2-Paper.pdf"
+    },
+    {
+        "title": "On the Complexity of Linear Prediction: Risk Bounds, Margin Bounds, and Regularization",
+        "authors": [
+            {
+                "given_name": "Sham",
+                "family_name": "Kakade",
+                "institution": null
+            },
+            {
+                "given_name": "Karthik",
+                "family_name": "Sridharan",
+                "institution": null
+            },
+            {
+                "given_name": "Ambuj",
+                "family_name": "Tewari",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "5b69b9cb83065d403869739ae7f0995e",
+        "url": "https://papers.nips.cc/paper/2008/file/5b69b9cb83065d403869739ae7f0995e-Paper.pdf"
+    },
+    {
+        "title": "Offline Handwriting Recognition with Multidimensional Recurrent Neural Networks",
+        "authors": [
+            {
+                "given_name": "Alex",
+                "family_name": "Graves",
+                "institution": null
+            },
+            {
+                "given_name": "Jürgen",
+                "family_name": "Schmidhuber",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "66368270ffd51418ec58bd793f2d9b1b",
+        "url": "https://papers.nips.cc/paper/2008/file/66368270ffd51418ec58bd793f2d9b1b-Paper.pdf"
+    },
+    {
+        "title": "An Efficient Sequential Monte Carlo Algorithm for Coalescent Clustering",
+        "authors": [
+            {
+                "given_name": "Dilan",
+                "family_name": "Gorur",
+                "institution": null
+            },
+            {
+                "given_name": "Yee",
+                "family_name": "Teh",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "65cc2c8205a05d7379fa3a6386f710e1",
+        "url": "https://papers.nips.cc/paper/2008/file/65cc2c8205a05d7379fa3a6386f710e1-Paper.pdf"
+    },
+    {
+        "title": "Exact Convex Confidence-Weighted Learning",
+        "authors": [
+            {
+                "given_name": "Koby",
+                "family_name": "Crammer",
+                "institution": null
+            },
+            {
+                "given_name": "Mark",
+                "family_name": "Dredze",
+                "institution": null
+            },
+            {
+                "given_name": "Fernando",
+                "family_name": "Pereira",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "68ce199ec2c5517597ce0a4d89620f55",
+        "url": "https://papers.nips.cc/paper/2008/file/68ce199ec2c5517597ce0a4d89620f55-Paper.pdf"
+    },
+    {
+        "title": "Stress, noradrenaline, and realistic prediction of mouse behaviour using reinforcement learning",
+        "authors": [
+            {
+                "given_name": "Carmen",
+                "family_name": "Sandi",
+                "institution": null
+            },
+            {
+                "given_name": "Wulfram",
+                "family_name": "Gerstner",
+                "institution": null
+            },
+            {
+                "given_name": "Gediminas",
+                "family_name": "Lukšys",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "62e7f2e090fe150ef8deb4466fdc81b3",
+        "url": "https://papers.nips.cc/paper/2008/file/62e7f2e090fe150ef8deb4466fdc81b3-Paper.pdf"
+    },
+    {
+        "title": "Bounding Performance Loss in Approximate MDP Homomorphisms",
+        "authors": [
+            {
+                "given_name": "Jonathan",
+                "family_name": "Taylor",
+                "institution": null
+            },
+            {
+                "given_name": "Doina",
+                "family_name": "Precup",
+                "institution": null
+            },
+            {
+                "given_name": "Prakash",
+                "family_name": "Panagaden",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "6602294be910b1e3c4571bd98c4d5484",
+        "url": "https://papers.nips.cc/paper/2008/file/6602294be910b1e3c4571bd98c4d5484-Paper.pdf"
+    },
+    {
+        "title": "Using Bayesian Dynamical Systems for Motion Template Libraries",
+        "authors": [
+            {
+                "given_name": "Silvia",
+                "family_name": "Chiappa",
+                "institution": null
+            },
+            {
+                "given_name": "Jens",
+                "family_name": "Kober",
+                "institution": null
+            },
+            {
+                "given_name": "Jan",
+                "family_name": "Peters",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "65658fde58ab3c2b6e5132a39fae7cb9",
+        "url": "https://papers.nips.cc/paper/2008/file/65658fde58ab3c2b6e5132a39fae7cb9-Paper.pdf"
+    },
+    {
+        "title": "Robust Near-Isometric Matching via Structured Learning of Graphical Models",
+        "authors": [
+            {
+                "given_name": "Alex",
+                "family_name": "Smola",
+                "institution": null
+            },
+            {
+                "given_name": "Julian",
+                "family_name": "Mcauley",
+                "institution": null
+            },
+            {
+                "given_name": "Tibério",
+                "family_name": "Caetano",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "66f041e16a60928b05a7e228a89c3799",
+        "url": "https://papers.nips.cc/paper/2008/file/66f041e16a60928b05a7e228a89c3799-Paper.pdf"
+    },
+    {
+        "title": "Fast Prediction on a Tree",
+        "authors": [
+            {
+                "given_name": "Mark",
+                "family_name": "Herbster",
+                "institution": null
+            },
+            {
+                "given_name": "Massimiliano",
+                "family_name": "Pontil",
+                "institution": null
+            },
+            {
+                "given_name": "Sergio",
+                "family_name": "Galeano",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "677e09724f0e2df9b6c000b75b5da10d",
+        "url": "https://papers.nips.cc/paper/2008/file/677e09724f0e2df9b6c000b75b5da10d-Paper.pdf"
+    },
+    {
+        "title": "How memory biases affect information transmission: A rational analysis of serial reproduction",
+        "authors": [
+            {
+                "given_name": "Jing",
+                "family_name": "Xu",
+                "institution": null
+            },
+            {
+                "given_name": "Thomas",
+                "family_name": "Griffiths",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "63923f49e5241343aa7acb6a06a751e7",
+        "url": "https://papers.nips.cc/paper/2008/file/63923f49e5241343aa7acb6a06a751e7-Paper.pdf"
+    },
+    {
+        "title": "A Convex Upper Bound on the Log-Partition Function for Binary Distributions",
+        "authors": [
+            {
+                "given_name": "Laurent",
+                "family_name": "Ghaoui",
+                "institution": null
+            },
+            {
+                "given_name": "Assane",
+                "family_name": "Gueye",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "73640de25b7d656733ce2f808a330f18",
+        "url": "https://papers.nips.cc/paper/2008/file/73640de25b7d656733ce2f808a330f18-Paper.pdf"
+    },
+    {
+        "title": "Recursive Segmentation and Recognition Templates for 2D Parsing",
+        "authors": [
+            {
+                "given_name": "Leo",
+                "family_name": "Zhu",
+                "institution": null
+            },
+            {
+                "given_name": "Yuanhao",
+                "family_name": "Chen",
+                "institution": null
+            },
+            {
+                "given_name": "Yuan",
+                "family_name": "Lin",
+                "institution": null
+            },
+            {
+                "given_name": "Chenxi",
+                "family_name": "Lin",
+                "institution": null
+            },
+            {
+                "given_name": "Alan",
+                "family_name": "L.",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "703957b6dd9e3a7980e040bee50ded65",
+        "url": "https://papers.nips.cc/paper/2008/file/703957b6dd9e3a7980e040bee50ded65-Paper.pdf"
+    },
+    {
+        "title": "Convergence and Rate of Convergence of a Manifold-Based Dimension Reduction Algorithm",
+        "authors": [
+            {
+                "given_name": "Andrew",
+                "family_name": "Smith",
+                "institution": null
+            },
+            {
+                "given_name": "Hongyuan",
+                "family_name": "Zha",
+                "institution": null
+            },
+            {
+                "given_name": "Xiao-ming",
+                "family_name": "Wu",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "735143e9ff8c47def504f1ba0442df98",
+        "url": "https://papers.nips.cc/paper/2008/file/735143e9ff8c47def504f1ba0442df98-Paper.pdf"
+    },
+    {
+        "title": "Reconciling Real Scores with Binary Comparisons: A New Logistic Based Model for Ranking",
+        "authors": [
+            {
+                "given_name": "Nir",
+                "family_name": "Ailon",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "73c03186765e199c116224b68adc5fa0",
+        "url": "https://papers.nips.cc/paper/2008/file/73c03186765e199c116224b68adc5fa0-Paper.pdf"
+    },
+    {
+        "title": "Look Ma, No Hands: Analyzing the Monotonic Feature Abstraction for Text Classification",
+        "authors": [
+            {
+                "given_name": "Doug",
+                "family_name": "Downey",
+                "institution": null
+            },
+            {
+                "given_name": "Oren",
+                "family_name": "Etzioni",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "6e16656a6ee1de7232164767ccfa7920",
+        "url": "https://papers.nips.cc/paper/2008/file/6e16656a6ee1de7232164767ccfa7920-Paper.pdf"
+    },
+    {
+        "title": "High-dimensional support union recovery in multivariate regression",
+        "authors": [
+            {
+                "given_name": "Guillaume",
+                "family_name": "R.",
+                "institution": null
+            },
+            {
+                "given_name": "Martin",
+                "family_name": "J.",
+                "institution": null
+            },
+            {
+                "given_name": "Michael",
+                "family_name": "Jordan",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "72007983849f4fcb0ad565439834756b",
+        "url": "https://papers.nips.cc/paper/2008/file/72007983849f4fcb0ad565439834756b-Paper.pdf"
+    },
+    {
+        "title": "Shape-Based Object Localization for Descriptive Classification",
+        "authors": [
+            {
+                "given_name": "Geremy",
+                "family_name": "Heitz",
+                "institution": null
+            },
+            {
+                "given_name": "Gal",
+                "family_name": "Elidan",
+                "institution": null
+            },
+            {
+                "given_name": "Benjamin",
+                "family_name": "Packer",
+                "institution": null
+            },
+            {
+                "given_name": "Daphne",
+                "family_name": "Koller",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "8844c5f00372df2c3c4ee857c2451b45",
+        "url": "https://papers.nips.cc/paper/2008/file/8844c5f00372df2c3c4ee857c2451b45-Paper.pdf"
+    },
+    {
+        "title": "Tighter Bounds for Structured Estimation",
+        "authors": [
+            {
+                "given_name": "Olivier",
+                "family_name": "Chapelle",
+                "institution": null
+            },
+            {
+                "given_name": "Chuong",
+                "family_name": "B.",
+                "institution": null
+            },
+            {
+                "given_name": "Choon",
+                "family_name": "Teo",
+                "institution": null
+            },
+            {
+                "given_name": "Quoc",
+                "family_name": "Le",
+                "institution": null
+            },
+            {
+                "given_name": "Alex",
+                "family_name": "Smola",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "6bc24fc1ab650b25b4114e93a98f1eba",
+        "url": "https://papers.nips.cc/paper/2008/file/6bc24fc1ab650b25b4114e93a98f1eba-Paper.pdf"
+    },
+    {
+        "title": "Multi-Agent Filtering with Infinitely Nested Beliefs",
+        "authors": [
+            {
+                "given_name": "Luke",
+                "family_name": "Zettlemoyer",
+                "institution": null
+            },
+            {
+                "given_name": "Brian",
+                "family_name": "Milch",
+                "institution": null
+            },
+            {
+                "given_name": "Leslie",
+                "family_name": "Kaelbling",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "6c3cf77d52820cd0fe646d38bc2145ca",
+        "url": "https://papers.nips.cc/paper/2008/file/6c3cf77d52820cd0fe646d38bc2145ca-Paper.pdf"
+    },
+    {
+        "title": "Regularized Co-Clustering with Dual Supervision",
+        "authors": [
+            {
+                "given_name": "Vikas",
+                "family_name": "Sindhwani",
+                "institution": null
+            },
+            {
+                "given_name": "Jianying",
+                "family_name": "Hu",
+                "institution": null
+            },
+            {
+                "given_name": "Aleksandra",
+                "family_name": "Mojsilovic",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "6aab1270668d8cac7cef2566a1c5f569",
+        "url": "https://papers.nips.cc/paper/2008/file/6aab1270668d8cac7cef2566a1c5f569-Paper.pdf"
+    },
+    {
+        "title": "The Conjoint Effect of Divisive Normalization and Orientation Selectivity on Redundancy Reduction",
+        "authors": [
+            {
+                "given_name": "Fabian",
+                "family_name": "Sinz",
+                "institution": null
+            },
+            {
+                "given_name": "Matthias",
+                "family_name": "Bethge",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "6a10bbd480e4c5573d8f3af73ae0454b",
+        "url": "https://papers.nips.cc/paper/2008/file/6a10bbd480e4c5573d8f3af73ae0454b-Paper.pdf"
+    },
+    {
+        "title": "Adaptive Forward-Backward Greedy Algorithm for Sparse Learning with Linear Models",
+        "authors": [
+            {
+                "given_name": "Tong",
+                "family_name": "Zhang",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "7380ad8a673226ae47fce7bff88e9c33",
+        "url": "https://papers.nips.cc/paper/2008/file/7380ad8a673226ae47fce7bff88e9c33-Paper.pdf"
+    },
+    {
+        "title": "Nonparametric regression and classification with joint sparsity constraints",
+        "authors": [
+            {
+                "given_name": "Han",
+                "family_name": "Liu",
+                "institution": null
+            },
+            {
+                "given_name": "Larry",
+                "family_name": "Wasserman",
+                "institution": null
+            },
+            {
+                "given_name": "John",
+                "family_name": "Lafferty",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "6faa8040da20ef399b63a72d0e4ab575",
+        "url": "https://papers.nips.cc/paper/2008/file/6faa8040da20ef399b63a72d0e4ab575-Paper.pdf"
+    },
+    {
+        "title": "Policy Search for Motor Primitives in Robotics",
+        "authors": [
+            {
+                "given_name": "Jens",
+                "family_name": "Kober",
+                "institution": null
+            },
+            {
+                "given_name": "Jan",
+                "family_name": "Peters",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "7647966b7343c29048673252e490f736",
+        "url": "https://papers.nips.cc/paper/2008/file/7647966b7343c29048673252e490f736-Paper.pdf"
+    },
+    {
+        "title": "Cell Assemblies in Large Sparse Inhibitory Networks of Biologically Realistic Spiking Neurons",
+        "authors": [
+            {
+                "given_name": "Adam",
+                "family_name": "Ponzi",
+                "institution": null
+            },
+            {
+                "given_name": "Jeff",
+                "family_name": "Wickens",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "70c639df5e30bdee440e4cdf599fec2b",
+        "url": "https://papers.nips.cc/paper/2008/file/70c639df5e30bdee440e4cdf599fec2b-Paper.pdf"
+    },
+    {
+        "title": "A rational model of preference learning and choice prediction by children",
+        "authors": [
+            {
+                "given_name": "Christopher",
+                "family_name": "Lucas",
+                "institution": null
+            },
+            {
+                "given_name": "Thomas",
+                "family_name": "Griffiths",
+                "institution": null
+            },
+            {
+                "given_name": "Fei",
+                "family_name": "Xu",
+                "institution": null
+            },
+            {
+                "given_name": "Christine",
+                "family_name": "Fawcett",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "7f1171a78ce0780a2142a6eb7bc4f3c8",
+        "url": "https://papers.nips.cc/paper/2008/file/7f1171a78ce0780a2142a6eb7bc4f3c8-Paper.pdf"
+    },
+    {
+        "title": "Adapting to a Market Shock: Optimal Sequential Market-Making",
+        "authors": [
+            {
+                "given_name": "Sanmay",
+                "family_name": "Das",
+                "institution": null
+            },
+            {
+                "given_name": "Malik",
+                "family_name": "Magdon-Ismail",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "7a614fd06c325499f1680b9896beedeb",
+        "url": "https://papers.nips.cc/paper/2008/file/7a614fd06c325499f1680b9896beedeb-Paper.pdf"
+    },
+    {
+        "title": "Predicting the Geometry of Metal Binding Sites from Protein Sequence",
+        "authors": [
+            {
+                "given_name": "Paolo",
+                "family_name": "Frasconi",
+                "institution": null
+            },
+            {
+                "given_name": "Andrea",
+                "family_name": "Passerini",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "704afe073992cbe4813cae2f7715336f",
+        "url": "https://papers.nips.cc/paper/2008/file/704afe073992cbe4813cae2f7715336f-Paper.pdf"
+    },
+    {
+        "title": "Beyond Novelty Detection: Incongruent Events, when General and Specific Classifiers Disagree",
+        "authors": [
+            {
+                "given_name": "Daphna",
+                "family_name": "Weinshall",
+                "institution": null
+            },
+            {
+                "given_name": "Hynek",
+                "family_name": "Hermansky",
+                "institution": null
+            },
+            {
+                "given_name": "Alon",
+                "family_name": "Zweig",
+                "institution": null
+            },
+            {
+                "given_name": "Jie",
+                "family_name": "Luo",
+                "institution": null
+            },
+            {
+                "given_name": "Holly",
+                "family_name": "Jimison",
+                "institution": null
+            },
+            {
+                "given_name": "Frank",
+                "family_name": "Ohl",
+                "institution": null
+            },
+            {
+                "given_name": "Misha",
+                "family_name": "Pavel",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "6c9882bbac1c7093bd25041881277658",
+        "url": "https://papers.nips.cc/paper/2008/file/6c9882bbac1c7093bd25041881277658-Paper.pdf"
+    },
+    {
+        "title": "DiscLDA: Discriminative Learning for Dimensionality Reduction and Classification",
+        "authors": [
+            {
+                "given_name": "Simon",
+                "family_name": "Lacoste-Julien",
+                "institution": null
+            },
+            {
+                "given_name": "Fei",
+                "family_name": "Sha",
+                "institution": null
+            },
+            {
+                "given_name": "Michael",
+                "family_name": "Jordan",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "7b13b2203029ed80337f27127a9f1d28",
+        "url": "https://papers.nips.cc/paper/2008/file/7b13b2203029ed80337f27127a9f1d28-Paper.pdf"
+    },
+    {
+        "title": "An ideal observer model of infant object perception",
+        "authors": [
+            {
+                "given_name": "Charles",
+                "family_name": "Kemp",
+                "institution": null
+            },
+            {
+                "given_name": "Fei",
+                "family_name": "Xu",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "7f1de29e6da19d22b51c68001e7e0e54",
+        "url": "https://papers.nips.cc/paper/2008/file/7f1de29e6da19d22b51c68001e7e0e54-Paper.pdf"
+    },
+    {
+        "title": "Understanding Brain Connectivity Patterns during Motor Imagery for Brain-Computer Interfacing",
+        "authors": [
+            {
+                "given_name": "Moritz",
+                "family_name": "Grosse-wentrup",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "7d04bbbe5494ae9d2f5a76aa1c00fa2f",
+        "url": "https://papers.nips.cc/paper/2008/file/7d04bbbe5494ae9d2f5a76aa1c00fa2f-Paper.pdf"
+    },
+    {
+        "title": "Signal-to-Noise Ratio Analysis of Policy Gradient Algorithms",
+        "authors": [
+            {
+                "given_name": "John",
+                "family_name": "Roberts",
+                "institution": null
+            },
+            {
+                "given_name": "Russ",
+                "family_name": "Tedrake",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "8df707a948fac1b4a0f97aa554886ec8",
+        "url": "https://papers.nips.cc/paper/2008/file/8df707a948fac1b4a0f97aa554886ec8-Paper.pdf"
+    },
+    {
+        "title": "Covariance Estimation for High Dimensional Data Vectors Using the Sparse Matrix Transform",
+        "authors": [
+            {
+                "given_name": "Guangzhi",
+                "family_name": "Cao",
+                "institution": null
+            },
+            {
+                "given_name": "Charles",
+                "family_name": "Bouman",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "8b16ebc056e613024c057be590b542eb",
+        "url": "https://papers.nips.cc/paper/2008/file/8b16ebc056e613024c057be590b542eb-Paper.pdf"
+    },
+    {
+        "title": "Mortal Multi-Armed Bandits",
+        "authors": [
+            {
+                "given_name": "Deepayan",
+                "family_name": "Chakrabarti",
+                "institution": null
+            },
+            {
+                "given_name": "Ravi",
+                "family_name": "Kumar",
+                "institution": null
+            },
+            {
+                "given_name": "Filip",
+                "family_name": "Radlinski",
+                "institution": null
+            },
+            {
+                "given_name": "Eli",
+                "family_name": "Upfal",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "788d986905533aba051261497ecffcbb",
+        "url": "https://papers.nips.cc/paper/2008/file/788d986905533aba051261497ecffcbb-Paper.pdf"
+    },
+    {
+        "title": "Theory of matching pursuit",
+        "authors": [
+            {
+                "given_name": "Zakria",
+                "family_name": "Hussain",
+                "institution": null
+            },
+            {
+                "given_name": "John",
+                "family_name": "Shawe-taylor",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "758874998f5bd0c393da094e1967a72b",
+        "url": "https://papers.nips.cc/paper/2008/file/758874998f5bd0c393da094e1967a72b-Paper.pdf"
+    },
+    {
+        "title": "Deflation Methods for Sparse PCA",
+        "authors": [
+            {
+                "given_name": "Lester",
+                "family_name": "Mackey",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "85d8ce590ad8981ca2c8286f79f59954",
+        "url": "https://papers.nips.cc/paper/2008/file/85d8ce590ad8981ca2c8286f79f59954-Paper.pdf"
+    },
+    {
+        "title": "Privacy-preserving logistic regression",
+        "authors": [
+            {
+                "given_name": "Kamalika",
+                "family_name": "Chaudhuri",
+                "institution": null
+            },
+            {
+                "given_name": "Claire",
+                "family_name": "Monteleoni",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "8065d07da4a77621450aa84fee5656d9",
+        "url": "https://papers.nips.cc/paper/2008/file/8065d07da4a77621450aa84fee5656d9-Paper.pdf"
+    },
+    {
+        "title": "Efficient Exact Inference in Planar Ising Models",
+        "authors": [
+            {
+                "given_name": "Nicol",
+                "family_name": "Schraudolph",
+                "institution": null
+            },
+            {
+                "given_name": "Dmitry",
+                "family_name": "Kamenetsky",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "816b112c6105b3ebd537828a39af4818",
+        "url": "https://papers.nips.cc/paper/2008/file/816b112c6105b3ebd537828a39af4818-Paper.pdf"
+    },
+    {
+        "title": "Empirical performance maximization for linear rank statistics",
+        "authors": [
+            {
+                "given_name": "Stéphan",
+                "family_name": "Clémençcon",
+                "institution": null
+            },
+            {
+                "given_name": "Nicolas",
+                "family_name": "Vayatis",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "7f24d240521d99071c93af3917215ef7",
+        "url": "https://papers.nips.cc/paper/2008/file/7f24d240521d99071c93af3917215ef7-Paper.pdf"
+    },
+    {
+        "title": "Shared Segmentation of Natural Scenes Using Dependent Pitman-Yor Processes",
+        "authors": [
+            {
+                "given_name": "Erik",
+                "family_name": "Sudderth",
+                "institution": null
+            },
+            {
+                "given_name": "Michael",
+                "family_name": "Jordan",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "883e881bb4d22a7add958f2d6b052c9f",
+        "url": "https://papers.nips.cc/paper/2008/file/883e881bb4d22a7add958f2d6b052c9f-Paper.pdf"
+    },
+    {
+        "title": "Learning with Consistency between Inductive Functions and Kernels",
+        "authors": [
+            {
+                "given_name": "Haixuan",
+                "family_name": "Yang",
+                "institution": null
+            },
+            {
+                "given_name": "Irwin",
+                "family_name": "King",
+                "institution": null
+            },
+            {
+                "given_name": "Michael",
+                "family_name": "Lyu",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "8c7bbbba95c1025975e548cee86dfadc",
+        "url": "https://papers.nips.cc/paper/2008/file/8c7bbbba95c1025975e548cee86dfadc-Paper.pdf"
+    },
+    {
+        "title": "Resolution Limits of Sparse Coding in High Dimensions",
+        "authors": [
+            {
+                "given_name": "Sundeep",
+                "family_name": "Rangan",
+                "institution": null
+            },
+            {
+                "given_name": "Vivek",
+                "family_name": "Goyal",
+                "institution": null
+            },
+            {
+                "given_name": "Alyson",
+                "family_name": "Fletcher",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "7f975a56c761db6506eca0b37ce6ec87",
+        "url": "https://papers.nips.cc/paper/2008/file/7f975a56c761db6506eca0b37ce6ec87-Paper.pdf"
+    },
+    {
+        "title": "Rademacher Complexity Bounds for Non-I.I.D. Processes",
+        "authors": [
+            {
+                "given_name": "Mehryar",
+                "family_name": "Mohri",
+                "institution": null
+            },
+            {
+                "given_name": "Afshin",
+                "family_name": "Rostamizadeh",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "7eacb532570ff6858afd2723755ff790",
+        "url": "https://papers.nips.cc/paper/2008/file/7eacb532570ff6858afd2723755ff790-Paper.pdf"
+    },
+    {
+        "title": "Characterizing neural dependencies with copula models",
+        "authors": [
+            {
+                "given_name": "Pietro",
+                "family_name": "Berkes",
+                "institution": null
+            },
+            {
+                "given_name": "Frank",
+                "family_name": "Wood",
+                "institution": null
+            },
+            {
+                "given_name": "Jonathan",
+                "family_name": "Pillow",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "8c235f89a8143a28a1d6067e959dd858",
+        "url": "https://papers.nips.cc/paper/2008/file/8c235f89a8143a28a1d6067e959dd858-Paper.pdf"
+    },
+    {
+        "title": "Relative Margin Machines",
+        "authors": [
+            {
+                "given_name": "Tony",
+                "family_name": "Jebara",
+                "institution": null
+            },
+            {
+                "given_name": "Pannagadatta",
+                "family_name": "Shivaswamy",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "8f7d807e1f53eff5f9efbe5cb81090fb",
+        "url": "https://papers.nips.cc/paper/2008/file/8f7d807e1f53eff5f9efbe5cb81090fb-Paper.pdf"
+    },
+    {
+        "title": "Sparse Online Learning via Truncated Gradient",
+        "authors": [
+            {
+                "given_name": "John",
+                "family_name": "Langford",
+                "institution": null
+            },
+            {
+                "given_name": "Lihong",
+                "family_name": "Li",
+                "institution": null
+            },
+            {
+                "given_name": "Tong",
+                "family_name": "Zhang",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "92c8c96e4c37100777c7190b76d28233",
+        "url": "https://papers.nips.cc/paper/2008/file/92c8c96e4c37100777c7190b76d28233-Paper.pdf"
+    },
+    {
+        "title": "Syntactic Topic Models",
+        "authors": [
+            {
+                "given_name": "Jordan",
+                "family_name": "Boyd-graber",
+                "institution": null
+            },
+            {
+                "given_name": "David",
+                "family_name": "Blei",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "8d3bba7425e7c98c50f52ca1b52d3735",
+        "url": "https://papers.nips.cc/paper/2008/file/8d3bba7425e7c98c50f52ca1b52d3735-Paper.pdf"
+    },
+    {
+        "title": "Bayesian Kernel Shaping for Learning Control",
+        "authors": [
+            {
+                "given_name": "Jo-anne",
+                "family_name": "Ting",
+                "institution": null
+            },
+            {
+                "given_name": "Mrinal",
+                "family_name": "Kalakrishnan",
+                "institution": null
+            },
+            {
+                "given_name": "Sethu",
+                "family_name": "Vijayakumar",
+                "institution": null
+            },
+            {
+                "given_name": "Stefan",
+                "family_name": "Schaal",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "8f85517967795eeef66c225f7883bdcb",
+        "url": "https://papers.nips.cc/paper/2008/file/8f85517967795eeef66c225f7883bdcb-Paper.pdf"
+    },
+    {
+        "title": "Mixed Membership Stochastic Blockmodels",
+        "authors": [
+            {
+                "given_name": "Edo",
+                "family_name": "Airoldi",
+                "institution": null
+            },
+            {
+                "given_name": "David",
+                "family_name": "Blei",
+                "institution": null
+            },
+            {
+                "given_name": "Stephen",
+                "family_name": "Fienberg",
+                "institution": null
+            },
+            {
+                "given_name": "Eric",
+                "family_name": "Xing",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "8613985ec49eb8f757ae6439e879bb2a",
+        "url": "https://papers.nips.cc/paper/2008/file/8613985ec49eb8f757ae6439e879bb2a-Paper.pdf"
+    },
+    {
+        "title": "A general framework for investigating how far the decoding process in the brain can be simplified",
+        "authors": [
+            {
+                "given_name": "Masafumi",
+                "family_name": "Oizumi",
+                "institution": null
+            },
+            {
+                "given_name": "Toshiyuki",
+                "family_name": "Ishii",
+                "institution": null
+            },
+            {
+                "given_name": "Kazuya",
+                "family_name": "Ishibashi",
+                "institution": null
+            },
+            {
+                "given_name": "Toshihiko",
+                "family_name": "Hosoya",
+                "institution": null
+            },
+            {
+                "given_name": "Masato",
+                "family_name": "Okada",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "8dd48d6a2e2cad213179a3992c0be53c",
+        "url": "https://papers.nips.cc/paper/2008/file/8dd48d6a2e2cad213179a3992c0be53c-Paper.pdf"
+    },
+    {
+        "title": "Artificial Olfactory Brain for Mixture Identification",
+        "authors": [
+            {
+                "given_name": "Mehmet",
+                "family_name": "Muezzinoglu",
+                "institution": null
+            },
+            {
+                "given_name": "Alexander",
+                "family_name": "Vergara",
+                "institution": null
+            },
+            {
+                "given_name": "Ramon",
+                "family_name": "Huerta",
+                "institution": null
+            },
+            {
+                "given_name": "Thomas",
+                "family_name": "Nowotny",
+                "institution": null
+            },
+            {
+                "given_name": "Nikolai",
+                "family_name": "Rulkov",
+                "institution": null
+            },
+            {
+                "given_name": "Henry",
+                "family_name": "Abarbanel",
+                "institution": null
+            },
+            {
+                "given_name": "Allen",
+                "family_name": "Selverston",
+                "institution": null
+            },
+            {
+                "given_name": "Mikhail",
+                "family_name": "Rabinovich",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "8f468c873a32bb0619eaeb2050ba45d1",
+        "url": "https://papers.nips.cc/paper/2008/file/8f468c873a32bb0619eaeb2050ba45d1-Paper.pdf"
+    },
+    {
+        "title": "Robust Kernel Principal Component Analysis",
+        "authors": [
+            {
+                "given_name": "Minh",
+                "family_name": "Nguyen",
+                "institution": null
+            },
+            {
+                "given_name": "Fernando",
+                "family_name": "Torre",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "8f53295a73878494e9bc8dd6c3c7104f",
+        "url": "https://papers.nips.cc/paper/2008/file/8f53295a73878494e9bc8dd6c3c7104f-Paper.pdf"
+    },
+    {
+        "title": "Bayesian Model of Behaviour in Economic Games",
+        "authors": [
+            {
+                "given_name": "Debajyoti",
+                "family_name": "Ray",
+                "institution": null
+            },
+            {
+                "given_name": "Brooks",
+                "family_name": "King-casas",
+                "institution": null
+            },
+            {
+                "given_name": "P.",
+                "family_name": "Montague",
+                "institution": null
+            },
+            {
+                "given_name": "Peter",
+                "family_name": "Dayan",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "92cc227532d17e56e07902b254dfad10",
+        "url": "https://papers.nips.cc/paper/2008/file/92cc227532d17e56e07902b254dfad10-Paper.pdf"
+    },
+    {
+        "title": "Improved Moves for Truncated Convex Models",
+        "authors": [
+            {
+                "given_name": "Philip",
+                "family_name": "Torr",
+                "institution": null
+            },
+            {
+                "given_name": "M.",
+                "family_name": "Kumar",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "941e1aaaba585b952b62c14a3a175a61",
+        "url": "https://papers.nips.cc/paper/2008/file/941e1aaaba585b952b62c14a3a175a61-Paper.pdf"
+    },
+    {
+        "title": "Skill Characterization Based on Betweenness",
+        "authors": [
+            {
+                "given_name": "Özgür",
+                "family_name": "Şimşek",
+                "institution": null
+            },
+            {
+                "given_name": "Andrew",
+                "family_name": "Barto",
+                "institution": ""
+            }
+        ],
+        "award": [],
+        "hash": "934815ad542a4a7c5e8a2dfa04fea9f5",
+        "url": "https://papers.nips.cc/paper/2008/file/934815ad542a4a7c5e8a2dfa04fea9f5-Paper.pdf"
+    },
+    {
+        "title": "Posterior Consistency of the Silverman g-prior in Bayesian Model Choice",
+        "authors": [
+            {
+                "given_name": "Zhihua",
+                "family_name": "Zhang",
+                "institution": null
+            },
+            {
+                "given_name": "Michael",
+                "family_name": "Jordan",
+                "institution": null
+            },
+            {
+                "given_name": "Dit-Yan",
+                "family_name": "Yeung",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "94f6d7e04a4d452035300f18b984988c",
+        "url": "https://papers.nips.cc/paper/2008/file/94f6d7e04a4d452035300f18b984988c-Paper.pdf"
+    },
+    {
+        "title": "An Extended Level Method for Efficient Multiple Kernel Learning",
+        "authors": [
+            {
+                "given_name": "Zenglin",
+                "family_name": "Xu",
+                "institution": null
+            },
+            {
+                "given_name": "Rong",
+                "family_name": "Jin",
+                "institution": null
+            },
+            {
+                "given_name": "Irwin",
+                "family_name": "King",
+                "institution": null
+            },
+            {
+                "given_name": "Michael",
+                "family_name": "Lyu",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "903ce9225fca3e988c2af215d4e544d3",
+        "url": "https://papers.nips.cc/paper/2008/file/903ce9225fca3e988c2af215d4e544d3-Paper.pdf"
+    },
+    {
+        "title": "Kernelized Sorting",
+        "authors": [
+            {
+                "given_name": "Novi",
+                "family_name": "Quadrianto",
+                "institution": null
+            },
+            {
+                "given_name": "Le",
+                "family_name": "Song",
+                "institution": null
+            },
+            {
+                "given_name": "Alex",
+                "family_name": "Smola",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "94c7bb58efc3b337800875b5d382a072",
+        "url": "https://papers.nips.cc/paper/2008/file/94c7bb58efc3b337800875b5d382a072-Paper.pdf"
+    },
+    {
+        "title": "Nonparametric Bayesian Learning of Switching Linear Dynamical Systems",
+        "authors": [
+            {
+                "given_name": "Emily",
+                "family_name": "Fox",
+                "institution": ""
+            },
+            {
+                "given_name": "Erik",
+                "family_name": "Sudderth",
+                "institution": null
+            },
+            {
+                "given_name": "Michael",
+                "family_name": "Jordan",
+                "institution": null
+            },
+            {
+                "given_name": "Alan",
+                "family_name": "Willsky",
+                "institution": ""
+            }
+        ],
+        "award": [],
+        "hash": "950a4152c2b4aa3ad78bdd6b366cc179",
+        "url": "https://papers.nips.cc/paper/2008/file/950a4152c2b4aa3ad78bdd6b366cc179-Paper.pdf"
+    },
+    {
+        "title": "Learning to Use Working Memory in Partially Observable Environments through Dopaminergic Reinforcement",
+        "authors": [
+            {
+                "given_name": "Michael",
+                "family_name": "Todd",
+                "institution": null
+            },
+            {
+                "given_name": "Yael",
+                "family_name": "Niv",
+                "institution": null
+            },
+            {
+                "given_name": "Jonathan",
+                "family_name": "Cohen",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "98dce83da57b0395e163467c9dae521b",
+        "url": "https://papers.nips.cc/paper/2008/file/98dce83da57b0395e163467c9dae521b-Paper.pdf"
+    },
+    {
+        "title": "Short-Term Depression in VLSI Stochastic Synapse",
+        "authors": [
+            {
+                "given_name": "Peng",
+                "family_name": "Xu",
+                "institution": null
+            },
+            {
+                "given_name": "Timothy",
+                "family_name": "Horiuchi",
+                "institution": null
+            },
+            {
+                "given_name": "Pamela",
+                "family_name": "Abshire",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "9be40cee5b0eee1462c82c6964087ff9",
+        "url": "https://papers.nips.cc/paper/2008/file/9be40cee5b0eee1462c82c6964087ff9-Paper.pdf"
+    },
+    {
+        "title": "Optimization on a Budget: A Reinforcement Learning Approach",
+        "authors": [
+            {
+                "given_name": "Paul",
+                "family_name": "Ruvolo",
+                "institution": null
+            },
+            {
+                "given_name": "Ian",
+                "family_name": "Fasel",
+                "institution": null
+            },
+            {
+                "given_name": "Javier",
+                "family_name": "Movellan",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "9a96876e2f8f3dc4f3cf45f02c61c0c1",
+        "url": "https://papers.nips.cc/paper/2008/file/9a96876e2f8f3dc4f3cf45f02c61c0c1-Paper.pdf"
+    },
+    {
+        "title": "Generative and Discriminative Learning with Unknown Labeling Bias",
+        "authors": [
+            {
+                "given_name": "Steven",
+                "family_name": "Phillips",
+                "institution": null
+            },
+            {
+                "given_name": "Miroslav",
+                "family_name": "Dudík",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "9cf81d8026a9018052c429cc4e56739b",
+        "url": "https://papers.nips.cc/paper/2008/file/9cf81d8026a9018052c429cc4e56739b-Paper.pdf"
+    },
+    {
+        "title": "The Recurrent Temporal Restricted Boltzmann Machine",
+        "authors": [
+            {
+                "given_name": "Ilya",
+                "family_name": "Sutskever",
+                "institution": null
+            },
+            {
+                "given_name": "Geoffrey",
+                "family_name": "Hinton",
+                "institution": null
+            },
+            {
+                "given_name": "Graham",
+                "family_name": "Taylor",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "9ad6aaed513b73148b7d49f70afcfb32",
+        "url": "https://papers.nips.cc/paper/2008/file/9ad6aaed513b73148b7d49f70afcfb32-Paper.pdf"
+    },
+    {
+        "title": "Dependent Dirichlet Process Spike Sorting",
+        "authors": [
+            {
+                "given_name": "Jan",
+                "family_name": "Gasthaus",
+                "institution": null
+            },
+            {
+                "given_name": "Frank",
+                "family_name": "Wood",
+                "institution": null
+            },
+            {
+                "given_name": "Dilan",
+                "family_name": "Gorur",
+                "institution": null
+            },
+            {
+                "given_name": "Yee",
+                "family_name": "Teh",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "9ab0d88431732957a618d4a469a0d4c3",
+        "url": "https://papers.nips.cc/paper/2008/file/9ab0d88431732957a618d4a469a0d4c3-Paper.pdf"
+    },
+    {
+        "title": "Clusters and Coarse Partitions in LP Relaxations",
+        "authors": [
+            {
+                "given_name": "David",
+                "family_name": "Sontag",
+                "institution": null
+            },
+            {
+                "given_name": "Amir",
+                "family_name": "Globerson",
+                "institution": null
+            },
+            {
+                "given_name": "Tommi",
+                "family_name": "Jaakkola",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "a1140a3d0df1c81e24ae954d935e8926",
+        "url": "https://papers.nips.cc/paper/2008/file/a1140a3d0df1c81e24ae954d935e8926-Paper.pdf"
+    },
+    {
+        "title": "Modeling the effects of memory on human online sentence processing with particle filters",
+        "authors": [
+            {
+                "given_name": "Roger",
+                "family_name": "Levy",
+                "institution": null
+            },
+            {
+                "given_name": "Florencia",
+                "family_name": "Reali",
+                "institution": null
+            },
+            {
+                "given_name": "Thomas",
+                "family_name": "Griffiths",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "a02ffd91ece5e7efeb46db8f10a74059",
+        "url": "https://papers.nips.cc/paper/2008/file/a02ffd91ece5e7efeb46db8f10a74059-Paper.pdf"
+    },
+    {
+        "title": "Bounds on marginal probability distributions",
+        "authors": [
+            {
+                "given_name": "Joris",
+                "family_name": "Mooij",
+                "institution": null
+            },
+            {
+                "given_name": "Hilbert",
+                "family_name": "Kappen",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "a3d68b461bd9d3533ee1dd3ce4628ed4",
+        "url": "https://papers.nips.cc/paper/2008/file/a3d68b461bd9d3533ee1dd3ce4628ed4-Paper.pdf"
+    },
+    {
+        "title": "MCBoost: Multiple Classifier Boosting for Perceptual Co-clustering of Images and Visual Features",
+        "authors": [
+            {
+                "given_name": "Tae-kyun",
+                "family_name": "Kim",
+                "institution": null
+            },
+            {
+                "given_name": "Roberto",
+                "family_name": "Cipolla",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "a532400ed62e772b9dc0b86f46e583ff",
+        "url": "https://papers.nips.cc/paper/2008/file/a532400ed62e772b9dc0b86f46e583ff-Paper.pdf"
+    },
+    {
+        "title": "Exploring Large Feature Spaces with Hierarchical Multiple Kernel Learning",
+        "authors": [
+            {
+                "given_name": "Francis",
+                "family_name": "Bach",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "a4a042cf4fd6bfb47701cbc8a1653ada",
+        "url": "https://papers.nips.cc/paper/2008/file/a4a042cf4fd6bfb47701cbc8a1653ada-Paper.pdf"
+    },
+    {
+        "title": "Relative Performance Guarantees for Approximate Inference in Latent Dirichlet Allocation",
+        "authors": [
+            {
+                "given_name": "Indraneel",
+                "family_name": "Mukherjee",
+                "institution": null
+            },
+            {
+                "given_name": "David",
+                "family_name": "Blei",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "a49e9411d64ff53eccfdd09ad10a15b3",
+        "url": "https://papers.nips.cc/paper/2008/file/a49e9411d64ff53eccfdd09ad10a15b3-Paper.pdf"
+    },
+    {
+        "title": "Dependence of Orientation Tuning on Recurrent Excitation and Inhibition in a Network Model of V1",
+        "authors": [
+            {
+                "given_name": "Klaus",
+                "family_name": "Wimmer",
+                "institution": null
+            },
+            {
+                "given_name": "Marcel",
+                "family_name": "Stimberg",
+                "institution": null
+            },
+            {
+                "given_name": "Robert",
+                "family_name": "Martin",
+                "institution": null
+            },
+            {
+                "given_name": "Lars",
+                "family_name": "Schwabe",
+                "institution": null
+            },
+            {
+                "given_name": "Jorge",
+                "family_name": "Mariño",
+                "institution": null
+            },
+            {
+                "given_name": "James",
+                "family_name": "Schummers",
+                "institution": null
+            },
+            {
+                "given_name": "David",
+                "family_name": "Lyon",
+                "institution": null
+            },
+            {
+                "given_name": "Mriganka",
+                "family_name": "Sur",
+                "institution": null
+            },
+            {
+                "given_name": "Klaus",
+                "family_name": "Obermayer",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "a5e00132373a7031000fd987a3c9f87b",
+        "url": "https://papers.nips.cc/paper/2008/file/a5e00132373a7031000fd987a3c9f87b-Paper.pdf"
+    },
+    {
+        "title": "Dynamic visual attention: searching for coding length increments",
+        "authors": [
+            {
+                "given_name": "Xiaodi",
+                "family_name": "Hou",
+                "institution": null
+            },
+            {
+                "given_name": "Liqing",
+                "family_name": "Zhang",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "a8baa56554f96369ab93e4f3bb068c22",
+        "url": "https://papers.nips.cc/paper/2008/file/a8baa56554f96369ab93e4f3bb068c22-Paper.pdf"
+    },
+    {
+        "title": "Large Margin Taxonomy Embedding for Document Categorization",
+        "authors": [
+            {
+                "given_name": "Kilian",
+                "family_name": "Weinberger",
+                "institution": null
+            },
+            {
+                "given_name": "Olivier",
+                "family_name": "Chapelle",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "9de6d14fff9806d4bcd1ef555be766cd",
+        "url": "https://papers.nips.cc/paper/2008/file/9de6d14fff9806d4bcd1ef555be766cd-Paper.pdf"
+    },
+    {
+        "title": "Hierarchical Semi-Markov Conditional Random Fields for Recursive Sequential Data",
+        "authors": [
+            {
+                "given_name": "Tran",
+                "family_name": "Truyen",
+                "institution": null
+            },
+            {
+                "given_name": "Dinh",
+                "family_name": "Phung",
+                "institution": null
+            },
+            {
+                "given_name": "Hung",
+                "family_name": "Bui",
+                "institution": null
+            },
+            {
+                "given_name": "Svetha",
+                "family_name": "Venkatesh",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "be1bc7997695495f756312886f566110",
+        "url": "https://papers.nips.cc/paper/2008/file/be1bc7997695495f756312886f566110-Paper.pdf"
+    },
+    {
+        "title": "Load and Attentional Bayes",
+        "authors": [
+            {
+                "given_name": "Peter",
+                "family_name": "Dayan",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "a5771bce93e200c36f7cd9dfd0e5deaa",
+        "url": "https://papers.nips.cc/paper/2008/file/a5771bce93e200c36f7cd9dfd0e5deaa-Paper.pdf"
+    },
+    {
+        "title": "Phase transitions for high-dimensional joint support recovery",
+        "authors": [
+            {
+                "given_name": "Sahand",
+                "family_name": "Negahban",
+                "institution": null
+            },
+            {
+                "given_name": "Martin",
+                "family_name": "Wainwright",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "aa169b49b583a2b5af89203c2b78c67c",
+        "url": "https://papers.nips.cc/paper/2008/file/aa169b49b583a2b5af89203c2b78c67c-Paper.pdf"
+    },
+    {
+        "title": "An interior-point stochastic approximation method and an L1-regularized delta rule",
+        "authors": [
+            {
+                "given_name": "Peter",
+                "family_name": "Carbonetto",
+                "institution": null
+            },
+            {
+                "given_name": "Mark",
+                "family_name": "Schmidt",
+                "institution": null
+            },
+            {
+                "given_name": "Nando",
+                "family_name": "Freitas",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "a87ff679a2f3e71d9181a67b7542122c",
+        "url": "https://papers.nips.cc/paper/2008/file/a87ff679a2f3e71d9181a67b7542122c-Paper.pdf"
+    },
+    {
+        "title": "Bayesian Synchronous Grammar Induction",
+        "authors": [
+            {
+                "given_name": "Phil",
+                "family_name": "Blunsom",
+                "institution": null
+            },
+            {
+                "given_name": "Trevor",
+                "family_name": "Cohn",
+                "institution": null
+            },
+            {
+                "given_name": "Miles",
+                "family_name": "Osborne",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "ac1dd209cbcc5e5d1c6e28598e8cbbe8",
+        "url": "https://papers.nips.cc/paper/2008/file/ac1dd209cbcc5e5d1c6e28598e8cbbe8-Paper.pdf"
+    },
+    {
+        "title": "Fast Rates for Regularized Objectives",
+        "authors": [
+            {
+                "given_name": "Karthik",
+                "family_name": "Sridharan",
+                "institution": null
+            },
+            {
+                "given_name": "Shai",
+                "family_name": "Shalev-shwartz",
+                "institution": null
+            },
+            {
+                "given_name": "Nathan",
+                "family_name": "Srebro",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "abd815286ba1007abfbb8415b83ae2cf",
+        "url": "https://papers.nips.cc/paper/2008/file/abd815286ba1007abfbb8415b83ae2cf-Paper.pdf"
+    },
+    {
+        "title": "Kernel Measures of Independence for non-iid Data",
+        "authors": [
+            {
+                "given_name": "Xinhua",
+                "family_name": "Zhang",
+                "institution": null
+            },
+            {
+                "given_name": "Le",
+                "family_name": "Song",
+                "institution": null
+            },
+            {
+                "given_name": "Arthur",
+                "family_name": "Gretton",
+                "institution": null
+            },
+            {
+                "given_name": "Alex",
+                "family_name": "Smola",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "addfa9b7e234254d26e9c7f2af1005cb",
+        "url": "https://papers.nips.cc/paper/2008/file/addfa9b7e234254d26e9c7f2af1005cb-Paper.pdf"
+    },
+    {
+        "title": "Tracking Changing Stimuli in Continuous Attractor Neural Networks",
+        "authors": [
+            {
+                "given_name": "K.",
+                "family_name": "Wong",
+                "institution": null
+            },
+            {
+                "given_name": "Si",
+                "family_name": "Wu",
+                "institution": null
+            },
+            {
+                "given_name": "Chi",
+                "family_name": "Fung",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "ac627ab1ccbdb62ec96e702f07f6425b",
+        "url": "https://papers.nips.cc/paper/2008/file/ac627ab1ccbdb62ec96e702f07f6425b-Paper.pdf"
+    },
+    {
+        "title": "Bayesian Network Score Approximation using a Metagraph Kernel",
+        "authors": [
+            {
+                "given_name": "Benjamin",
+                "family_name": "Yackley",
+                "institution": null
+            },
+            {
+                "given_name": "Eduardo",
+                "family_name": "Corona",
+                "institution": null
+            },
+            {
+                "given_name": "Terran",
+                "family_name": "Lane",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "ab88b15733f543179858600245108dd8",
+        "url": "https://papers.nips.cc/paper/2008/file/ab88b15733f543179858600245108dd8-Paper.pdf"
+    },
+    {
+        "title": "Gaussian-process factor analysis for low-dimensional single-trial analysis of neural population activity",
+        "authors": [
+            {
+                "given_name": "Byron",
+                "family_name": "Yu",
+                "institution": null
+            },
+            {
+                "given_name": "John",
+                "family_name": "Cunningham",
+                "institution": null
+            },
+            {
+                "given_name": "Gopal",
+                "family_name": "Santhanam",
+                "institution": null
+            },
+            {
+                "given_name": "Stephen",
+                "family_name": "Ryu",
+                "institution": null
+            },
+            {
+                "given_name": "Krishna",
+                "family_name": "Shenoy",
+                "institution": null
+            },
+            {
+                "given_name": "Maneesh",
+                "family_name": "Sahani",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "ad972f10e0800b49d76fed33a21f6698",
+        "url": "https://papers.nips.cc/paper/2008/file/ad972f10e0800b49d76fed33a21f6698-Paper.pdf"
+    },
+    {
+        "title": "Online Metric Learning and Fast Similarity Search",
+        "authors": [
+            {
+                "given_name": "Prateek",
+                "family_name": "Jain",
+                "institution": null
+            },
+            {
+                "given_name": "Brian",
+                "family_name": "Kulis",
+                "institution": null
+            },
+            {
+                "given_name": "Inderjit",
+                "family_name": "Dhillon",
+                "institution": null
+            },
+            {
+                "given_name": "Kristen",
+                "family_name": "Grauman",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "aa68c75c4a77c87f97fb686b2f068676",
+        "url": "https://papers.nips.cc/paper/2008/file/aa68c75c4a77c87f97fb686b2f068676-Paper.pdf"
+    },
+    {
+        "title": "Dimensionality Reduction for Data in Multiple Feature Representations",
+        "authors": [
+            {
+                "given_name": "Yen-yu",
+                "family_name": "Lin",
+                "institution": null
+            },
+            {
+                "given_name": "Tyng-luh",
+                "family_name": "Liu",
+                "institution": null
+            },
+            {
+                "given_name": "Chiou-shann",
+                "family_name": "Fuh",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "b3e3e393c77e35a4a3f3cbd1e429b5dc",
+        "url": "https://papers.nips.cc/paper/2008/file/b3e3e393c77e35a4a3f3cbd1e429b5dc-Paper.pdf"
+    },
+    {
+        "title": "Psychiatry: Insights into depression through normative decision-making models",
+        "authors": [
+            {
+                "given_name": "Quentin",
+                "family_name": "Huys",
+                "institution": null
+            },
+            {
+                "given_name": "Joshua",
+                "family_name": "Vogelstein",
+                "institution": null
+            },
+            {
+                "given_name": "Peter",
+                "family_name": "Dayan",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "d04d42cdf14579cd294e5079e0745411",
+        "url": "https://papers.nips.cc/paper/2008/file/d04d42cdf14579cd294e5079e0745411-Paper.pdf"
+    },
+    {
+        "title": "Regularized Policy Iteration",
+        "authors": [
+            {
+                "given_name": "Amir",
+                "family_name": "Farahmand",
+                "institution": null
+            },
+            {
+                "given_name": "Mohammad",
+                "family_name": "Ghavamzadeh",
+                "institution": null
+            },
+            {
+                "given_name": "Shie",
+                "family_name": "Mannor",
+                "institution": null
+            },
+            {
+                "given_name": "Csaba",
+                "family_name": "Szepesvári",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "aeb3135b436aa55373822c010763dd54",
+        "url": "https://papers.nips.cc/paper/2008/file/aeb3135b436aa55373822c010763dd54-Paper.pdf"
+    },
+    {
+        "title": "On Computational Power and the Order-Chaos Phase Transition in Reservoir Computing",
+        "authors": [
+            {
+                "given_name": "Benjamin",
+                "family_name": "Schrauwen",
+                "institution": null
+            },
+            {
+                "given_name": "Lars",
+                "family_name": "Buesing",
+                "institution": null
+            },
+            {
+                "given_name": "Robert",
+                "family_name": "Legenstein",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "b99d193b66a6542917d2b7bee52c2574",
+        "url": "https://papers.nips.cc/paper/2008/file/b99d193b66a6542917d2b7bee52c2574-Paper.pdf"
+    },
+    {
+        "title": "Continuously-adaptive discretization for message-passing algorithms",
+        "authors": [
+            {
+                "given_name": "Michael",
+                "family_name": "Isard",
+                "institution": null
+            },
+            {
+                "given_name": "John",
+                "family_name": "MacCormick",
+                "institution": null
+            },
+            {
+                "given_name": "Kannan",
+                "family_name": "Achan",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "b73ce398c39f506af761d2277d853a92",
+        "url": "https://papers.nips.cc/paper/2008/file/b73ce398c39f506af761d2277d853a92-Paper.pdf"
+    },
+    {
+        "title": "Mind the Duality Gap: Logarithmic regret algorithms for online optimization",
+        "authors": [
+            {
+                "given_name": "Shai",
+                "family_name": "Shalev-shwartz",
+                "institution": null
+            },
+            {
+                "given_name": "Sham",
+                "family_name": "Kakade",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "bd686fd640be98efaae0091fa301e613",
+        "url": "https://papers.nips.cc/paper/2008/file/bd686fd640be98efaae0091fa301e613-Paper.pdf"
+    },
+    {
+        "title": "A spatially varying two-sample recombinant coalescent, with applications to HIV escape response",
+        "authors": [
+            {
+                "given_name": "Alexander",
+                "family_name": "Braunstein",
+                "institution": null
+            },
+            {
+                "given_name": "Zhi",
+                "family_name": "Wei",
+                "institution": null
+            },
+            {
+                "given_name": "Shane",
+                "family_name": "Jensen",
+                "institution": null
+            },
+            {
+                "given_name": "Jon",
+                "family_name": "Mcauliffe",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "be3159ad04564bfb90db9e32851ebf9c",
+        "url": "https://papers.nips.cc/paper/2008/file/be3159ad04564bfb90db9e32851ebf9c-Paper.pdf"
+    },
+    {
+        "title": "Measures of Clustering Quality: A Working Set of Axioms for Clustering",
+        "authors": [
+            {
+                "given_name": "Shai",
+                "family_name": "Ben-David",
+                "institution": null
+            },
+            {
+                "given_name": "Margareta",
+                "family_name": "Ackerman",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "beed13602b9b0e6ecb5b568ff5058f07",
+        "url": "https://papers.nips.cc/paper/2008/file/beed13602b9b0e6ecb5b568ff5058f07-Paper.pdf"
+    },
+    {
+        "title": "Structure Learning in Human Sequential Decision-Making",
+        "authors": [
+            {
+                "given_name": "Daniel",
+                "family_name": "Acuna",
+                "institution": null
+            },
+            {
+                "given_name": "Paul",
+                "family_name": "Schrater",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "bf62768ca46b6c3b5bea9515d1a1fc45",
+        "url": "https://papers.nips.cc/paper/2008/file/bf62768ca46b6c3b5bea9515d1a1fc45-Paper.pdf"
+    },
+    {
+        "title": "Effects of Stimulus Type and of Error-Correcting Code Design on BCI Speller Performance",
+        "authors": [
+            {
+                "given_name": "Jeremy",
+                "family_name": "Hill",
+                "institution": null
+            },
+            {
+                "given_name": "Jason",
+                "family_name": "Farquhar",
+                "institution": null
+            },
+            {
+                "given_name": "Suzanna",
+                "family_name": "Martens",
+                "institution": null
+            },
+            {
+                "given_name": "Felix",
+                "family_name": "Biessmann",
+                "institution": null
+            },
+            {
+                "given_name": "Bernhard",
+                "family_name": "Schölkopf",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "c058f544c737782deacefa532d9add4c",
+        "url": "https://papers.nips.cc/paper/2008/file/c058f544c737782deacefa532d9add4c-Paper.pdf"
+    },
+    {
+        "title": "Supervised Dictionary Learning",
+        "authors": [
+            {
+                "given_name": "Julien",
+                "family_name": "Mairal",
+                "institution": null
+            },
+            {
+                "given_name": "Jean",
+                "family_name": "Ponce",
+                "institution": null
+            },
+            {
+                "given_name": "Guillermo",
+                "family_name": "Sapiro",
+                "institution": null
+            },
+            {
+                "given_name": "Andrew",
+                "family_name": "Zisserman",
+                "institution": null
+            },
+            {
+                "given_name": "Francis",
+                "family_name": "Bach",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "c0f168ce8900fa56e57789e2a2f2c9d0",
+        "url": "https://papers.nips.cc/paper/2008/file/c0f168ce8900fa56e57789e2a2f2c9d0-Paper.pdf"
+    },
+    {
+        "title": "Natural Image Denoising with Convolutional Networks",
+        "authors": [
+            {
+                "given_name": "Viren",
+                "family_name": "Jain",
+                "institution": null
+            },
+            {
+                "given_name": "Sebastian",
+                "family_name": "Seung",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "c16a5320fa475530d9583c34fd356ef5",
+        "url": "https://papers.nips.cc/paper/2008/file/c16a5320fa475530d9583c34fd356ef5-Paper.pdf"
+    },
+    {
+        "title": "Overlaying classifiers: a practical approach for optimal ranking",
+        "authors": [
+            {
+                "given_name": "Stéphan",
+                "family_name": "Clémençcon",
+                "institution": null
+            },
+            {
+                "given_name": "Nicolas",
+                "family_name": "Vayatis",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "c6e19e830859f2cb9f7c8f8cacb8d2a6",
+        "url": "https://papers.nips.cc/paper/2008/file/c6e19e830859f2cb9f7c8f8cacb8d2a6-Paper.pdf"
+    },
+    {
+        "title": "Bayesian Experimental Design of Magnetic Resonance Imaging Sequences",
+        "authors": [
+            {
+                "given_name": "Hannes",
+                "family_name": "Nickisch",
+                "institution": null
+            },
+            {
+                "given_name": "Rolf",
+                "family_name": "Pohmann",
+                "institution": null
+            },
+            {
+                "given_name": "Bernhard",
+                "family_name": "Schölkopf",
+                "institution": null
+            },
+            {
+                "given_name": "Matthias",
+                "family_name": "Seeger",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "c361bc7b2c033a83d663b8d9fb4be56e",
+        "url": "https://papers.nips.cc/paper/2008/file/c361bc7b2c033a83d663b8d9fb4be56e-Paper.pdf"
+    },
+    {
+        "title": "Temporal Dynamics of Cognitive Control",
+        "authors": [
+            {
+                "given_name": "Jeremy",
+                "family_name": "Reynolds",
+                "institution": null
+            },
+            {
+                "given_name": "Michael",
+                "family_name": "Mozer",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "c52f1bd66cc19d05628bd8bf27af3ad6",
+        "url": "https://papers.nips.cc/paper/2008/file/c52f1bd66cc19d05628bd8bf27af3ad6-Paper.pdf"
+    },
+    {
+        "title": "Model selection and velocity estimation using novel priors for motion patterns",
+        "authors": [
+            {
+                "given_name": "Shuang",
+                "family_name": "Wu",
+                "institution": null
+            },
+            {
+                "given_name": "Hongjing",
+                "family_name": "Lu",
+                "institution": null
+            },
+            {
+                "given_name": "Alan",
+                "family_name": "Yuille",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "cc1aa436277138f61cda703991069eaf",
+        "url": "https://papers.nips.cc/paper/2008/file/cc1aa436277138f61cda703991069eaf-Paper.pdf"
+    },
+    {
+        "title": "Optimal Response Initiation: Why Recent Experience Matters",
+        "authors": [
+            {
+                "given_name": "Matt",
+                "family_name": "Jones",
+                "institution": null
+            },
+            {
+                "given_name": "Sachiko",
+                "family_name": "Kinoshita",
+                "institution": null
+            },
+            {
+                "given_name": "Michael",
+                "family_name": "Mozer",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "c24cd76e1ce41366a4bbe8a49b02a028",
+        "url": "https://papers.nips.cc/paper/2008/file/c24cd76e1ce41366a4bbe8a49b02a028-Paper.pdf"
+    },
+    {
+        "title": "Estimation of Information Theoretic Measures for Continuous Random Variables",
+        "authors": [
+            {
+                "given_name": "Fernando",
+                "family_name": "Pérez-Cruz",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "ccb0989662211f61edae2e26d58ea92f",
+        "url": "https://papers.nips.cc/paper/2008/file/ccb0989662211f61edae2e26d58ea92f-Paper.pdf"
+    },
+    {
+        "title": "Using matrices to model symbolic relationship",
+        "authors": [
+            {
+                "given_name": "Ilya",
+                "family_name": "Sutskever",
+                "institution": null
+            },
+            {
+                "given_name": "Geoffrey",
+                "family_name": "Hinton",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "cfa0860e83a4c3a763a7e62d825349f7",
+        "url": "https://papers.nips.cc/paper/2008/file/cfa0860e83a4c3a763a7e62d825349f7-Paper.pdf"
+    },
+    {
+        "title": "Multi-label Multiple Kernel Learning",
+        "authors": [
+            {
+                "given_name": "Shuiwang",
+                "family_name": "Ji",
+                "institution": null
+            },
+            {
+                "given_name": "Liang",
+                "family_name": "Sun",
+                "institution": null
+            },
+            {
+                "given_name": "Rong",
+                "family_name": "Jin",
+                "institution": null
+            },
+            {
+                "given_name": "Jieping",
+                "family_name": "Ye",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "d1f491a404d6854880943e5c3cd9ca25",
+        "url": "https://papers.nips.cc/paper/2008/file/d1f491a404d6854880943e5c3cd9ca25-Paper.pdf"
+    },
+    {
+        "title": "Characteristic Kernels on Groups and Semigroups",
+        "authors": [
+            {
+                "given_name": "Kenji",
+                "family_name": "Fukumizu",
+                "institution": null
+            },
+            {
+                "given_name": "Arthur",
+                "family_name": "Gretton",
+                "institution": null
+            },
+            {
+                "given_name": "Bernhard",
+                "family_name": "Schölkopf",
+                "institution": null
+            },
+            {
+                "given_name": "Bharath",
+                "family_name": "Sriperumbudur",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "d07e70efcfab08731a97e7b91be644de",
+        "url": "https://papers.nips.cc/paper/2008/file/d07e70efcfab08731a97e7b91be644de-Paper.pdf"
+    },
+    {
+        "title": "Bio-inspired Real Time Sensory Map Realignment in a Robotic Barn Owl",
+        "authors": [
+            {
+                "given_name": "Juan",
+                "family_name": "Huo",
+                "institution": null
+            },
+            {
+                "given_name": "Zhijun",
+                "family_name": "Yang",
+                "institution": null
+            },
+            {
+                "given_name": "Alan",
+                "family_name": "Murray",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "d56b9fc4b0f1be8871f5e1c40c0067e7",
+        "url": "https://papers.nips.cc/paper/2008/file/d56b9fc4b0f1be8871f5e1c40c0067e7-Paper.pdf"
+    },
+    {
+        "title": "On the Reliability of Clustering Stability in the Large Sample Regime",
+        "authors": [
+            {
+                "given_name": "Ohad",
+                "family_name": "Shamir",
+                "institution": null
+            },
+            {
+                "given_name": "Naftali",
+                "family_name": "Tishby",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "cee631121c2ec9232f3a2f028ad5c89b",
+        "url": "https://papers.nips.cc/paper/2008/file/cee631121c2ec9232f3a2f028ad5c89b-Paper.pdf"
+    },
+    {
+        "title": "Spectral Hashing",
+        "authors": [
+            {
+                "given_name": "Yair",
+                "family_name": "Weiss",
+                "institution": null
+            },
+            {
+                "given_name": "Antonio",
+                "family_name": "Torralba",
+                "institution": null
+            },
+            {
+                "given_name": "Rob",
+                "family_name": "Fergus",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "d58072be2820e8682c0a27c0518e805e",
+        "url": "https://papers.nips.cc/paper/2008/file/d58072be2820e8682c0a27c0518e805e-Paper.pdf"
+    },
+    {
+        "title": "Self-organization using synaptic plasticity",
+        "authors": [
+            {
+                "given_name": "Vicençc",
+                "family_name": "Gómez",
+                "institution": null
+            },
+            {
+                "given_name": "Andreas",
+                "family_name": "Kaltenbrunner",
+                "institution": null
+            },
+            {
+                "given_name": "Vicente",
+                "family_name": "López",
+                "institution": null
+            },
+            {
+                "given_name": "Hilbert",
+                "family_name": "Kappen",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "e8a642ed6a9ad20fb159472950db3d65",
+        "url": "https://papers.nips.cc/paper/2008/file/e8a642ed6a9ad20fb159472950db3d65-Paper.pdf"
+    },
+    {
+        "title": "Logistic Normal Priors for Unsupervised Probabilistic Grammar Induction",
+        "authors": [
+            {
+                "given_name": "Shay",
+                "family_name": "Cohen",
+                "institution": null
+            },
+            {
+                "given_name": "Kevin",
+                "family_name": "Gimpel",
+                "institution": null
+            },
+            {
+                "given_name": "Noah",
+                "family_name": "A.",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "f11bec1411101c743f64df596773d0b2",
+        "url": "https://papers.nips.cc/paper/2008/file/f11bec1411101c743f64df596773d0b2-Paper.pdf"
+    },
+    {
+        "title": "Extracting State Transition Dynamics from Multiple Spike Trains with Correlated Poisson HMM",
+        "authors": [
+            {
+                "given_name": "Kentaro",
+                "family_name": "Katahira",
+                "institution": null
+            },
+            {
+                "given_name": "Jun",
+                "family_name": "Nishikawa",
+                "institution": null
+            },
+            {
+                "given_name": "Kazuo",
+                "family_name": "Okanoya",
+                "institution": null
+            },
+            {
+                "given_name": "Masato",
+                "family_name": "Okada",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "ee14c41e92ec5c97b54cf9b74e25bd99",
+        "url": "https://papers.nips.cc/paper/2008/file/ee14c41e92ec5c97b54cf9b74e25bd99-Paper.pdf"
+    },
+    {
+        "title": "Multi-resolution Exploration in Continuous Spaces",
+        "authors": [
+            {
+                "given_name": "Ali",
+                "family_name": "Nouri",
+                "institution": null
+            },
+            {
+                "given_name": "Michael",
+                "family_name": "Littman",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "d5cfead94f5350c12c322b5b664544c1",
+        "url": "https://papers.nips.cc/paper/2008/file/d5cfead94f5350c12c322b5b664544c1-Paper.pdf"
+    },
+    {
+        "title": "Non-parametric Regression Between Manifolds",
+        "authors": [
+            {
+                "given_name": "Florian",
+                "family_name": "Steinke",
+                "institution": null
+            },
+            {
+                "given_name": "Matthias",
+                "family_name": "Hein",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "e555ebe0ce426f7f9b2bef0706315e0c",
+        "url": "https://papers.nips.cc/paper/2008/file/e555ebe0ce426f7f9b2bef0706315e0c-Paper.pdf"
+    },
+    {
+        "title": "A Convergent $O(n)$ Temporal-difference Algorithm for Off-policy Learning with Linear Function Approximation",
+        "authors": [
+            {
+                "given_name": "Richard",
+                "family_name": "Sutton",
+                "institution": null
+            },
+            {
+                "given_name": "Hamid",
+                "family_name": "Maei",
+                "institution": null
+            },
+            {
+                "given_name": "Csaba",
+                "family_name": "Szepesvári",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "e0c641195b27425bb056ac56f8953d24",
+        "url": "https://papers.nips.cc/paper/2008/file/e0c641195b27425bb056ac56f8953d24-Paper.pdf"
+    },
+    {
+        "title": "A computational model of hippocampal function in trace conditioning",
+        "authors": [
+            {
+                "given_name": "Elliot",
+                "family_name": "Ludvig",
+                "institution": null
+            },
+            {
+                "given_name": "Richard",
+                "family_name": "Sutton",
+                "institution": null
+            },
+            {
+                "given_name": "Eric",
+                "family_name": "Verbeek",
+                "institution": null
+            },
+            {
+                "given_name": "E.",
+                "family_name": "Kehoe",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "d709f38ef758b5066ef31b18039b8ce5",
+        "url": "https://papers.nips.cc/paper/2008/file/d709f38ef758b5066ef31b18039b8ce5-Paper.pdf"
+    },
+    {
+        "title": "Nonrigid Structure from Motion in Trajectory Space",
+        "authors": [
+            {
+                "given_name": "Ijaz",
+                "family_name": "Akhter",
+                "institution": null
+            },
+            {
+                "given_name": "Yaser",
+                "family_name": "Sheikh",
+                "institution": null
+            },
+            {
+                "given_name": "Sohaib",
+                "family_name": "Khan",
+                "institution": null
+            },
+            {
+                "given_name": "Takeo",
+                "family_name": "Kanade",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "dc82d632c9fcecb0778afbc7924494a6",
+        "url": "https://papers.nips.cc/paper/2008/file/dc82d632c9fcecb0778afbc7924494a6-Paper.pdf"
+    },
+    {
+        "title": "A Transductive Bound for the Voted Classifier with an Application to Semi-supervised Learning",
+        "authors": [
+            {
+                "given_name": "Massih R.",
+                "family_name": "Amini",
+                "institution": ""
+            },
+            {
+                "given_name": "Nicolas",
+                "family_name": "Usunier",
+                "institution": null
+            },
+            {
+                "given_name": "François",
+                "family_name": "Laviolette",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "dc6a70712a252123c40d2adba6a11d84",
+        "url": "https://papers.nips.cc/paper/2008/file/dc6a70712a252123c40d2adba6a11d84-Paper.pdf"
+    },
+    {
+        "title": "Learning Taxonomies by Dependence Maximization",
+        "authors": [
+            {
+                "given_name": "Matthew",
+                "family_name": "Blaschko",
+                "institution": null
+            },
+            {
+                "given_name": "Arthur",
+                "family_name": "Gretton",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "e0ec453e28e061cc58ac43f91dc2f3f0",
+        "url": "https://papers.nips.cc/paper/2008/file/e0ec453e28e061cc58ac43f91dc2f3f0-Paper.pdf"
+    },
+    {
+        "title": "Estimating Robust Query Models with Convex Optimization",
+        "authors": [
+            {
+                "given_name": "Kevyn",
+                "family_name": "Collins-thompson",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "e0cf1f47118daebc5b16269099ad7347",
+        "url": "https://papers.nips.cc/paper/2008/file/e0cf1f47118daebc5b16269099ad7347-Paper.pdf"
+    },
+    {
+        "title": "Sparsity of SVMs that use the epsilon-insensitive loss",
+        "authors": [
+            {
+                "given_name": "Ingo",
+                "family_name": "Steinwart",
+                "institution": null
+            },
+            {
+                "given_name": "Andreas",
+                "family_name": "Christmann",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "d947bf06a885db0d477d707121934ff8",
+        "url": "https://papers.nips.cc/paper/2008/file/d947bf06a885db0d477d707121934ff8-Paper.pdf"
+    },
+    {
+        "title": "Automatic online tuning for fast Gaussian summation",
+        "authors": [
+            {
+                "given_name": "Vlad",
+                "family_name": "Morariu",
+                "institution": null
+            },
+            {
+                "given_name": "Balaji",
+                "family_name": "Srinivasan",
+                "institution": null
+            },
+            {
+                "given_name": "Vikas",
+                "family_name": "Raykar",
+                "institution": null
+            },
+            {
+                "given_name": "Ramani",
+                "family_name": "Duraiswami",
+                "institution": null
+            },
+            {
+                "given_name": "Larry",
+                "family_name": "Davis",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "d96409bf894217686ba124d7356686c9",
+        "url": "https://papers.nips.cc/paper/2008/file/d96409bf894217686ba124d7356686c9-Paper.pdf"
+    },
+    {
+        "title": "Near-optimal Regret Bounds for Reinforcement Learning",
+        "authors": [
+            {
+                "given_name": "Peter",
+                "family_name": "Auer",
+                "institution": null
+            },
+            {
+                "given_name": "Thomas",
+                "family_name": "Jaksch",
+                "institution": null
+            },
+            {
+                "given_name": "Ronald",
+                "family_name": "Ortner",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "e4a6222cdb5b34375400904f03d8e6a5",
+        "url": "https://papers.nips.cc/paper/2008/file/e4a6222cdb5b34375400904f03d8e6a5-Paper.pdf"
+    },
+    {
+        "title": "Partially Observed Maximum Entropy Discrimination Markov Networks",
+        "authors": [
+            {
+                "given_name": "Jun",
+                "family_name": "Zhu",
+                "institution": null
+            },
+            {
+                "given_name": "Eric",
+                "family_name": "Xing",
+                "institution": null
+            },
+            {
+                "given_name": "Bo",
+                "family_name": "Zhang",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "eecca5b6365d9607ee5a9d336962c534",
+        "url": "https://papers.nips.cc/paper/2008/file/eecca5b6365d9607ee5a9d336962c534-Paper.pdf"
+    },
+    {
+        "title": "Learning a discriminative hidden part model for human action recognition",
+        "authors": [
+            {
+                "given_name": "Yang",
+                "family_name": "Wang",
+                "institution": null
+            },
+            {
+                "given_name": "Greg",
+                "family_name": "Mori",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "eddea82ad2755b24c4e168c5fc2ebd40",
+        "url": "https://papers.nips.cc/paper/2008/file/eddea82ad2755b24c4e168c5fc2ebd40-Paper.pdf"
+    },
+    {
+        "title": "Sparse probabilistic projections",
+        "authors": [
+            {
+                "given_name": "Cédric",
+                "family_name": "Archambeau",
+                "institution": null
+            },
+            {
+                "given_name": "Francis",
+                "family_name": "Bach",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "d93ed5b6db83be78efb0d05ae420158e",
+        "url": "https://papers.nips.cc/paper/2008/file/d93ed5b6db83be78efb0d05ae420158e-Paper.pdf"
+    },
+    {
+        "title": "Implicit Mixtures of Restricted Boltzmann Machines",
+        "authors": [
+            {
+                "given_name": "Vinod",
+                "family_name": "Nair",
+                "institution": null
+            },
+            {
+                "given_name": "Geoffrey",
+                "family_name": "Hinton",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "e820a45f1dfc7b95282d10b6087e11c0",
+        "url": "https://papers.nips.cc/paper/2008/file/e820a45f1dfc7b95282d10b6087e11c0-Paper.pdf"
+    },
+    {
+        "title": "Variational Mixture of Gaussian Process Experts",
+        "authors": [
+            {
+                "given_name": "Chao",
+                "family_name": "Yuan",
+                "institution": null
+            },
+            {
+                "given_name": "Claus",
+                "family_name": "Neubauer",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "f4b9ec30ad9f68f89b29639786cb62ef",
+        "url": "https://papers.nips.cc/paper/2008/file/f4b9ec30ad9f68f89b29639786cb62ef-Paper.pdf"
+    },
+    {
+        "title": "Goal-directed decision making in prefrontal cortex: a computational framework",
+        "authors": [
+            {
+                "given_name": "Matthew",
+                "family_name": "Botvinick",
+                "institution": null
+            },
+            {
+                "given_name": "James",
+                "family_name": "An",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "e369853df766fa44e1ed0ff613f563bd",
+        "url": "https://papers.nips.cc/paper/2008/file/e369853df766fa44e1ed0ff613f563bd-Paper.pdf"
+    },
+    {
+        "title": "Interpreting the neural code with Formal Concept Analysis",
+        "authors": [
+            {
+                "given_name": "Dominik",
+                "family_name": "Endres",
+                "institution": null
+            },
+            {
+                "given_name": "Peter",
+                "family_name": "Foldiak",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "eb160de1de89d9058fcb0b968dbbbd68",
+        "url": "https://papers.nips.cc/paper/2008/file/eb160de1de89d9058fcb0b968dbbbd68-Paper.pdf"
+    },
+    {
+        "title": "Playing Pinball with non-invasive BCI",
+        "authors": [
+            {
+                "given_name": "Matthias",
+                "family_name": "Krauledat",
+                "institution": null
+            },
+            {
+                "given_name": "Konrad",
+                "family_name": "Grzeska",
+                "institution": null
+            },
+            {
+                "given_name": "Max",
+                "family_name": "Sagebaum",
+                "institution": null
+            },
+            {
+                "given_name": "Benjamin",
+                "family_name": "Blankertz",
+                "institution": null
+            },
+            {
+                "given_name": "Carmen",
+                "family_name": "Vidaurre",
+                "institution": null
+            },
+            {
+                "given_name": "Klaus-Robert",
+                "family_name": "Müller",
+                "institution": null
+            },
+            {
+                "given_name": "Michael",
+                "family_name": "Schröder",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "f0e52b27a7a5d6a1a87373dffa53dbe5",
+        "url": "https://papers.nips.cc/paper/2008/file/f0e52b27a7a5d6a1a87373dffa53dbe5-Paper.pdf"
+    },
+    {
+        "title": "Reducing statistical dependencies in natural signals using radial Gaussianization",
+        "authors": [
+            {
+                "given_name": "Siwei",
+                "family_name": "Lyu",
+                "institution": null
+            },
+            {
+                "given_name": "Eero",
+                "family_name": "Simoncelli",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "da4fb5c6e93e74d3df8527599fa62642",
+        "url": "https://papers.nips.cc/paper/2008/file/da4fb5c6e93e74d3df8527599fa62642-Paper.pdf"
+    },
+    {
+        "title": "Transfer Learning by Distribution Matching for Targeted Advertising",
+        "authors": [
+            {
+                "given_name": "Steffen",
+                "family_name": "Bickel",
+                "institution": null
+            },
+            {
+                "given_name": "Christoph",
+                "family_name": "Sawade",
+                "institution": null
+            },
+            {
+                "given_name": "Tobias",
+                "family_name": "Scheffer",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "df263d996281d984952c07998dc54358",
+        "url": "https://papers.nips.cc/paper/2008/file/df263d996281d984952c07998dc54358-Paper.pdf"
+    },
+    {
+        "title": "Finding Latent Causes in Causal Networks: an Efficient Approach Based on Markov Blankets",
+        "authors": [
+            {
+                "given_name": "Jean-philippe",
+                "family_name": "Pellet",
+                "institution": null
+            },
+            {
+                "given_name": "André",
+                "family_name": "Elisseeff",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "e2230b853516e7b05d79744fbd4c9c13",
+        "url": "https://papers.nips.cc/paper/2008/file/e2230b853516e7b05d79744fbd4c9c13-Paper.pdf"
+    },
+    {
+        "title": "Online Prediction on Large Diameter Graphs",
+        "authors": [
+            {
+                "given_name": "Mark",
+                "family_name": "Herbster",
+                "institution": null
+            },
+            {
+                "given_name": "Guy",
+                "family_name": "Lever",
+                "institution": null
+            },
+            {
+                "given_name": "Massimiliano",
+                "family_name": "Pontil",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "d736bb10d83a904aefc1d6ce93dc54b8",
+        "url": "https://papers.nips.cc/paper/2008/file/d736bb10d83a904aefc1d6ce93dc54b8-Paper.pdf"
+    },
+    {
+        "title": "Localized Sliced Inverse Regression",
+        "authors": [
+            {
+                "given_name": "Qiang",
+                "family_name": "Wu",
+                "institution": null
+            },
+            {
+                "given_name": "Sayan",
+                "family_name": "Mukherjee",
+                "institution": null
+            },
+            {
+                "given_name": "Feng",
+                "family_name": "Liang",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "e3796ae838835da0b6f6ea37bcf8bcb7",
+        "url": "https://papers.nips.cc/paper/2008/file/e3796ae838835da0b6f6ea37bcf8bcb7-Paper.pdf"
+    },
+    {
+        "title": "Extended Grassmann Kernels for Subspace-Based Learning",
+        "authors": [
+            {
+                "given_name": "Jihun",
+                "family_name": "Hamm",
+                "institution": null
+            },
+            {
+                "given_name": "Daniel",
+                "family_name": "Lee",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "e7f8a7fb0b77bcb3b283af5be021448f",
+        "url": "https://papers.nips.cc/paper/2008/file/e7f8a7fb0b77bcb3b283af5be021448f-Paper.pdf"
+    },
+    {
+        "title": "Improving on Expectation Propagation",
+        "authors": [
+            {
+                "given_name": "Manfred",
+                "family_name": "Opper",
+                "institution": null
+            },
+            {
+                "given_name": "Ulrich",
+                "family_name": "Paquet",
+                "institution": null
+            },
+            {
+                "given_name": "Ole",
+                "family_name": "Winther",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "ec5aa0b7846082a2415f0902f0da88f2",
+        "url": "https://papers.nips.cc/paper/2008/file/ec5aa0b7846082a2415f0902f0da88f2-Paper.pdf"
+    },
+    {
+        "title": "Non-stationary dynamic Bayesian networks",
+        "authors": [
+            {
+                "given_name": "Joshua",
+                "family_name": "Robinson",
+                "institution": null
+            },
+            {
+                "given_name": "Alexander",
+                "family_name": "Hartemink",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "f5f8590cd58a54e94377e6ae2eded4d9",
+        "url": "https://papers.nips.cc/paper/2008/file/f5f8590cd58a54e94377e6ae2eded4d9-Paper.pdf"
+    },
+    {
+        "title": "Unsupervised Learning of Visual Sense Models for Polysemous Words",
+        "authors": [
+            {
+                "given_name": "Kate",
+                "family_name": "Saenko",
+                "institution": null
+            },
+            {
+                "given_name": "Trevor",
+                "family_name": "Darrell",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "e70611883d2760c8bbafb4acb29e3446",
+        "url": "https://papers.nips.cc/paper/2008/file/e70611883d2760c8bbafb4acb29e3446-Paper.pdf"
+    },
+    {
+        "title": "Fitted Q-iteration by Advantage Weighted Regression",
+        "authors": [
+            {
+                "given_name": "Gerhard",
+                "family_name": "Neumann",
+                "institution": null
+            },
+            {
+                "given_name": "Jan",
+                "family_name": "Peters",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "f79921bbae40a577928b76d2fc3edc2a",
+        "url": "https://papers.nips.cc/paper/2008/file/f79921bbae40a577928b76d2fc3edc2a-Paper.pdf"
+    },
+    {
+        "title": "On the Design of Loss Functions for Classification: theory, robustness to outliers, and SavageBoost",
+        "authors": [
+            {
+                "given_name": "Hamed",
+                "family_name": "Masnadi-shirazi",
+                "institution": null
+            },
+            {
+                "given_name": "Nuno",
+                "family_name": "Vasconcelos",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "f5deaeeae1538fb6c45901d524ee2f98",
+        "url": "https://papers.nips.cc/paper/2008/file/f5deaeeae1538fb6c45901d524ee2f98-Paper.pdf"
+    },
+    {
+        "title": "Learning the Semantic Correlation: An Alternative Way to Gain from Unlabeled Text",
+        "authors": [
+            {
+                "given_name": "Yi",
+                "family_name": "Zhang",
+                "institution": null
+            },
+            {
+                "given_name": "Artur",
+                "family_name": "Dubrawski",
+                "institution": null
+            },
+            {
+                "given_name": "Jeff",
+                "family_name": "Schneider",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "f2201f5191c4e92cc5af043eebfd0946",
+        "url": "https://papers.nips.cc/paper/2008/file/f2201f5191c4e92cc5af043eebfd0946-Paper.pdf"
+    },
+    {
+        "title": "Global Ranking Using Continuous Conditional Random Fields",
+        "authors": [
+            {
+                "given_name": "Tao",
+                "family_name": "Qin",
+                "institution": null
+            },
+            {
+                "given_name": "Tie-yan",
+                "family_name": "Liu",
+                "institution": null
+            },
+            {
+                "given_name": "Xu-dong",
+                "family_name": "Zhang",
+                "institution": null
+            },
+            {
+                "given_name": "De-sheng",
+                "family_name": "Wang",
+                "institution": null
+            },
+            {
+                "given_name": "Hang",
+                "family_name": "Li",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "ebd9629fc3ae5e9f6611e2ee05a31cef",
+        "url": "https://papers.nips.cc/paper/2008/file/ebd9629fc3ae5e9f6611e2ee05a31cef-Paper.pdf"
+    },
+    {
+        "title": "Risk Bounds for Randomized Sample Compressed Classifiers",
+        "authors": [
+            {
+                "given_name": "Mohak",
+                "family_name": "Shah",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "f1c1592588411002af340cbaedd6fc33",
+        "url": "https://papers.nips.cc/paper/2008/file/f1c1592588411002af340cbaedd6fc33-Paper.pdf"
+    },
+    {
+        "title": "Multiscale Random Fields with Application to Contour Grouping",
+        "authors": [
+            {
+                "given_name": "Longin",
+                "family_name": "Latecki",
+                "institution": null
+            },
+            {
+                "given_name": "Chengen",
+                "family_name": "Lu",
+                "institution": null
+            },
+            {
+                "given_name": "Marc",
+                "family_name": "Sobel",
+                "institution": null
+            },
+            {
+                "given_name": "Xiang",
+                "family_name": "Bai",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "f9b902fc3289af4dd08de5d1de54f68f",
+        "url": "https://papers.nips.cc/paper/2008/file/f9b902fc3289af4dd08de5d1de54f68f-Paper.pdf"
+    },
+    {
+        "title": "Online Optimization in X-Armed Bandits",
+        "authors": [
+            {
+                "given_name": "Sébastien",
+                "family_name": "Bubeck",
+                "institution": null
+            },
+            {
+                "given_name": "Gilles",
+                "family_name": "Stoltz",
+                "institution": null
+            },
+            {
+                "given_name": "Csaba",
+                "family_name": "Szepesvári",
+                "institution": null
+            },
+            {
+                "given_name": "Rémi",
+                "family_name": "Munos",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "f387624df552cea2f369918c5e1e12bc",
+        "url": "https://papers.nips.cc/paper/2008/file/f387624df552cea2f369918c5e1e12bc-Paper.pdf"
+    },
+    {
+        "title": "Predictive Indexing for Fast Search",
+        "authors": [
+            {
+                "given_name": "Sharad",
+                "family_name": "Goel",
+                "institution": null
+            },
+            {
+                "given_name": "John",
+                "family_name": "Langford",
+                "institution": null
+            },
+            {
+                "given_name": "Alexander",
+                "family_name": "Strehl",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "fa83a11a198d5a7f0bf77a1987bcd006",
+        "url": "https://papers.nips.cc/paper/2008/file/fa83a11a198d5a7f0bf77a1987bcd006-Paper.pdf"
+    },
+    {
+        "title": "On the Generalization Ability of Online Strongly Convex Programming Algorithms",
+        "authors": [
+            {
+                "given_name": "Sham",
+                "family_name": "Kakade",
+                "institution": null
+            },
+            {
+                "given_name": "Ambuj",
+                "family_name": "Tewari",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "f90f2aca5c640289d0a29417bcb63a37",
+        "url": "https://papers.nips.cc/paper/2008/file/f90f2aca5c640289d0a29417bcb63a37-Paper.pdf"
+    },
+    {
+        "title": "Adaptive Template Matching with Shift-Invariant Semi-NMF",
+        "authors": [
+            {
+                "given_name": "Jonathan",
+                "family_name": "Roux",
+                "institution": null
+            },
+            {
+                "given_name": "Alain",
+                "family_name": "Cheveigné",
+                "institution": null
+            },
+            {
+                "given_name": "Lucas",
+                "family_name": "Parra",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "edfbe1afcf9246bb0d40eb4d8027d90f",
+        "url": "https://papers.nips.cc/paper/2008/file/edfbe1afcf9246bb0d40eb4d8027d90f-Paper.pdf"
+    },
+    {
+        "title": "Simple Local Models for Complex Dynamical Systems",
+        "authors": [
+            {
+                "given_name": "Erik",
+                "family_name": "Talvitie",
+                "institution": null
+            },
+            {
+                "given_name": "Satinder",
+                "family_name": "Singh",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "f76a89f0cb91bc419542ce9fa43902dc",
+        "url": "https://papers.nips.cc/paper/2008/file/f76a89f0cb91bc419542ce9fa43902dc-Paper.pdf"
+    },
+    {
+        "title": "Nonlinear causal discovery with additive noise models",
+        "authors": [
+            {
+                "given_name": "Patrik",
+                "family_name": "Hoyer",
+                "institution": null
+            },
+            {
+                "given_name": "Dominik",
+                "family_name": "Janzing",
+                "institution": null
+            },
+            {
+                "given_name": "Joris",
+                "family_name": "Mooij",
+                "institution": null
+            },
+            {
+                "given_name": "Jonas",
+                "family_name": "Peters",
+                "institution": ""
+            },
+            {
+                "given_name": "Bernhard",
+                "family_name": "Schölkopf",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "f7664060cc52bc6f3d620bcedc94a4b6",
+        "url": "https://papers.nips.cc/paper/2008/file/f7664060cc52bc6f3d620bcedc94a4b6-Paper.pdf"
+    },
+    {
+        "title": "Clustered Multi-Task Learning: A Convex Formulation",
+        "authors": [
+            {
+                "given_name": "Laurent",
+                "family_name": "Jacob",
+                "institution": null
+            },
+            {
+                "given_name": "Jean-philippe",
+                "family_name": "Vert",
+                "institution": null
+            },
+            {
+                "given_name": "Francis",
+                "family_name": "Bach",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "fccb3cdc9acc14a6e70a12f74560c026",
+        "url": "https://papers.nips.cc/paper/2008/file/fccb3cdc9acc14a6e70a12f74560c026-Paper.pdf"
+    },
+    {
+        "title": "Modeling Short-term Noise Dependence of Spike Counts in Macaque Prefrontal Cortex",
+        "authors": [
+            {
+                "given_name": "Arno",
+                "family_name": "Onken",
+                "institution": null
+            },
+            {
+                "given_name": "Steffen",
+                "family_name": "Grünewälder",
+                "institution": null
+            },
+            {
+                "given_name": "Matthias",
+                "family_name": "Munk",
+                "institution": null
+            },
+            {
+                "given_name": "Klaus",
+                "family_name": "Obermayer",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "fa7cdfad1a5aaf8370ebeda47a1ff1c3",
+        "url": "https://papers.nips.cc/paper/2008/file/fa7cdfad1a5aaf8370ebeda47a1ff1c3-Paper.pdf"
+    },
+    {
+        "title": "One sketch for all: Theory and Application of Conditional Random Sampling",
+        "authors": [
+            {
+                "given_name": "Ping",
+                "family_name": "Li",
+                "institution": null
+            },
+            {
+                "given_name": "Kenneth",
+                "family_name": "Church",
+                "institution": null
+            },
+            {
+                "given_name": "Trevor",
+                "family_name": "Hastie",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "fe7ee8fc1959cc7214fa21c4840dff0a",
+        "url": "https://papers.nips.cc/paper/2008/file/fe7ee8fc1959cc7214fa21c4840dff0a-Paper.pdf"
+    },
+    {
+        "title": "Temporal Difference Based Actor Critic Learning - Convergence and Neural Implementation",
+        "authors": [
+            {
+                "given_name": "Dotan",
+                "family_name": "Castro",
+                "institution": null
+            },
+            {
+                "given_name": "Dmitry",
+                "family_name": "Volkinshtein",
+                "institution": null
+            },
+            {
+                "given_name": "Ron",
+                "family_name": "Meir",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "fccb60fb512d13df5083790d64c4d5dd",
+        "url": "https://papers.nips.cc/paper/2008/file/fccb60fb512d13df5083790d64c4d5dd-Paper.pdf"
+    },
+    {
+        "title": "Human Active Learning",
+        "authors": [
+            {
+                "given_name": "Rui",
+                "family_name": "Castro",
+                "institution": null
+            },
+            {
+                "given_name": "Charles",
+                "family_name": "Kalish",
+                "institution": null
+            },
+            {
+                "given_name": "Robert",
+                "family_name": "Nowak",
+                "institution": null
+            },
+            {
+                "given_name": "Ruichen",
+                "family_name": "Qian",
+                "institution": null
+            },
+            {
+                "given_name": "Tim",
+                "family_name": "Rogers",
+                "institution": null
+            },
+            {
+                "given_name": "Jerry",
+                "family_name": "Zhu",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "fc49306d97602c8ed1be1dfbf0835ead",
+        "url": "https://papers.nips.cc/paper/2008/file/fc49306d97602c8ed1be1dfbf0835ead-Paper.pdf"
+    },
+    {
+        "title": "The Mondrian Process",
+        "authors": [
+            {
+                "given_name": "Daniel",
+                "family_name": "Roy",
+                "institution": null
+            },
+            {
+                "given_name": "Yee",
+                "family_name": "Teh",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "fe8c15fed5f808006ce95eddb7366e35",
+        "url": "https://papers.nips.cc/paper/2008/file/fe8c15fed5f808006ce95eddb7366e35-Paper.pdf"
+    },
+    {
+        "title": "Scalable Algorithms for String Kernels with Inexact Matching",
+        "authors": [
+            {
+                "given_name": "Pavel",
+                "family_name": "Kuksa",
+                "institution": null
+            },
+            {
+                "given_name": "Pai-hsi",
+                "family_name": "Huang",
+                "institution": null
+            },
+            {
+                "given_name": "Vladimir",
+                "family_name": "Pavlovic",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "ffd52f3c7e12435a724a8f30fddadd9c",
+        "url": "https://papers.nips.cc/paper/2008/file/ffd52f3c7e12435a724a8f30fddadd9c-Paper.pdf"
+    }
+]

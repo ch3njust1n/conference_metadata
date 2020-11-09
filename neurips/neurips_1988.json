@@ -1,0 +1,1869 @@
+[
+    {
+        "title": "Efficient Parallel Learning Algorithms for Neural Networks",
+        "authors": [
+            {
+                "given_name": "Alan",
+                "family_name": "Kramer",
+                "institution": null
+            },
+            {
+                "given_name": "Alberto",
+                "family_name": "Sangiovanni-Vincentelli",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "02522a2b2726fb0a03bb19f2d8d9524d",
+        "url": "https://papers.nips.cc/paper/1988/file/02522a2b2726fb0a03bb19f2d8d9524d-Paper.pdf"
+    },
+    {
+        "title": "Modeling the Olfactory Bulb - Coupled Nonlinear Oscillators",
+        "authors": [
+            {
+                "given_name": "Zhaoping",
+                "family_name": "Li",
+                "institution": null
+            },
+            {
+                "given_name": "John",
+                "family_name": "J.",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "013d407166ec4fa56eb1e1f8cbe183b9",
+        "url": "https://papers.nips.cc/paper/1988/file/013d407166ec4fa56eb1e1f8cbe183b9-Paper.pdf"
+    },
+    {
+        "title": "Neural Control of Sensory Acquisition: The Vestibulo-Ocular Reflex",
+        "authors": [
+            {
+                "given_name": "Michael",
+                "family_name": "Paulin",
+                "institution": null
+            },
+            {
+                "given_name": "Mark",
+                "family_name": "Nelson",
+                "institution": null
+            },
+            {
+                "given_name": "James",
+                "family_name": "Bower",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "006f52e9102a8d3be2fe5614f42ba989",
+        "url": "https://papers.nips.cc/paper/1988/file/006f52e9102a8d3be2fe5614f42ba989-Paper.pdf"
+    },
+    {
+        "title": "The Boltzmann Perceptron Network: A Multi-Layered Feed-Forward Network Equivalent to the Boltzmann Machine",
+        "authors": [
+            {
+                "given_name": "Eyal",
+                "family_name": "Yair",
+                "institution": null
+            },
+            {
+                "given_name": "Allen",
+                "family_name": "Gersho",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "045117b0e0a11a242b9765e79cbf113f",
+        "url": "https://papers.nips.cc/paper/1988/file/045117b0e0a11a242b9765e79cbf113f-Paper.pdf"
+    },
+    {
+        "title": "Links Between Markov Models and Multilayer Perceptrons",
+        "authors": [
+            {
+                "given_name": "Hervé",
+                "family_name": "Bourlard",
+                "institution": null
+            },
+            {
+                "given_name": "C.",
+                "family_name": "J.",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "0777d5c17d4066b82ab86dff8a46af6f",
+        "url": "https://papers.nips.cc/paper/1988/file/0777d5c17d4066b82ab86dff8a46af6f-Paper.pdf"
+    },
+    {
+        "title": "Neural Networks that Learn to Discriminate Similar Kanji Characters",
+        "authors": [
+            {
+                "given_name": "Yoshihiro",
+                "family_name": "Mori",
+                "institution": null
+            },
+            {
+                "given_name": "Kazuhiko",
+                "family_name": "Yokosawa",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "06409663226af2f3114485aa4e0a23b4",
+        "url": "https://papers.nips.cc/paper/1988/file/06409663226af2f3114485aa4e0a23b4-Paper.pdf"
+    },
+    {
+        "title": "Computer Modeling of Associative Learning",
+        "authors": [
+            {
+                "given_name": "Daniel",
+                "family_name": "Alkon",
+                "institution": null
+            },
+            {
+                "given_name": "Francis",
+                "family_name": "Quek",
+                "institution": null
+            },
+            {
+                "given_name": "Thomas",
+                "family_name": "Vogl",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "069059b7ef840f0c74a814ec9237b6ec",
+        "url": "https://papers.nips.cc/paper/1988/file/069059b7ef840f0c74a814ec9237b6ec-Paper.pdf"
+    },
+    {
+        "title": "Speech Production Using A Neural Network with a Cooperative Learning Mechanism",
+        "authors": [
+            {
+                "given_name": "Mitsuo",
+                "family_name": "Komura",
+                "institution": null
+            },
+            {
+                "given_name": "Akio",
+                "family_name": "Tanaka",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "0f28b5d49b3020afeecd95b4009adf4c",
+        "url": "https://papers.nips.cc/paper/1988/file/0f28b5d49b3020afeecd95b4009adf4c-Paper.pdf"
+    },
+    {
+        "title": "A Passive Shared Element Analog Electrical Cochlea",
+        "authors": [
+            {
+                "given_name": "David",
+                "family_name": "Feld",
+                "institution": null
+            },
+            {
+                "given_name": "Joe",
+                "family_name": "Eisenberg",
+                "institution": null
+            },
+            {
+                "given_name": "Edwin",
+                "family_name": "Lewis",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "0a09c8844ba8f0936c20bd791130d6b6",
+        "url": "https://papers.nips.cc/paper/1988/file/0a09c8844ba8f0936c20bd791130d6b6-Paper.pdf"
+    },
+    {
+        "title": "Skeletonization: A Technique for Trimming the Fat from a Network via Relevance Assessment",
+        "authors": [
+            {
+                "given_name": "Michael",
+                "family_name": "C.",
+                "institution": null
+            },
+            {
+                "given_name": "Paul",
+                "family_name": "Smolensky",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "07e1cd7dca89a1678042477183b7ac3f",
+        "url": "https://papers.nips.cc/paper/1988/file/07e1cd7dca89a1678042477183b7ac3f-Paper.pdf"
+    },
+    {
+        "title": "Performance of a Stochastic Learning Microchip",
+        "authors": [
+            {
+                "given_name": "Joshua",
+                "family_name": "Alspector",
+                "institution": null
+            },
+            {
+                "given_name": "Bhusan",
+                "family_name": "Gupta",
+                "institution": null
+            },
+            {
+                "given_name": "Robert",
+                "family_name": "Allen",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "140f6969d5213fd0ece03148e62e461e",
+        "url": "https://papers.nips.cc/paper/1988/file/140f6969d5213fd0ece03148e62e461e-Paper.pdf"
+    },
+    {
+        "title": "A Low-Power CMOS Circuit Which Emulates Temporal Electrical Properties of Neurons",
+        "authors": [
+            {
+                "given_name": "Jack",
+                "family_name": "Meador",
+                "institution": null
+            },
+            {
+                "given_name": "Clint",
+                "family_name": "Cole",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "1ff8a7b5dc7a7d1f0ed65aaa29c04b1e",
+        "url": "https://papers.nips.cc/paper/1988/file/1ff8a7b5dc7a7d1f0ed65aaa29c04b1e-Paper.pdf"
+    },
+    {
+        "title": "Modeling Small Oscillating Biological Networks in Analog VLSI",
+        "authors": [
+            {
+                "given_name": "Sylvie",
+                "family_name": "Ryckebusch",
+                "institution": null
+            },
+            {
+                "given_name": "James",
+                "family_name": "Bower",
+                "institution": null
+            },
+            {
+                "given_name": "Carver",
+                "family_name": "Mead",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "1afa34a7f984eeabdbb0a7d494132ee5",
+        "url": "https://papers.nips.cc/paper/1988/file/1afa34a7f984eeabdbb0a7d494132ee5-Paper.pdf"
+    },
+    {
+        "title": "Associative Learning via Inhibitory Search",
+        "authors": [
+            {
+                "given_name": "David",
+                "family_name": "Ackley",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "1385974ed5904a438616ff7bdb3f7439",
+        "url": "https://papers.nips.cc/paper/1988/file/1385974ed5904a438616ff7bdb3f7439-Paper.pdf"
+    },
+    {
+        "title": "Linear Learning: Landscapes and Algorithms",
+        "authors": [
+            {
+                "given_name": "Pierre",
+                "family_name": "Baldi",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "202cb962ac59075b964b07152d234b70",
+        "url": "https://papers.nips.cc/paper/1988/file/202cb962ac59075b964b07152d234b70-Paper.pdf"
+    },
+    {
+        "title": "Comparing Biases for Minimal Network Construction with Back-Propagation",
+        "authors": [
+            {
+                "given_name": "Stephen",
+                "family_name": "Hanson",
+                "institution": null
+            },
+            {
+                "given_name": "Lorien",
+                "family_name": "Pratt",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "1c9ac0159c94d8d0cbedc973445af2da",
+        "url": "https://papers.nips.cc/paper/1988/file/1c9ac0159c94d8d0cbedc973445af2da-Paper.pdf"
+    },
+    {
+        "title": "Song Learning in Birds",
+        "authors": [
+            {
+                "given_name": "M.",
+                "family_name": "Konishi",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "149e9677a5989fd342ae44213df68868",
+        "url": "https://papers.nips.cc/paper/1988/file/149e9677a5989fd342ae44213df68868-Paper.pdf"
+    },
+    {
+        "title": "An Analog Self-Organizing Neural Network Chip",
+        "authors": [
+            {
+                "given_name": "James",
+                "family_name": "Mann",
+                "institution": null
+            },
+            {
+                "given_name": "Sheldon",
+                "family_name": "Gilbert",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "2a79ea27c279e471f4d180b08d62b00a",
+        "url": "https://papers.nips.cc/paper/1988/file/2a79ea27c279e471f4d180b08d62b00a-Paper.pdf"
+    },
+    {
+        "title": "What Size Net Gives Valid Generalization?",
+        "authors": [
+            {
+                "given_name": "Eric",
+                "family_name": "Baum",
+                "institution": null
+            },
+            {
+                "given_name": "David",
+                "family_name": "Haussler",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "1d7f7abc18fcb43975065399b0d1e48e",
+        "url": "https://papers.nips.cc/paper/1988/file/1d7f7abc18fcb43975065399b0d1e48e-Paper.pdf"
+    },
+    {
+        "title": "A Bifurcation Theory Approach to the Programming of Periodic Attractors in Network Models of Olfactory Cortex",
+        "authors": [
+            {
+                "given_name": "Bill",
+                "family_name": "Baird",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "2b24d495052a8ce66358eb576b8912c8",
+        "url": "https://papers.nips.cc/paper/1988/file/2b24d495052a8ce66358eb576b8912c8-Paper.pdf"
+    },
+    {
+        "title": "Programmable Analog Pulse-Firing Neural Networks",
+        "authors": [
+            {
+                "given_name": "Alister",
+                "family_name": "Hamilton",
+                "institution": null
+            },
+            {
+                "given_name": "Alan",
+                "family_name": "Murray",
+                "institution": null
+            },
+            {
+                "given_name": "Lionel",
+                "family_name": "Tarassenko",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "31fefc0e570cb3860f2a6d4b38c6490d",
+        "url": "https://papers.nips.cc/paper/1988/file/31fefc0e570cb3860f2a6d4b38c6490d-Paper.pdf"
+    },
+    {
+        "title": "An Electronic Photoreceptor Sensitive to Small Changes in Intensity",
+        "authors": [
+            {
+                "given_name": "Tobi",
+                "family_name": "Delbrück",
+                "institution": null
+            },
+            {
+                "given_name": "C.",
+                "family_name": "A.",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "3988c7f88ebcb58c6ce932b957b6f332",
+        "url": "https://papers.nips.cc/paper/1988/file/3988c7f88ebcb58c6ce932b957b6f332-Paper.pdf"
+    },
+    {
+        "title": "An Analog VLSI Chip for Thin-Plate Surface Interpolation",
+        "authors": [
+            {
+                "given_name": "John",
+                "family_name": "Harris",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "3636638817772e42b59d74cff571fbb3",
+        "url": "https://papers.nips.cc/paper/1988/file/3636638817772e42b59d74cff571fbb3-Paper.pdf"
+    },
+    {
+        "title": "Training a 3-Node Neural Network is NP-Complete",
+        "authors": [
+            {
+                "given_name": "Avrim",
+                "family_name": "Blum",
+                "institution": null
+            },
+            {
+                "given_name": "Ronald",
+                "family_name": "Rivest",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "3def184ad8f4755ff269862ea77393dd",
+        "url": "https://papers.nips.cc/paper/1988/file/3def184ad8f4755ff269862ea77393dd-Paper.pdf"
+    },
+    {
+        "title": "Heterogeneous Neural Networks for Adaptive Behavior in Dynamic Environments",
+        "authors": [
+            {
+                "given_name": "Randall",
+                "family_name": "Beer",
+                "institution": null
+            },
+            {
+                "given_name": "Hillel",
+                "family_name": "Chiel",
+                "institution": null
+            },
+            {
+                "given_name": "Leon",
+                "family_name": "S.",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "2b44928ae11fb9384c4cf38708677c48",
+        "url": "https://papers.nips.cc/paper/1988/file/2b44928ae11fb9384c4cf38708677c48-Paper.pdf"
+    },
+    {
+        "title": "Automatic Local Annealing",
+        "authors": [
+            {
+                "given_name": "Jared",
+                "family_name": "Leinbach",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "42a0e188f5033bc65bf8d78622277c4e",
+        "url": "https://papers.nips.cc/paper/1988/file/42a0e188f5033bc65bf8d78622277c4e-Paper.pdf"
+    },
+    {
+        "title": "Simulation and Measurement of the Electric Fields Generated by Weakly Electric Fish",
+        "authors": [
+            {
+                "given_name": "Brian",
+                "family_name": "Rasnow",
+                "institution": null
+            },
+            {
+                "given_name": "Christopher",
+                "family_name": "Assad",
+                "institution": null
+            },
+            {
+                "given_name": "Mark",
+                "family_name": "Nelson",
+                "institution": null
+            },
+            {
+                "given_name": "James",
+                "family_name": "Bower",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "37a749d808e46495a8da1e5352d03cae",
+        "url": "https://papers.nips.cc/paper/1988/file/37a749d808e46495a8da1e5352d03cae-Paper.pdf"
+    },
+    {
+        "title": "Applications of Error Back-Propagation to Phonetic Classification",
+        "authors": [
+            {
+                "given_name": "Hong",
+                "family_name": "Leung",
+                "institution": null
+            },
+            {
+                "given_name": "Victor",
+                "family_name": "W.",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "2723d092b63885e0d7c260cc007e8b9d",
+        "url": "https://papers.nips.cc/paper/1988/file/2723d092b63885e0d7c260cc007e8b9d-Paper.pdf"
+    },
+    {
+        "title": "Adaptive Neural Net Preprocessing for Signal Detection in Non-Gaussian Noise",
+        "authors": [
+            {
+                "given_name": "Richard",
+                "family_name": "P.",
+                "institution": null
+            },
+            {
+                "given_name": "Paul",
+                "family_name": "Beckman",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "47d1e990583c9c67424d369f3414728e",
+        "url": "https://papers.nips.cc/paper/1988/file/47d1e990583c9c67424d369f3414728e-Paper.pdf"
+    },
+    {
+        "title": "Learning the Solution to the Aperture Problem for Pattern Motion with a Hebb Rule",
+        "authors": [
+            {
+                "given_name": "Martin",
+                "family_name": "Sereno",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "4c56ff4ce4aaf9573aa5dff913df997a",
+        "url": "https://papers.nips.cc/paper/1988/file/4c56ff4ce4aaf9573aa5dff913df997a-Paper.pdf"
+    },
+    {
+        "title": "Learning by Choice of Internal Representations",
+        "authors": [
+            {
+                "given_name": "Tal",
+                "family_name": "Grossman",
+                "institution": null
+            },
+            {
+                "given_name": "Ronny",
+                "family_name": "Meir",
+                "institution": null
+            },
+            {
+                "given_name": "Eytan",
+                "family_name": "Domany",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "5ef059938ba799aaa845e1c2e8a762bd",
+        "url": "https://papers.nips.cc/paper/1988/file/5ef059938ba799aaa845e1c2e8a762bd-Paper.pdf"
+    },
+    {
+        "title": "GENESIS: A System for Simulating Neural Networks",
+        "authors": [
+            {
+                "given_name": "Matthew",
+                "family_name": "Wilson",
+                "institution": null
+            },
+            {
+                "given_name": "Upinder",
+                "family_name": "Bhalla",
+                "institution": null
+            },
+            {
+                "given_name": "John",
+                "family_name": "Uhley",
+                "institution": null
+            },
+            {
+                "given_name": "James",
+                "family_name": "Bower",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "4c5bde74a8f110656874902f07378009",
+        "url": "https://papers.nips.cc/paper/1988/file/4c5bde74a8f110656874902f07378009-Paper.pdf"
+    },
+    {
+        "title": "Adaptive Neural Networks Using MOS Charge Storage",
+        "authors": [
+            {
+                "given_name": "Daniel",
+                "family_name": "Schwartz",
+                "institution": null
+            },
+            {
+                "given_name": "R.",
+                "family_name": "Howard",
+                "institution": null
+            },
+            {
+                "given_name": "Wayne",
+                "family_name": "Hubbard",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "5f93f983524def3dca464469d2cf9f3e",
+        "url": "https://papers.nips.cc/paper/1988/file/5f93f983524def3dca464469d2cf9f3e-Paper.pdf"
+    },
+    {
+        "title": "Theory of Self-Organization of Cortical Maps",
+        "authors": [
+            {
+                "given_name": "Shigeru",
+                "family_name": "Tanaka",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "65ded5353c5ee48d0b7d48c591b8f430",
+        "url": "https://papers.nips.cc/paper/1988/file/65ded5353c5ee48d0b7d48c591b8f430-Paper.pdf"
+    },
+    {
+        "title": "Dynamics of Analog Neural Networks with Time Delay",
+        "authors": [
+            {
+                "given_name": "Charles",
+                "family_name": "Marcus",
+                "institution": null
+            },
+            {
+                "given_name": "R.",
+                "family_name": "Westervelt",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "698d51a19d8a121ce581499d7b701668",
+        "url": "https://papers.nips.cc/paper/1988/file/698d51a19d8a121ce581499d7b701668-Paper.pdf"
+    },
+    {
+        "title": "Neural Architecture",
+        "authors": [
+            {
+                "given_name": "Valentino",
+                "family_name": "Braitenberg",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "5878a7ab84fb43402106c575658472fa",
+        "url": "https://papers.nips.cc/paper/1988/file/5878a7ab84fb43402106c575658472fa-Paper.pdf"
+    },
+    {
+        "title": "Implications of Recursive Distributed Representations",
+        "authors": [
+            {
+                "given_name": "Jordan",
+                "family_name": "Pollack",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "5fd0b37cd7dbbb00f97ba6ce92bf5add",
+        "url": "https://papers.nips.cc/paper/1988/file/5fd0b37cd7dbbb00f97ba6ce92bf5add-Paper.pdf"
+    },
+    {
+        "title": "Backpropagation and Its Application to Handwritten Signature Verification",
+        "authors": [
+            {
+                "given_name": "Timothy",
+                "family_name": "Wilkinson",
+                "institution": null
+            },
+            {
+                "given_name": "Dorothy",
+                "family_name": "Mighell",
+                "institution": null
+            },
+            {
+                "given_name": "Joseph",
+                "family_name": "Goodman",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "65b9eea6e1cc6bb9f0cd2a47751a186f",
+        "url": "https://papers.nips.cc/paper/1988/file/65b9eea6e1cc6bb9f0cd2a47751a186f-Paper.pdf"
+    },
+    {
+        "title": "An Adaptive Network That Learns Sequences of Transitions",
+        "authors": [
+            {
+                "given_name": "C.",
+                "family_name": "Winter",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "6974ce5ac660610b44d9b9fed0ff9548",
+        "url": "https://papers.nips.cc/paper/1988/file/6974ce5ac660610b44d9b9fed0ff9548-Paper.pdf"
+    },
+    {
+        "title": "On the K-Winners-Take-All Network",
+        "authors": [
+            {
+                "given_name": "E.",
+                "family_name": "Majani",
+                "institution": null
+            },
+            {
+                "given_name": "Ruth",
+                "family_name": "Erlanson",
+                "institution": null
+            },
+            {
+                "given_name": "Yaser",
+                "family_name": "Abu-Mostafa",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "6c4b761a28b734fe93831e3fb400ce87",
+        "url": "https://papers.nips.cc/paper/1988/file/6c4b761a28b734fe93831e3fb400ce87-Paper.pdf"
+    },
+    {
+        "title": "Electronic Receptors for Tactile/Haptic Sensing",
+        "authors": [
+            {
+                "given_name": "Andreas",
+                "family_name": "Andreou",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "76dc611d6ebaafc66cc0879c71b5db5c",
+        "url": "https://papers.nips.cc/paper/1988/file/76dc611d6ebaafc66cc0879c71b5db5c-Paper.pdf"
+    },
+    {
+        "title": "Use of Multi-Layered Networks for Coding Speech with Phonetic Features",
+        "authors": [
+            {
+                "given_name": "Yoshua",
+                "family_name": "Bengio",
+                "institution": null
+            },
+            {
+                "given_name": "Régis",
+                "family_name": "Cardin",
+                "institution": null
+            },
+            {
+                "given_name": "Renato",
+                "family_name": "de",
+                "institution": null
+            },
+            {
+                "given_name": "Piero",
+                "family_name": "Cosi",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "73278a4a86960eeb576a8fd4c9ec6997",
+        "url": "https://papers.nips.cc/paper/1988/file/73278a4a86960eeb576a8fd4c9ec6997-Paper.pdf"
+    },
+    {
+        "title": "A Connectionist Expert System that Actually Works",
+        "authors": [
+            {
+                "given_name": "Richard",
+                "family_name": "Fozzard",
+                "institution": null
+            },
+            {
+                "given_name": "Gary",
+                "family_name": "Bradshaw",
+                "institution": null
+            },
+            {
+                "given_name": "Louis",
+                "family_name": "Ceci",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "7f1de29e6da19d22b51c68001e7e0e54",
+        "url": "https://papers.nips.cc/paper/1988/file/7f1de29e6da19d22b51c68001e7e0e54-Paper.pdf"
+    },
+    {
+        "title": "ALVINN: An Autonomous Land Vehicle in a Neural Network",
+        "authors": [
+            {
+                "given_name": "Dean",
+                "family_name": "A.",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "812b4ba287f5ee0bc9d43bbf5bbe87fb",
+        "url": "https://papers.nips.cc/paper/1988/file/812b4ba287f5ee0bc9d43bbf5bbe87fb-Paper.pdf"
+    },
+    {
+        "title": "Training a Limited-Interconnect, Synthetic Neural IC",
+        "authors": [
+            {
+                "given_name": "M.",
+                "family_name": "Walker",
+                "institution": null
+            },
+            {
+                "given_name": "S.",
+                "family_name": "Haghighi",
+                "institution": null
+            },
+            {
+                "given_name": "A.",
+                "family_name": "Afghan",
+                "institution": null
+            },
+            {
+                "given_name": "Larry",
+                "family_name": "Akers",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "8f53295a73878494e9bc8dd6c3c7104f",
+        "url": "https://papers.nips.cc/paper/1988/file/8f53295a73878494e9bc8dd6c3c7104f-Paper.pdf"
+    },
+    {
+        "title": "Mapping Classifier Systems Into Neural Networks",
+        "authors": [
+            {
+                "given_name": "Lawrence",
+                "family_name": "Davis",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "82aa4b0af34c2313a562076992e50aa3",
+        "url": "https://papers.nips.cc/paper/1988/file/82aa4b0af34c2313a562076992e50aa3-Paper.pdf"
+    },
+    {
+        "title": "Fast Learning in Multi-Resolution Hierarchies",
+        "authors": [
+            {
+                "given_name": "John",
+                "family_name": "Moody",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "82161242827b703e6acf9c726942a1e4",
+        "url": "https://papers.nips.cc/paper/1988/file/82161242827b703e6acf9c726942a1e4-Paper.pdf"
+    },
+    {
+        "title": "A Programmable Analog Neural Computer and Simulator",
+        "authors": [
+            {
+                "given_name": "Paul",
+                "family_name": "Mueller",
+                "institution": null
+            },
+            {
+                "given_name": "Jan",
+                "family_name": "Van",
+                "institution": null
+            },
+            {
+                "given_name": "David",
+                "family_name": "Blackman",
+                "institution": null
+            },
+            {
+                "given_name": "Timothy",
+                "family_name": "Chiu",
+                "institution": null
+            },
+            {
+                "given_name": "Thomas",
+                "family_name": "Clare",
+                "institution": null
+            },
+            {
+                "given_name": "Joseph",
+                "family_name": "Dao",
+                "institution": null
+            },
+            {
+                "given_name": "Christopher",
+                "family_name": "Donham",
+                "institution": null
+            },
+            {
+                "given_name": "Tzu-pu",
+                "family_name": "Hsieh",
+                "institution": null
+            },
+            {
+                "given_name": "Marc",
+                "family_name": "Loinaz",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "7e7757b1e12abcb736ab9a754ffb617a",
+        "url": "https://papers.nips.cc/paper/1988/file/7e7757b1e12abcb736ab9a754ffb617a-Paper.pdf"
+    },
+    {
+        "title": "A Network for Image Segmentation Using Color",
+        "authors": [
+            {
+                "given_name": "Anya",
+                "family_name": "Hurlbert",
+                "institution": null
+            },
+            {
+                "given_name": "Tomaso",
+                "family_name": "Poggio",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "8d5e957f297893487bd98fa830fa6413",
+        "url": "https://papers.nips.cc/paper/1988/file/8d5e957f297893487bd98fa830fa6413-Paper.pdf"
+    },
+    {
+        "title": "An Information Theoretic Approach to Rule-Based Connectionist Expert Systems",
+        "authors": [
+            {
+                "given_name": "Rodney",
+                "family_name": "Goodman",
+                "institution": null
+            },
+            {
+                "given_name": "John",
+                "family_name": "Miller",
+                "institution": null
+            },
+            {
+                "given_name": "Padhraic",
+                "family_name": "Smyth",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "7ef605fc8dba5425d6965fbd4c8fbe1f",
+        "url": "https://papers.nips.cc/paper/1988/file/7ef605fc8dba5425d6965fbd4c8fbe1f-Paper.pdf"
+    },
+    {
+        "title": "Cricket Wind Detection",
+        "authors": [
+            {
+                "given_name": "John",
+                "family_name": "Miller",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "7f6ffaa6bb0b408017b62254211691b5",
+        "url": "https://papers.nips.cc/paper/1988/file/7f6ffaa6bb0b408017b62254211691b5-Paper.pdf"
+    },
+    {
+        "title": "A Model for Resolution Enhancement (Hyperacuity) in Sensory Representation",
+        "authors": [
+            {
+                "given_name": "Jun",
+                "family_name": "Zhang",
+                "institution": null
+            },
+            {
+                "given_name": "John",
+                "family_name": "Miller",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "8f85517967795eeef66c225f7883bdcb",
+        "url": "https://papers.nips.cc/paper/1988/file/8f85517967795eeef66c225f7883bdcb-Paper.pdf"
+    },
+    {
+        "title": "Temporal Representations in a Connectionist Speech System",
+        "authors": [
+            {
+                "given_name": "Erich",
+                "family_name": "Smythe",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "903ce9225fca3e988c2af215d4e544d3",
+        "url": "https://papers.nips.cc/paper/1988/file/903ce9225fca3e988c2af215d4e544d3-Paper.pdf"
+    },
+    {
+        "title": "Neural Network Star Pattern Recognition for Spacecraft Attitude Determination and Control",
+        "authors": [
+            {
+                "given_name": "Phillip",
+                "family_name": "Alvelda",
+                "institution": null
+            },
+            {
+                "given_name": "A.",
+                "family_name": "San",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "96da2f590cd7246bbde0051047b0d6f7",
+        "url": "https://papers.nips.cc/paper/1988/file/96da2f590cd7246bbde0051047b0d6f7-Paper.pdf"
+    },
+    {
+        "title": "A Computationally Robust Anatomical Model for Retinal Directional Selectivity",
+        "authors": [
+            {
+                "given_name": "Norberto",
+                "family_name": "Grzywacz",
+                "institution": null
+            },
+            {
+                "given_name": "Franklin",
+                "family_name": "Amthor",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "98dce83da57b0395e163467c9dae521b",
+        "url": "https://papers.nips.cc/paper/1988/file/98dce83da57b0395e163467c9dae521b-Paper.pdf"
+    },
+    {
+        "title": "Training Multilayer Perceptrons with the Extended Kalman Algorithm",
+        "authors": [
+            {
+                "given_name": "Sharad",
+                "family_name": "Singhal",
+                "institution": null
+            },
+            {
+                "given_name": "Lance",
+                "family_name": "Wu",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "38b3eff8baf56627478ec76a704e9b52",
+        "url": "https://papers.nips.cc/paper/1988/file/38b3eff8baf56627478ec76a704e9b52-Paper.pdf"
+    },
+    {
+        "title": "Statistical Prediction with Kanerva's Sparse Distributed Memory",
+        "authors": [
+            {
+                "given_name": "David",
+                "family_name": "Rogers",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "9b8619251a19057cff70779273e95aa6",
+        "url": "https://papers.nips.cc/paper/1988/file/9b8619251a19057cff70779273e95aa6-Paper.pdf"
+    },
+    {
+        "title": "Neural Net Receivers in Multiple Access-Communications",
+        "authors": [
+            {
+                "given_name": "Bernd-Peter",
+                "family_name": "Paris",
+                "institution": null
+            },
+            {
+                "given_name": "Geoffrey",
+                "family_name": "Orsak",
+                "institution": null
+            },
+            {
+                "given_name": "Mahesh",
+                "family_name": "Varanasi",
+                "institution": null
+            },
+            {
+                "given_name": "Behnaam",
+                "family_name": "Aazhang",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "9872ed9fc22fc182d371c3e9ed316094",
+        "url": "https://papers.nips.cc/paper/1988/file/9872ed9fc22fc182d371c3e9ed316094-Paper.pdf"
+    },
+    {
+        "title": "A Massively Parallel Self-Tuning Context-Free Parser",
+        "authors": [
+            {
+                "given_name": "Eugene",
+                "family_name": "Santos",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "9766527f2b5d3e95d4a733fcfb77bd7e",
+        "url": "https://papers.nips.cc/paper/1988/file/9766527f2b5d3e95d4a733fcfb77bd7e-Paper.pdf"
+    },
+    {
+        "title": "A Back-Propagation Algorithm with Optimal Use of Hidden Units",
+        "authors": [
+            {
+                "given_name": "Yves",
+                "family_name": "Chauvin",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "9fc3d7152ba9336a670e36d0ed79bc43",
+        "url": "https://papers.nips.cc/paper/1988/file/9fc3d7152ba9336a670e36d0ed79bc43-Paper.pdf"
+    },
+    {
+        "title": "A Self-Learning Neural Network",
+        "authors": [
+            {
+                "given_name": "Allan",
+                "family_name": "Hartstein",
+                "institution": null
+            },
+            {
+                "given_name": "R.",
+                "family_name": "Koch",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "a2557a7b2e94197ff767970b67041697",
+        "url": "https://papers.nips.cc/paper/1988/file/a2557a7b2e94197ff767970b67041697-Paper.pdf"
+    },
+    {
+        "title": "GEMINI: Gradient Estimation Through Matrix Inversion After Noise Injection",
+        "authors": [
+            {
+                "given_name": "Yann",
+                "family_name": "Le",
+                "institution": null
+            },
+            {
+                "given_name": "Conrad",
+                "family_name": "Galland",
+                "institution": null
+            },
+            {
+                "given_name": "Geoffrey",
+                "family_name": "E.",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "a0a080f42e6f13b3a2df133f073095dd",
+        "url": "https://papers.nips.cc/paper/1988/file/a0a080f42e6f13b3a2df133f073095dd-Paper.pdf"
+    },
+    {
+        "title": "Connectionist Learning of Expert Preferences by Comparison Training",
+        "authors": [
+            {
+                "given_name": "Gerald",
+                "family_name": "Tesauro",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "a8baa56554f96369ab93e4f3bb068c22",
+        "url": "https://papers.nips.cc/paper/1988/file/a8baa56554f96369ab93e4f3bb068c22-Paper.pdf"
+    },
+    {
+        "title": "Analog Implementation of Shunting Neural Networks",
+        "authors": [
+            {
+                "given_name": "Bahram",
+                "family_name": "Nabet",
+                "institution": null
+            },
+            {
+                "given_name": "Robert",
+                "family_name": "Darling",
+                "institution": null
+            },
+            {
+                "given_name": "Robert",
+                "family_name": "Pinter",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "ac627ab1ccbdb62ec96e702f07f6425b",
+        "url": "https://papers.nips.cc/paper/1988/file/ac627ab1ccbdb62ec96e702f07f6425b-Paper.pdf"
+    },
+    {
+        "title": "Neural Networks for Model Matching and Perceptual Organization",
+        "authors": [
+            {
+                "given_name": "Eric",
+                "family_name": "Mjolsness",
+                "institution": null
+            },
+            {
+                "given_name": "Gene",
+                "family_name": "Gindi",
+                "institution": null
+            },
+            {
+                "given_name": "P.",
+                "family_name": "Anandan",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "a3c65c2974270fd093ee8a9bf8ae7d0b",
+        "url": "https://papers.nips.cc/paper/1988/file/a3c65c2974270fd093ee8a9bf8ae7d0b-Paper.pdf"
+    },
+    {
+        "title": "Neuronal Maps for Sensory-Motor Control in the Barn Owl",
+        "authors": [
+            {
+                "given_name": "Clay",
+                "family_name": "D.",
+                "institution": null
+            },
+            {
+                "given_name": "John",
+                "family_name": "Pearson",
+                "institution": null
+            },
+            {
+                "given_name": "J.",
+                "family_name": "Gelfand",
+                "institution": null
+            },
+            {
+                "given_name": "R.",
+                "family_name": "Peterson",
+                "institution": null
+            },
+            {
+                "given_name": "W.",
+                "family_name": "Sullivan",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "a4a042cf4fd6bfb47701cbc8a1653ada",
+        "url": "https://papers.nips.cc/paper/1988/file/a4a042cf4fd6bfb47701cbc8a1653ada-Paper.pdf"
+    },
+    {
+        "title": "Performance of Synthetic Neural Network Classification of Noisy Radar Signals",
+        "authors": [
+            {
+                "given_name": "Stanley",
+                "family_name": "Ahalt",
+                "institution": null
+            },
+            {
+                "given_name": "F.",
+                "family_name": "Garber",
+                "institution": null
+            },
+            {
+                "given_name": "I.",
+                "family_name": "Jouny",
+                "institution": null
+            },
+            {
+                "given_name": "Ashok",
+                "family_name": "Krishnamurthy",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "a5e00132373a7031000fd987a3c9f87b",
+        "url": "https://papers.nips.cc/paper/1988/file/a5e00132373a7031000fd987a3c9f87b-Paper.pdf"
+    },
+    {
+        "title": "Range Image Restoration Using Mean Field Annealing",
+        "authors": [
+            {
+                "given_name": "Griff",
+                "family_name": "Bilbro",
+                "institution": null
+            },
+            {
+                "given_name": "Wesley",
+                "family_name": "Snyder",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "b3e3e393c77e35a4a3f3cbd1e429b5dc",
+        "url": "https://papers.nips.cc/paper/1988/file/b3e3e393c77e35a4a3f3cbd1e429b5dc-Paper.pdf"
+    },
+    {
+        "title": "Neural Network Recognizer for Hand-Written Zip Code Digits",
+        "authors": [
+            {
+                "given_name": "John",
+                "family_name": "Denker",
+                "institution": null
+            },
+            {
+                "given_name": "W.",
+                "family_name": "Gardner",
+                "institution": null
+            },
+            {
+                "given_name": "Hans",
+                "family_name": "Graf",
+                "institution": null
+            },
+            {
+                "given_name": "Donnie",
+                "family_name": "Henderson",
+                "institution": null
+            },
+            {
+                "given_name": "R.",
+                "family_name": "Howard",
+                "institution": null
+            },
+            {
+                "given_name": "W.",
+                "family_name": "Hubbard",
+                "institution": null
+            },
+            {
+                "given_name": "L.",
+                "family_name": "D.",
+                "institution": null
+            },
+            {
+                "given_name": "Henry",
+                "family_name": "Baird",
+                "institution": null
+            },
+            {
+                "given_name": "Isabelle",
+                "family_name": "Guyon",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "a97da629b098b75c294dffdc3e463904",
+        "url": "https://papers.nips.cc/paper/1988/file/a97da629b098b75c294dffdc3e463904-Paper.pdf"
+    },
+    {
+        "title": "Analyzing the Energy Landscapes of Distributed Winner-Take-All Networks",
+        "authors": [
+            {
+                "given_name": "David",
+                "family_name": "Touretzky",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "b73ce398c39f506af761d2277d853a92",
+        "url": "https://papers.nips.cc/paper/1988/file/b73ce398c39f506af761d2277d853a92-Paper.pdf"
+    },
+    {
+        "title": "Does the Neuron \"Learn\" like the Synapse?",
+        "authors": [
+            {
+                "given_name": "Raoul",
+                "family_name": "Tawel",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "6cdd60ea0045eb7a6ec44c54d29ed402",
+        "url": "https://papers.nips.cc/paper/1988/file/6cdd60ea0045eb7a6ec44c54d29ed402-Paper.pdf"
+    },
+    {
+        "title": "Speech Recognition: Statistical and Neural Information Processing Approaches",
+        "authors": [
+            {
+                "given_name": "John",
+                "family_name": "Bridle",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "bf8229696f7a3bb4700cfddef19fa23f",
+        "url": "https://papers.nips.cc/paper/1988/file/bf8229696f7a3bb4700cfddef19fa23f-Paper.pdf"
+    },
+    {
+        "title": "Models of Ocular Dominance Column Formation: Analytical and Computational Results",
+        "authors": [
+            {
+                "given_name": "Kenneth",
+                "family_name": "Miller",
+                "institution": null
+            },
+            {
+                "given_name": "Joseph",
+                "family_name": "Keller",
+                "institution": null
+            },
+            {
+                "given_name": "Michael",
+                "family_name": "Stryker",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "c8ffe9a587b126f152ed3d89a146b445",
+        "url": "https://papers.nips.cc/paper/1988/file/c8ffe9a587b126f152ed3d89a146b445-Paper.pdf"
+    },
+    {
+        "title": "Scaling and Generalization in Neural Networks: A Case Study",
+        "authors": [
+            {
+                "given_name": "Subutai",
+                "family_name": "Ahmad",
+                "institution": null
+            },
+            {
+                "given_name": "Gerald",
+                "family_name": "Tesauro",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "d1f491a404d6854880943e5c3cd9ca25",
+        "url": "https://papers.nips.cc/paper/1988/file/d1f491a404d6854880943e5c3cd9ca25-Paper.pdf"
+    },
+    {
+        "title": "Further Explorations in Visually-Guided Reaching: Making MURPHY Smarter",
+        "authors": [
+            {
+                "given_name": "Bartlett",
+                "family_name": "Mel",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "cedebb6e872f539bef8c3f919874e9d7",
+        "url": "https://papers.nips.cc/paper/1988/file/cedebb6e872f539bef8c3f919874e9d7-Paper.pdf"
+    },
+    {
+        "title": "An Optimality Principle for Unsupervised Learning",
+        "authors": [
+            {
+                "given_name": "Terence",
+                "family_name": "Sanger",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "e00da03b685a0dd18fb6a08af0923de0",
+        "url": "https://papers.nips.cc/paper/1988/file/e00da03b685a0dd18fb6a08af0923de0-Paper.pdf"
+    },
+    {
+        "title": "Winner-Take-All Networks of O(N) Complexity",
+        "authors": [
+            {
+                "given_name": "J.",
+                "family_name": "Lazzaro",
+                "institution": null
+            },
+            {
+                "given_name": "S.",
+                "family_name": "Ryckebusch",
+                "institution": null
+            },
+            {
+                "given_name": "M.A.",
+                "family_name": "Mahowald",
+                "institution": null
+            },
+            {
+                "given_name": "C. A.",
+                "family_name": "Mead",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "a8f15eda80c50adb0e71943adc8015cf",
+        "url": "https://papers.nips.cc/paper/1988/file/a8f15eda80c50adb0e71943adc8015cf-Paper.pdf"
+    },
+    {
+        "title": "A Model of Neural Oscillator for a Unified Submodule",
+        "authors": [
+            {
+                "given_name": "Alexandr",
+                "family_name": "Kirillov",
+                "institution": null
+            },
+            {
+                "given_name": "G.",
+                "family_name": "N.",
+                "institution": null
+            },
+            {
+                "given_name": "R.",
+                "family_name": "M.",
+                "institution": null
+            },
+            {
+                "given_name": "Ye.",
+                "family_name": "Kovalenko",
+                "institution": null
+            },
+            {
+                "given_name": "V.",
+                "family_name": "Makarenko",
+                "institution": null
+            },
+            {
+                "given_name": "V.",
+                "family_name": "Chulaevsky",
+                "institution": null
+            },
+            {
+                "given_name": "V.",
+                "family_name": "Kryukov",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "da4fb5c6e93e74d3df8527599fa62642",
+        "url": "https://papers.nips.cc/paper/1988/file/da4fb5c6e93e74d3df8527599fa62642-Paper.pdf"
+    },
+    {
+        "title": "Learning Sequential Structure in Simple Recurrent Networks",
+        "authors": [
+            {
+                "given_name": "David",
+                "family_name": "Servan-Schreiber",
+                "institution": null
+            },
+            {
+                "given_name": "Axel",
+                "family_name": "Cleeremans",
+                "institution": null
+            },
+            {
+                "given_name": "James",
+                "family_name": "McClelland",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "9dcb88e0137649590b755372b040afad",
+        "url": "https://papers.nips.cc/paper/1988/file/9dcb88e0137649590b755372b040afad-Paper.pdf"
+    },
+    {
+        "title": "Spreading Activation over Distributed Microfeatures",
+        "authors": [
+            {
+                "given_name": "James",
+                "family_name": "Hendler",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "ed3d2c21991e3bef5e069713af9fa6ca",
+        "url": "https://papers.nips.cc/paper/1988/file/ed3d2c21991e3bef5e069713af9fa6ca-Paper.pdf"
+    },
+    {
+        "title": "Optimization by Mean Field Annealing",
+        "authors": [
+            {
+                "given_name": "Griff",
+                "family_name": "Bilbro",
+                "institution": null
+            },
+            {
+                "given_name": "Reinhold",
+                "family_name": "Mann",
+                "institution": null
+            },
+            {
+                "given_name": "Thomas",
+                "family_name": "Miller",
+                "institution": null
+            },
+            {
+                "given_name": "Wesley",
+                "family_name": "Snyder",
+                "institution": null
+            },
+            {
+                "given_name": "David",
+                "family_name": "van",
+                "institution": null
+            },
+            {
+                "given_name": "Mark",
+                "family_name": "White",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "ec5decca5ed3d6b8079e2e7e7bacc9f2",
+        "url": "https://papers.nips.cc/paper/1988/file/ec5decca5ed3d6b8079e2e7e7bacc9f2-Paper.pdf"
+    },
+    {
+        "title": "An Application of the Principle of Maximum Information Preservation to Linear Systems",
+        "authors": [
+            {
+                "given_name": "Ralph",
+                "family_name": "Linsker",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "ec8956637a99787bd197eacd77acce5e",
+        "url": "https://papers.nips.cc/paper/1988/file/ec8956637a99787bd197eacd77acce5e-Paper.pdf"
+    },
+    {
+        "title": "Neural Analog Diffusion-Enhancement Layer and Spatio-Temporal Grouping in Early Vision",
+        "authors": [
+            {
+                "given_name": "Allen",
+                "family_name": "Waxman",
+                "institution": null
+            },
+            {
+                "given_name": "Michael",
+                "family_name": "Seibert",
+                "institution": null
+            },
+            {
+                "given_name": "Robert",
+                "family_name": "Cunningham",
+                "institution": null
+            },
+            {
+                "given_name": "Jian",
+                "family_name": "Wu",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "e2ef524fbf3d9fe611d5a8e90fefdc9c",
+        "url": "https://papers.nips.cc/paper/1988/file/e2ef524fbf3d9fe611d5a8e90fefdc9c-Paper.pdf"
+    },
+    {
+        "title": "Consonant Recognition by Modular Construction of Large Phonemic Time-Delay Neural Networks",
+        "authors": [
+            {
+                "given_name": "Alex",
+                "family_name": "Waibel",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "eecca5b6365d9607ee5a9d336962c534",
+        "url": "https://papers.nips.cc/paper/1988/file/eecca5b6365d9607ee5a9d336962c534-Paper.pdf"
+    },
+    {
+        "title": "Constraints on Adaptive Networks for Modeling Human Generalization",
+        "authors": [
+            {
+                "given_name": "Mark",
+                "family_name": "Gluck",
+                "institution": null
+            },
+            {
+                "given_name": "M.",
+                "family_name": "Pavel",
+                "institution": null
+            },
+            {
+                "given_name": "Van",
+                "family_name": "Henkle",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "f0935e4cd5920aa6c7c996a5ee53a70f",
+        "url": "https://papers.nips.cc/paper/1988/file/f0935e4cd5920aa6c7c996a5ee53a70f-Paper.pdf"
+    },
+    {
+        "title": "Self Organizing Neural Networks for the Identification Problem",
+        "authors": [
+            {
+                "given_name": "Manoel",
+                "family_name": "Tenorio",
+                "institution": null
+            },
+            {
+                "given_name": "Wei-Tsih",
+                "family_name": "Lee",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "f2217062e9a397a1dca429e7d70bc6ca",
+        "url": "https://papers.nips.cc/paper/1988/file/f2217062e9a397a1dca429e7d70bc6ca-Paper.pdf"
+    },
+    {
+        "title": "Using Backpropagation with Temporal Windows to Learn the Dynamics of the CMU Direct-Drive Arm II",
+        "authors": [
+            {
+                "given_name": "Kenneth",
+                "family_name": "Goldberg",
+                "institution": null
+            },
+            {
+                "given_name": "Barak",
+                "family_name": "Pearlmutter",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "f7e6c85504ce6e82442c770f7c8606f0",
+        "url": "https://papers.nips.cc/paper/1988/file/f7e6c85504ce6e82442c770f7c8606f0-Paper.pdf"
+    },
+    {
+        "title": "Learning with Temporal Derivatives in Pulse-Coded Neuronal Systems",
+        "authors": [
+            {
+                "given_name": "David",
+                "family_name": "Parker",
+                "institution": null
+            },
+            {
+                "given_name": "Mark",
+                "family_name": "Gluck",
+                "institution": null
+            },
+            {
+                "given_name": "Eric",
+                "family_name": "Reifsnider",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "f4b9ec30ad9f68f89b29639786cb62ef",
+        "url": "https://papers.nips.cc/paper/1988/file/f4b9ec30ad9f68f89b29639786cb62ef-Paper.pdf"
+    },
+    {
+        "title": "Dynamic, Non-Local Role Bindings and Inferencing in a Localist Network for Natural Language Understanding",
+        "authors": [
+            {
+                "given_name": "Trent",
+                "family_name": "Lange",
+                "institution": null
+            },
+            {
+                "given_name": "Michael",
+                "family_name": "Dyer",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "fa7cdfad1a5aaf8370ebeda47a1ff1c3",
+        "url": "https://papers.nips.cc/paper/1988/file/fa7cdfad1a5aaf8370ebeda47a1ff1c3-Paper.pdf"
+    },
+    {
+        "title": "Fixed Point Analysis for Recurrent Networks",
+        "authors": [
+            {
+                "given_name": "Patrice",
+                "family_name": "Simard",
+                "institution": null
+            },
+            {
+                "given_name": "Mary",
+                "family_name": "Ottaway",
+                "institution": null
+            },
+            {
+                "given_name": "Dana",
+                "family_name": "Ballard",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "fc221309746013ac554571fbd180e1c8",
+        "url": "https://papers.nips.cc/paper/1988/file/fc221309746013ac554571fbd180e1c8-Paper.pdf"
+    },
+    {
+        "title": "Neural Approach for TV Image Compression Using a Hopfield Type Network",
+        "authors": [
+            {
+                "given_name": "Martine",
+                "family_name": "Naillon",
+                "institution": null
+            },
+            {
+                "given_name": "Jean-Bernard",
+                "family_name": "Theeten",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "bd4c9ab730f5513206b999ec0d90d1fb",
+        "url": "https://papers.nips.cc/paper/1988/file/bd4c9ab730f5513206b999ec0d90d1fb-Paper.pdf"
+    },
+    {
+        "title": "Convergence and Pattern-Stabilization in the Boltzmann Machine",
+        "authors": [
+            {
+                "given_name": "Moshe",
+                "family_name": "Kam",
+                "institution": null
+            },
+            {
+                "given_name": "Roger",
+                "family_name": "Cheng",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "c45147dee729311ef5b5c3003946c48f",
+        "url": "https://papers.nips.cc/paper/1988/file/c45147dee729311ef5b5c3003946c48f-Paper.pdf"
+    },
+    {
+        "title": "Digital Realisation of Self-Organising Maps",
+        "authors": [
+            {
+                "given_name": "Nigel",
+                "family_name": "Allinson",
+                "institution": null
+            },
+            {
+                "given_name": "Martin",
+                "family_name": "Johnson",
+                "institution": null
+            },
+            {
+                "given_name": "Kevin",
+                "family_name": "Moon",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "c9e1074f5b3f9fc8ea15d152add07294",
+        "url": "https://papers.nips.cc/paper/1988/file/c9e1074f5b3f9fc8ea15d152add07294-Paper.pdf"
+    },
+    {
+        "title": "Storing Covariance by the Associative Long-Term Potentiation and Depression of Synaptic Strengths in the Hippocampus",
+        "authors": [
+            {
+                "given_name": "Patric",
+                "family_name": "Stanton",
+                "institution": null
+            },
+            {
+                "given_name": "Terrence",
+                "family_name": "Sejnowski",
+                "institution": null
+            }
+        ],
+        "award": [],
+        "hash": "f899139df5e1059396431415e770c6dd",
+        "url": "https://papers.nips.cc/paper/1988/file/f899139df5e1059396431415e770c6dd-Paper.pdf"
+    }
+]
