@@ -222,7 +222,7 @@ class NeurIPS(object):
 	outputs:
 	papers (list) List of dicts of accepted papers with keys as the paper title and value as the authors.
 	'''
-	def source_accepted_papers(self):
+	def accepted_papers(self):
 
 		now = datetime.datetime.now()
 

@@ -19,7 +19,8 @@ def main():
 	if not os.path.isdir(save_dir):
 		os.makedirs(save_dir, exist_ok=True) 
 
-	utils.save_json(save_dir, f'neurips_{year}', md.conference(name, year).source_accepted_papers())
+	metadata = md.conference(name, year).accepted_papers()
+	# utils.save_json(save_dir, f'{name}_{year}', metadata)
 	
 
 if __name__ == '__main__':
