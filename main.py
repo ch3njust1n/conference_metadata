@@ -20,7 +20,7 @@ def main():
 		os.makedirs(save_dir, exist_ok=True) 
 
 	metadata = md.conference(name, year).accepted_papers()
-	# utils.save_json(save_dir, f'{name}_{year}', metadata)
+	utils.save_json(save_dir, f'{name}_{year}', metadata)
 	
 
 if __name__ == '__main__':
