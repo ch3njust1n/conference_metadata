@@ -106,9 +106,11 @@ class NeurIPS(object):
 
 		pbar.close()
 
-		if len(errors) > 0: 
-			print(f'\n{Fore.RED}errors{Style.RESET_ALL}:')
-			for i in range(len(errors)): print(f"{i+1} {errors[i]['title']}\n{errors[i]['url']}\n")
+		num_errs = len(errors)
+
+		if num_errs > 0: 
+			print(f'\n{Fore.RED}{num_errs}errors{Style.RESET_ALL}:')
+			# for i in range(len(errors)): print(f"{i+1} {errors[i]['title']}\n{errors[i]['url']}\n")
 
 		return list(proceedings)
 
