@@ -1,4 +1,6 @@
 .*
 !/.gitignore
 *.pyc
-__pycache__/
+*/__pycache__/*
+temp/
+log.*
