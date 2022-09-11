@@ -1059,9 +1059,9 @@
                 "institution": "Nanjing University"
             },
             {
-                "given_name": "Yufeng",
+                "given_name": "Yu-Feng",
                 "family_name": "Li",
-                "institution": null
+                "institution": "Nanjing University"
             },
             {
                 "given_name": "Zhi-Hua",
@@ -1723,7 +1723,7 @@
             {
                 "given_name": "Zhangyang",
                 "family_name": "Wang",
-                "institution": null
+                "institution": "University of Texas at Austin"
             }
         ]
     },
@@ -3217,7 +3217,7 @@
             {
                 "given_name": "Zhangyang",
                 "family_name": "Wang",
-                "institution": null
+                "institution": "University of Texas at Austin"
             },
             {
                 "given_name": "Xiaoning",
@@ -4886,7 +4886,7 @@
             {
                 "given_name": "Joel",
                 "family_name": "Lehman",
-                "institution": "Open AI"
+                "institution": ""
             },
             {
                 "given_name": "Aditya",
@@ -5408,8 +5408,8 @@
             },
             {
                 "given_name": "Azade",
-                "family_name": "Nazi",
-                "institution": null
+                "family_name": "Nova",
+                "institution": "Google Brain"
             },
             {
                 "given_name": "Yujia",
@@ -10485,7 +10485,7 @@
             {
                 "given_name": "Zhangyang",
                 "family_name": "Wang",
-                "institution": null
+                "institution": "University of Texas at Austin"
             },
             {
                 "given_name": "Dylan",
@@ -11400,9 +11400,9 @@
         "title": "Finite-Time Last-Iterate Convergence for Multi-Agent Learning in Games",
         "authors": [
             {
-                "given_name": "Darren",
+                "given_name": "Tianyi",
                 "family_name": "Lin",
-                "institution": null
+                "institution": "UC Berkeley"
             },
             {
                 "given_name": "Zhengyuan",
@@ -11665,9 +11665,9 @@
         "title": "Fast and Three-rious: Speeding Up Weak Supervision with Triplet Methods",
         "authors": [
             {
-                "given_name": "Dan",
+                "given_name": "Daniel",
                 "family_name": "Fu",
-                "institution": null
+                "institution": "Stanford University"
             },
             {
                 "given_name": "Mayee",
@@ -12060,9 +12060,9 @@
                 "institution": "National Chiao Tung University"
             },
             {
-                "given_name": "Yu Heng",
+                "given_name": "Yu-Heng",
                 "family_name": "Hung",
-                "institution": null
+                "institution": "National Chiao Tung University"
             },
             {
                 "given_name": "Anirban",
@@ -12072,7 +12072,7 @@
             {
                 "given_name": "P.",
                 "family_name": "Kumar",
-                "institution": null
+                "institution": "Texas A&M University"
             }
         ]
     },
@@ -17548,7 +17548,7 @@
             {
                 "given_name": "Zoltán Á.",
                 "family_name": "Milacski",
-                "institution": null
+                "institution": "ELTE Eötvös Loránd University"
             },
             {
                 "given_name": "Barnabás",
@@ -17879,9 +17879,9 @@
                 "institution": "Seoul National University"
             },
             {
-                "given_name": "Kim",
-                "family_name": "Jangho",
-                "institution": null
+                "given_name": "Jangho",
+                "family_name": "Kim",
+                "institution": "Seoul National University"
             },
             {
                 "given_name": "Nojun",
@@ -18011,7 +18011,7 @@
             {
                 "given_name": "Zhangyang",
                 "family_name": "Wang",
-                "institution": null
+                "institution": "University of Texas at Austin"
             },
             {
                 "given_name": "Anima",
@@ -19237,9 +19237,9 @@
         "title": "On Gradient Descent Ascent for Nonconvex-Concave Minimax Problems",
         "authors": [
             {
-                "given_name": "Darren",
+                "given_name": "Tianyi",
                 "family_name": "Lin",
-                "institution": null
+                "institution": "UC Berkeley"
             },
             {
                 "given_name": "Chi",
@@ -23794,9 +23794,9 @@
                 "institution": "Indian Institute of Technology, Delhi"
             },
             {
-                "given_name": "",
+                "given_name": "Mausam",
                 "family_name": "",
-                "institution": null
+                "institution": "Indian Institute of Technology Delhi"
             }
         ]
     },
@@ -23973,7 +23973,7 @@
             {
                 "given_name": "Zhangyang",
                 "family_name": "Wang",
-                "institution": null
+                "institution": "University of Texas at Austin"
             },
             {
                 "given_name": "Yang",
@@ -24236,8 +24236,8 @@
         "authors": [
             {
                 "given_name": "Florian",
-                "family_name": "Schaefer",
-                "institution": null
+                "family_name": "Schäfer",
+                "institution": "Caltech"
             },
             {
                 "given_name": "Hongkai",
@@ -24734,7 +24734,7 @@
             {
                 "given_name": "Johannes",
                 "family_name": "Klicpera",
-                "institution": null
+                "institution": "Technical University Munich"
             },
             {
                 "given_name": "Stephan",
@@ -27593,7 +27593,7 @@
             {
                 "given_name": "Zhangyang",
                 "family_name": "Wang",
-                "institution": null
+                "institution": "University of Texas at Austin"
             }
         ]
     },

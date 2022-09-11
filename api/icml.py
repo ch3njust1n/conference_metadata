@@ -11,6 +11,7 @@ from tqdm import tqdm
 
 import api.utils as utils
 from bs4 import BeautifulSoup
+from api.batcher import batch_process
 
 class ICML(object):
 	def __init__(self, year, logname):
@@ -165,12 +166,13 @@ class ICML(object):
 				papers.append({'id': tag_id, 'title': title, 'authors': self.format_auths(authors)})
 	
 			utils.save_json('./temp', f'icml{self.year}-{utils.unix_epoch()}', papers)
-
-		# sys.exit(0)
   
-		for i, paper in enumerate(tqdm(papers)):
+		# for i, paper in enumerate(tqdm(papers)):
+		def function(paper):
 			labs = self.get_institutions(paper['id'])
-			papers[i]['authors'] = self.combine_institutions(paper['authors'], labs, paper['id'])
+			paper['authors'] = self.combine_institutions(paper['authors'], labs, paper['id'])
+   
+		batch_process(papers, function)
    
    
 		utils.save_json('./temp/failed', f'icml{self.year}-{utils.unix_epoch()}', self.failed)
