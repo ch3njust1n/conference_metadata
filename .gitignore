@@ -3,4 +3,6 @@
 *.pyc
 */__pycache__/*
 temp/
-log.*
+*.log
+log/*
+logs/*

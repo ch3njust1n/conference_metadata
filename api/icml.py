@@ -4,23 +4,24 @@ import os
 import re
 import sys
 import json
+import logging
 import urllib.request
-from urllib.error import URLError, HTTPError
 from collections import defaultdict
-from time import sleep, time
 from tqdm import tqdm
-from random import randint
 
 import api.utils as utils
 from bs4 import BeautifulSoup
-from pprint import pprint
 
 class ICML(object):
-	def __init__(self, year):
+	def __init__(self, year, logname):
 		self.year = str(year)
 		self.base = f'https://icml.cc/Conferences/' 
+		self.failed = defaultdict(list)
+		self.log = logging.getLogger(logname)
   
   
+	'''
+ 	'''
 	def capitalize_hyphenated(self, name):
 		return ('-'.join([i.capitalize() for i in name.split('-')])).title()
 
@@ -34,29 +35,47 @@ class ICML(object):
 		tags = soup.find_all('button', {'class': 'btn'})
 		
 
+		'''
+  		'''
 		def get_number(string):
 			return re.compile(r"\d+-\d+").findall(string)[0]
 
+  
+		'''
+  		'''
 		def remove_special_characters(string):
 			return ' '.join(s for s in string.strip().split() if len(re.sub('[^A-Za-z0-9]+', '', s)) > 0)
 
-		def get_institution(_id):
+
+		'''
+		inputs:
+		_id (int) Speaker ID
+  
+		outputs:
+		data   (string) URL if failed and institution name if succeeded
+  		'''
+		def get_institution(author, _id):
 			speaker_url = 'https://icml.cc/Conferences/2021/Schedule?showSpeaker='+_id
+   
 			try:
 				resp = urllib.request.urlopen(speaker_url)
 				soup = BeautifulSoup(resp.read(), 'html.parser', from_encoding='utf-8')
-				return soup.find_all('h4')[0].text
+				return soup.find_all('h4')[0].text, True
 			except Exception:
-				return ''
+				if len(self.failed[eventID]) == 0:
+					self.failed[eventID].append((author, _id))
+     
+				return speaker_url
+
 
 		institutions = defaultdict()
-
+  
 		for t in tags:
 			tag =  t.get('onclick')
 			if tag and 'showSpeaker' in tag:
 				author = self.capitalize_hyphenated(remove_special_characters(t.text))
 				speaker_number = get_number(tag)
-				institutions[author] = get_institution(speaker_number)
+				institutions[author] = get_institution(author, speaker_number)
 
 		return institutions
 
@@ -70,10 +89,12 @@ class ICML(object):
 			try:
 				authors[i]['institution'] = labs[auth_name]
 			except:
-				print('------\nError:\nid: ',_id, '\tauthor: ',auth_name)
-				pprint(authors[i])
-				pprint(labs)
-				print('\n------\n')
+				message = f'''
+        			id: {_id}\tauthor: {auth_name}\n'
+					{authors[i]}\n
+					{labs}\n
+				'''
+				self.log.debug(message)
     
 		return authors
 
@@ -143,7 +164,7 @@ class ICML(object):
 				authors = t.find('div', {'class', 'maincardFooter'}).text
 				papers.append({'id': tag_id, 'title': title, 'authors': self.format_auths(authors)})
 	
-			utils.save_json('./temp', f'icml{self.year}-{time()}', papers)
+			utils.save_json('./temp', f'icml{self.year}-{utils.unix_epoch()}', papers)
 
 		# sys.exit(0)
   
@@ -151,7 +172,9 @@ class ICML(object):
 			labs = self.get_institutions(paper['id'])
 			papers[i]['authors'] = self.combine_institutions(paper['authors'], labs, paper['id'])
    
+			if i == 100:
+				break
    
-		pprint(papers)
+		utils.save_json('./temp/failed', f'icml{self.year}-{utils.unix_epoch()}', self.failed)
 		
 		return papers

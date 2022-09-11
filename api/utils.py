@@ -2,6 +2,8 @@
 '''
 import os
 import json
+import logging
+from time import time
 
 '''
 Save json data
@@ -40,3 +42,24 @@ def get_latest_log(conference, year, directory='temp'):
     
     return sorted([f for f in os.listdir(directory) if f.startswith(f'{conference}{year}')])[-1]
     
+
+'''
+'''
+def log_level(level):
+    level = level.lower()
+    
+    if level == 'debug':   return logging.DEBUG
+    if level == 'info':    return logging.INFO
+    if level == 'warning': return logging.WARNING
+    if level == 'error':   return logging.ERROR
+    if level == 'critcal': return logging.CRITICAL
+    
+    return ''
+
+
+'''
+Return Unix Epoch time in milliseconds
+'''
+def unix_epoch():
+    decimals = len(str(time()).split('.'))
+    return int(time() * 10**decimals)

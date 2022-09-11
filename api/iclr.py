@@ -6,7 +6,7 @@ import urllib.request
 from bs4 import BeautifulSoup
 
 class ICLR(object):
-	def __init__(self, year):
+	def __init__(self, year, logname):
 		self.year = str(year)
 		self.base = ''
 		self.proceedings_urls = {

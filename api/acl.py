@@ -17,7 +17,7 @@ from colorama import Fore, Style
 
 
 class ACL_Anthology(object):
-	def __init__(self, year):
+	def __init__(self, year, logname):
 		self.year = year
 		self.base = 'https://www.aclweb.org/anthology'
 

@@ -12,7 +12,7 @@ from bs4 import BeautifulSoup
 from colorama import Fore, Style
 
 class NeurIPS(object):
-	def __init__(self, year):
+	def __init__(self, year, logname):
 		self.year = str(year)
 		self.base = f'https://papers.nips.cc'
 
