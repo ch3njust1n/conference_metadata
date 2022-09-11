@@ -172,8 +172,6 @@ class ICML(object):
 			labs = self.get_institutions(paper['id'])
 			papers[i]['authors'] = self.combine_institutions(paper['authors'], labs, paper['id'])
    
-			if i == 100:
-				break
    
 		utils.save_json('./temp/failed', f'icml{self.year}-{utils.unix_epoch()}', self.failed)
 		
