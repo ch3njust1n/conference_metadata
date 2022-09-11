@@ -34,7 +34,7 @@ class ACL_Anthology(object):
 		pass
 
 
-	def accepted_papers(self):
+	def accepted_papers(self, use_checkpoint=True):
 		pass
 
 
