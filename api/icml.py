@@ -60,7 +60,7 @@ class ICML(object):
 			try:
 				resp = urllib.request.urlopen(speaker_url)
 				soup = BeautifulSoup(resp.read(), 'html.parser', from_encoding='utf-8')
-				return soup.find_all('h4')[0].text, True
+				return soup.find_all('h4')[0].text
 			except Exception:
 				if len(self.failed[eventID]) == 0:
 					self.failed[eventID].append((author, _id))
