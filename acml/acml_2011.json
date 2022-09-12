@@ -1,0 +1,536 @@
+[
+    {
+        "title": "Preface",
+        "authors": [
+            {
+                "given_name": "Chun-Nan",
+                "family_name": "Hsu",
+                "institution": null
+            },
+            {
+                "given_name": "Wee Sun",
+                "family_name": "Lee",
+                "institution": null
+            }
+        ],
+        "url": "http://proceedings.mlr.press/v20/hsu11/hsu11.pdf"
+    },
+    {
+        "title": "Improving Policy Gradient Estimates with Influence Information",
+        "authors": [
+            {
+                "given_name": "Jervis",
+                "family_name": "Pinto",
+                "institution": null
+            },
+            {
+                "given_name": "Alan",
+                "family_name": "Fern",
+                "institution": null
+            },
+            {
+                "given_name": "Tim",
+                "family_name": "Bauer",
+                "institution": null
+            },
+            {
+                "given_name": "Martin",
+                "family_name": "Erwig",
+                "institution": null
+            }
+        ],
+        "url": "http://proceedings.mlr.press/v20/pinto11/pinto11.pdf"
+    },
+    {
+        "title": "Continuous Rapid Action Value Estimates",
+        "authors": [
+            {
+                "given_name": "Adrien",
+                "family_name": "Couëtoux",
+                "institution": null
+            },
+            {
+                "given_name": "Mario",
+                "family_name": "Milone",
+                "institution": null
+            },
+            {
+                "given_name": "Mátyás",
+                "family_name": "Brendel",
+                "institution": null
+            },
+            {
+                "given_name": "Hassan",
+                "family_name": "Doghmen",
+                "institution": null
+            },
+            {
+                "given_name": "Michèle",
+                "family_name": "Sebag",
+                "institution": null
+            },
+            {
+                "given_name": "Olivier",
+                "family_name": "Teytaud",
+                "institution": null
+            }
+        ],
+        "url": "http://proceedings.mlr.press/v20/couetoux11/couetoux11.pdf"
+    },
+    {
+        "title": "Nonlinear Online Classification Algorithm with Probability Margin",
+        "authors": [
+            {
+                "given_name": "Mingmin",
+                "family_name": "Chi",
+                "institution": null
+            },
+            {
+                "given_name": "Huijun",
+                "family_name": "He",
+                "institution": null
+            },
+            {
+                "given_name": "Wenqiang",
+                "family_name": "Zhang",
+                "institution": null
+            }
+        ],
+        "url": "http://proceedings.mlr.press/v20/chi11/chi11.pdf"
+    },
+    {
+        "title": "Learning to Locate Relative Outliers",
+        "authors": [
+            {
+                "given_name": "Shukai",
+                "family_name": "Li",
+                "institution": null
+            },
+            {
+                "given_name": "Ivor W.",
+                "family_name": "Tsang",
+                "institution": null
+            }
+        ],
+        "url": "http://proceedings.mlr.press/v20/li11/li11.pdf"
+    },
+    {
+        "title": "Microbagging Estimators: An Ensemble Approach to Distance-weighted Classifiers",
+        "authors": [
+            {
+                "given_name": "Blaine",
+                "family_name": "Nelson",
+                "institution": null
+            },
+            {
+                "given_name": "Battista",
+                "family_name": "Biggio",
+                "institution": null
+            },
+            {
+                "given_name": "Pavel",
+                "family_name": "Laskov",
+                "institution": null
+            }
+        ],
+        "url": "http://proceedings.mlr.press/v20/nelson11/nelson11.pdf"
+    },
+    {
+        "title": "Bayesian Inference for Statistical Abduction Using Markov Chain Monte Carlo",
+        "authors": [
+            {
+                "given_name": "Masakuzu",
+                "family_name": "Ishihata",
+                "institution": null
+            },
+            {
+                "given_name": "Taisuke",
+                "family_name": "Sato",
+                "institution": null
+            }
+        ],
+        "url": "http://proceedings.mlr.press/v20/ishihata11/ishihata11.pdf"
+    },
+    {
+        "title": "Support Vector Machines Under Adversarial Label Noise",
+        "authors": [
+            {
+                "given_name": "Battista",
+                "family_name": "Biggio",
+                "institution": null
+            },
+            {
+                "given_name": "Blaine",
+                "family_name": "Nelson",
+                "institution": null
+            },
+            {
+                "given_name": "Pavel",
+                "family_name": "Laskov",
+                "institution": null
+            }
+        ],
+        "url": "http://proceedings.mlr.press/v20/biggio11/biggio11.pdf"
+    },
+    {
+        "title": "A General Linear Non-Gaussian State-Space Model: Identifiability, Identification, and Applications",
+        "authors": [
+            {
+                "given_name": "Kun",
+                "family_name": "Zhang",
+                "institution": null
+            },
+            {
+                "given_name": "Aapo",
+                "family_name": "Hyvärinen",
+                "institution": null
+            }
+        ],
+        "url": "http://proceedings.mlr.press/v20/zhang11/zhang11.pdf"
+    },
+    {
+        "title": "Unsupervised Multiple Kernel Learning",
+        "authors": [
+            {
+                "given_name": "Jinfeng",
+                "family_name": "Zhuang",
+                "institution": null
+            },
+            {
+                "given_name": "Jialei",
+                "family_name": "Wang",
+                "institution": null
+            },
+            {
+                "given_name": "Steven C. H.",
+                "family_name": "Hoi",
+                "institution": null
+            },
+            {
+                "given_name": "Xiangyang",
+                "family_name": "Lan",
+                "institution": null
+            }
+        ],
+        "url": "http://proceedings.mlr.press/v20/zhuang11/zhuang11.pdf"
+    },
+    {
+        "title": "Quadratic Weighted Automata:Spectral Algorithm and Likelihood Maximization",
+        "authors": [
+            {
+                "given_name": "Raphael",
+                "family_name": "Bailly",
+                "institution": null
+            }
+        ],
+        "url": "http://proceedings.mlr.press/v20/bailly11/bailly11.pdf"
+    },
+    {
+        "title": "Approximate Model Selection for Large Scale LSSVM",
+        "authors": [
+            {
+                "given_name": "Lizhong",
+                "family_name": "Ding",
+                "institution": null
+            },
+            {
+                "given_name": "Shizhong",
+                "family_name": "Liao",
+                "institution": null
+            }
+        ],
+        "url": "http://proceedings.mlr.press/v20/ding11/ding11.pdf"
+    },
+    {
+        "title": "Learning low-rank output kernels",
+        "authors": [
+            {
+                "given_name": "Francesco",
+                "family_name": "Dinuzzo",
+                "institution": null
+            },
+            {
+                "given_name": "Kenji",
+                "family_name": "Fukumizu",
+                "institution": null
+            }
+        ],
+        "url": "http://proceedings.mlr.press/v20/dinuzzo11/dinuzzo11.pdf"
+    },
+    {
+        "title": "Learning Rules from Incomplete Examples via Implicit Mention Models",
+        "authors": [
+            {
+                "given_name": "Janardhan Rao",
+                "family_name": "Doppa",
+                "institution": null
+            },
+            {
+                "given_name": "Mohammad Shahed",
+                "family_name": "Sorower",
+                "institution": null
+            },
+            {
+                "given_name": "Mohammad",
+                "family_name": "Nasresfahani",
+                "institution": null
+            },
+            {
+                "given_name": "Jed",
+                "family_name": "Irvine",
+                "institution": null
+            },
+            {
+                "given_name": "Walker",
+                "family_name": "Orr",
+                "institution": null
+            },
+            {
+                "given_name": "Thomas G.",
+                "family_name": "Dietterich",
+                "institution": null
+            },
+            {
+                "given_name": "Xiaoli",
+                "family_name": "Fern",
+                "institution": null
+            },
+            {
+                "given_name": "Prasad",
+                "family_name": "Tadepalli",
+                "institution": null
+            }
+        ],
+        "url": "http://proceedings.mlr.press/v20/doppa11/doppa11.pdf"
+    },
+    {
+        "title": "Mixed-Variate Restricted Boltzmann Machines",
+        "authors": [
+            {
+                "given_name": "Truyen",
+                "family_name": "Tran",
+                "institution": null
+            },
+            {
+                "given_name": "Dinh",
+                "family_name": "Phung",
+                "institution": null
+            },
+            {
+                "given_name": "Svetha",
+                "family_name": "Venkatesh",
+                "institution": null
+            }
+        ],
+        "url": "http://proceedings.mlr.press/v20/tran11/tran11.pdf"
+    },
+    {
+        "title": "Robust Generation of Dynamical Patterns in Human Motion by a Deep Belief Nets",
+        "authors": [
+            {
+                "given_name": "Sainbaya",
+                "family_name": "Sukhbaatar",
+                "institution": null
+            },
+            {
+                "given_name": "Takaki",
+                "family_name": "Makino",
+                "institution": null
+            },
+            {
+                "given_name": "Kazuyuki",
+                "family_name": "Aihara",
+                "institution": null
+            },
+            {
+                "given_name": "Takashi",
+                "family_name": "Chikayama",
+                "institution": null
+            }
+        ],
+        "url": "http://proceedings.mlr.press/v20/sukhbaatar11/sukhbaatar11.pdf"
+    },
+    {
+        "title": "Computationally Efficient Sufficient Dimension Reduction via Squared-Loss Mutual Information",
+        "authors": [
+            {
+                "given_name": "Makoto",
+                "family_name": "Yamada",
+                "institution": null
+            },
+            {
+                "given_name": "Gang",
+                "family_name": "Niu",
+                "institution": null
+            },
+            {
+                "given_name": "Jun",
+                "family_name": "Takagi",
+                "institution": null
+            },
+            {
+                "given_name": "Masashi",
+                "family_name": "Sugiyama",
+                "institution": null
+            }
+        ],
+        "url": "http://proceedings.mlr.press/v20/yamada11/yamada11.pdf"
+    },
+    {
+        "title": "Learning Attribute-weighted Voter Model over Social Networks",
+        "authors": [
+            {
+                "given_name": "Yuki",
+                "family_name": "Yamagishi",
+                "institution": null
+            },
+            {
+                "given_name": "Kazumi",
+                "family_name": "Saito",
+                "institution": null
+            },
+            {
+                "given_name": "Kouzou",
+                "family_name": "Ohara",
+                "institution": null
+            },
+            {
+                "given_name": "Masahiro",
+                "family_name": "Kimura",
+                "institution": null
+            },
+            {
+                "given_name": "Hiroshi",
+                "family_name": "Motoda",
+                "institution": null
+            }
+        ],
+        "url": "http://proceedings.mlr.press/v20/yamagishi11/yamagishi11.pdf"
+    },
+    {
+        "title": "Multi-label Classification with Error-correcting Codes",
+        "authors": [
+            {
+                "given_name": "Chung-Sung",
+                "family_name": "Ferng",
+                "institution": null
+            },
+            {
+                "given_name": "Hsuan-Tien",
+                "family_name": "Lin",
+                "institution": null
+            }
+        ],
+        "url": "http://proceedings.mlr.press/v20/ferng11/ferng11.pdf"
+    },
+    {
+        "title": "Estimating Diffusion Probability Changes for AsIC-SIS Model from Information Diffusion Results",
+        "authors": [
+            {
+                "given_name": "Akihiro",
+                "family_name": "Koide",
+                "institution": null
+            },
+            {
+                "given_name": "Kazumi",
+                "family_name": "Saito",
+                "institution": null
+            },
+            {
+                "given_name": "Kouzou",
+                "family_name": "Ohara",
+                "institution": null
+            },
+            {
+                "given_name": "Masahiro",
+                "family_name": "Kimura",
+                "institution": null
+            },
+            {
+                "given_name": "Hiroshi",
+                "family_name": "Motoda",
+                "institution": null
+            }
+        ],
+        "url": "http://proceedings.mlr.press/v20/koide11/koide11.pdf"
+    },
+    {
+        "title": "Multi-label Active Learning with Auxiliary Learner",
+        "authors": [
+            {
+                "given_name": "Chen-Wei",
+                "family_name": "Hung",
+                "institution": null
+            },
+            {
+                "given_name": "Hsuan-Tien",
+                "family_name": "Lin",
+                "institution": null
+            }
+        ],
+        "url": "http://proceedings.mlr.press/v20/hung11/hung11.pdf"
+    },
+    {
+        "title": "Acceleration Technique for Boosting Classification and its Application to Face Detection",
+        "authors": [
+            {
+                "given_name": "Masanori",
+                "family_name": "Kawakita",
+                "institution": null
+            },
+            {
+                "given_name": "Ryota",
+                "family_name": "Izumi",
+                "institution": null
+            },
+            {
+                "given_name": "Jun'Ichi",
+                "family_name": "Takeuchi",
+                "institution": null
+            },
+            {
+                "given_name": "Yi",
+                "family_name": "Hu",
+                "institution": null
+            },
+            {
+                "given_name": "Tetsuya",
+                "family_name": "Takamori",
+                "institution": null
+            },
+            {
+                "given_name": "Hirokazu",
+                "family_name": "Kameyama",
+                "institution": null
+            }
+        ],
+        "url": "http://proceedings.mlr.press/v20/kawakita11/kawakita11.pdf"
+    },
+    {
+        "title": "Summarization of Yes/No Questions Using a Feature Function Model",
+        "authors": [
+            {
+                "given_name": "Jing",
+                "family_name": "He",
+                "institution": null
+            },
+            {
+                "given_name": "Decheng",
+                "family_name": "Dai",
+                "institution": null
+            }
+        ],
+        "url": "http://proceedings.mlr.press/v20/he11/he11.pdf"
+    },
+    {
+        "title": "Mapping Kernels Defined Over Countably Infinite Mapping Systems and their Application",
+        "authors": [
+            {
+                "given_name": "Kilho",
+                "family_name": "Shin",
+                "institution": null
+            }
+        ],
+        "url": "http://proceedings.mlr.press/v20/shin11/shin11.pdf"
+    }
+]

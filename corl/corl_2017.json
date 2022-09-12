@@ -1,0 +1,1221 @@
+[
+    {
+        "title": "CARLA: An Open Urban Driving Simulator",
+        "authors": [
+            {
+                "given_name": "Alexey",
+                "family_name": "Dosovitskiy",
+                "institution": null
+            },
+            {
+                "given_name": "German",
+                "family_name": "Ros",
+                "institution": null
+            },
+            {
+                "given_name": "Felipe",
+                "family_name": "Codevilla",
+                "institution": null
+            },
+            {
+                "given_name": "Antonio",
+                "family_name": "Lopez",
+                "institution": null
+            },
+            {
+                "given_name": "Vladlen",
+                "family_name": "Koltun",
+                "institution": null
+            }
+        ],
+        "url": "http://proceedings.mlr.press/v78/dosovitskiy17a/dosovitskiy17a.pdf"
+    },
+    {
+        "title": "CORe50: a New Dataset and Benchmark for Continuous Object Recognition",
+        "authors": [
+            {
+                "given_name": "Vincenzo",
+                "family_name": "Lomonaco",
+                "institution": null
+            },
+            {
+                "given_name": "Davide",
+                "family_name": "Maltoni",
+                "institution": null
+            }
+        ],
+        "url": "http://proceedings.mlr.press/v78/lomonaco17a/lomonaco17a.pdf"
+    },
+    {
+        "title": "Fast Residual Forests: Rapid Ensemble Learning for Semantic Segmentation",
+        "authors": [
+            {
+                "given_name": "Yan",
+                "family_name": "Zuo",
+                "institution": null
+            },
+            {
+                "given_name": "Tom",
+                "family_name": "Drummond",
+                "institution": null
+            }
+        ],
+        "url": "http://proceedings.mlr.press/v78/zuo17a/zuo17a.pdf"
+    },
+    {
+        "title": "Active Incremental Learning of Robot Movement Primitives",
+        "authors": [
+            {
+                "given_name": "Guilherme",
+                "family_name": "Maeda",
+                "institution": null
+            },
+            {
+                "given_name": "Marco",
+                "family_name": "Ewerton",
+                "institution": null
+            },
+            {
+                "given_name": "Takayuki",
+                "family_name": "Osa",
+                "institution": null
+            },
+            {
+                "given_name": "Baptiste",
+                "family_name": "Busch",
+                "institution": null
+            },
+            {
+                "given_name": "Jan",
+                "family_name": "Peters",
+                "institution": null
+            }
+        ],
+        "url": "http://proceedings.mlr.press/v78/maeda17a/maeda17a.pdf"
+    },
+    {
+        "title": "Deep Kernels for Optimizing Locomotion Controllers",
+        "authors": [
+            {
+                "given_name": "Rika",
+                "family_name": "Antonova",
+                "institution": null
+            },
+            {
+                "given_name": "Akshara",
+                "family_name": "Rai",
+                "institution": null
+            },
+            {
+                "given_name": "Christopher G.",
+                "family_name": "Atkeson",
+                "institution": null
+            }
+        ],
+        "url": "http://proceedings.mlr.press/v78/antonova17a/antonova17a.pdf"
+    },
+    {
+        "title": "Efficient Automatic Perception System Parameter Tuning On Site without Expert Supervision",
+        "authors": [
+            {
+                "given_name": "Humphrey",
+                "family_name": "Hu",
+                "institution": null
+            },
+            {
+                "given_name": "George",
+                "family_name": "Kantor",
+                "institution": null
+            }
+        ],
+        "url": "http://proceedings.mlr.press/v78/hu17a/hu17a.pdf"
+    },
+    {
+        "title": "Opportunistic Active Learning for Grounding Natural Language Descriptions",
+        "authors": [
+            {
+                "given_name": "Jesse",
+                "family_name": "Thomason",
+                "institution": null
+            },
+            {
+                "given_name": "Aishwarya",
+                "family_name": "Padmakumar",
+                "institution": null
+            },
+            {
+                "given_name": "Jivko",
+                "family_name": "Sinapov",
+                "institution": null
+            },
+            {
+                "given_name": "Justin",
+                "family_name": "Hart",
+                "institution": null
+            },
+            {
+                "given_name": "Peter",
+                "family_name": "Stone",
+                "institution": null
+            },
+            {
+                "given_name": "Raymond J.",
+                "family_name": "Mooney",
+                "institution": null
+            }
+        ],
+        "url": "http://proceedings.mlr.press/v78/thomason17a/thomason17a.pdf"
+    },
+    {
+        "title": "Adaptable Pouring: Teaching Robots Not to Spill using Fast but Approximate Fluid Simulation",
+        "authors": [
+            {
+                "given_name": "Tatiana",
+                "family_name": "Lopez-Guevara",
+                "institution": null
+            },
+            {
+                "given_name": "Nicholas K",
+                "family_name": "Taylor",
+                "institution": null
+            },
+            {
+                "given_name": "Michael U",
+                "family_name": "Gutmann",
+                "institution": null
+            },
+            {
+                "given_name": "Subramanian",
+                "family_name": "Ramamoorthy",
+                "institution": null
+            },
+            {
+                "given_name": "Kartic",
+                "family_name": "Subr",
+                "institution": null
+            }
+        ],
+        "url": "http://proceedings.mlr.press/v78/lopez-guevara17a/lopez-guevara17a.pdf"
+    },
+    {
+        "title": "Improved Adversarial Systems for 3D Object Generation and Reconstruction",
+        "authors": [
+            {
+                "given_name": "Edward J.",
+                "family_name": "Smith",
+                "institution": null
+            },
+            {
+                "given_name": "David",
+                "family_name": "Meger",
+                "institution": null
+            }
+        ],
+        "url": "http://proceedings.mlr.press/v78/smith17a/smith17a.pdf"
+    },
+    {
+        "title": "Principal Variety Analysis",
+        "authors": [
+            {
+                "given_name": "Reza",
+                "family_name": "Iraji",
+                "institution": null
+            },
+            {
+                "given_name": "Hamidreza",
+                "family_name": "Chitsaz",
+                "institution": null
+            }
+        ],
+        "url": "http://proceedings.mlr.press/v78/iraji17a/iraji17a.pdf"
+    },
+    {
+        "title": "Towards Robust Skill Generalization: Unifying Learning from Demonstration and Motion Planning",
+        "authors": [
+            {
+                "given_name": "Muhammad Asif",
+                "family_name": "Rana",
+                "institution": null
+            },
+            {
+                "given_name": "Mustafa",
+                "family_name": "Mukadam",
+                "institution": null
+            },
+            {
+                "given_name": "Seyed Reza",
+                "family_name": "Ahmadzadeh",
+                "institution": null
+            },
+            {
+                "given_name": "Sonia",
+                "family_name": "Chernova",
+                "institution": null
+            },
+            {
+                "given_name": "Byron",
+                "family_name": "Boots",
+                "institution": null
+            }
+        ],
+        "url": "http://proceedings.mlr.press/v78/rana17a/rana17a.pdf"
+    },
+    {
+        "title": "End-to-End Learning of Semantic Grasping",
+        "authors": [
+            {
+                "given_name": "Eric",
+                "family_name": "Jang",
+                "institution": null
+            },
+            {
+                "given_name": "Sudheendra",
+                "family_name": "Vijayanarasimhan",
+                "institution": null
+            },
+            {
+                "given_name": "Peter",
+                "family_name": "Pastor",
+                "institution": null
+            },
+            {
+                "given_name": "Julian",
+                "family_name": "Ibarz",
+                "institution": null
+            },
+            {
+                "given_name": "Sergey",
+                "family_name": "Levine",
+                "institution": null
+            }
+        ],
+        "url": "http://proceedings.mlr.press/v78/jang17a/jang17a.pdf"
+    },
+    {
+        "title": "Aggressive Deep Driving: Combining Convolutional Neural Networks and Model Predictive Control",
+        "authors": [
+            {
+                "given_name": "Paul",
+                "family_name": "Drews",
+                "institution": null
+            },
+            {
+                "given_name": "Grady",
+                "family_name": "Williams",
+                "institution": null
+            },
+            {
+                "given_name": "Brian",
+                "family_name": "Goldfain",
+                "institution": null
+            },
+            {
+                "given_name": "Evangelos A.",
+                "family_name": "Theodorou",
+                "institution": null
+            },
+            {
+                "given_name": "James M.",
+                "family_name": "Rehg",
+                "institution": null
+            }
+        ],
+        "url": "http://proceedings.mlr.press/v78/drews17a/drews17a.pdf"
+    },
+    {
+        "title": "DART: Noise Injection for Robust Imitation Learning",
+        "authors": [
+            {
+                "given_name": "Michael",
+                "family_name": "Laskey",
+                "institution": null
+            },
+            {
+                "given_name": "Jonathan",
+                "family_name": "Lee",
+                "institution": null
+            },
+            {
+                "given_name": "Roy",
+                "family_name": "Fox",
+                "institution": null
+            },
+            {
+                "given_name": "Anca",
+                "family_name": "Dragan",
+                "institution": null
+            },
+            {
+                "given_name": "Ken",
+                "family_name": "Goldberg",
+                "institution": null
+            }
+        ],
+        "url": "http://proceedings.mlr.press/v78/laskey17a/laskey17a.pdf"
+    },
+    {
+        "title": "Semi-Supervised Haptic Material Recognition for Robots using Generative Adversarial Networks",
+        "authors": [
+            {
+                "given_name": "Zackory",
+                "family_name": "Erickson",
+                "institution": null
+            },
+            {
+                "given_name": "Sonia",
+                "family_name": "Chernova",
+                "institution": null
+            },
+            {
+                "given_name": "Charles C.",
+                "family_name": "Kemp",
+                "institution": null
+            }
+        ],
+        "url": "http://proceedings.mlr.press/v78/erickson17a/erickson17a.pdf"
+    },
+    {
+        "title": "Online Learning with Stochastic Recurrent Neural Networks using Intrinsic Motivation Signals",
+        "authors": [
+            {
+                "given_name": "Daniel",
+                "family_name": "Tanneberg",
+                "institution": null
+            },
+            {
+                "given_name": "Jan",
+                "family_name": "Peters",
+                "institution": null
+            },
+            {
+                "given_name": "Elmar",
+                "family_name": "Rueckert",
+                "institution": null
+            }
+        ],
+        "url": "http://proceedings.mlr.press/v78/tanneberg17a/tanneberg17a.pdf"
+    },
+    {
+        "title": "Learning Stable Task Sequences from Demonstration with Linear Parameter Varying Systems and Hidden Markov Models",
+        "authors": [
+            {
+                "given_name": "Jose R.",
+                "family_name": "Medina",
+                "institution": null
+            },
+            {
+                "given_name": "Aude",
+                "family_name": "Billard",
+                "institution": null
+            }
+        ],
+        "url": "http://proceedings.mlr.press/v78/medina17a/medina17a.pdf"
+    },
+    {
+        "title": "Intention-Net: Integrating Planning and Deep Learning for Goal-Directed Autonomous Navigation",
+        "authors": [
+            {
+                "given_name": "Wei",
+                "family_name": "Gao",
+                "institution": null
+            },
+            {
+                "given_name": "David",
+                "family_name": "Hsu",
+                "institution": null
+            },
+            {
+                "given_name": "Wee Sun",
+                "family_name": "Lee",
+                "institution": null
+            },
+            {
+                "given_name": "Shengmei",
+                "family_name": "Shen",
+                "institution": null
+            },
+            {
+                "given_name": "Karthikk",
+                "family_name": "Subramanian",
+                "institution": null
+            }
+        ],
+        "url": "http://proceedings.mlr.press/v78/gao17a/gao17a.pdf"
+    },
+    {
+        "title": "Uncertainty-driven Imagination for Continuous Deep Reinforcement Learning",
+        "authors": [
+            {
+                "given_name": "Gabriel",
+                "family_name": "Kalweit",
+                "institution": null
+            },
+            {
+                "given_name": "Joschka",
+                "family_name": "Boedecker",
+                "institution": null
+            }
+        ],
+        "url": "http://proceedings.mlr.press/v78/kalweit17a/kalweit17a.pdf"
+    },
+    {
+        "title": "The Intentional Unintentional Agent: Learning to Solve Many Continuous Control Tasks Simultaneously",
+        "authors": [
+            {
+                "given_name": "Serkan",
+                "family_name": "Cabi",
+                "institution": null
+            },
+            {
+                "given_name": "Sergio Gómez",
+                "family_name": "Colmenarejo",
+                "institution": null
+            },
+            {
+                "given_name": "Matthew W.",
+                "family_name": "Hoffman",
+                "institution": null
+            },
+            {
+                "given_name": "Misha",
+                "family_name": "Denil",
+                "institution": null
+            },
+            {
+                "given_name": "Ziyu",
+                "family_name": "Wang",
+                "institution": null
+            },
+            {
+                "given_name": "Nando",
+                "family_name": "Freitas",
+                "institution": null
+            }
+        ],
+        "url": "http://proceedings.mlr.press/v78/cabi17a/cabi17a.pdf"
+    },
+    {
+        "title": "Learning Robot Objectives from Physical Human Interaction",
+        "authors": [
+            {
+                "given_name": "Andrea",
+                "family_name": "Bajcsy",
+                "institution": null
+            },
+            {
+                "given_name": "Dylan P.",
+                "family_name": "Losey",
+                "institution": null
+            },
+            {
+                "given_name": "Marcia K.",
+                "family_name": "O’Malley",
+                "institution": null
+            },
+            {
+                "given_name": "Anca D.",
+                "family_name": "Dragan",
+                "institution": null
+            }
+        ],
+        "url": "http://proceedings.mlr.press/v78/bajcsy17a/bajcsy17a.pdf"
+    },
+    {
+        "title": "Optimizing Long-term Predictions for Model-based Policy Search",
+        "authors": [
+            {
+                "given_name": "Andreas",
+                "family_name": "Doerr",
+                "institution": null
+            },
+            {
+                "given_name": "Christian",
+                "family_name": "Daniel",
+                "institution": null
+            },
+            {
+                "given_name": "Duy",
+                "family_name": "Nguyen-Tuong",
+                "institution": null
+            },
+            {
+                "given_name": "Alonso",
+                "family_name": "Marco",
+                "institution": null
+            },
+            {
+                "given_name": "Stefan",
+                "family_name": "Schaal",
+                "institution": null
+            },
+            {
+                "given_name": "Toussaint",
+                "family_name": "Marc",
+                "institution": null
+            },
+            {
+                "given_name": "Sebastian",
+                "family_name": "Trimpe",
+                "institution": null
+            }
+        ],
+        "url": "http://proceedings.mlr.press/v78/doerr17a/doerr17a.pdf"
+    },
+    {
+        "title": "Learning Robotic Manipulation of Granular Media",
+        "authors": [
+            {
+                "given_name": "Connor",
+                "family_name": "Schenck",
+                "institution": null
+            },
+            {
+                "given_name": "Jonathan",
+                "family_name": "Tompson",
+                "institution": null
+            },
+            {
+                "given_name": "Sergey",
+                "family_name": "Levine",
+                "institution": null
+            },
+            {
+                "given_name": "Dieter",
+                "family_name": "Fox",
+                "institution": null
+            }
+        ],
+        "url": "http://proceedings.mlr.press/v78/schenck17a/schenck17a.pdf"
+    },
+    {
+        "title": "Learning End-to-end Multimodal Sensor Policies for Autonomous Navigation",
+        "authors": [
+            {
+                "given_name": "Guan-Horng",
+                "family_name": "Liu",
+                "institution": null
+            },
+            {
+                "given_name": "Avinash",
+                "family_name": "Siravuru",
+                "institution": null
+            },
+            {
+                "given_name": "Sai",
+                "family_name": "Prabhakar",
+                "institution": null
+            },
+            {
+                "given_name": "Manuela",
+                "family_name": "Veloso",
+                "institution": null
+            },
+            {
+                "given_name": "George",
+                "family_name": "Kantor",
+                "institution": null
+            }
+        ],
+        "url": "http://proceedings.mlr.press/v78/liu17a/liu17a.pdf"
+    },
+    {
+        "title": "Sim-to-Real Robot Learning from Pixels with Progressive Nets",
+        "authors": [
+            {
+                "given_name": "Andrei A.",
+                "family_name": "Rusu",
+                "institution": null
+            },
+            {
+                "given_name": "Matej",
+                "family_name": "Večerík",
+                "institution": null
+            },
+            {
+                "given_name": "Thomas",
+                "family_name": "Rothörl",
+                "institution": null
+            },
+            {
+                "given_name": "Nicolas",
+                "family_name": "Heess",
+                "institution": null
+            },
+            {
+                "given_name": "Razvan",
+                "family_name": "Pascanu",
+                "institution": null
+            },
+            {
+                "given_name": "Raia",
+                "family_name": "Hadsell",
+                "institution": null
+            }
+        ],
+        "url": "http://proceedings.mlr.press/v78/rusu17a/rusu17a.pdf"
+    },
+    {
+        "title": "Learning Heuristic Search via Imitation",
+        "authors": [
+            {
+                "given_name": "Mohak",
+                "family_name": "Bhardwaj",
+                "institution": null
+            },
+            {
+                "given_name": "Sanjiban",
+                "family_name": "Choudhury",
+                "institution": null
+            },
+            {
+                "given_name": "Sebastian",
+                "family_name": "Scherer",
+                "institution": null
+            }
+        ],
+        "url": "http://proceedings.mlr.press/v78/bhardwaj17a/bhardwaj17a.pdf"
+    },
+    {
+        "title": "Mutual Alignment Transfer Learning",
+        "authors": [
+            {
+                "given_name": "Markus",
+                "family_name": "Wulfmeier",
+                "institution": null
+            },
+            {
+                "given_name": "Ingmar",
+                "family_name": "Posner",
+                "institution": null
+            },
+            {
+                "given_name": "Pieter",
+                "family_name": "Abbeel",
+                "institution": null
+            }
+        ],
+        "url": "http://proceedings.mlr.press/v78/wulfmeier17a/wulfmeier17a.pdf"
+    },
+    {
+        "title": "Learning a visuomotor controller for real world robotic grasping using simulated depth images",
+        "authors": [
+            {
+                "given_name": "Ulrich",
+                "family_name": "Viereck",
+                "institution": null
+            },
+            {
+                "given_name": "Andreas",
+                "family_name": "Pas",
+                "institution": null
+            },
+            {
+                "given_name": "Kate",
+                "family_name": "Saenko",
+                "institution": null
+            },
+            {
+                "given_name": "Robert",
+                "family_name": "Platt",
+                "institution": null
+            }
+        ],
+        "url": "http://proceedings.mlr.press/v78/viereck17a/viereck17a.pdf"
+    },
+    {
+        "title": "Hierarchical Reinforcement Learning with Parameters",
+        "authors": [
+            {
+                "given_name": "Maciej",
+                "family_name": "Klimek",
+                "institution": null
+            },
+            {
+                "given_name": "Henryk",
+                "family_name": "Michalewski",
+                "institution": null
+            },
+            {
+                "given_name": "Piotr",
+                "family_name": "Mi\\Loś",
+                "institution": null
+            }
+        ],
+        "url": "http://proceedings.mlr.press/v78/klimek17a/klimek17a.pdf"
+    },
+    {
+        "title": "The Feeling of Success: Does Touch Sensing Help Predict Grasp Outcomes?",
+        "authors": [
+            {
+                "given_name": "Roberto",
+                "family_name": "Calandra",
+                "institution": null
+            },
+            {
+                "given_name": "Andrew",
+                "family_name": "Owens",
+                "institution": null
+            },
+            {
+                "given_name": "Manu",
+                "family_name": "Upadhyaya",
+                "institution": null
+            },
+            {
+                "given_name": "Wenzhen",
+                "family_name": "Yuan",
+                "institution": null
+            },
+            {
+                "given_name": "Justin",
+                "family_name": "Lin",
+                "institution": null
+            },
+            {
+                "given_name": "Edward H.",
+                "family_name": "Adelson",
+                "institution": null
+            },
+            {
+                "given_name": "Sergey",
+                "family_name": "Levine",
+                "institution": null
+            }
+        ],
+        "url": "http://proceedings.mlr.press/v78/calandra17a/calandra17a.pdf"
+    },
+    {
+        "title": "image2mass: Estimating the Mass of an Object from Its Image",
+        "authors": [
+            {
+                "given_name": "Trevor",
+                "family_name": "Standley",
+                "institution": null
+            },
+            {
+                "given_name": "Ozan",
+                "family_name": "Sener",
+                "institution": null
+            },
+            {
+                "given_name": "Dawn",
+                "family_name": "Chen",
+                "institution": null
+            },
+            {
+                "given_name": "Silvio",
+                "family_name": "Savarese",
+                "institution": null
+            }
+        ],
+        "url": "http://proceedings.mlr.press/v78/standley17a/standley17a.pdf"
+    },
+    {
+        "title": "Transferring End-to-End Visuomotor Control from Simulation to Real World for a Multi-Stage Task",
+        "authors": [
+            {
+                "given_name": "Stephen",
+                "family_name": "James",
+                "institution": null
+            },
+            {
+                "given_name": "Andrew J.",
+                "family_name": "Davison",
+                "institution": null
+            },
+            {
+                "given_name": "Edward",
+                "family_name": "Johns",
+                "institution": null
+            }
+        ],
+        "url": "http://proceedings.mlr.press/v78/james17a/james17a.pdf"
+    },
+    {
+        "title": "Self-Supervised Visual Planning with Temporal Skip Connections ",
+        "authors": [
+            {
+                "given_name": "Frederik",
+                "family_name": "Ebert",
+                "institution": null
+            },
+            {
+                "given_name": "Chelsea",
+                "family_name": "Finn",
+                "institution": null
+            },
+            {
+                "given_name": "Alex X.",
+                "family_name": "Lee",
+                "institution": null
+            },
+            {
+                "given_name": "Sergey",
+                "family_name": "Levine",
+                "institution": null
+            }
+        ],
+        "url": "http://proceedings.mlr.press/v78/frederik ebert17a/frederik ebert17a.pdf"
+    },
+    {
+        "title": "One-Shot Visual Imitation Learning via Meta-Learning",
+        "authors": [
+            {
+                "given_name": "Chelsea",
+                "family_name": "Finn",
+                "institution": null
+            },
+            {
+                "given_name": "Tianhe",
+                "family_name": "Yu",
+                "institution": null
+            },
+            {
+                "given_name": "Tianhao",
+                "family_name": "Zhang",
+                "institution": null
+            },
+            {
+                "given_name": "Pieter",
+                "family_name": "Abbeel",
+                "institution": null
+            },
+            {
+                "given_name": "Sergey",
+                "family_name": "Levine",
+                "institution": null
+            }
+        ],
+        "url": "http://proceedings.mlr.press/v78/finn17a/finn17a.pdf"
+    },
+    {
+        "title": "Learning Partially Contracting Dynamical Systems from Demonstrations",
+        "authors": [
+            {
+                "given_name": "Harish",
+                "family_name": "Ravichandar",
+                "institution": null
+            },
+            {
+                "given_name": "Iman",
+                "family_name": "Salehi",
+                "institution": null
+            },
+            {
+                "given_name": "Ashwin",
+                "family_name": "Dani",
+                "institution": null
+            }
+        ],
+        "url": "http://proceedings.mlr.press/v78/ravichandar17a/ravichandar17a.pdf"
+    },
+    {
+        "title": "Bayesian Interaction Primitives: A SLAM Approach to Human-Robot Interaction",
+        "authors": [
+            {
+                "given_name": "Joseph",
+                "family_name": "Campbell",
+                "institution": null
+            },
+            {
+                "given_name": "Heni Ben",
+                "family_name": "Amor",
+                "institution": null
+            }
+        ],
+        "url": "http://proceedings.mlr.press/v78/campbell17a/campbell17a.pdf"
+    },
+    {
+        "title": "Learning Data-Efficient Rigid-Body Contact Models: Case Study of Planar Impact",
+        "authors": [
+            {
+                "given_name": "Nima",
+                "family_name": "Fazeli",
+                "institution": null
+            },
+            {
+                "given_name": "Samuel",
+                "family_name": "Zapolsky",
+                "institution": null
+            },
+            {
+                "given_name": "Evan",
+                "family_name": "Drumwright",
+                "institution": null
+            },
+            {
+                "given_name": "Alberto",
+                "family_name": "Rodriguez",
+                "institution": null
+            }
+        ],
+        "url": "http://proceedings.mlr.press/v78/fazeli17a/fazeli17a.pdf"
+    },
+    {
+        "title": "Emergent Behaviors in Mixed-Autonomy Traffic",
+        "authors": [
+            {
+                "given_name": "Cathy",
+                "family_name": "Wu",
+                "institution": null
+            },
+            {
+                "given_name": "Aboudy",
+                "family_name": "Kreidieh",
+                "institution": null
+            },
+            {
+                "given_name": "Eugene",
+                "family_name": "Vinitsky",
+                "institution": null
+            },
+            {
+                "given_name": "Alexandre M.",
+                "family_name": "Bayen",
+                "institution": null
+            }
+        ],
+        "url": "http://proceedings.mlr.press/v78/wu17a/wu17a.pdf"
+    },
+    {
+        "title": "How Robots Learn to Classify New Objects Trained from Small Data Sets",
+        "authors": [
+            {
+                "given_name": "Tick Son",
+                "family_name": "Wang",
+                "institution": null
+            },
+            {
+                "given_name": "Zoltan-Csaba",
+                "family_name": "Marton",
+                "institution": null
+            },
+            {
+                "given_name": "Manuel",
+                "family_name": "Brucker",
+                "institution": null
+            },
+            {
+                "given_name": "Rudolph",
+                "family_name": "Triebel",
+                "institution": null
+            }
+        ],
+        "url": "http://proceedings.mlr.press/v78/wang17a/wang17a.pdf"
+    },
+    {
+        "title": "DDCO: Discovery of Deep Continuous Options for Robot Learning from Demonstrations",
+        "authors": [
+            {
+                "given_name": "Sanjay",
+                "family_name": "Krishnan",
+                "institution": null
+            },
+            {
+                "given_name": "Roy",
+                "family_name": "Fox",
+                "institution": null
+            },
+            {
+                "given_name": "Ion",
+                "family_name": "Stoica",
+                "institution": null
+            },
+            {
+                "given_name": "Ken",
+                "family_name": "Goldberg",
+                "institution": null
+            }
+        ],
+        "url": "http://proceedings.mlr.press/v78/krishnan17a/krishnan17a.pdf"
+    },
+    {
+        "title": "Extending Model-based Policy Gradients for Robots in Heteroscedastic Environments",
+        "authors": [
+            {
+                "given_name": "John",
+                "family_name": "Martin",
+                "institution": null
+            },
+            {
+                "given_name": "Brendan",
+                "family_name": "Englot",
+                "institution": null
+            }
+        ],
+        "url": "http://proceedings.mlr.press/v78/martin17a/martin17a.pdf"
+    },
+    {
+        "title": "Learning Human Utility from Video Demonstrations for Deductive Planning in Robotics",
+        "authors": [
+            {
+                "given_name": "Nishant",
+                "family_name": "Shukla",
+                "institution": null
+            },
+            {
+                "given_name": "Yunzhong",
+                "family_name": "He",
+                "institution": null
+            },
+            {
+                "given_name": "Frank",
+                "family_name": "Chen",
+                "institution": null
+            },
+            {
+                "given_name": "Song-Chun",
+                "family_name": "Zhu",
+                "institution": null
+            }
+        ],
+        "url": "http://proceedings.mlr.press/v78/shukla17a/shukla17a.pdf"
+    },
+    {
+        "title": "Bayesian Hilbert Maps for Dynamic Continuous Occupancy Mapping",
+        "authors": [
+            {
+                "given_name": "Ransalu",
+                "family_name": "Senanayake",
+                "institution": null
+            },
+            {
+                "given_name": "Fabio",
+                "family_name": "Ramos",
+                "institution": null
+            }
+        ],
+        "url": "http://proceedings.mlr.press/v78/senanayake17a/senanayake17a.pdf"
+    },
+    {
+        "title": "Learning Dynamics Across Similar Spatiotemporally-Evolving Physical Systems",
+        "authors": [
+            {
+                "given_name": "Joshua",
+                "family_name": "Whitman",
+                "institution": null
+            },
+            {
+                "given_name": "Girish",
+                "family_name": "Chowdhary",
+                "institution": null
+            }
+        ],
+        "url": "http://proceedings.mlr.press/v78/whitman17a/whitman17a.pdf"
+    },
+    {
+        "title": "Reverse Curriculum Generation for Reinforcement Learning",
+        "authors": [
+            {
+                "given_name": "Carlos",
+                "family_name": "Florensa",
+                "institution": null
+            },
+            {
+                "given_name": "David",
+                "family_name": "Held",
+                "institution": null
+            },
+            {
+                "given_name": "Markus",
+                "family_name": "Wulfmeier",
+                "institution": null
+            },
+            {
+                "given_name": "Michael",
+                "family_name": "Zhang",
+                "institution": null
+            },
+            {
+                "given_name": "Pieter",
+                "family_name": "Abbeel",
+                "institution": null
+            }
+        ],
+        "url": "http://proceedings.mlr.press/v78/florensa17a/florensa17a.pdf"
+    },
+    {
+        "title": "Fastron: An Online Learning-Based Model and Active Learning Strategy for Proxy Collision Detection",
+        "authors": [
+            {
+                "given_name": "Nikhil",
+                "family_name": "Das",
+                "institution": null
+            },
+            {
+                "given_name": "Naman",
+                "family_name": "Gupta",
+                "institution": null
+            },
+            {
+                "given_name": "Michael",
+                "family_name": "Yip",
+                "institution": null
+            }
+        ],
+        "url": "http://proceedings.mlr.press/v78/das17a/das17a.pdf"
+    },
+    {
+        "title": "Gradient-free Policy Architecture Search and Adaptation",
+        "authors": [
+            {
+                "given_name": "Sayna",
+                "family_name": "Ebrahimi",
+                "institution": null
+            },
+            {
+                "given_name": "Anna",
+                "family_name": "Rohrbach",
+                "institution": null
+            },
+            {
+                "given_name": "Trevor",
+                "family_name": "Darrell",
+                "institution": null
+            }
+        ],
+        "url": "http://proceedings.mlr.press/v78/ebrahimi17a/ebrahimi17a.pdf"
+    },
+    {
+        "title": "Learning Deep Policies for Robot Bin Picking by Simulating Robust Grasping Sequences",
+        "authors": [
+            {
+                "given_name": "Jeffrey",
+                "family_name": "Mahler",
+                "institution": null
+            },
+            {
+                "given_name": "Ken",
+                "family_name": "Goldberg",
+                "institution": null
+            }
+        ],
+        "url": "http://proceedings.mlr.press/v78/mahler17a/mahler17a.pdf"
+    },
+    {
+        "title": "Harvesting Common-sense Navigational Knowledge for Robotics from Uncurated Text Corpora",
+        "authors": [
+            {
+                "given_name": "Nancy",
+                "family_name": "Fulda",
+                "institution": null
+            },
+            {
+                "given_name": "Nathan",
+                "family_name": "Tibbetts",
+                "institution": null
+            },
+            {
+                "given_name": "Zachary",
+                "family_name": "Brown",
+                "institution": null
+            },
+            {
+                "given_name": "David",
+                "family_name": "Wingate",
+                "institution": null
+            }
+        ],
+        "url": "http://proceedings.mlr.press/v78/fulda17a/fulda17a.pdf"
+    }
+]

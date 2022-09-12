@@ -1,0 +1,470 @@
+[
+    {
+        "title": "Preface",
+        "authors": [
+            {
+                "given_name": "Masashi",
+                "family_name": "Sugiyama",
+                "institution": null
+            },
+            {
+                "given_name": "Qiang",
+                "family_name": "Yang",
+                "institution": null
+            }
+        ],
+        "url": "http://proceedings.mlr.press/v13/sugiyama10a/sugiyama10a.pdf"
+    },
+    {
+        "title": "Pairwise Measures of Causal Direction in Linear Non-Gaussian Acyclic Models",
+        "authors": [
+            {
+                "given_name": "Aapo",
+                "family_name": "Hyvarinen",
+                "institution": null
+            }
+        ],
+        "url": "http://proceedings.mlr.press/v13/hyvarinen10a/hyvarinen10a.pdf"
+    },
+    {
+        "title": "Learning Polyhedral Classifiers Using Logistic Function",
+        "authors": [
+            {
+                "given_name": "Naresh",
+                "family_name": "Manwani",
+                "institution": null
+            },
+            {
+                "given_name": "P. S.",
+                "family_name": "Sastry",
+                "institution": null
+            }
+        ],
+        "url": "http://proceedings.mlr.press/v13/manwani10a/manwani10a.pdf"
+    },
+    {
+        "title": "Ellipsoidal Support Vector Machines",
+        "authors": [
+            {
+                "given_name": "Michinari",
+                "family_name": "Momma",
+                "institution": null
+            },
+            {
+                "given_name": "Kohei",
+                "family_name": "Hatano",
+                "institution": null
+            },
+            {
+                "given_name": "Hiroki",
+                "family_name": "Nakayama",
+                "institution": null
+            }
+        ],
+        "url": "http://proceedings.mlr.press/v13/momma10a/momma10a.pdf"
+    },
+    {
+        "title": "Minimum Conditional Entropy Clustering: A Discriminative Framework for Clustering",
+        "authors": [
+            {
+                "given_name": "Bo",
+                "family_name": "Dai",
+                "institution": null
+            },
+            {
+                "given_name": "Baogang",
+                "family_name": "Hu",
+                "institution": null
+            }
+        ],
+        "url": "http://proceedings.mlr.press/v13/dai10a/dai10a.pdf"
+    },
+    {
+        "title": "Efficient Collapsed Gibbs Sampling for Latent Dirichlet Allocation",
+        "authors": [
+            {
+                "given_name": "Han",
+                "family_name": "Xiao",
+                "institution": null
+            },
+            {
+                "given_name": "Thomas",
+                "family_name": "Stibor",
+                "institution": null
+            }
+        ],
+        "url": "http://proceedings.mlr.press/v13/xiao10a/xiao10a.pdf"
+    },
+    {
+        "title": "Variational Relevance Vector Machine for Tabular Data",
+        "authors": [
+            {
+                "given_name": "Dmitry",
+                "family_name": "Kropotov",
+                "institution": null
+            },
+            {
+                "given_name": "Dmitry",
+                "family_name": "Vetrov",
+                "institution": null
+            },
+            {
+                "given_name": "Lior",
+                "family_name": "Wolf",
+                "institution": null
+            },
+            {
+                "given_name": "Tal",
+                "family_name": "Hassner",
+                "institution": null
+            }
+        ],
+        "url": "http://proceedings.mlr.press/v13/kropotov10a/kropotov10a.pdf"
+    },
+    {
+        "title": "Hierarchical Gaussian Process Regression",
+        "authors": [
+            {
+                "given_name": "Sunho",
+                "family_name": "Park",
+                "institution": null
+            },
+            {
+                "given_name": "Seungjin",
+                "family_name": "Choi",
+                "institution": null
+            }
+        ],
+        "url": "http://proceedings.mlr.press/v13/park10a/park10a.pdf"
+    },
+    {
+        "title": "Content-based Image Retrieval with Multinomial Relevance Feedback",
+        "authors": [
+            {
+                "given_name": "Dorota",
+                "family_name": "Glowacka",
+                "institution": null
+            },
+            {
+                "given_name": "John",
+                "family_name": "Shawe-Taylor",
+                "institution": null
+            }
+        ],
+        "url": "http://proceedings.mlr.press/v13/glowacka10a/glowacka10a.pdf"
+    },
+    {
+        "title": "The Coding Divergence for Measuring the Complexity of Separating Two Sets",
+        "authors": [
+            {
+                "given_name": "Mahito",
+                "family_name": "Sugiyama",
+                "institution": null
+            },
+            {
+                "given_name": "Akihiro",
+                "family_name": "Yamamoto",
+                "institution": null
+            }
+        ],
+        "url": "http://proceedings.mlr.press/v13/sugiyama10b/sugiyama10b.pdf"
+    },
+    {
+        "title": "Single versus Multiple Sorting in All Pairs Similarity Search",
+        "authors": [
+            {
+                "given_name": "Yasuo",
+                "family_name": "Tabei",
+                "institution": null
+            },
+            {
+                "given_name": "Takeaki",
+                "family_name": "Uno",
+                "institution": null
+            },
+            {
+                "given_name": "Masashi",
+                "family_name": "Sugiyama",
+                "institution": null
+            },
+            {
+                "given_name": "Koji",
+                "family_name": "Tsuda",
+                "institution": null
+            }
+        ],
+        "url": "http://proceedings.mlr.press/v13/tabei10a/tabei10a.pdf"
+    },
+    {
+        "title": "An EM Algorithm on BDDs with Order Encoding for Logic-based Probabilistic Models",
+        "authors": [
+            {
+                "given_name": "Masakazu",
+                "family_name": "Ishihata",
+                "institution": null
+            },
+            {
+                "given_name": "Yoshitaka",
+                "family_name": "Kameya",
+                "institution": null
+            },
+            {
+                "given_name": "Taisuke",
+                "family_name": "Sato",
+                "institution": null
+            },
+            {
+                "given_name": "Shin-Ichi",
+                "family_name": "Minato",
+                "institution": null
+            }
+        ],
+        "url": "http://proceedings.mlr.press/v13/ishihata10a/ishihata10a.pdf"
+    },
+    {
+        "title": "Exploiting the High Predictive Power of Multi-class Subgroups",
+        "authors": [
+            {
+                "given_name": "Tarek",
+                "family_name": "Abudawood",
+                "institution": null
+            },
+            {
+                "given_name": "Peter",
+                "family_name": "Flach",
+                "institution": null
+            }
+        ],
+        "url": "http://proceedings.mlr.press/v13/abudawood10a/abudawood10a.pdf"
+    },
+    {
+        "title": "Generative Models of Information Diffusion with Asynchronous Timedelay",
+        "authors": [
+            {
+                "given_name": "Kazumi",
+                "family_name": "Saito",
+                "institution": null
+            },
+            {
+                "given_name": "Masahiro",
+                "family_name": "Kimura",
+                "institution": null
+            },
+            {
+                "given_name": "Kouzou",
+                "family_name": "Ohara",
+                "institution": null
+            },
+            {
+                "given_name": "Hiroshi",
+                "family_name": "Motoda",
+                "institution": null
+            }
+        ],
+        "url": "http://proceedings.mlr.press/v13/saito10a/saito10a.pdf"
+    },
+    {
+        "title": "Decision Tree for Dynamic and Uncertain Data Streams",
+        "authors": [
+            {
+                "given_name": "Chunquan",
+                "family_name": "Liang",
+                "institution": null
+            },
+            {
+                "given_name": "Yang",
+                "family_name": "Zhang",
+                "institution": null
+            },
+            {
+                "given_name": "Qun",
+                "family_name": "Song",
+                "institution": null
+            }
+        ],
+        "url": "http://proceedings.mlr.press/v13/liang10a/liang10a.pdf"
+    },
+    {
+        "title": "Accurate Ensembles for Data Streams: Combining Restricted Hoeffding Trees using Stacking",
+        "authors": [
+            {
+                "given_name": "Albert",
+                "family_name": "Bifet",
+                "institution": null
+            },
+            {
+                "given_name": "Eibe",
+                "family_name": "Frank",
+                "institution": null
+            },
+            {
+                "given_name": "Geoffrey",
+                "family_name": "Holmes",
+                "institution": null
+            },
+            {
+                "given_name": "Bernhard",
+                "family_name": "Pfahringer",
+                "institution": null
+            }
+        ],
+        "url": "http://proceedings.mlr.press/v13/bifet10a/bifet10a.pdf"
+    },
+    {
+        "title": "Mining Recurring Concept Drifts with Limited Labeled Streaming Data",
+        "authors": [
+            {
+                "given_name": "Peipei",
+                "family_name": "Li",
+                "institution": null
+            },
+            {
+                "given_name": "Xindong",
+                "family_name": "Wu",
+                "institution": null
+            },
+            {
+                "given_name": "Xuegang",
+                "family_name": "Hu",
+                "institution": null
+            }
+        ],
+        "url": "http://proceedings.mlr.press/v13/li10a/li10a.pdf"
+    },
+    {
+        "title": "Hierarchical Convex NMF for Clustering Massive Data",
+        "authors": [
+            {
+                "given_name": "Kristian",
+                "family_name": "Kersting",
+                "institution": null
+            },
+            {
+                "given_name": "Mirwaes",
+                "family_name": "Wahabzada",
+                "institution": null
+            },
+            {
+                "given_name": "Christian",
+                "family_name": "Thurau",
+                "institution": null
+            },
+            {
+                "given_name": "Christian",
+                "family_name": "Bauckhage",
+                "institution": null
+            }
+        ],
+        "url": "http://proceedings.mlr.press/v13/kersting10a/kersting10a.pdf"
+    },
+    {
+        "title": "Multi-task Learning for Recommender System",
+        "authors": [
+            {
+                "given_name": "Xia",
+                "family_name": "Ning",
+                "institution": null
+            },
+            {
+                "given_name": "George",
+                "family_name": "Karypis",
+                "institution": null
+            }
+        ],
+        "url": "http://proceedings.mlr.press/v13/ning10a/ning10a.pdf"
+    },
+    {
+        "title": "Adaptive Step-size Policy Gradients with Average Reward Metric",
+        "authors": [
+            {
+                "given_name": "Takamitsu",
+                "family_name": "Matsubara",
+                "institution": null
+            },
+            {
+                "given_name": "Tetsuro",
+                "family_name": "Morimura",
+                "institution": null
+            },
+            {
+                "given_name": "Jun",
+                "family_name": "Morimoto",
+                "institution": null
+            }
+        ],
+        "url": "http://proceedings.mlr.press/v13/matsubara10a/matsubara10a.pdf"
+    },
+    {
+        "title": "Finite-sample Analysis of Bellman Residual Minimization",
+        "authors": [
+            {
+                "given_name": "Odalric-Ambrym",
+                "family_name": "Maillard",
+                "institution": null
+            },
+            {
+                "given_name": "Remi",
+                "family_name": "Munos",
+                "institution": null
+            },
+            {
+                "given_name": "Alessandro",
+                "family_name": "Lazaric",
+                "institution": null
+            },
+            {
+                "given_name": "Mohammad",
+                "family_name": "Ghavamzadeh",
+                "institution": null
+            }
+        ],
+        "url": "http://proceedings.mlr.press/v13/maillard10a/maillard10a.pdf"
+    },
+    {
+        "title": "A Study of Approximate Inference in Probabilistic Relational Models",
+        "authors": [
+            {
+                "given_name": "Fabian",
+                "family_name": "Kaelin",
+                "institution": null
+            },
+            {
+                "given_name": "Doina",
+                "family_name": "Precup",
+                "institution": null
+            }
+        ],
+        "url": "http://proceedings.mlr.press/v13/kaelin10a/kaelin10a.pdf"
+    },
+    {
+        "title": "Conceptual Imitation Learning: An Application to Human-robot Interaction",
+        "authors": [
+            {
+                "given_name": "Hossein",
+                "family_name": "Hajimirsadeghi",
+                "institution": null
+            },
+            {
+                "given_name": "Majid Nili",
+                "family_name": "Ahmadabadi",
+                "institution": null
+            },
+            {
+                "given_name": "Mostafa",
+                "family_name": "Ajallooeian",
+                "institution": null
+            },
+            {
+                "given_name": "Babak",
+                "family_name": "Araabi",
+                "institution": null
+            },
+            {
+                "given_name": "Hadi",
+                "family_name": "Moradi",
+                "institution": null
+            }
+        ],
+        "url": "http://proceedings.mlr.press/v13/hajimirsadeghi10a/hajimirsadeghi10a.pdf"
+    }
+]
