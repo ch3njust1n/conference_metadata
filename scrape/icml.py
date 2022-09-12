@@ -167,7 +167,6 @@ class ICML(object):
 	
 			utils.save_json('./temp', f'icml{self.year}-{utils.unix_epoch()}', papers)
   
-		# for i, paper in enumerate(tqdm(papers)):
 		def function(paper):
 			labs = self.get_institutions(paper['id'])
 			paper['authors'] = self.combine_institutions(paper['authors'], labs, paper['id'])

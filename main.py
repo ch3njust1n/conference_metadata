@@ -5,8 +5,8 @@ import logging
 import configparser
 from time import time
 
-import api.metadata as md
-import api.utils as utils
+import scrape.metadata as md
+import scrape.utils as utils
 
 
 def convert_bool(val):
@@ -36,10 +36,10 @@ def main():
 	if not os.path.isdir('temp') or not os.path.isdir('temp/failed'):
 		os.makedirs('temp/failed', exist_ok=True)
   
-	if not os.path.isdir('logs'):
-		os.makedirs('logs', exist_ok=True)
+	if not os.path.isdir('temp/logs'):
+		os.makedirs('temp/logs', exist_ok=True)
   
-	logname = f'logs/{name}{year}-{utils.unix_epoch()}.log'
+	logname = f'temp/logs/{name}{year}-{utils.unix_epoch()}.log'
  
 	print(f'log file: {logname}')
   
