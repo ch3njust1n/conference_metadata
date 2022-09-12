@@ -1,0 +1,4878 @@
+[
+    {
+        "title": "Proceedings of the thirty-seventh conference on Uncertainty in Artificial Intelligence — Preface",
+        "authors": [
+            {
+                "given_name": "Cassio De",
+                "family_name": "Campos",
+                "institution": null
+            },
+            {
+                "given_name": "Marloes H.",
+                "family_name": "Maathuis",
+                "institution": null
+            },
+            {
+                "given_name": "Erik",
+                "family_name": "Quaeghebeur",
+                "institution": null
+            }
+        ],
+        "url": "https://proceedings.mlr.press/v161/campos21a/campos21a.pdf"
+    },
+    {
+        "title": "The neural moving average model for scalable variational inference of state space models",
+        "authors": [
+            {
+                "given_name": "Thomas",
+                "family_name": "Ryder",
+                "institution": null
+            },
+            {
+                "given_name": "Dennis",
+                "family_name": "Prangle",
+                "institution": null
+            },
+            {
+                "given_name": "Andrew",
+                "family_name": "Golightly",
+                "institution": null
+            },
+            {
+                "given_name": "Isaac",
+                "family_name": "Matthews",
+                "institution": null
+            }
+        ],
+        "url": "https://proceedings.mlr.press/v161/ryder21a/ryder21a.pdf"
+    },
+    {
+        "title": "Task similarity aware meta learning: theory-inspired improvement on MAML",
+        "authors": [
+            {
+                "given_name": "Pan",
+                "family_name": "Zhou",
+                "institution": null
+            },
+            {
+                "given_name": "Yingtian",
+                "family_name": "Zou",
+                "institution": null
+            },
+            {
+                "given_name": "Xiao-Tong",
+                "family_name": "Yuan",
+                "institution": null
+            },
+            {
+                "given_name": "Jiashi",
+                "family_name": "Feng",
+                "institution": null
+            },
+            {
+                "given_name": "Caiming",
+                "family_name": "Xiong",
+                "institution": null
+            },
+            {
+                "given_name": "Steven",
+                "family_name": "Hoi",
+                "institution": null
+            }
+        ],
+        "url": "https://proceedings.mlr.press/v161/zhou21a/zhou21a.pdf"
+    },
+    {
+        "title": "Efficient debiased evidence estimation by multilevel Monte Carlo sampling",
+        "authors": [
+            {
+                "given_name": "Kei",
+                "family_name": "Ishikawa",
+                "institution": null
+            },
+            {
+                "given_name": "Takashi",
+                "family_name": "Goda",
+                "institution": null
+            }
+        ],
+        "url": "https://proceedings.mlr.press/v161/ishikawa21a/ishikawa21a.pdf"
+    },
+    {
+        "title": "Variational inference with continuously-indexed normalizing flows",
+        "authors": [
+            {
+                "given_name": "Anthony",
+                "family_name": "Caterini",
+                "institution": null
+            },
+            {
+                "given_name": "Rob",
+                "family_name": "Cornish",
+                "institution": null
+            },
+            {
+                "given_name": "Dino",
+                "family_name": "Sejdinovic",
+                "institution": null
+            },
+            {
+                "given_name": "Arnaud",
+                "family_name": "Doucet",
+                "institution": null
+            }
+        ],
+        "url": "https://proceedings.mlr.press/v161/caterini21a/caterini21a.pdf"
+    },
+    {
+        "title": "TreeBERT: A tree-based pre-trained model for programming language",
+        "authors": [
+            {
+                "given_name": "Xue",
+                "family_name": "Jiang",
+                "institution": null
+            },
+            {
+                "given_name": "Zhuoran",
+                "family_name": "Zheng",
+                "institution": null
+            },
+            {
+                "given_name": "Chen",
+                "family_name": "Lyu",
+                "institution": null
+            },
+            {
+                "given_name": "Liang",
+                "family_name": "Li",
+                "institution": null
+            },
+            {
+                "given_name": "Lei",
+                "family_name": "Lyu",
+                "institution": null
+            }
+        ],
+        "url": "https://proceedings.mlr.press/v161/jiang21a/jiang21a.pdf"
+    },
+    {
+        "title": "Competitive policy optimization",
+        "authors": [
+            {
+                "given_name": "Manish",
+                "family_name": "Prajapat",
+                "institution": null
+            },
+            {
+                "given_name": "Kamyar",
+                "family_name": "Azizzadenesheli",
+                "institution": null
+            },
+            {
+                "given_name": "Alexander",
+                "family_name": "Liniger",
+                "institution": null
+            },
+            {
+                "given_name": "Yisong",
+                "family_name": "Yue",
+                "institution": null
+            },
+            {
+                "given_name": "Anima",
+                "family_name": "Anandkumar",
+                "institution": null
+            }
+        ],
+        "url": "https://proceedings.mlr.press/v161/prajapat21a/prajapat21a.pdf"
+    },
+    {
+        "title": "Improving uncertainty calibration of deep neural networks via truth discovery and geometric optimization",
+        "authors": [
+            {
+                "given_name": "Chunwei",
+                "family_name": "Ma",
+                "institution": null
+            },
+            {
+                "given_name": "Ziyun",
+                "family_name": "Huang",
+                "institution": null
+            },
+            {
+                "given_name": "Jiayi",
+                "family_name": "Xian",
+                "institution": null
+            },
+            {
+                "given_name": "Mingchen",
+                "family_name": "Gao",
+                "institution": null
+            },
+            {
+                "given_name": "Jinhui",
+                "family_name": "Xu",
+                "institution": null
+            }
+        ],
+        "url": "https://proceedings.mlr.press/v161/ma21a/ma21a.pdf"
+    },
+    {
+        "title": "Incorporating causal graphical prior knowledge into predictive modeling via simple data augmentation",
+        "authors": [
+            {
+                "given_name": "Takeshi",
+                "family_name": "Teshima",
+                "institution": null
+            },
+            {
+                "given_name": "Masashi",
+                "family_name": "Sugiyama",
+                "institution": null
+            }
+        ],
+        "url": "https://proceedings.mlr.press/v161/teshima21a/teshima21a.pdf"
+    },
+    {
+        "title": "Causal additive models with unobserved variables",
+        "authors": [
+            {
+                "given_name": "Takashi Nicholas",
+                "family_name": "Maeda",
+                "institution": null
+            },
+            {
+                "given_name": "Shohei",
+                "family_name": "Shimizu",
+                "institution": null
+            }
+        ],
+        "url": "https://proceedings.mlr.press/v161/maeda21a/maeda21a.pdf"
+    },
+    {
+        "title": "A variational approximation for analyzing the dynamics of panel data",
+        "authors": [
+            {
+                "given_name": "Jurijs",
+                "family_name": "Nazarovs",
+                "institution": null
+            },
+            {
+                "given_name": "Rudrasis",
+                "family_name": "Chakraborty",
+                "institution": null
+            },
+            {
+                "given_name": "Songwong",
+                "family_name": "Tasneeyapant",
+                "institution": null
+            },
+            {
+                "given_name": "Sathya",
+                "family_name": "Ravi",
+                "institution": null
+            },
+            {
+                "given_name": "Vikas",
+                "family_name": "Singh",
+                "institution": null
+            }
+        ],
+        "url": "https://proceedings.mlr.press/v161/nazarovs21a/nazarovs21a.pdf"
+    },
+    {
+        "title": "Graph reparameterizations for enabling 1000+ Monte Carlo iterations in Bayesian deep neural networks",
+        "authors": [
+            {
+                "given_name": "Jurijs",
+                "family_name": "Nazarovs",
+                "institution": null
+            },
+            {
+                "given_name": "Ronak R.",
+                "family_name": "Mehta",
+                "institution": null
+            },
+            {
+                "given_name": "Vishnu Suresh",
+                "family_name": "Lokhande",
+                "institution": null
+            },
+            {
+                "given_name": "Vikas",
+                "family_name": "Singh",
+                "institution": null
+            }
+        ],
+        "url": "https://proceedings.mlr.press/v161/nazarovs21b/nazarovs21b.pdf"
+    },
+    {
+        "title": "The curious case of adversarially robust models: More data can help, double descend, or hurt generalization",
+        "authors": [
+            {
+                "given_name": "Yifei",
+                "family_name": "Min",
+                "institution": null
+            },
+            {
+                "given_name": "Lin",
+                "family_name": "Chen",
+                "institution": null
+            },
+            {
+                "given_name": "Amin",
+                "family_name": "Karbasi",
+                "institution": null
+            }
+        ],
+        "url": "https://proceedings.mlr.press/v161/min21a/min21a.pdf"
+    },
+    {
+        "title": "Contrastive prototype learning with augmented embeddings for few-shot learning",
+        "authors": [
+            {
+                "given_name": "Yizhao",
+                "family_name": "Gao",
+                "institution": null
+            },
+            {
+                "given_name": "Nanyi",
+                "family_name": "Fei",
+                "institution": null
+            },
+            {
+                "given_name": "Guangzhen",
+                "family_name": "Liu",
+                "institution": null
+            },
+            {
+                "given_name": "Zhiwu",
+                "family_name": "Lu",
+                "institution": null
+            },
+            {
+                "given_name": "Tao",
+                "family_name": "Xiang",
+                "institution": null
+            }
+        ],
+        "url": "https://proceedings.mlr.press/v161/gao21a/gao21a.pdf"
+    },
+    {
+        "title": "XOR-SGD: provable convex stochastic optimization for decision-making under uncertainty",
+        "authors": [
+            {
+                "given_name": "Fan",
+                "family_name": "Ding",
+                "institution": null
+            },
+            {
+                "given_name": "Yexiang",
+                "family_name": "Xue",
+                "institution": null
+            }
+        ],
+        "url": "https://proceedings.mlr.press/v161/ding21a/ding21a.pdf"
+    },
+    {
+        "title": "Path dependent structural equation models",
+        "authors": [
+            {
+                "given_name": "Ranjani",
+                "family_name": "Srinivasan",
+                "institution": null
+            },
+            {
+                "given_name": "Jaron J. R.",
+                "family_name": "Lee",
+                "institution": null
+            },
+            {
+                "given_name": "Rohit",
+                "family_name": "Bhattacharya",
+                "institution": null
+            },
+            {
+                "given_name": "Ilya",
+                "family_name": "Shpitser",
+                "institution": null
+            }
+        ],
+        "url": "https://proceedings.mlr.press/v161/srinivasan21a/srinivasan21a.pdf"
+    },
+    {
+        "title": "Featurized density ratio estimation",
+        "authors": [
+            {
+                "given_name": "Kristy",
+                "family_name": "Choi",
+                "institution": null
+            },
+            {
+                "given_name": "Madeline",
+                "family_name": "Liao",
+                "institution": null
+            },
+            {
+                "given_name": "Stefano",
+                "family_name": "Ermon",
+                "institution": null
+            }
+        ],
+        "url": "https://proceedings.mlr.press/v161/choi21a/choi21a.pdf"
+    },
+    {
+        "title": "Variance reduction in frequency estimators via control variates method",
+        "authors": [
+            {
+                "given_name": "Rameshwar",
+                "family_name": "Pratap",
+                "institution": null
+            },
+            {
+                "given_name": "Raghav",
+                "family_name": "Kulkarni",
+                "institution": null
+            }
+        ],
+        "url": "https://proceedings.mlr.press/v161/pratap21a/pratap21a.pdf"
+    },
+    {
+        "title": "Application of kernel hypothesis testing on set-valued data",
+        "authors": [
+            {
+                "given_name": "Alexis",
+                "family_name": "Bellot",
+                "institution": null
+            },
+            {
+                "given_name": "Mihaela Van Der",
+                "family_name": "Schaar",
+                "institution": null
+            }
+        ],
+        "url": "https://proceedings.mlr.press/v161/bellot21a/bellot21a.pdf"
+    },
+    {
+        "title": "A kernel two-sample test with selection bias",
+        "authors": [
+            {
+                "given_name": "Alexis",
+                "family_name": "Bellot",
+                "institution": null
+            },
+            {
+                "given_name": "Mihaela Van Der",
+                "family_name": "Schaar",
+                "institution": null
+            }
+        ],
+        "url": "https://proceedings.mlr.press/v161/bellot21b/bellot21b.pdf"
+    },
+    {
+        "title": "An unsupervised video game playstyle metric via state discretization",
+        "authors": [
+            {
+                "given_name": "Chiu-Chou",
+                "family_name": "Lin",
+                "institution": null
+            },
+            {
+                "given_name": "Wei-Chen",
+                "family_name": "Chiu",
+                "institution": null
+            },
+            {
+                "given_name": "I-Chen",
+                "family_name": "Wu",
+                "institution": null
+            }
+        ],
+        "url": "https://proceedings.mlr.press/v161/lin21a/lin21a.pdf"
+    },
+    {
+        "title": "Most: multi-source domain adaptation via optimal transport for student-teacher learning",
+        "authors": [
+            {
+                "given_name": "Tuan",
+                "family_name": "Nguyen",
+                "institution": null
+            },
+            {
+                "given_name": "Trung",
+                "family_name": "Le",
+                "institution": null
+            },
+            {
+                "given_name": "He",
+                "family_name": "Zhao",
+                "institution": null
+            },
+            {
+                "given_name": "Quan Hung",
+                "family_name": "Tran",
+                "institution": null
+            },
+            {
+                "given_name": "Truyen",
+                "family_name": "Nguyen",
+                "institution": null
+            },
+            {
+                "given_name": "Dinh",
+                "family_name": "Phung",
+                "institution": null
+            }
+        ],
+        "url": "https://proceedings.mlr.press/v161/nguyen21a/nguyen21a.pdf"
+    },
+    {
+        "title": "Constrained labeling for weakly supervised learning",
+        "authors": [
+            {
+                "given_name": "Chidubem",
+                "family_name": "Arachie",
+                "institution": null
+            },
+            {
+                "given_name": "Bert",
+                "family_name": "Huang",
+                "institution": null
+            }
+        ],
+        "url": "https://proceedings.mlr.press/v161/arachie21a/arachie21a.pdf"
+    },
+    {
+        "title": "Communication efficient parallel reinforcement learning",
+        "authors": [
+            {
+                "given_name": "Mridul",
+                "family_name": "Agarwal",
+                "institution": null
+            },
+            {
+                "given_name": "Bhargav",
+                "family_name": "Ganguly",
+                "institution": null
+            },
+            {
+                "given_name": "Vaneet",
+                "family_name": "Aggarwal",
+                "institution": null
+            }
+        ],
+        "url": "https://proceedings.mlr.press/v161/agarwal21a/agarwal21a.pdf"
+    },
+    {
+        "title": "Robust reinforcement learning under minimax regret for green security",
+        "authors": [
+            {
+                "given_name": "Lily",
+                "family_name": "Xu",
+                "institution": null
+            },
+            {
+                "given_name": "Andrew",
+                "family_name": "Perrault",
+                "institution": null
+            },
+            {
+                "given_name": "Fei",
+                "family_name": "Fang",
+                "institution": null
+            },
+            {
+                "given_name": "Haipeng",
+                "family_name": "Chen",
+                "institution": null
+            },
+            {
+                "given_name": "Milind",
+                "family_name": "Tambe",
+                "institution": null
+            }
+        ],
+        "url": "https://proceedings.mlr.press/v161/xu21a/xu21a.pdf"
+    },
+    {
+        "title": "Defending SVMs against poisoning attacks: the hardness and DBSCAN approach",
+        "authors": [
+            {
+                "given_name": "Hu",
+                "family_name": "Ding",
+                "institution": null
+            },
+            {
+                "given_name": "Fan",
+                "family_name": "Yang",
+                "institution": null
+            },
+            {
+                "given_name": "Jiawei",
+                "family_name": "Huang",
+                "institution": null
+            }
+        ],
+        "url": "https://proceedings.mlr.press/v161/ding21b/ding21b.pdf"
+    },
+    {
+        "title": "Matrix games with bandit feedback",
+        "authors": [
+            {
+                "given_name": "Brendan",
+                "family_name": "O’Donoghue",
+                "institution": null
+            },
+            {
+                "given_name": "Tor",
+                "family_name": "Lattimore",
+                "institution": null
+            },
+            {
+                "given_name": "Ian",
+                "family_name": "Osband",
+                "institution": null
+            }
+        ],
+        "url": "https://proceedings.mlr.press/v161/o-donoghue21a/o-donoghue21a.pdf"
+    },
+    {
+        "title": "Improving approximate optimal transport distances using quantization",
+        "authors": [
+            {
+                "given_name": "Gaspard",
+                "family_name": "Beugnot",
+                "institution": null
+            },
+            {
+                "given_name": "Aude",
+                "family_name": "Genevay",
+                "institution": null
+            },
+            {
+                "given_name": "Kristjan",
+                "family_name": "Greenewald",
+                "institution": null
+            },
+            {
+                "given_name": "Justin",
+                "family_name": "Solomon",
+                "institution": null
+            }
+        ],
+        "url": "https://proceedings.mlr.press/v161/beugnot21a/beugnot21a.pdf"
+    },
+    {
+        "title": "Approximate implication with d-separation",
+        "authors": [
+            {
+                "given_name": "Batya",
+                "family_name": "Kenig",
+                "institution": null
+            }
+        ],
+        "url": "https://proceedings.mlr.press/v161/kenig21a/kenig21a.pdf"
+    },
+    {
+        "title": "Hierarchical probabilistic model for blind source separation via Legendre transformation",
+        "authors": [
+            {
+                "given_name": "Simon",
+                "family_name": "Luo",
+                "institution": null
+            },
+            {
+                "given_name": "Lamiae",
+                "family_name": "Azizi",
+                "institution": null
+            },
+            {
+                "given_name": "Mahito",
+                "family_name": "Sugiyama",
+                "institution": null
+            }
+        ],
+        "url": "https://proceedings.mlr.press/v161/luo21a/luo21a.pdf"
+    },
+    {
+        "title": "Lifted reasoning meets weighted model integration",
+        "authors": [
+            {
+                "given_name": "Jonathan",
+                "family_name": "Feldstein",
+                "institution": null
+            },
+            {
+                "given_name": "Vaishak",
+                "family_name": "Belle",
+                "institution": null
+            }
+        ],
+        "url": "https://proceedings.mlr.press/v161/feldstein21a/feldstein21a.pdf"
+    },
+    {
+        "title": "Formal verification of neural networks for safety-critical tasks in deep reinforcement learning",
+        "authors": [
+            {
+                "given_name": "Davide",
+                "family_name": "Corsi",
+                "institution": null
+            },
+            {
+                "given_name": "Enrico",
+                "family_name": "Marchesini",
+                "institution": null
+            },
+            {
+                "given_name": "Alessandro",
+                "family_name": "Farinelli",
+                "institution": null
+            }
+        ],
+        "url": "https://proceedings.mlr.press/v161/corsi21a/corsi21a.pdf"
+    },
+    {
+        "title": "Learnable uncertainty under Laplace approximations",
+        "authors": [
+            {
+                "given_name": "Agustinus",
+                "family_name": "Kristiadi",
+                "institution": null
+            },
+            {
+                "given_name": "Matthias",
+                "family_name": "Hein",
+                "institution": null
+            },
+            {
+                "given_name": "Philipp",
+                "family_name": "Hennig",
+                "institution": null
+            }
+        ],
+        "url": "https://proceedings.mlr.press/v161/kristiadi21a/kristiadi21a.pdf"
+    },
+    {
+        "title": "Symmetric Wasserstein autoencoders",
+        "authors": [
+            {
+                "given_name": "Sun",
+                "family_name": "Sun",
+                "institution": null
+            },
+            {
+                "given_name": "Hongyu",
+                "family_name": "Guo",
+                "institution": null
+            }
+        ],
+        "url": "https://proceedings.mlr.press/v161/sun21a/sun21a.pdf"
+    },
+    {
+        "title": "Unsupervised anomaly detection with adversarial mirrored autoencoders",
+        "authors": [
+            {
+                "given_name": "Gowthami",
+                "family_name": "Somepalli",
+                "institution": null
+            },
+            {
+                "given_name": "Yexin",
+                "family_name": "Wu",
+                "institution": null
+            },
+            {
+                "given_name": "Yogesh",
+                "family_name": "Balaji",
+                "institution": null
+            },
+            {
+                "given_name": "Bhanukiran",
+                "family_name": "Vinzamuri",
+                "institution": null
+            },
+            {
+                "given_name": "Soheil",
+                "family_name": "Feizi",
+                "institution": null
+            }
+        ],
+        "url": "https://proceedings.mlr.press/v161/somepalli21a/somepalli21a.pdf"
+    },
+    {
+        "title": "Action redundancy in reinforcement learning",
+        "authors": [
+            {
+                "given_name": "Nir",
+                "family_name": "Baram",
+                "institution": null
+            },
+            {
+                "given_name": "Guy",
+                "family_name": "Tennenholtz",
+                "institution": null
+            },
+            {
+                "given_name": "Shie",
+                "family_name": "Mannor",
+                "institution": null
+            }
+        ],
+        "url": "https://proceedings.mlr.press/v161/baram21a/baram21a.pdf"
+    },
+    {
+        "title": "Weighted model counting with conditional weights for Bayesian networks",
+        "authors": [
+            {
+                "given_name": "Paulius",
+                "family_name": "Dilkas",
+                "institution": null
+            },
+            {
+                "given_name": "Vaishak",
+                "family_name": "Belle",
+                "institution": null
+            }
+        ],
+        "url": "https://proceedings.mlr.press/v161/dilkas21a/dilkas21a.pdf"
+    },
+    {
+        "title": "Escaping from zero gradient: Revisiting action-constrained reinforcement learning via Frank-Wolfe policy optimization",
+        "authors": [
+            {
+                "given_name": "Jyun-Li",
+                "family_name": "Lin",
+                "institution": null
+            },
+            {
+                "given_name": "Wei",
+                "family_name": "Hung",
+                "institution": null
+            },
+            {
+                "given_name": "Shang-Hsuan",
+                "family_name": "Yang",
+                "institution": null
+            },
+            {
+                "given_name": "Ping-Chun",
+                "family_name": "Hsieh",
+                "institution": null
+            },
+            {
+                "given_name": "Xi",
+                "family_name": "Liu",
+                "institution": null
+            }
+        ],
+        "url": "https://proceedings.mlr.press/v161/lin21b/lin21b.pdf"
+    },
+    {
+        "title": "Unsupervised program synthesis for images by sampling without replacement",
+        "authors": [
+            {
+                "given_name": "Chenghui",
+                "family_name": "Zhou",
+                "institution": null
+            },
+            {
+                "given_name": "Chun-Liang",
+                "family_name": "Li",
+                "institution": null
+            },
+            {
+                "given_name": "Barnabás",
+                "family_name": "Póczos",
+                "institution": null
+            }
+        ],
+        "url": "https://proceedings.mlr.press/v161/zhou21b/zhou21b.pdf"
+    },
+    {
+        "title": "On the distributional properties of adaptive gradients",
+        "authors": [
+            {
+                "given_name": "Zhiyi",
+                "family_name": "Zhang",
+                "institution": null
+            },
+            {
+                "given_name": "Ziyin",
+                "family_name": "Liu",
+                "institution": null
+            }
+        ],
+        "url": "https://proceedings.mlr.press/v161/zhang21a/zhang21a.pdf"
+    },
+    {
+        "title": "Bandits with partially observable confounded data",
+        "authors": [
+            {
+                "given_name": "Guy",
+                "family_name": "Tennenholtz",
+                "institution": null
+            },
+            {
+                "given_name": "Uri",
+                "family_name": "Shalit",
+                "institution": null
+            },
+            {
+                "given_name": "Shie",
+                "family_name": "Mannor",
+                "institution": null
+            },
+            {
+                "given_name": "Yonathan",
+                "family_name": "Efroni",
+                "institution": null
+            }
+        ],
+        "url": "https://proceedings.mlr.press/v161/tennenholtz21a/tennenholtz21a.pdf"
+    },
+    {
+        "title": "Structured sparsification with joint optimization of group convolution and channel shuffle",
+        "authors": [
+            {
+                "given_name": "Xin-Yu",
+                "family_name": "Zhang",
+                "institution": null
+            },
+            {
+                "given_name": "Kai",
+                "family_name": "Zhao",
+                "institution": null
+            },
+            {
+                "given_name": "Taihong",
+                "family_name": "Xiao",
+                "institution": null
+            },
+            {
+                "given_name": "Ming-Ming",
+                "family_name": "Cheng",
+                "institution": null
+            },
+            {
+                "given_name": "Ming-Hsuan",
+                "family_name": "Yang",
+                "institution": null
+            }
+        ],
+        "url": "https://proceedings.mlr.press/v161/zhang21b/zhang21b.pdf"
+    },
+    {
+        "title": "A weaker faithfulness assumption based on triple interactions",
+        "authors": [
+            {
+                "given_name": "Alexander",
+                "family_name": "Marx",
+                "institution": null
+            },
+            {
+                "given_name": "Arthur",
+                "family_name": "Gretton",
+                "institution": null
+            },
+            {
+                "given_name": "Joris M.",
+                "family_name": "Mooij",
+                "institution": null
+            }
+        ],
+        "url": "https://proceedings.mlr.press/v161/marx21a/marx21a.pdf"
+    },
+    {
+        "title": "pRSL: Interpretable multi-label stacking by learning probabilistic rules",
+        "authors": [
+            {
+                "given_name": "Michael",
+                "family_name": "Kirchhof",
+                "institution": null
+            },
+            {
+                "given_name": "Lena",
+                "family_name": "Schmid",
+                "institution": null
+            },
+            {
+                "given_name": "Christopher",
+                "family_name": "Reining",
+                "institution": null
+            },
+            {
+                "given_name": "Michael Ten",
+                "family_name": "Hompel",
+                "institution": null
+            },
+            {
+                "given_name": "Markus",
+                "family_name": "Pauly",
+                "institution": null
+            }
+        ],
+        "url": "https://proceedings.mlr.press/v161/kirchhof21a/kirchhof21a.pdf"
+    },
+    {
+        "title": "Regstar: efficient strategy synthesis for adversarial patrolling games",
+        "authors": [
+            {
+                "given_name": "David",
+                "family_name": "Klaška",
+                "institution": null
+            },
+            {
+                "given_name": "Antonín",
+                "family_name": "Kučera",
+                "institution": null
+            },
+            {
+                "given_name": "Vít",
+                "family_name": "Musil",
+                "institution": null
+            },
+            {
+                "given_name": "Vojtěch",
+                "family_name": "Řehák",
+                "institution": null
+            }
+        ],
+        "url": "https://proceedings.mlr.press/v161/klaska21a/klaska21a.pdf"
+    },
+    {
+        "title": "The complexity of nonconvex-strongly-concave minimax optimization",
+        "authors": [
+            {
+                "given_name": "Siqi",
+                "family_name": "Zhang",
+                "institution": null
+            },
+            {
+                "given_name": "Junchi",
+                "family_name": "Yang",
+                "institution": null
+            },
+            {
+                "given_name": "Cristóbal",
+                "family_name": "Guzmán",
+                "institution": null
+            },
+            {
+                "given_name": "Negar",
+                "family_name": "Kiyavash",
+                "institution": null
+            },
+            {
+                "given_name": "Niao",
+                "family_name": "He",
+                "institution": null
+            }
+        ],
+        "url": "https://proceedings.mlr.press/v161/zhang21c/zhang21c.pdf"
+    },
+    {
+        "title": "High-dimensional Bayesian optimization with sparse axis-aligned subspaces",
+        "authors": [
+            {
+                "given_name": "David",
+                "family_name": "Eriksson",
+                "institution": null
+            },
+            {
+                "given_name": "Martin",
+                "family_name": "Jankowiak",
+                "institution": null
+            }
+        ],
+        "url": "https://proceedings.mlr.press/v161/eriksson21a/eriksson21a.pdf"
+    },
+    {
+        "title": "Known unknowns: Learning novel concepts using reasoning-by-elimination",
+        "authors": [
+            {
+                "given_name": "Harsh",
+                "family_name": "Agrawal",
+                "institution": null
+            },
+            {
+                "given_name": "Eli A.",
+                "family_name": "Meirom",
+                "institution": null
+            },
+            {
+                "given_name": "Yuval",
+                "family_name": "Atzmon",
+                "institution": null
+            },
+            {
+                "given_name": "Shie",
+                "family_name": "Mannor",
+                "institution": null
+            },
+            {
+                "given_name": "Gal",
+                "family_name": "Chechik",
+                "institution": null
+            }
+        ],
+        "url": "https://proceedings.mlr.press/v161/agrawal21a/agrawal21a.pdf"
+    },
+    {
+        "title": "Dynamic visualization for L1 fusion convex clustering in near-linear time",
+        "authors": [
+            {
+                "given_name": "Bingyuan",
+                "family_name": "Zhang",
+                "institution": null
+            },
+            {
+                "given_name": "Jie",
+                "family_name": "Chen",
+                "institution": null
+            },
+            {
+                "given_name": "Yoshikazu",
+                "family_name": "Terada",
+                "institution": null
+            }
+        ],
+        "url": "https://proceedings.mlr.press/v161/zhang21d/zhang21d.pdf"
+    },
+    {
+        "title": "FlexAE: flexibly learning latent priors for wasserstein auto-encoders",
+        "authors": [
+            {
+                "given_name": "Arnab Kumar",
+                "family_name": "Mondal",
+                "institution": null
+            },
+            {
+                "given_name": "Himanshu",
+                "family_name": "Asnani",
+                "institution": null
+            },
+            {
+                "given_name": "Parag",
+                "family_name": "Singla",
+                "institution": null
+            },
+            {
+                "given_name": "Ap",
+                "family_name": "Prathosh",
+                "institution": null
+            }
+        ],
+        "url": "https://proceedings.mlr.press/v161/mondal21a/mondal21a.pdf"
+    },
+    {
+        "title": "Generalized parametric path problems",
+        "authors": [
+            {
+                "given_name": "Kshitij",
+                "family_name": "Gajjar",
+                "institution": null
+            },
+            {
+                "given_name": "Girish",
+                "family_name": "Varma",
+                "institution": null
+            },
+            {
+                "given_name": "Prerona",
+                "family_name": "Chatterjee",
+                "institution": null
+            },
+            {
+                "given_name": "Jaikumar",
+                "family_name": "Radhakrishnan",
+                "institution": null
+            }
+        ],
+        "url": "https://proceedings.mlr.press/v161/gajjar21a/gajjar21a.pdf"
+    },
+    {
+        "title": "Efficient greedy coordinate descent via variable partitioning",
+        "authors": [
+            {
+                "given_name": "Huang",
+                "family_name": "Fang",
+                "institution": null
+            },
+            {
+                "given_name": "Guanhua",
+                "family_name": "Fang",
+                "institution": null
+            },
+            {
+                "given_name": "Tan",
+                "family_name": "Yu",
+                "institution": null
+            },
+            {
+                "given_name": "Ping",
+                "family_name": "Li",
+                "institution": null
+            }
+        ],
+        "url": "https://proceedings.mlr.press/v161/fang21a/fang21a.pdf"
+    },
+    {
+        "title": "Bayesian streaming sparse Tucker decomposition",
+        "authors": [
+            {
+                "given_name": "Shikai",
+                "family_name": "Fang",
+                "institution": null
+            },
+            {
+                "given_name": "Robert M.",
+                "family_name": "Kirby",
+                "institution": null
+            },
+            {
+                "given_name": "Shandian",
+                "family_name": "Zhe",
+                "institution": null
+            }
+        ],
+        "url": "https://proceedings.mlr.press/v161/fang21b/fang21b.pdf"
+    },
+    {
+        "title": "A Nonmyopic Approach to Cost-Constrained Bayesian Optimization",
+        "authors": [
+            {
+                "given_name": "Eric Hans",
+                "family_name": "Lee",
+                "institution": null
+            },
+            {
+                "given_name": "David",
+                "family_name": "Eriksson",
+                "institution": null
+            },
+            {
+                "given_name": "Valerio",
+                "family_name": "Perrone",
+                "institution": null
+            },
+            {
+                "given_name": "Matthias",
+                "family_name": "Seeger",
+                "institution": null
+            }
+        ],
+        "url": "https://proceedings.mlr.press/v161/lee21a/lee21a.pdf"
+    },
+    {
+        "title": "Asynchronous $ε$-Greedy Bayesian Optimisation",
+        "authors": [
+            {
+                "given_name": "George De",
+                "family_name": "Ath",
+                "institution": null
+            },
+            {
+                "given_name": "Richard M.",
+                "family_name": "Everson",
+                "institution": null
+            },
+            {
+                "given_name": "Jonathan E.",
+                "family_name": "Fieldsend",
+                "institution": null
+            }
+        ],
+        "url": "https://proceedings.mlr.press/v161/de-ath21a/de-ath21a.pdf"
+    },
+    {
+        "title": "Global explanations with decision rules: a co-learning approach",
+        "authors": [
+            {
+                "given_name": "Géraldin",
+                "family_name": "Nanfack",
+                "institution": null
+            },
+            {
+                "given_name": "Paul",
+                "family_name": "Temple",
+                "institution": null
+            },
+            {
+                "given_name": "Benoît",
+                "family_name": "Frénay",
+                "institution": null
+            }
+        ],
+        "url": "https://proceedings.mlr.press/v161/nanfack21a/nanfack21a.pdf"
+    },
+    {
+        "title": "Addressing fairness in classification with a model-agnostic multi-objective algorithm",
+        "authors": [
+            {
+                "given_name": "Kirtan",
+                "family_name": "Padh",
+                "institution": null
+            },
+            {
+                "given_name": "Diego",
+                "family_name": "Antognini",
+                "institution": null
+            },
+            {
+                "given_name": "Emma",
+                "family_name": "Lejal-Glaude",
+                "institution": null
+            },
+            {
+                "given_name": "Boi",
+                "family_name": "Faltings",
+                "institution": null
+            },
+            {
+                "given_name": "Claudiu",
+                "family_name": "Musat",
+                "institution": null
+            }
+        ],
+        "url": "https://proceedings.mlr.press/v161/padh21a/padh21a.pdf"
+    },
+    {
+        "title": "A unifying framework for observer-aware planning and its complexity",
+        "authors": [
+            {
+                "given_name": "Shuwa",
+                "family_name": "Miura",
+                "institution": null
+            },
+            {
+                "given_name": "Shlomo",
+                "family_name": "Zilberstein",
+                "institution": null
+            }
+        ],
+        "url": "https://proceedings.mlr.press/v161/miura21a/miura21a.pdf"
+    },
+    {
+        "title": "A heuristic for statistical seriation",
+        "authors": [
+            {
+                "given_name": "Komal",
+                "family_name": "Dhull",
+                "institution": null
+            },
+            {
+                "given_name": "Jingyan",
+                "family_name": "Wang",
+                "institution": null
+            },
+            {
+                "given_name": "Nihar B.",
+                "family_name": "Shah",
+                "institution": null
+            },
+            {
+                "given_name": "Yuanzhi",
+                "family_name": "Li",
+                "institution": null
+            },
+            {
+                "given_name": "R.",
+                "family_name": "Ravi",
+                "institution": null
+            }
+        ],
+        "url": "https://proceedings.mlr.press/v161/dhull21a/dhull21a.pdf"
+    },
+    {
+        "title": "LocalNewton: Reducing communication rounds for distributed learning",
+        "authors": [
+            {
+                "given_name": "Vipul",
+                "family_name": "Gupta",
+                "institution": null
+            },
+            {
+                "given_name": "Avishek",
+                "family_name": "Ghosh",
+                "institution": null
+            },
+            {
+                "given_name": "Michał",
+                "family_name": "Dereziński",
+                "institution": null
+            },
+            {
+                "given_name": "Rajiv",
+                "family_name": "Khanna",
+                "institution": null
+            },
+            {
+                "given_name": "Kannan",
+                "family_name": "Ramchandran",
+                "institution": null
+            },
+            {
+                "given_name": "Michael W.",
+                "family_name": "Mahoney",
+                "institution": null
+            }
+        ],
+        "url": "https://proceedings.mlr.press/v161/gupta21a/gupta21a.pdf"
+    },
+    {
+        "title": "Generative Archimedean copulas",
+        "authors": [
+            {
+                "given_name": "Yuting",
+                "family_name": "Ng",
+                "institution": null
+            },
+            {
+                "given_name": "Ali",
+                "family_name": "Hasan",
+                "institution": null
+            },
+            {
+                "given_name": "Khalil",
+                "family_name": "Elkhalil",
+                "institution": null
+            },
+            {
+                "given_name": "Vahid",
+                "family_name": "Tarokh",
+                "institution": null
+            }
+        ],
+        "url": "https://proceedings.mlr.press/v161/ng21a/ng21a.pdf"
+    },
+    {
+        "title": "Exploring the loss landscape in neural architecture search",
+        "authors": [
+            {
+                "given_name": "Colin",
+                "family_name": "White",
+                "institution": null
+            },
+            {
+                "given_name": "Sam",
+                "family_name": "Nolen",
+                "institution": null
+            },
+            {
+                "given_name": "Yash",
+                "family_name": "Savani",
+                "institution": null
+            }
+        ],
+        "url": "https://proceedings.mlr.press/v161/white21a/white21a.pdf"
+    },
+    {
+        "title": "Finite-time theory for momentum Q-learning ",
+        "authors": [
+            {
+                "given_name": "Weng",
+                "family_name": "Bowen",
+                "institution": null
+            },
+            {
+                "given_name": "Xiong",
+                "family_name": "Huaqing",
+                "institution": null
+            },
+            {
+                "given_name": "Zhao",
+                "family_name": "Lin",
+                "institution": null
+            },
+            {
+                "given_name": "Liang",
+                "family_name": "Yingbin",
+                "institution": null
+            },
+            {
+                "given_name": "Zhang",
+                "family_name": "Wei",
+                "institution": null
+            }
+        ],
+        "url": "https://proceedings.mlr.press/v161/bowen21a/bowen21a.pdf"
+    },
+    {
+        "title": "Scaling Hamiltonian Monte Carlo inference for Bayesian neural networks with symmetric splitting",
+        "authors": [
+            {
+                "given_name": "Adam D.",
+                "family_name": "Cobb",
+                "institution": null
+            },
+            {
+                "given_name": "Brian",
+                "family_name": "Jalaian",
+                "institution": null
+            }
+        ],
+        "url": "https://proceedings.mlr.press/v161/cobb21a/cobb21a.pdf"
+    },
+    {
+        "title": "Robust principal component analysis for generalized multi-view models",
+        "authors": [
+            {
+                "given_name": "Frank",
+                "family_name": "Nussbaum",
+                "institution": null
+            },
+            {
+                "given_name": "Joachim",
+                "family_name": "Giesen",
+                "institution": null
+            }
+        ],
+        "url": "https://proceedings.mlr.press/v161/nussbaum21a/nussbaum21a.pdf"
+    },
+    {
+        "title": "Decentralized multi-agent active search for sparse signals",
+        "authors": [
+            {
+                "given_name": "Ramina",
+                "family_name": "Ghods",
+                "institution": null
+            },
+            {
+                "given_name": "Arundhati",
+                "family_name": "Banerjee",
+                "institution": null
+            },
+            {
+                "given_name": "Jeff",
+                "family_name": "Schneider",
+                "institution": null
+            }
+        ],
+        "url": "https://proceedings.mlr.press/v161/ghods21a/ghods21a.pdf"
+    },
+    {
+        "title": "Unbiased gradient estimation for variational auto-encoders using coupled Markov chains",
+        "authors": [
+            {
+                "given_name": "Francisco J. R.",
+                "family_name": "Ruiz",
+                "institution": null
+            },
+            {
+                "given_name": "Michalis K.",
+                "family_name": "Titsias",
+                "institution": null
+            },
+            {
+                "given_name": "Taylan",
+                "family_name": "Cemgil",
+                "institution": null
+            },
+            {
+                "given_name": "Arnaud",
+                "family_name": "Doucet",
+                "institution": null
+            }
+        ],
+        "url": "https://proceedings.mlr.press/v161/ruiz21a/ruiz21a.pdf"
+    },
+    {
+        "title": "Possibilistic preference elicitation by minimax regret",
+        "authors": [
+            {
+                "given_name": "Loïc",
+                "family_name": "Adam",
+                "institution": null
+            },
+            {
+                "given_name": "Sebastien",
+                "family_name": "Destercke",
+                "institution": null
+            }
+        ],
+        "url": "https://proceedings.mlr.press/v161/adam21a/adam21a.pdf"
+    },
+    {
+        "title": "When is particle filtering efficient for planning in partially observed linear dynamical systems?",
+        "authors": [
+            {
+                "given_name": "Simon S.",
+                "family_name": "Du",
+                "institution": null
+            },
+            {
+                "given_name": "Wei",
+                "family_name": "Hu",
+                "institution": null
+            },
+            {
+                "given_name": "Zhiyuan",
+                "family_name": "Li",
+                "institution": null
+            },
+            {
+                "given_name": "Ruoqi",
+                "family_name": "Shen",
+                "institution": null
+            },
+            {
+                "given_name": "Zhao",
+                "family_name": "Song",
+                "institution": null
+            },
+            {
+                "given_name": "Jiajun",
+                "family_name": "Wu",
+                "institution": null
+            }
+        ],
+        "url": "https://proceedings.mlr.press/v161/du21a/du21a.pdf"
+    },
+    {
+        "title": "Thompson sampling for Markov games with piecewise stationary opponent policies",
+        "authors": [
+            {
+                "given_name": "Anthony",
+                "family_name": "Digiovanni",
+                "institution": null
+            },
+            {
+                "given_name": "Ambuj",
+                "family_name": "Tewari",
+                "institution": null
+            }
+        ],
+        "url": "https://proceedings.mlr.press/v161/digiovanni21a/digiovanni21a.pdf"
+    },
+    {
+        "title": "Hierarchical Indian buffet neural networks for Bayesian continual learning",
+        "authors": [
+            {
+                "given_name": "Samuel",
+                "family_name": "Kessler",
+                "institution": null
+            },
+            {
+                "given_name": "Vu",
+                "family_name": "Nguyen",
+                "institution": null
+            },
+            {
+                "given_name": "Stefan",
+                "family_name": "Zohren",
+                "institution": null
+            },
+            {
+                "given_name": "Stephen J.",
+                "family_name": "Roberts",
+                "institution": null
+            }
+        ],
+        "url": "https://proceedings.mlr.press/v161/kessler21a/kessler21a.pdf"
+    },
+    {
+        "title": "Measuring data leakage in machine-learning models with Fisher information",
+        "authors": [
+            {
+                "given_name": "Awni",
+                "family_name": "Hannun",
+                "institution": null
+            },
+            {
+                "given_name": "Chuan",
+                "family_name": "Guo",
+                "institution": null
+            },
+            {
+                "given_name": "Laurens Van Der",
+                "family_name": "Maaten",
+                "institution": null
+            }
+        ],
+        "url": "https://proceedings.mlr.press/v161/hannun21a/hannun21a.pdf"
+    },
+    {
+        "title": "Improved generalization bounds of group invariant / equivariant deep networks via quotient feature spaces",
+        "authors": [
+            {
+                "given_name": "Akiyoshi",
+                "family_name": "Sannai",
+                "institution": null
+            },
+            {
+                "given_name": "Masaaki",
+                "family_name": "Imaizumi",
+                "institution": null
+            },
+            {
+                "given_name": "Makoto",
+                "family_name": "Kawano",
+                "institution": null
+            }
+        ],
+        "url": "https://proceedings.mlr.press/v161/sannai21a/sannai21a.pdf"
+    },
+    {
+        "title": "Probabilistic task modelling for meta-learning",
+        "authors": [
+            {
+                "given_name": "Cuong C.",
+                "family_name": "Nguyen",
+                "institution": null
+            },
+            {
+                "given_name": "Thanh-Toan",
+                "family_name": "Do",
+                "institution": null
+            },
+            {
+                "given_name": "Gustavo",
+                "family_name": "Carneiro",
+                "institution": null
+            }
+        ],
+        "url": "https://proceedings.mlr.press/v161/nguyen21b/nguyen21b.pdf"
+    },
+    {
+        "title": "Approximation algorithm for submodular maximization under submodular cover",
+        "authors": [
+            {
+                "given_name": "Naoto",
+                "family_name": "Ohsaka",
+                "institution": null
+            },
+            {
+                "given_name": "Tatsuya",
+                "family_name": "Matsuoka",
+                "institution": null
+            }
+        ],
+        "url": "https://proceedings.mlr.press/v161/ohsaka21a/ohsaka21a.pdf"
+    },
+    {
+        "title": "Tighter Generalization Bounds for Iterative Differentially Private Learning Algorithms",
+        "authors": [
+            {
+                "given_name": "Fengxiang",
+                "family_name": "He",
+                "institution": null
+            },
+            {
+                "given_name": "Bohan",
+                "family_name": "Wang",
+                "institution": null
+            },
+            {
+                "given_name": "Dacheng",
+                "family_name": "Tao",
+                "institution": null
+            }
+        ],
+        "url": "https://proceedings.mlr.press/v161/he21a/he21a.pdf"
+    },
+    {
+        "title": "Dependency in DAG models with hidden variables",
+        "authors": [
+            {
+                "given_name": "Robin J.",
+                "family_name": "Evans",
+                "institution": null
+            }
+        ],
+        "url": "https://proceedings.mlr.press/v161/evans21a/evans21a.pdf"
+    },
+    {
+        "title": "Natural language adversarial defense through synonym encoding",
+        "authors": [
+            {
+                "given_name": "Xiaosen",
+                "family_name": "Wang",
+                "institution": null
+            },
+            {
+                "given_name": "Jin",
+                "family_name": "Hao",
+                "institution": null
+            },
+            {
+                "given_name": "Yichen",
+                "family_name": "Yang",
+                "institution": null
+            },
+            {
+                "given_name": "Kun",
+                "family_name": "He",
+                "institution": null
+            }
+        ],
+        "url": "https://proceedings.mlr.press/v161/wang21a/wang21a.pdf"
+    },
+    {
+        "title": "Path-BN: Towards effective batch normalization in the Path Space for ReLU networks",
+        "authors": [
+            {
+                "given_name": "Xufang",
+                "family_name": "Luo",
+                "institution": null
+            },
+            {
+                "given_name": "Qi",
+                "family_name": "Meng",
+                "institution": null
+            },
+            {
+                "given_name": "Wei",
+                "family_name": "Chen",
+                "institution": null
+            },
+            {
+                "given_name": "Yunhong",
+                "family_name": "Wang",
+                "institution": null
+            },
+            {
+                "given_name": "Tie-Yan",
+                "family_name": "Liu",
+                "institution": null
+            }
+        ],
+        "url": "https://proceedings.mlr.press/v161/luo21b/luo21b.pdf"
+    },
+    {
+        "title": "Distribution-free uncertainty quantification for classification under label shift",
+        "authors": [
+            {
+                "given_name": "Aleksandr",
+                "family_name": "Podkopaev",
+                "institution": null
+            },
+            {
+                "given_name": "Aaditya",
+                "family_name": "Ramdas",
+                "institution": null
+            }
+        ],
+        "url": "https://proceedings.mlr.press/v161/podkopaev21a/podkopaev21a.pdf"
+    },
+    {
+        "title": "Identifying untrustworthy predictions in neural networks by geometric gradient analysis",
+        "authors": [
+            {
+                "given_name": "Leo",
+                "family_name": "Schwinn",
+                "institution": null
+            },
+            {
+                "given_name": "An",
+                "family_name": "Nguyen",
+                "institution": null
+            },
+            {
+                "given_name": "René",
+                "family_name": "Raab",
+                "institution": null
+            },
+            {
+                "given_name": "Leon",
+                "family_name": "Bungert",
+                "institution": null
+            },
+            {
+                "given_name": "Daniel",
+                "family_name": "Tenbrinck",
+                "institution": null
+            },
+            {
+                "given_name": "Dario",
+                "family_name": "Zanca",
+                "institution": null
+            },
+            {
+                "given_name": "Martin",
+                "family_name": "Burger",
+                "institution": null
+            },
+            {
+                "given_name": "Bjoern",
+                "family_name": "Eskofier",
+                "institution": null
+            }
+        ],
+        "url": "https://proceedings.mlr.press/v161/schwinn21a/schwinn21a.pdf"
+    },
+    {
+        "title": "Combinatorial semi-bandit in the non-stationary environment",
+        "authors": [
+            {
+                "given_name": "Wei",
+                "family_name": "Chen",
+                "institution": null
+            },
+            {
+                "given_name": "Liwei",
+                "family_name": "Wang",
+                "institution": null
+            },
+            {
+                "given_name": "Haoyu",
+                "family_name": "Zhao",
+                "institution": null
+            },
+            {
+                "given_name": "Kai",
+                "family_name": "Zheng",
+                "institution": null
+            }
+        ],
+        "url": "https://proceedings.mlr.press/v161/chen21a/chen21a.pdf"
+    },
+    {
+        "title": "Time-variant variational transfer for value functions",
+        "authors": [
+            {
+                "given_name": "Giuseppe",
+                "family_name": "Canonaco",
+                "institution": null
+            },
+            {
+                "given_name": "Andrea",
+                "family_name": "Soprani",
+                "institution": null
+            },
+            {
+                "given_name": "Matteo",
+                "family_name": "Giuliani",
+                "institution": null
+            },
+            {
+                "given_name": "Andrea",
+                "family_name": "Castelletti",
+                "institution": null
+            },
+            {
+                "given_name": "Manuel",
+                "family_name": "Roveri",
+                "institution": null
+            },
+            {
+                "given_name": "Marcello",
+                "family_name": "Restelli",
+                "institution": null
+            }
+        ],
+        "url": "https://proceedings.mlr.press/v161/canonaco21a/canonaco21a.pdf"
+    },
+    {
+        "title": "BayLIME: Bayesian local interpretable model-agnostic explanations",
+        "authors": [
+            {
+                "given_name": "Xingyu",
+                "family_name": "Zhao",
+                "institution": null
+            },
+            {
+                "given_name": "Wei",
+                "family_name": "Huang",
+                "institution": null
+            },
+            {
+                "given_name": "Xiaowei",
+                "family_name": "Huang",
+                "institution": null
+            },
+            {
+                "given_name": "Valentin",
+                "family_name": "Robu",
+                "institution": null
+            },
+            {
+                "given_name": "David",
+                "family_name": "Flynn",
+                "institution": null
+            }
+        ],
+        "url": "https://proceedings.mlr.press/v161/zhao21a/zhao21a.pdf"
+    },
+    {
+        "title": "On random kernels of residual architectures",
+        "authors": [
+            {
+                "given_name": "Etai",
+                "family_name": "Littwin",
+                "institution": null
+            },
+            {
+                "given_name": "Tomer",
+                "family_name": "Galanti",
+                "institution": null
+            },
+            {
+                "given_name": "Lior",
+                "family_name": "Wolf",
+                "institution": null
+            }
+        ],
+        "url": "https://proceedings.mlr.press/v161/littwin21a/littwin21a.pdf"
+    },
+    {
+        "title": "Neural markov logic networks",
+        "authors": [
+            {
+                "given_name": "Giuseppe",
+                "family_name": "Marra",
+                "institution": null
+            },
+            {
+                "given_name": "Ondřej",
+                "family_name": "Kuželka",
+                "institution": null
+            }
+        ],
+        "url": "https://proceedings.mlr.press/v161/marra21a/marra21a.pdf"
+    },
+    {
+        "title": "Deep kernels with probabilistic embeddings for small-data learning",
+        "authors": [
+            {
+                "given_name": "Ankur",
+                "family_name": "Mallick",
+                "institution": null
+            },
+            {
+                "given_name": "Chaitanya",
+                "family_name": "Dwivedi",
+                "institution": null
+            },
+            {
+                "given_name": "Bhavya",
+                "family_name": "Kailkhura",
+                "institution": null
+            },
+            {
+                "given_name": "Gauri",
+                "family_name": "Joshi",
+                "institution": null
+            },
+            {
+                "given_name": "T. Yong-Jin",
+                "family_name": "Han",
+                "institution": null
+            }
+        ],
+        "url": "https://proceedings.mlr.press/v161/mallick21a/mallick21a.pdf"
+    },
+    {
+        "title": "On the effects of quantisation on model uncertainty in Bayesian neural networks",
+        "authors": [
+            {
+                "given_name": "Martin",
+                "family_name": "Ferianc",
+                "institution": null
+            },
+            {
+                "given_name": "Partha",
+                "family_name": "Maji",
+                "institution": null
+            },
+            {
+                "given_name": "Matthew",
+                "family_name": "Mattina",
+                "institution": null
+            },
+            {
+                "given_name": "Miguel",
+                "family_name": "Rodrigues",
+                "institution": null
+            }
+        ],
+        "url": "https://proceedings.mlr.press/v161/ferianc21a/ferianc21a.pdf"
+    },
+    {
+        "title": "GP-ConvCNP: Better generalization for conditional convolutional Neural Processes on time series data",
+        "authors": [
+            {
+                "given_name": "Jens",
+                "family_name": "Petersen",
+                "institution": null
+            },
+            {
+                "given_name": "Gregor",
+                "family_name": "Köhler",
+                "institution": null
+            },
+            {
+                "given_name": "David",
+                "family_name": "Zimmerer",
+                "institution": null
+            },
+            {
+                "given_name": "Fabian",
+                "family_name": "Isensee",
+                "institution": null
+            },
+            {
+                "given_name": "Paul F.",
+                "family_name": "Jäger",
+                "institution": null
+            },
+            {
+                "given_name": "Klaus H.",
+                "family_name": "Maier-Hein",
+                "institution": null
+            }
+        ],
+        "url": "https://proceedings.mlr.press/v161/petersen21a/petersen21a.pdf"
+    },
+    {
+        "title": "Mixed variable Bayesian optimization with frequency modulated kernels",
+        "authors": [
+            {
+                "given_name": "Changyong",
+                "family_name": "Oh",
+                "institution": null
+            },
+            {
+                "given_name": "Efstratios",
+                "family_name": "Gavves",
+                "institution": null
+            },
+            {
+                "given_name": "Max",
+                "family_name": "Welling",
+                "institution": null
+            }
+        ],
+        "url": "https://proceedings.mlr.press/v161/oh21a/oh21a.pdf"
+    },
+    {
+        "title": "Subseasonal climate prediction in the western US using Bayesian spatial models",
+        "authors": [
+            {
+                "given_name": "Vishwak",
+                "family_name": "Srinivasan",
+                "institution": null
+            },
+            {
+                "given_name": "Justin",
+                "family_name": "Khim",
+                "institution": null
+            },
+            {
+                "given_name": "Arindam",
+                "family_name": "Banerjee",
+                "institution": null
+            },
+            {
+                "given_name": "Pradeep",
+                "family_name": "Ravikumar",
+                "institution": null
+            }
+        ],
+        "url": "https://proceedings.mlr.press/v161/srinivasan21b/srinivasan21b.pdf"
+    },
+    {
+        "title": "variational combinatorial sequential monte carlo methods for bayesian phylogenetic inference",
+        "authors": [
+            {
+                "given_name": "Antonio Khalil",
+                "family_name": "Moretti",
+                "institution": null
+            },
+            {
+                "given_name": "Liyi",
+                "family_name": "Zhang",
+                "institution": null
+            },
+            {
+                "given_name": "Christian A.",
+                "family_name": "Naesseth",
+                "institution": null
+            },
+            {
+                "given_name": "Hadiah",
+                "family_name": "Venner",
+                "institution": null
+            },
+            {
+                "given_name": "David",
+                "family_name": "Blei",
+                "institution": null
+            },
+            {
+                "given_name": "Itsik",
+                "family_name": "Pe’Er",
+                "institution": null
+            }
+        ],
+        "url": "https://proceedings.mlr.press/v161/moretti21a/moretti21a.pdf"
+    },
+    {
+        "title": "Estimating treatment effects with observed confounders and mediators",
+        "authors": [
+            {
+                "given_name": "Shantanu",
+                "family_name": "Gupta",
+                "institution": null
+            },
+            {
+                "given_name": "Zachary C.",
+                "family_name": "Lipton",
+                "institution": null
+            },
+            {
+                "given_name": "David",
+                "family_name": "Childers",
+                "institution": null
+            }
+        ],
+        "url": "https://proceedings.mlr.press/v161/gupta21b/gupta21b.pdf"
+    },
+    {
+        "title": "No-regret learning with high-probability in adversarial Markov decision processes",
+        "authors": [
+            {
+                "given_name": "Mahsa",
+                "family_name": "Ghasemi",
+                "institution": null
+            },
+            {
+                "given_name": "Abolfazl",
+                "family_name": "Hashemi",
+                "institution": null
+            },
+            {
+                "given_name": "Haris",
+                "family_name": "Vikalo",
+                "institution": null
+            },
+            {
+                "given_name": "Ufuk",
+                "family_name": "Topcu",
+                "institution": null
+            }
+        ],
+        "url": "https://proceedings.mlr.press/v161/ghasemi21a/ghasemi21a.pdf"
+    },
+    {
+        "title": "A decentralized policy gradient approach to multi-task reinforcement learning",
+        "authors": [
+            {
+                "given_name": "Sihan",
+                "family_name": "Zeng",
+                "institution": null
+            },
+            {
+                "given_name": "Malik Aqeel",
+                "family_name": "Anwar",
+                "institution": null
+            },
+            {
+                "given_name": "Thinh T.",
+                "family_name": "Doan",
+                "institution": null
+            },
+            {
+                "given_name": "Arijit",
+                "family_name": "Raychowdhury",
+                "institution": null
+            },
+            {
+                "given_name": "Justin",
+                "family_name": "Romberg",
+                "institution": null
+            }
+        ],
+        "url": "https://proceedings.mlr.press/v161/zeng21a/zeng21a.pdf"
+    },
+    {
+        "title": "Compositional abstraction error and a category of causal models",
+        "authors": [
+            {
+                "given_name": "Eigil F.",
+                "family_name": "Rischel",
+                "institution": null
+            },
+            {
+                "given_name": "Sebastian",
+                "family_name": "Weichwald",
+                "institution": null
+            }
+        ],
+        "url": "https://proceedings.mlr.press/v161/rischel21a/rischel21a.pdf"
+    },
+    {
+        "title": "Bayesian optimization for modular black-box systems with switching costs",
+        "authors": [
+            {
+                "given_name": "Chi-Heng",
+                "family_name": "Lin",
+                "institution": null
+            },
+            {
+                "given_name": "Joseph D.",
+                "family_name": "Miano",
+                "institution": null
+            },
+            {
+                "given_name": "Eva L.",
+                "family_name": "Dyer",
+                "institution": null
+            }
+        ],
+        "url": "https://proceedings.mlr.press/v161/lin21c/lin21c.pdf"
+    },
+    {
+        "title": "Probabilistic selection of inducing points in sparse Gaussian processes",
+        "authors": [
+            {
+                "given_name": "Anders Kirk",
+                "family_name": "Uhrenholt",
+                "institution": null
+            },
+            {
+                "given_name": "Valentin",
+                "family_name": "Charvet",
+                "institution": null
+            },
+            {
+                "given_name": "Bjørn Sand",
+                "family_name": "Jensen",
+                "institution": null
+            }
+        ],
+        "url": "https://proceedings.mlr.press/v161/uhrenholt21a/uhrenholt21a.pdf"
+    },
+    {
+        "title": "Entropic Inequality Constraints from e-separation Relations in Directed Acyclic Graphs with Hidden Variables",
+        "authors": [
+            {
+                "given_name": "Noam",
+                "family_name": "Finkelstein",
+                "institution": null
+            },
+            {
+                "given_name": "Beata",
+                "family_name": "Zjawin",
+                "institution": null
+            },
+            {
+                "given_name": "Elie",
+                "family_name": "Wolfe",
+                "institution": null
+            },
+            {
+                "given_name": "Ilya",
+                "family_name": "Shpitser",
+                "institution": null
+            },
+            {
+                "given_name": "Robert W.",
+                "family_name": "Spekkens",
+                "institution": null
+            }
+        ],
+        "url": "https://proceedings.mlr.press/v161/finkelstein21a/finkelstein21a.pdf"
+    },
+    {
+        "title": "Learning proposals for probabilistic programs with inference combinators",
+        "authors": [
+            {
+                "given_name": "Sam",
+                "family_name": "Stites",
+                "institution": null
+            },
+            {
+                "given_name": "Heiko",
+                "family_name": "Zimmermann",
+                "institution": null
+            },
+            {
+                "given_name": "Hao",
+                "family_name": "Wu",
+                "institution": null
+            },
+            {
+                "given_name": "Eli",
+                "family_name": "Sennesh",
+                "institution": null
+            },
+            {
+                "given_name": "Jan-Willem Van De",
+                "family_name": "Meent",
+                "institution": null
+            }
+        ],
+        "url": "https://proceedings.mlr.press/v161/stites21a/stites21a.pdf"
+    },
+    {
+        "title": "Hierarchical infinite relational model",
+        "authors": [
+            {
+                "given_name": "Feras A.",
+                "family_name": "Saad",
+                "institution": null
+            },
+            {
+                "given_name": "Vikash K.",
+                "family_name": "Mansinghka",
+                "institution": null
+            }
+        ],
+        "url": "https://proceedings.mlr.press/v161/saad21a/saad21a.pdf"
+    },
+    {
+        "title": "Unsupervised constrained community detection via self-expressive graph neural network",
+        "authors": [
+            {
+                "given_name": "Sambaran",
+                "family_name": "Bandyopadhyay",
+                "institution": null
+            },
+            {
+                "given_name": "Vishal",
+                "family_name": "Peter",
+                "institution": null
+            }
+        ],
+        "url": "https://proceedings.mlr.press/v161/bandyopadhyay21a/bandyopadhyay21a.pdf"
+    },
+    {
+        "title": "NP-DRAW: A Non-Parametric Structured Latent Variable Model for Image Generation",
+        "authors": [
+            {
+                "given_name": "Xiaohui",
+                "family_name": "Zeng",
+                "institution": null
+            },
+            {
+                "given_name": "Raquel",
+                "family_name": "Urtasun",
+                "institution": null
+            },
+            {
+                "given_name": "Richard",
+                "family_name": "Zemel",
+                "institution": null
+            },
+            {
+                "given_name": "Sanja",
+                "family_name": "Fidler",
+                "institution": null
+            },
+            {
+                "given_name": "Renjie",
+                "family_name": "Liao",
+                "institution": null
+            }
+        ],
+        "url": "https://proceedings.mlr.press/v161/zeng21b/zeng21b.pdf"
+    },
+    {
+        "title": "PALM: Probabilistic area loss Minimization for Protein Sequence Alignment",
+        "authors": [
+            {
+                "given_name": "Fan",
+                "family_name": "Ding",
+                "institution": null
+            },
+            {
+                "given_name": "Nan",
+                "family_name": "Jiang",
+                "institution": null
+            },
+            {
+                "given_name": "Jianzhu",
+                "family_name": "Ma",
+                "institution": null
+            },
+            {
+                "given_name": "Jian",
+                "family_name": "Peng",
+                "institution": null
+            },
+            {
+                "given_name": "Jinbo",
+                "family_name": "Xu",
+                "institution": null
+            },
+            {
+                "given_name": "Yexiang",
+                "family_name": "Xue",
+                "institution": null
+            }
+        ],
+        "url": "https://proceedings.mlr.press/v161/ding21c/ding21c.pdf"
+    },
+    {
+        "title": "Principal component analysis in the stochastic differential privacy model",
+        "authors": [
+            {
+                "given_name": "Fanhua",
+                "family_name": "Shang",
+                "institution": null
+            },
+            {
+                "given_name": "Zhihui",
+                "family_name": "Zhang",
+                "institution": null
+            },
+            {
+                "given_name": "Tao",
+                "family_name": "Xu",
+                "institution": null
+            },
+            {
+                "given_name": "Yuanyuan",
+                "family_name": "Liu",
+                "institution": null
+            },
+            {
+                "given_name": "Hongying",
+                "family_name": "Liu",
+                "institution": null
+            }
+        ],
+        "url": "https://proceedings.mlr.press/v161/shang21a/shang21a.pdf"
+    },
+    {
+        "title": "Variance-dependent best arm identification",
+        "authors": [
+            {
+                "given_name": "Pinyan",
+                "family_name": "Lu",
+                "institution": null
+            },
+            {
+                "given_name": "Chao",
+                "family_name": "Tao",
+                "institution": null
+            },
+            {
+                "given_name": "Xiaojin",
+                "family_name": "Zhang",
+                "institution": null
+            }
+        ],
+        "url": "https://proceedings.mlr.press/v161/lu21a/lu21a.pdf"
+    },
+    {
+        "title": "Stochastic continuous normalizing flows: training SDEs as ODEs",
+        "authors": [
+            {
+                "given_name": "Liam",
+                "family_name": "Hodgkinson",
+                "institution": null
+            },
+            {
+                "given_name": "Chris Van Der",
+                "family_name": "Heide",
+                "institution": null
+            },
+            {
+                "given_name": "Fred",
+                "family_name": "Roosta",
+                "institution": null
+            },
+            {
+                "given_name": "Michael W.",
+                "family_name": "Mahoney",
+                "institution": null
+            }
+        ],
+        "url": "https://proceedings.mlr.press/v161/hodgkinson21a/hodgkinson21a.pdf"
+    },
+    {
+        "title": "On the distribution of penultimate activations of classification networks",
+        "authors": [
+            {
+                "given_name": "Minkyo",
+                "family_name": "Seo",
+                "institution": null
+            },
+            {
+                "given_name": "Yoonho",
+                "family_name": "Lee",
+                "institution": null
+            },
+            {
+                "given_name": "Suha",
+                "family_name": "Kwak",
+                "institution": null
+            }
+        ],
+        "url": "https://proceedings.mlr.press/v161/seo21a/seo21a.pdf"
+    },
+    {
+        "title": "Faster Convergence  of Stochastic Gradient Langevin Dynamics for Non-Log-Concave Sampling",
+        "authors": [
+            {
+                "given_name": "Difan",
+                "family_name": "Zou",
+                "institution": null
+            },
+            {
+                "given_name": "Pan",
+                "family_name": "Xu",
+                "institution": null
+            },
+            {
+                "given_name": "Quanquan",
+                "family_name": "Gu",
+                "institution": null
+            }
+        ],
+        "url": "https://proceedings.mlr.press/v161/zou21a/zou21a.pdf"
+    },
+    {
+        "title": "Tractable computation of expected kernels",
+        "authors": [
+            {
+                "given_name": "Wenzhe",
+                "family_name": "Li",
+                "institution": null
+            },
+            {
+                "given_name": "Zhe",
+                "family_name": "Zeng",
+                "institution": null
+            },
+            {
+                "given_name": "Antonio",
+                "family_name": "Vergari",
+                "institution": null
+            },
+            {
+                "given_name": "Guy Van Den",
+                "family_name": "Broeck",
+                "institution": null
+            }
+        ],
+        "url": "https://proceedings.mlr.press/v161/li21a/li21a.pdf"
+    },
+    {
+        "title": "Sparse linear networks with a fixed butterfly structure: theory and practice",
+        "authors": [
+            {
+                "given_name": "Nir",
+                "family_name": "Ailon",
+                "institution": null
+            },
+            {
+                "given_name": "Omer",
+                "family_name": "Leibovitch",
+                "institution": null
+            },
+            {
+                "given_name": "Vineet",
+                "family_name": "Nair",
+                "institution": null
+            }
+        ],
+        "url": "https://proceedings.mlr.press/v161/ailon21a/ailon21a.pdf"
+    },
+    {
+        "title": "Uncertainty-aware sensitivity analysis using Rényi divergences",
+        "authors": [
+            {
+                "given_name": "Topi",
+                "family_name": "Paananen",
+                "institution": null
+            },
+            {
+                "given_name": "Michael Riis",
+                "family_name": "Andersen",
+                "institution": null
+            },
+            {
+                "given_name": "Aki",
+                "family_name": "Vehtari",
+                "institution": null
+            }
+        ],
+        "url": "https://proceedings.mlr.press/v161/paananen21a/paananen21a.pdf"
+    },
+    {
+        "title": "Testification of Condorcet Winners in dueling bandits",
+        "authors": [
+            {
+                "given_name": "Björn",
+                "family_name": "Haddenhorst",
+                "institution": null
+            },
+            {
+                "given_name": "Viktor",
+                "family_name": "Bengs",
+                "institution": null
+            },
+            {
+                "given_name": "Jasmin",
+                "family_name": "Brandt",
+                "institution": null
+            },
+            {
+                "given_name": "Eyke",
+                "family_name": "Hüllermeier",
+                "institution": null
+            }
+        ],
+        "url": "https://proceedings.mlr.press/v161/haddenhorst21a/haddenhorst21a.pdf"
+    },
+    {
+        "title": "The promises and pitfalls of deep kernel learning",
+        "authors": [
+            {
+                "given_name": "Sebastian W.",
+                "family_name": "Ober",
+                "institution": null
+            },
+            {
+                "given_name": "Carl E.",
+                "family_name": "Rasmussen",
+                "institution": null
+            },
+            {
+                "given_name": "Mark Van Der",
+                "family_name": "Wilk",
+                "institution": null
+            }
+        ],
+        "url": "https://proceedings.mlr.press/v161/ober21a/ober21a.pdf"
+    },
+    {
+        "title": "Confidence in causal discovery with linear causal models",
+        "authors": [
+            {
+                "given_name": "David",
+                "family_name": "Strieder",
+                "institution": null
+            },
+            {
+                "given_name": "Tobias",
+                "family_name": "Freidling",
+                "institution": null
+            },
+            {
+                "given_name": "Stefan",
+                "family_name": "Haffner",
+                "institution": null
+            },
+            {
+                "given_name": "Mathias",
+                "family_name": "Drton",
+                "institution": null
+            }
+        ],
+        "url": "https://proceedings.mlr.press/v161/strieder21a/strieder21a.pdf"
+    },
+    {
+        "title": "Classification with abstention but without disparities",
+        "authors": [
+            {
+                "given_name": "Nicolas",
+                "family_name": "Schreuder",
+                "institution": null
+            },
+            {
+                "given_name": "Evgenii",
+                "family_name": "Chzhen",
+                "institution": null
+            }
+        ],
+        "url": "https://proceedings.mlr.press/v161/schreuder21a/schreuder21a.pdf"
+    },
+    {
+        "title": "Maximal ancestral graph structure learning via exact search",
+        "authors": [
+            {
+                "given_name": "Kari",
+                "family_name": "Rantanen",
+                "institution": null
+            },
+            {
+                "given_name": "Antti",
+                "family_name": "Hyttinen",
+                "institution": null
+            },
+            {
+                "given_name": "Matti",
+                "family_name": "Järvisalo",
+                "institution": null
+            }
+        ],
+        "url": "https://proceedings.mlr.press/v161/rantanen21a/rantanen21a.pdf"
+    },
+    {
+        "title": "Extendability of causal graphical models: Algorithms and computational complexity",
+        "authors": [
+            {
+                "given_name": "Marcel",
+                "family_name": "Wienöbst",
+                "institution": null
+            },
+            {
+                "given_name": "Max",
+                "family_name": "Bannach",
+                "institution": null
+            },
+            {
+                "given_name": "Maciej",
+                "family_name": "Liśkiewicz",
+                "institution": null
+            }
+        ],
+        "url": "https://proceedings.mlr.press/v161/wienobst21a/wienobst21a.pdf"
+    },
+    {
+        "title": "Gaussian process nowcasting: application to COVID-19 mortality reporting",
+        "authors": [
+            {
+                "given_name": "Iwona",
+                "family_name": "Hawryluk",
+                "institution": null
+            },
+            {
+                "given_name": "Henrique",
+                "family_name": "Hoeltgebaum",
+                "institution": null
+            },
+            {
+                "given_name": "Swapnil",
+                "family_name": "Mishra",
+                "institution": null
+            },
+            {
+                "given_name": "Xenia",
+                "family_name": "Miscouridou",
+                "institution": null
+            },
+            {
+                "given_name": "Ricardo P",
+                "family_name": "Schnekenberg",
+                "institution": null
+            },
+            {
+                "given_name": "Charles",
+                "family_name": "Whittaker",
+                "institution": null
+            },
+            {
+                "given_name": "Michaela",
+                "family_name": "Vollmer",
+                "institution": null
+            },
+            {
+                "given_name": "Seth",
+                "family_name": "Flaxman",
+                "institution": null
+            },
+            {
+                "given_name": "Samir",
+                "family_name": "Bhatt",
+                "institution": null
+            },
+            {
+                "given_name": "Thomas A.",
+                "family_name": "Mellan",
+                "institution": null
+            }
+        ],
+        "url": "https://proceedings.mlr.press/v161/hawryluk21a/hawryluk21a.pdf"
+    },
+    {
+        "title": "Trumpets: Injective flows for inference and inverse problems",
+        "authors": [
+            {
+                "given_name": "Konik",
+                "family_name": "Kothari",
+                "institution": null
+            },
+            {
+                "given_name": "Amirehsan",
+                "family_name": "Khorashadizadeh",
+                "institution": null
+            },
+            {
+                "given_name": "Maarten De",
+                "family_name": "Hoop",
+                "institution": null
+            },
+            {
+                "given_name": "Ivan",
+                "family_name": "Dokmanić",
+                "institution": null
+            }
+        ],
+        "url": "https://proceedings.mlr.press/v161/kothari21a/kothari21a.pdf"
+    },
+    {
+        "title": "Stochastic model for sunk cost bias",
+        "authors": [
+            {
+                "given_name": "Jon",
+                "family_name": "Kleinberg",
+                "institution": null
+            },
+            {
+                "given_name": "Sigal",
+                "family_name": "Oren",
+                "institution": null
+            },
+            {
+                "given_name": "Manish",
+                "family_name": "Raghavan",
+                "institution": null
+            },
+            {
+                "given_name": "Nadav",
+                "family_name": "Sklar",
+                "institution": null
+            }
+        ],
+        "url": "https://proceedings.mlr.press/v161/kleinberg21a/kleinberg21a.pdf"
+    },
+    {
+        "title": "Optimized auxiliary particle filters: adapting mixture proposals via convex optimization",
+        "authors": [
+            {
+                "given_name": "Nicola",
+                "family_name": "Branchini",
+                "institution": null
+            },
+            {
+                "given_name": "Víctor",
+                "family_name": "Elvira",
+                "institution": null
+            }
+        ],
+        "url": "https://proceedings.mlr.press/v161/branchini21a/branchini21a.pdf"
+    },
+    {
+        "title": "Inference of causal effects when control variables are unknown",
+        "authors": [
+            {
+                "given_name": "Ludvig",
+                "family_name": "Hult",
+                "institution": null
+            },
+            {
+                "given_name": "Dave",
+                "family_name": "Zachariah",
+                "institution": null
+            }
+        ],
+        "url": "https://proceedings.mlr.press/v161/hult21a/hult21a.pdf"
+    },
+    {
+        "title": "Dimension reduction for data with heterogeneous missingness",
+        "authors": [
+            {
+                "given_name": "Yurong",
+                "family_name": "Ling",
+                "institution": null
+            },
+            {
+                "given_name": "Zijing",
+                "family_name": "Liu",
+                "institution": null
+            },
+            {
+                "given_name": "Jing-Hao",
+                "family_name": "Xue",
+                "institution": null
+            }
+        ],
+        "url": "https://proceedings.mlr.press/v161/ling21a/ling21a.pdf"
+    },
+    {
+        "title": "Tensor-train density estimation",
+        "authors": [
+            {
+                "given_name": "Georgii S.",
+                "family_name": "Novikov",
+                "institution": null
+            },
+            {
+                "given_name": "Maxim E.",
+                "family_name": "Panov",
+                "institution": null
+            },
+            {
+                "given_name": "Ivan V.",
+                "family_name": "Oseledets",
+                "institution": null
+            }
+        ],
+        "url": "https://proceedings.mlr.press/v161/novikov21a/novikov21a.pdf"
+    },
+    {
+        "title": "Similarity measure for sparse time course data based on Gaussian processes",
+        "authors": [
+            {
+                "given_name": "Zijing",
+                "family_name": "Liu",
+                "institution": null
+            },
+            {
+                "given_name": "Mauricio",
+                "family_name": "Barahona",
+                "institution": null
+            }
+        ],
+        "url": "https://proceedings.mlr.press/v161/liu21a/liu21a.pdf"
+    },
+    {
+        "title": "Towards robust episodic meta-learning",
+        "authors": [
+            {
+                "given_name": "Beyza",
+                "family_name": "Ermis",
+                "institution": null
+            },
+            {
+                "given_name": "Giovanni",
+                "family_name": "Zappella",
+                "institution": null
+            },
+            {
+                "given_name": "Cédric",
+                "family_name": "Archambeau",
+                "institution": null
+            }
+        ],
+        "url": "https://proceedings.mlr.press/v161/ermis21a/ermis21a.pdf"
+    },
+    {
+        "title": "ReZero is all you need: fast convergence at large depth",
+        "authors": [
+            {
+                "given_name": "Thomas",
+                "family_name": "Bachlechner",
+                "institution": null
+            },
+            {
+                "given_name": "Bodhisattwa Prasad",
+                "family_name": "Majumder",
+                "institution": null
+            },
+            {
+                "given_name": "Henry",
+                "family_name": "Mao",
+                "institution": null
+            },
+            {
+                "given_name": "Gary",
+                "family_name": "Cottrell",
+                "institution": null
+            },
+            {
+                "given_name": "Julian",
+                "family_name": "Mcauley",
+                "institution": null
+            }
+        ],
+        "url": "https://proceedings.mlr.press/v161/bachlechner21a/bachlechner21a.pdf"
+    },
+    {
+        "title": "Subset-of-data variational inference for deep Gaussian-processes regression",
+        "authors": [
+            {
+                "given_name": "Ayush",
+                "family_name": "Jain",
+                "institution": null
+            },
+            {
+                "given_name": "P. K.",
+                "family_name": "Srijith",
+                "institution": null
+            },
+            {
+                "given_name": "Mohammad Emtiyaz",
+                "family_name": "Khan",
+                "institution": null
+            }
+        ],
+        "url": "https://proceedings.mlr.press/v161/jain21a/jain21a.pdf"
+    },
+    {
+        "title": "PLSO: A generative framework for decomposing nonstationary time-series into piecewise stationary oscillatory components",
+        "authors": [
+            {
+                "given_name": "Andrew H.",
+                "family_name": "Song",
+                "institution": null
+            },
+            {
+                "given_name": "Demba",
+                "family_name": "Ba",
+                "institution": null
+            },
+            {
+                "given_name": "Emery N.",
+                "family_name": "Brown",
+                "institution": null
+            }
+        ],
+        "url": "https://proceedings.mlr.press/v161/song21a/song21a.pdf"
+    },
+    {
+        "title": "Local explanations via necessity and sufficiency: unifying theory and practice",
+        "authors": [
+            {
+                "given_name": "David S.",
+                "family_name": "Watson",
+                "institution": null
+            },
+            {
+                "given_name": "Limor",
+                "family_name": "Gultchin",
+                "institution": null
+            },
+            {
+                "given_name": "Ankur",
+                "family_name": "Taly",
+                "institution": null
+            },
+            {
+                "given_name": "Luciano",
+                "family_name": "Floridi",
+                "institution": null
+            }
+        ],
+        "url": "https://proceedings.mlr.press/v161/watson21a/watson21a.pdf"
+    },
+    {
+        "title": "Faster lifting for two-variable logic using cell graphs",
+        "authors": [
+            {
+                "given_name": "Timothy Van",
+                "family_name": "Bremen",
+                "institution": null
+            },
+            {
+                "given_name": "Ondřej",
+                "family_name": "Kuželka",
+                "institution": null
+            }
+        ],
+        "url": "https://proceedings.mlr.press/v161/bremen21a/bremen21a.pdf"
+    },
+    {
+        "title": "Post-hoc loss-calibration for Bayesian neural networks",
+        "authors": [
+            {
+                "given_name": "Meet P.",
+                "family_name": "Vadera",
+                "institution": null
+            },
+            {
+                "given_name": "Soumya",
+                "family_name": "Ghosh",
+                "institution": null
+            },
+            {
+                "given_name": "Kenney",
+                "family_name": "Ng",
+                "institution": null
+            },
+            {
+                "given_name": "Benjamin M.",
+                "family_name": "Marlin",
+                "institution": null
+            }
+        ],
+        "url": "https://proceedings.mlr.press/v161/vadera21a/vadera21a.pdf"
+    },
+    {
+        "title": "Towards tractable optimism in model-based reinforcement learning",
+        "authors": [
+            {
+                "given_name": "Aldo",
+                "family_name": "Pacchiano",
+                "institution": null
+            },
+            {
+                "given_name": "Philip",
+                "family_name": "Ball",
+                "institution": null
+            },
+            {
+                "given_name": "Jack",
+                "family_name": "Parker-Holder",
+                "institution": null
+            },
+            {
+                "given_name": "Krzysztof",
+                "family_name": "Choromanski",
+                "institution": null
+            },
+            {
+                "given_name": "Stephen",
+                "family_name": "Roberts",
+                "institution": null
+            }
+        ],
+        "url": "https://proceedings.mlr.press/v161/pacchiano21a/pacchiano21a.pdf"
+    },
+    {
+        "title": "Probabilistic DAG search",
+        "authors": [
+            {
+                "given_name": "Julia",
+                "family_name": "Grosse",
+                "institution": null
+            },
+            {
+                "given_name": "Cheng",
+                "family_name": "Zhang",
+                "institution": null
+            },
+            {
+                "given_name": "Philipp",
+                "family_name": "Hennig",
+                "institution": null
+            }
+        ],
+        "url": "https://proceedings.mlr.press/v161/grosse21a/grosse21a.pdf"
+    },
+    {
+        "title": "Causal and interventional Markov boundaries",
+        "authors": [
+            {
+                "given_name": "Sofia",
+                "family_name": "Triantafillou",
+                "institution": null
+            },
+            {
+                "given_name": "Fattaneh",
+                "family_name": "Jabbari",
+                "institution": null
+            },
+            {
+                "given_name": "Gregory F.",
+                "family_name": "Cooper",
+                "institution": null
+            }
+        ],
+        "url": "https://proceedings.mlr.press/v161/triantafillou21a/triantafillou21a.pdf"
+    },
+    {
+        "title": "Simple combinatorial algorithms for combinatorial bandits: corruptions and approximations",
+        "authors": [
+            {
+                "given_name": "Haike",
+                "family_name": "Xu",
+                "institution": null
+            },
+            {
+                "given_name": "Jian",
+                "family_name": "Li",
+                "institution": null
+            }
+        ],
+        "url": "https://proceedings.mlr.press/v161/xu21b/xu21b.pdf"
+    },
+    {
+        "title": "CLAIM: curriculum learning policy for influence maximization in unknown social networks",
+        "authors": [
+            {
+                "given_name": "Dexun",
+                "family_name": "Li",
+                "institution": null
+            },
+            {
+                "given_name": "Meghna",
+                "family_name": "Lowalekar",
+                "institution": null
+            },
+            {
+                "given_name": "Pradeep",
+                "family_name": "Varakantham",
+                "institution": null
+            }
+        ],
+        "url": "https://proceedings.mlr.press/v161/li21b/li21b.pdf"
+    },
+    {
+        "title": "Learning to learn with Gaussian processes",
+        "authors": [
+            {
+                "given_name": "Quoc Phong",
+                "family_name": "Nguyen",
+                "institution": null
+            },
+            {
+                "given_name": "Bryan Kian Hsiang",
+                "family_name": "Low",
+                "institution": null
+            },
+            {
+                "given_name": "Patrick",
+                "family_name": "Jaillet",
+                "institution": null
+            }
+        ],
+        "url": "https://proceedings.mlr.press/v161/nguyen21c/nguyen21c.pdf"
+    },
+    {
+        "title": "Sum-product laws and efficient algorithms for imprecise Markov chains",
+        "authors": [
+            {
+                "given_name": "Jasper De",
+                "family_name": "Bock",
+                "institution": null
+            },
+            {
+                "given_name": "Alexander",
+                "family_name": "Erreygers",
+                "institution": null
+            },
+            {
+                "given_name": "Thomas",
+                "family_name": "Krak",
+                "institution": null
+            }
+        ],
+        "url": "https://proceedings.mlr.press/v161/de-bock21a/de-bock21a.pdf"
+    },
+    {
+        "title": "Trusted-maximizers entropy search for efficient Bayesian optimization",
+        "authors": [
+            {
+                "given_name": "Quoc Phong",
+                "family_name": "Nguyen",
+                "institution": null
+            },
+            {
+                "given_name": "Zhaoxuan",
+                "family_name": "Wu",
+                "institution": null
+            },
+            {
+                "given_name": "Bryan Kian Hsiang",
+                "family_name": "Low",
+                "institution": null
+            },
+            {
+                "given_name": "Patrick",
+                "family_name": "Jaillet",
+                "institution": null
+            }
+        ],
+        "url": "https://proceedings.mlr.press/v161/nguyen21d/nguyen21d.pdf"
+    },
+    {
+        "title": "Minimax sample complexity for turn-based stochastic game",
+        "authors": [
+            {
+                "given_name": "Qiwen",
+                "family_name": "Cui",
+                "institution": null
+            },
+            {
+                "given_name": "Lin F.",
+                "family_name": "Yang",
+                "institution": null
+            }
+        ],
+        "url": "https://proceedings.mlr.press/v161/cui21a/cui21a.pdf"
+    },
+    {
+        "title": "Multi-output Gaussian Processes for uncertainty-aware recommender systems",
+        "authors": [
+            {
+                "given_name": "Yinchong",
+                "family_name": "Yang",
+                "institution": null
+            },
+            {
+                "given_name": "Florian",
+                "family_name": "Buettner",
+                "institution": null
+            }
+        ],
+        "url": "https://proceedings.mlr.press/v161/yang21a/yang21a.pdf"
+    },
+    {
+        "title": "Generalization error bounds for deep unfolding RNNs",
+        "authors": [
+            {
+                "given_name": "Boris",
+                "family_name": "Joukovsky",
+                "institution": null
+            },
+            {
+                "given_name": "Tanmoy",
+                "family_name": "Mukherjee",
+                "institution": null
+            },
+            {
+                "given_name": "Huynh Van",
+                "family_name": "Luong",
+                "institution": null
+            },
+            {
+                "given_name": "Nikos",
+                "family_name": "Deligiannis",
+                "institution": null
+            }
+        ],
+        "url": "https://proceedings.mlr.press/v161/joukovsky21a/joukovsky21a.pdf"
+    },
+    {
+        "title": "RISAN: Robust instance specific deep abstention network",
+        "authors": [
+            {
+                "given_name": "Bhavya",
+                "family_name": "Kalra",
+                "institution": null
+            },
+            {
+                "given_name": "Kulin",
+                "family_name": "Shah",
+                "institution": null
+            },
+            {
+                "given_name": "Naresh",
+                "family_name": "Manwani",
+                "institution": null
+            }
+        ],
+        "url": "https://proceedings.mlr.press/v161/kalra21a/kalra21a.pdf"
+    },
+    {
+        "title": "Contingency-aware influence maximization: A reinforcement learning approach",
+        "authors": [
+            {
+                "given_name": "Haipeng",
+                "family_name": "Chen",
+                "institution": null
+            },
+            {
+                "given_name": "Wei",
+                "family_name": "Qiu",
+                "institution": null
+            },
+            {
+                "given_name": "Han-Ching",
+                "family_name": "Ou",
+                "institution": null
+            },
+            {
+                "given_name": "Bo",
+                "family_name": "An",
+                "institution": null
+            },
+            {
+                "given_name": "Milind",
+                "family_name": "Tambe",
+                "institution": null
+            }
+        ],
+        "url": "https://proceedings.mlr.press/v161/chen21b/chen21b.pdf"
+    },
+    {
+        "title": "Invariant representation learning for treatment effect estimation",
+        "authors": [
+            {
+                "given_name": "Claudia",
+                "family_name": "Shi",
+                "institution": null
+            },
+            {
+                "given_name": "Victor",
+                "family_name": "Veitch",
+                "institution": null
+            },
+            {
+                "given_name": "David M.",
+                "family_name": "Blei",
+                "institution": null
+            }
+        ],
+        "url": "https://proceedings.mlr.press/v161/shi21a/shi21a.pdf"
+    },
+    {
+        "title": "Generating adversarial examples with graph neural networks",
+        "authors": [
+            {
+                "given_name": "Florian",
+                "family_name": "Jaeckle",
+                "institution": null
+            },
+            {
+                "given_name": "M. Pawan",
+                "family_name": "Kumar",
+                "institution": null
+            }
+        ],
+        "url": "https://proceedings.mlr.press/v161/jaeckle21a/jaeckle21a.pdf"
+    },
+    {
+        "title": "A Bayesian nonparametric conditional two-sample test with an application to Local Causal Discovery",
+        "authors": [
+            {
+                "given_name": "Philip A.",
+                "family_name": "Boeken",
+                "institution": null
+            },
+            {
+                "given_name": "Joris M.",
+                "family_name": "Mooij",
+                "institution": null
+            }
+        ],
+        "url": "https://proceedings.mlr.press/v161/boeken21a/boeken21a.pdf"
+    },
+    {
+        "title": "Graph-based semi-supervised learning through the lens of safety",
+        "authors": [
+            {
+                "given_name": "Shreyas",
+                "family_name": "Sheshadri",
+                "institution": null
+            },
+            {
+                "given_name": "Avirup",
+                "family_name": "Saha",
+                "institution": null
+            },
+            {
+                "given_name": "Priyank",
+                "family_name": "Patel",
+                "institution": null
+            },
+            {
+                "given_name": "Samik",
+                "family_name": "Datta",
+                "institution": null
+            },
+            {
+                "given_name": "Niloy",
+                "family_name": "Ganguly",
+                "institution": null
+            }
+        ],
+        "url": "https://proceedings.mlr.press/v161/sheshadri21a/sheshadri21a.pdf"
+    },
+    {
+        "title": "Strategically efficient exploration in competitive multi-agent reinforcement learning",
+        "authors": [
+            {
+                "given_name": "Robert",
+                "family_name": "Loftin",
+                "institution": null
+            },
+            {
+                "given_name": "Aadirupa",
+                "family_name": "Saha",
+                "institution": null
+            },
+            {
+                "given_name": "Sam",
+                "family_name": "Devlin",
+                "institution": null
+            },
+            {
+                "given_name": "Katja",
+                "family_name": "Hofmann",
+                "institution": null
+            }
+        ],
+        "url": "https://proceedings.mlr.press/v161/loftin21a/loftin21a.pdf"
+    },
+    {
+        "title": "Information theoretic meta learning with Gaussian processes",
+        "authors": [
+            {
+                "given_name": "Michalis K.",
+                "family_name": "Titsias",
+                "institution": null
+            },
+            {
+                "given_name": "Francisco J. R.",
+                "family_name": "Ruiz",
+                "institution": null
+            },
+            {
+                "given_name": "Sotirios",
+                "family_name": "Nikoloutsopoulos",
+                "institution": null
+            },
+            {
+                "given_name": "Alexandre",
+                "family_name": "Galashov",
+                "institution": null
+            }
+        ],
+        "url": "https://proceedings.mlr.press/v161/titsias21a/titsias21a.pdf"
+    },
+    {
+        "title": "Combining pseudo-point and state space approximations for sum-separable Gaussian Processes",
+        "authors": [
+            {
+                "given_name": "Will",
+                "family_name": "Tebbutt",
+                "institution": null
+            },
+            {
+                "given_name": "Arno",
+                "family_name": "Solin",
+                "institution": null
+            },
+            {
+                "given_name": "Richard E.",
+                "family_name": "Turner",
+                "institution": null
+            }
+        ],
+        "url": "https://proceedings.mlr.press/v161/tebbutt21a/tebbutt21a.pdf"
+    },
+    {
+        "title": "Class balancing GAN with a classifier in the loop",
+        "authors": [
+            {
+                "given_name": "Harsh",
+                "family_name": "Rangwani",
+                "institution": null
+            },
+            {
+                "given_name": "Konda Reddy",
+                "family_name": "Mopuri",
+                "institution": null
+            },
+            {
+                "given_name": "R. Venkatesh",
+                "family_name": "Babu",
+                "institution": null
+            }
+        ],
+        "url": "https://proceedings.mlr.press/v161/rangwani21a/rangwani21a.pdf"
+    },
+    {
+        "title": "Hierarchical learning of Hidden Markov Models with clustering regularization",
+        "authors": [
+            {
+                "given_name": "Hui",
+                "family_name": "Lan",
+                "institution": null
+            },
+            {
+                "given_name": "Antoni B.",
+                "family_name": "Chan",
+                "institution": null
+            }
+        ],
+        "url": "https://proceedings.mlr.press/v161/lan21a/lan21a.pdf"
+    },
+    {
+        "title": "Enabling long-range exploration in minimization of multimodal functions",
+        "authors": [
+            {
+                "given_name": "Jiaxin",
+                "family_name": "Zhang",
+                "institution": null
+            },
+            {
+                "given_name": "Hoang",
+                "family_name": "Tran",
+                "institution": null
+            },
+            {
+                "given_name": "Dan",
+                "family_name": "Lu",
+                "institution": null
+            },
+            {
+                "given_name": "Guannan",
+                "family_name": "Zhang",
+                "institution": null
+            }
+        ],
+        "url": "https://proceedings.mlr.press/v161/zhang21e/zhang21e.pdf"
+    },
+    {
+        "title": "An optimization and generalization analysis for max-pooling networks",
+        "authors": [
+            {
+                "given_name": "Alon",
+                "family_name": "Brutzkus",
+                "institution": null
+            },
+            {
+                "given_name": "Amir",
+                "family_name": "Globerson",
+                "institution": null
+            }
+        ],
+        "url": "https://proceedings.mlr.press/v161/brutzkus21a/brutzkus21a.pdf"
+    },
+    {
+        "title": "Investigating vulnerabilities of deep neural policies",
+        "authors": [
+            {
+                "given_name": "Ezgi",
+                "family_name": "Korkmaz",
+                "institution": null
+            }
+        ],
+        "url": "https://proceedings.mlr.press/v161/korkmaz21a/korkmaz21a.pdf"
+    },
+    {
+        "title": "Modeling financial uncertainty with multivariate temporal entropy-based curriculums",
+        "authors": [
+            {
+                "given_name": "Ramit",
+                "family_name": "Sawhney",
+                "institution": null
+            },
+            {
+                "given_name": "Arnav",
+                "family_name": "Wadhwa",
+                "institution": null
+            },
+            {
+                "given_name": "Ayush",
+                "family_name": "Mangal",
+                "institution": null
+            },
+            {
+                "given_name": "Vivek",
+                "family_name": "Mittal",
+                "institution": null
+            },
+            {
+                "given_name": "Shivam",
+                "family_name": "Agarwal",
+                "institution": null
+            },
+            {
+                "given_name": "Rajiv Ratn",
+                "family_name": "Shah",
+                "institution": null
+            }
+        ],
+        "url": "https://proceedings.mlr.press/v161/sawhney21a/sawhney21a.pdf"
+    },
+    {
+        "title": "Random probabilistic circuits",
+        "authors": [
+            {
+                "given_name": "Nicola Di",
+                "family_name": "Mauro",
+                "institution": null
+            },
+            {
+                "given_name": "Gennaro",
+                "family_name": "Gala",
+                "institution": null
+            },
+            {
+                "given_name": "Marco",
+                "family_name": "Iannotta",
+                "institution": null
+            },
+            {
+                "given_name": "Teresa M.A.",
+                "family_name": "Basile",
+                "institution": null
+            }
+        ],
+        "url": "https://proceedings.mlr.press/v161/di-mauro21a/di-mauro21a.pdf"
+    },
+    {
+        "title": "Multi-task and meta-learning with sparse linear bandits",
+        "authors": [
+            {
+                "given_name": "Leonardo",
+                "family_name": "Cella",
+                "institution": null
+            },
+            {
+                "given_name": "Massimiliano",
+                "family_name": "Pontil",
+                "institution": null
+            }
+        ],
+        "url": "https://proceedings.mlr.press/v161/cella21a/cella21a.pdf"
+    },
+    {
+        "title": "Federated stochastic gradient Langevin dynamics",
+        "authors": [
+            {
+                "given_name": "Khaoula El",
+                "family_name": "Mekkaoui",
+                "institution": null
+            },
+            {
+                "given_name": "Diego",
+                "family_name": "Mesquita",
+                "institution": null
+            },
+            {
+                "given_name": "Paul",
+                "family_name": "Blomstedt",
+                "institution": null
+            },
+            {
+                "given_name": "Samuel",
+                "family_name": "Kaski",
+                "institution": null
+            }
+        ],
+        "url": "https://proceedings.mlr.press/v161/mekkaoui21a/mekkaoui21a.pdf"
+    },
+    {
+        "title": "Certification of iterative predictions in Bayesian neural networks",
+        "authors": [
+            {
+                "given_name": "Matthew",
+                "family_name": "Wicker",
+                "institution": null
+            },
+            {
+                "given_name": "Luca",
+                "family_name": "Laurenti",
+                "institution": null
+            },
+            {
+                "given_name": "Andrea",
+                "family_name": "Patane",
+                "institution": null
+            },
+            {
+                "given_name": "Nicola",
+                "family_name": "Paoletti",
+                "institution": null
+            },
+            {
+                "given_name": "Alessandro",
+                "family_name": "Abate",
+                "institution": null
+            },
+            {
+                "given_name": "Marta",
+                "family_name": "Kwiatkowska",
+                "institution": null
+            }
+        ],
+        "url": "https://proceedings.mlr.press/v161/wicker21a/wicker21a.pdf"
+    },
+    {
+        "title": "Integer programming-based error-correcting output code design for robust classification",
+        "authors": [
+            {
+                "given_name": "Samarth",
+                "family_name": "Gupta",
+                "institution": null
+            },
+            {
+                "given_name": "Saurabh",
+                "family_name": "Amin",
+                "institution": null
+            }
+        ],
+        "url": "https://proceedings.mlr.press/v161/gupta21c/gupta21c.pdf"
+    },
+    {
+        "title": "Statistically robust neural network classification",
+        "authors": [
+            {
+                "given_name": "Benjie",
+                "family_name": "Wang",
+                "institution": null
+            },
+            {
+                "given_name": "Stefan",
+                "family_name": "Webb",
+                "institution": null
+            },
+            {
+                "given_name": "Tom",
+                "family_name": "Rainforth",
+                "institution": null
+            }
+        ],
+        "url": "https://proceedings.mlr.press/v161/wang21b/wang21b.pdf"
+    },
+    {
+        "title": "Markov equivalence of max-linear Bayesian networks",
+        "authors": [
+            {
+                "given_name": "Carlos",
+                "family_name": "Améndola",
+                "institution": null
+            },
+            {
+                "given_name": "Benjamin",
+                "family_name": "Hollering",
+                "institution": null
+            },
+            {
+                "given_name": "Seth",
+                "family_name": "Sullivant",
+                "institution": null
+            },
+            {
+                "given_name": "Ngoc",
+                "family_name": "Tran",
+                "institution": null
+            }
+        ],
+        "url": "https://proceedings.mlr.press/v161/amendola21a/amendola21a.pdf"
+    },
+    {
+        "title": "Constrained differentially private federated learning for low-bandwidth devices",
+        "authors": [
+            {
+                "given_name": "Raouf",
+                "family_name": "Kerkouche",
+                "institution": null
+            },
+            {
+                "given_name": "Gergely",
+                "family_name": "Ács",
+                "institution": null
+            },
+            {
+                "given_name": "Claude",
+                "family_name": "Castelluccia",
+                "institution": null
+            },
+            {
+                "given_name": "Pierre",
+                "family_name": "Genevès",
+                "institution": null
+            }
+        ],
+        "url": "https://proceedings.mlr.press/v161/kerkouche21a/kerkouche21a.pdf"
+    },
+    {
+        "title": "Know your limits: Uncertainty estimation with ReLU classifiers fails at reliable OOD detection",
+        "authors": [
+            {
+                "given_name": "Dennis",
+                "family_name": "Ulmer",
+                "institution": null
+            },
+            {
+                "given_name": "Giovanni",
+                "family_name": "Cinà",
+                "institution": null
+            }
+        ],
+        "url": "https://proceedings.mlr.press/v161/ulmer21a/ulmer21a.pdf"
+    },
+    {
+        "title": "Nearest neighbor search under uncertainty",
+        "authors": [
+            {
+                "given_name": "Blake",
+                "family_name": "Mason",
+                "institution": null
+            },
+            {
+                "given_name": "Ardhendu",
+                "family_name": "Tripathy",
+                "institution": null
+            },
+            {
+                "given_name": "Robert",
+                "family_name": "Nowak",
+                "institution": null
+            }
+        ],
+        "url": "https://proceedings.mlr.press/v161/mason21a/mason21a.pdf"
+    },
+    {
+        "title": "Contextual policy transfer in reinforcement learning domains via deep mixtures-of-experts",
+        "authors": [
+            {
+                "given_name": "Michael",
+                "family_name": "Gimelfarb",
+                "institution": null
+            },
+            {
+                "given_name": "Scott",
+                "family_name": "Sanner",
+                "institution": null
+            },
+            {
+                "given_name": "Chi-Guhn",
+                "family_name": "Lee",
+                "institution": null
+            }
+        ],
+        "url": "https://proceedings.mlr.press/v161/gimelfarb21a/gimelfarb21a.pdf"
+    },
+    {
+        "title": "Partial Identifiability in Discrete Data with Measurement Error",
+        "authors": [
+            {
+                "given_name": "Noam",
+                "family_name": "Finkelstein",
+                "institution": null
+            },
+            {
+                "given_name": "Roy",
+                "family_name": "Adams",
+                "institution": null
+            },
+            {
+                "given_name": "Suchi",
+                "family_name": "Saria",
+                "institution": null
+            },
+            {
+                "given_name": "Ilya",
+                "family_name": "Shpitser",
+                "institution": null
+            }
+        ],
+        "url": "https://proceedings.mlr.press/v161/finkelstein21b/finkelstein21b.pdf"
+    },
+    {
+        "title": "Bias-corrected peaks-over-threshold estimation of the CVaR",
+        "authors": [
+            {
+                "given_name": "Dylan",
+                "family_name": "Troop",
+                "institution": null
+            },
+            {
+                "given_name": "Frédéric",
+                "family_name": "Godin",
+                "institution": null
+            },
+            {
+                "given_name": "Jia Yuan",
+                "family_name": "Yu",
+                "institution": null
+            }
+        ],
+        "url": "https://proceedings.mlr.press/v161/troop21a/troop21a.pdf"
+    },
+    {
+        "title": "Variational refinement for importance sampling using the forward Kullback-Leibler divergence",
+        "authors": [
+            {
+                "given_name": "Ghassen",
+                "family_name": "Jerfel",
+                "institution": null
+            },
+            {
+                "given_name": "Serena",
+                "family_name": "Wang",
+                "institution": null
+            },
+            {
+                "given_name": "Clara",
+                "family_name": "Wong-Fannjiang",
+                "institution": null
+            },
+            {
+                "given_name": "Katherine A.",
+                "family_name": "Heller",
+                "institution": null
+            },
+            {
+                "given_name": "Yian",
+                "family_name": "Ma",
+                "institution": null
+            },
+            {
+                "given_name": "Michael I.",
+                "family_name": "Jordan",
+                "institution": null
+            }
+        ],
+        "url": "https://proceedings.mlr.press/v161/jerfel21a/jerfel21a.pdf"
+    },
+    {
+        "title": "Diagnostics for conditional density models and Bayesian inference algorithms",
+        "authors": [
+            {
+                "given_name": "David",
+                "family_name": "Zhao",
+                "institution": null
+            },
+            {
+                "given_name": "Niccolò",
+                "family_name": "Dalmasso",
+                "institution": null
+            },
+            {
+                "given_name": "Rafael",
+                "family_name": "Izbicki",
+                "institution": null
+            },
+            {
+                "given_name": "Ann B.",
+                "family_name": "Lee",
+                "institution": null
+            }
+        ],
+        "url": "https://proceedings.mlr.press/v161/zhao21b/zhao21b.pdf"
+    },
+    {
+        "title": "Non-PSD matrix sketching with applications to regression and optimization",
+        "authors": [
+            {
+                "given_name": "Zhili",
+                "family_name": "Feng",
+                "institution": null
+            },
+            {
+                "given_name": "Fred",
+                "family_name": "Roosta",
+                "institution": null
+            },
+            {
+                "given_name": "David P.",
+                "family_name": "Woodruff",
+                "institution": null
+            }
+        ],
+        "url": "https://proceedings.mlr.press/v161/feng21a/feng21a.pdf"
+    },
+    {
+        "title": "Staying in shape: learning invariant shape representations using contrastive learning",
+        "authors": [
+            {
+                "given_name": "Jeffrey",
+                "family_name": "Gu",
+                "institution": null
+            },
+            {
+                "given_name": "Serena",
+                "family_name": "Yeung",
+                "institution": null
+            }
+        ],
+        "url": "https://proceedings.mlr.press/v161/gu21a/gu21a.pdf"
+    },
+    {
+        "title": "Convergence behavior of belief propagation: estimating regions of attraction via Lyapunov functions",
+        "authors": [
+            {
+                "given_name": "Harald",
+                "family_name": "Leisenberger",
+                "institution": null
+            },
+            {
+                "given_name": "Christian",
+                "family_name": "Knoll",
+                "institution": null
+            },
+            {
+                "given_name": "Richard",
+                "family_name": "Seeber",
+                "institution": null
+            },
+            {
+                "given_name": "Franz",
+                "family_name": "Pernkopf",
+                "institution": null
+            }
+        ],
+        "url": "https://proceedings.mlr.press/v161/leisenberger21a/leisenberger21a.pdf"
+    },
+    {
+        "title": "Explaining fast improvement in online imitation learning",
+        "authors": [
+            {
+                "given_name": "Xinyan",
+                "family_name": "Yan",
+                "institution": null
+            },
+            {
+                "given_name": "Byron",
+                "family_name": "Boots",
+                "institution": null
+            },
+            {
+                "given_name": "Ching-An",
+                "family_name": "Cheng",
+                "institution": null
+            }
+        ],
+        "url": "https://proceedings.mlr.press/v161/yan21a/yan21a.pdf"
+    },
+    {
+        "title": "Gradient-based optimization for multi-resource spatial coverage problems",
+        "authors": [
+            {
+                "given_name": "Nitin",
+                "family_name": "Kamra",
+                "institution": null
+            },
+            {
+                "given_name": "Yan",
+                "family_name": "Liu",
+                "institution": null
+            }
+        ],
+        "url": "https://proceedings.mlr.press/v161/kamra21a/kamra21a.pdf"
+    },
+    {
+        "title": "Doubly non-central beta matrix factorization for DNA methylation data",
+        "authors": [
+            {
+                "given_name": "Aaron",
+                "family_name": "Schein",
+                "institution": null
+            },
+            {
+                "given_name": "Anjali",
+                "family_name": "Nagulpally",
+                "institution": null
+            },
+            {
+                "given_name": "Hanna",
+                "family_name": "Wallach",
+                "institution": null
+            },
+            {
+                "given_name": "Patrick",
+                "family_name": "Flaherty",
+                "institution": null
+            }
+        ],
+        "url": "https://proceedings.mlr.press/v161/schein21a/schein21a.pdf"
+    },
+    {
+        "title": "SGD with low-dimensional gradients with applications to private and distributed learning",
+        "authors": [
+            {
+                "given_name": "Shiva Prasad",
+                "family_name": "Kasiviswanathan",
+                "institution": null
+            }
+        ],
+        "url": "https://proceedings.mlr.press/v161/kasiviswanathan21a/kasiviswanathan21a.pdf"
+    },
+    {
+        "title": "Active multi-fidelity Bayesian online changepoint detection",
+        "authors": [
+            {
+                "given_name": "Gregory W.",
+                "family_name": "Gundersen",
+                "institution": null
+            },
+            {
+                "given_name": "Diana",
+                "family_name": "Cai",
+                "institution": null
+            },
+            {
+                "given_name": "Chuteng",
+                "family_name": "Zhou",
+                "institution": null
+            },
+            {
+                "given_name": "Barbara E.",
+                "family_name": "Engelhardt",
+                "institution": null
+            },
+            {
+                "given_name": "Ryan P.",
+                "family_name": "Adams",
+                "institution": null
+            }
+        ],
+        "url": "https://proceedings.mlr.press/v161/gundersen21a/gundersen21a.pdf"
+    },
+    {
+        "title": "Learning in Multi-Player Stochastic Games",
+        "authors": [
+            {
+                "given_name": "William",
+                "family_name": "Brown",
+                "institution": null
+            }
+        ],
+        "url": "https://proceedings.mlr.press/v161/brown21a/brown21a.pdf"
+    },
+    {
+        "title": "q-Paths: Generalizing the geometric annealing path using power means",
+        "authors": [
+            {
+                "given_name": "Vaden",
+                "family_name": "Masrani",
+                "institution": null
+            },
+            {
+                "given_name": "Rob",
+                "family_name": "Brekelmans",
+                "institution": null
+            },
+            {
+                "given_name": "Thang",
+                "family_name": "Bui",
+                "institution": null
+            },
+            {
+                "given_name": "Frank",
+                "family_name": "Nielsen",
+                "institution": null
+            },
+            {
+                "given_name": "Aram",
+                "family_name": "Galstyan",
+                "institution": null
+            },
+            {
+                "given_name": "Greg Ver",
+                "family_name": "Steeg",
+                "institution": null
+            },
+            {
+                "given_name": "Frank",
+                "family_name": "Wood",
+                "institution": null
+            }
+        ],
+        "url": "https://proceedings.mlr.press/v161/masrani21a/masrani21a.pdf"
+    },
+    {
+        "title": "Condition number bounds for causal inference",
+        "authors": [
+            {
+                "given_name": "Spencer L.",
+                "family_name": "Gordon",
+                "institution": null
+            },
+            {
+                "given_name": "Vinayak M.",
+                "family_name": "Kumar",
+                "institution": null
+            },
+            {
+                "given_name": "Leonard J.",
+                "family_name": "Schulman",
+                "institution": null
+            },
+            {
+                "given_name": "Piyush",
+                "family_name": "Srivastava",
+                "institution": null
+            }
+        ],
+        "url": "https://proceedings.mlr.press/v161/gordon21a/gordon21a.pdf"
+    },
+    {
+        "title": "Sketching curvature for efficient out-of-distribution detection for deep neural networks",
+        "authors": [
+            {
+                "given_name": "Apoorva",
+                "family_name": "Sharma",
+                "institution": null
+            },
+            {
+                "given_name": "Navid",
+                "family_name": "Azizan",
+                "institution": null
+            },
+            {
+                "given_name": "Marco",
+                "family_name": "Pavone",
+                "institution": null
+            }
+        ],
+        "url": "https://proceedings.mlr.press/v161/sharma21a/sharma21a.pdf"
+    },
+    {
+        "title": "CORe: Capitalizing On Rewards in Bandit Exploration",
+        "authors": [
+            {
+                "given_name": "Nan",
+                "family_name": "Wang",
+                "institution": null
+            },
+            {
+                "given_name": "Branislav",
+                "family_name": "Kveton",
+                "institution": null
+            },
+            {
+                "given_name": "Maryam",
+                "family_name": "Karimzadehgan",
+                "institution": null
+            }
+        ],
+        "url": "https://proceedings.mlr.press/v161/wang21c/wang21c.pdf"
+    },
+    {
+        "title": "Explicit pairwise factorized graph neural network for semi-supervised node classification",
+        "authors": [
+            {
+                "given_name": "Yu",
+                "family_name": "Wang",
+                "institution": null
+            },
+            {
+                "given_name": "Yuesong",
+                "family_name": "Shen",
+                "institution": null
+            },
+            {
+                "given_name": "Daniel",
+                "family_name": "Cremers",
+                "institution": null
+            }
+        ],
+        "url": "https://proceedings.mlr.press/v161/wang21d/wang21d.pdf"
+    },
+    {
+        "title": "Statistical mechanical analysis of neural network pruning",
+        "authors": [
+            {
+                "given_name": "Rupam",
+                "family_name": "Acharyya",
+                "institution": null
+            },
+            {
+                "given_name": "Ankani",
+                "family_name": "Chattoraj",
+                "institution": null
+            },
+            {
+                "given_name": "Boyu",
+                "family_name": "Zhang",
+                "institution": null
+            },
+            {
+                "given_name": "Shouman",
+                "family_name": "Das",
+                "institution": null
+            },
+            {
+                "given_name": "Daniel",
+                "family_name": "Štefankovič",
+                "institution": null
+            }
+        ],
+        "url": "https://proceedings.mlr.press/v161/acharyya21a/acharyya21a.pdf"
+    },
+    {
+        "title": "Correlated weights in infinite limits of deep convolutional neural networks",
+        "authors": [
+            {
+                "given_name": "Adrià",
+                "family_name": "Garriga-Alonso",
+                "institution": null
+            },
+            {
+                "given_name": "Mark Van Der",
+                "family_name": "Wilk",
+                "institution": null
+            }
+        ],
+        "url": "https://proceedings.mlr.press/v161/garriga-alonso21a/garriga-alonso21a.pdf"
+    },
+    {
+        "title": "Leveraging probabilistic circuits for nonparametric multi-output regression",
+        "authors": [
+            {
+                "given_name": "Zhongjie",
+                "family_name": "Yu",
+                "institution": null
+            },
+            {
+                "given_name": "Mingye",
+                "family_name": "Zhu",
+                "institution": null
+            },
+            {
+                "given_name": "Martin",
+                "family_name": "Trapp",
+                "institution": null
+            },
+            {
+                "given_name": "Arseny",
+                "family_name": "Skryagin",
+                "institution": null
+            },
+            {
+                "given_name": "Kristian",
+                "family_name": "Kersting",
+                "institution": null
+            }
+        ],
+        "url": "https://proceedings.mlr.press/v161/yu21a/yu21a.pdf"
+    },
+    {
+        "title": "PROVIDE: a probabilistic framework for unsupervised video decomposition",
+        "authors": [
+            {
+                "given_name": "Polina",
+                "family_name": "Zablotskaia",
+                "institution": null
+            },
+            {
+                "given_name": "Edoardo A.",
+                "family_name": "Dominici",
+                "institution": null
+            },
+            {
+                "given_name": "Leonid",
+                "family_name": "Sigal",
+                "institution": null
+            },
+            {
+                "given_name": "Andreas M.",
+                "family_name": "Lehrmann",
+                "institution": null
+            }
+        ],
+        "url": "https://proceedings.mlr.press/v161/zablotskaia21a/zablotskaia21a.pdf"
+    },
+    {
+        "title": "Uncertainty in minimum cost multicuts for image and motion segmentation",
+        "authors": [
+            {
+                "given_name": "Amirhossein",
+                "family_name": "Kardoost",
+                "institution": null
+            },
+            {
+                "given_name": "Margret",
+                "family_name": "Keuper",
+                "institution": null
+            }
+        ],
+        "url": "https://proceedings.mlr.press/v161/kardoost21a/kardoost21a.pdf"
+    },
+    {
+        "title": "Learning probabilistic sentential decision diagrams under logic constraints by sampling and averaging",
+        "authors": [
+            {
+                "given_name": "Renato Lui",
+                "family_name": "Geh",
+                "institution": null
+            },
+            {
+                "given_name": "Denis Deratani",
+                "family_name": "Mauá",
+                "institution": null
+            }
+        ],
+        "url": "https://proceedings.mlr.press/v161/geh21a/geh21a.pdf"
+    },
+    {
+        "title": "Conditionally independent data generation",
+        "authors": [
+            {
+                "given_name": "Kartik",
+                "family_name": "Ahuja",
+                "institution": null
+            },
+            {
+                "given_name": "Prasanna",
+                "family_name": "Sattigeri",
+                "institution": null
+            },
+            {
+                "given_name": "Karthikeyan",
+                "family_name": "Shanmugam",
+                "institution": null
+            },
+            {
+                "given_name": "Dennis",
+                "family_name": "Wei",
+                "institution": null
+            },
+            {
+                "given_name": "Karthikeyan Natesan",
+                "family_name": "Ramamurthy",
+                "institution": null
+            },
+            {
+                "given_name": "Murat",
+                "family_name": "Kocaoglu",
+                "institution": null
+            }
+        ],
+        "url": "https://proceedings.mlr.press/v161/ahuja21a/ahuja21a.pdf"
+    },
+    {
+        "title": "Exact and approximate hierarchical clustering using A*",
+        "authors": [
+            {
+                "given_name": "Craig S.",
+                "family_name": "Greenberg",
+                "institution": null
+            },
+            {
+                "given_name": "Sebastian",
+                "family_name": "Macaluso",
+                "institution": null
+            },
+            {
+                "given_name": "Nicholas",
+                "family_name": "Monath",
+                "institution": null
+            },
+            {
+                "given_name": "Avinava",
+                "family_name": "Dubey",
+                "institution": null
+            },
+            {
+                "given_name": "Patrick",
+                "family_name": "Flaherty",
+                "institution": null
+            },
+            {
+                "given_name": "Manzil",
+                "family_name": "Zaheer",
+                "institution": null
+            },
+            {
+                "given_name": "Amr",
+                "family_name": "Ahmed",
+                "institution": null
+            },
+            {
+                "given_name": "Kyle",
+                "family_name": "Cranmer",
+                "institution": null
+            },
+            {
+                "given_name": "Andrew",
+                "family_name": "Mccallum",
+                "institution": null
+            }
+        ],
+        "url": "https://proceedings.mlr.press/v161/greenberg21a/greenberg21a.pdf"
+    },
+    {
+        "title": "Efficient online inference for nonparametric mixture models",
+        "authors": [
+            {
+                "given_name": "Rylan",
+                "family_name": "Schaeffer",
+                "institution": null
+            },
+            {
+                "given_name": "Blake",
+                "family_name": "Bordelon",
+                "institution": null
+            },
+            {
+                "given_name": "Mikail",
+                "family_name": "Khona",
+                "institution": null
+            },
+            {
+                "given_name": "Weiwei",
+                "family_name": "Pan",
+                "institution": null
+            },
+            {
+                "given_name": "Ila Rani",
+                "family_name": "Fiete",
+                "institution": null
+            }
+        ],
+        "url": "https://proceedings.mlr.press/v161/schaeffer21a/schaeffer21a.pdf"
+    },
+    {
+        "title": "No-regret approximate inference via Bayesian optimisation",
+        "authors": [
+            {
+                "given_name": "Rafael",
+                "family_name": "Oliveira",
+                "institution": null
+            },
+            {
+                "given_name": "Lionel",
+                "family_name": "Ott",
+                "institution": null
+            },
+            {
+                "given_name": "Fabio",
+                "family_name": "Ramos",
+                "institution": null
+            }
+        ],
+        "url": "https://proceedings.mlr.press/v161/oliveira21a/oliveira21a.pdf"
+    },
+    {
+        "title": "Disentangling mixtures of unknown causal interventions",
+        "authors": [
+            {
+                "given_name": "Abhinav",
+                "family_name": "Kumar",
+                "institution": null
+            },
+            {
+                "given_name": "Gaurav",
+                "family_name": "Sinha",
+                "institution": null
+            }
+        ],
+        "url": "https://proceedings.mlr.press/v161/kumar21a/kumar21a.pdf"
+    },
+    {
+        "title": "SDM-Net: A simple and effective model for generalized zero-shot learning",
+        "authors": [
+            {
+                "given_name": "Shabnam",
+                "family_name": "Daghaghi",
+                "institution": null
+            },
+            {
+                "given_name": "Tharun",
+                "family_name": "Medini",
+                "institution": null
+            },
+            {
+                "given_name": "Anshumali",
+                "family_name": "Shrivastava",
+                "institution": null
+            }
+        ],
+        "url": "https://proceedings.mlr.press/v161/daghaghi21a/daghaghi21a.pdf"
+    },
+    {
+        "title": "Towards a unified framework for fair and stable graph representation learning",
+        "authors": [
+            {
+                "given_name": "Chirag",
+                "family_name": "Agarwal",
+                "institution": null
+            },
+            {
+                "given_name": "Himabindu",
+                "family_name": "Lakkaraju",
+                "institution": null
+            },
+            {
+                "given_name": "Marinka",
+                "family_name": "Zitnik",
+                "institution": null
+            }
+        ],
+        "url": "https://proceedings.mlr.press/v161/agarwal21b/agarwal21b.pdf"
+    },
+    {
+        "title": "Identifying regions of trusted predictions",
+        "authors": [
+            {
+                "given_name": "Nivasini",
+                "family_name": "Ananthakrishnan",
+                "institution": null
+            },
+            {
+                "given_name": "Shai",
+                "family_name": "Ben-David",
+                "institution": null
+            },
+            {
+                "given_name": "Tosca",
+                "family_name": "Lechner",
+                "institution": null
+            },
+            {
+                "given_name": "Ruth",
+                "family_name": "Urner",
+                "institution": null
+            }
+        ],
+        "url": "https://proceedings.mlr.press/v161/ananthakrishnan21a/ananthakrishnan21a.pdf"
+    },
+    {
+        "title": "Learning and certification under instance-targeted poisoning",
+        "authors": [
+            {
+                "given_name": "Ji",
+                "family_name": "Gao",
+                "institution": null
+            },
+            {
+                "given_name": "Amin",
+                "family_name": "Karbasi",
+                "institution": null
+            },
+            {
+                "given_name": "Mohammad",
+                "family_name": "Mahmoody",
+                "institution": null
+            }
+        ],
+        "url": "https://proceedings.mlr.press/v161/gao21b/gao21b.pdf"
+    },
+    {
+        "title": "Min/max stability and box distributions",
+        "authors": [
+            {
+                "given_name": "Michael",
+                "family_name": "Boratko",
+                "institution": null
+            },
+            {
+                "given_name": "Javier",
+                "family_name": "Burroni",
+                "institution": null
+            },
+            {
+                "given_name": "Shib Sankar",
+                "family_name": "Dasgupta",
+                "institution": null
+            },
+            {
+                "given_name": "Andrew",
+                "family_name": "Mccallum",
+                "institution": null
+            }
+        ],
+        "url": "https://proceedings.mlr.press/v161/boratko21a/boratko21a.pdf"
+    },
+    {
+        "title": "Geometric rates of convergence for kernel-based sampling algorithms",
+        "authors": [
+            {
+                "given_name": "Rajiv",
+                "family_name": "Khanna",
+                "institution": null
+            },
+            {
+                "given_name": "Liam",
+                "family_name": "Hodgkinson",
+                "institution": null
+            },
+            {
+                "given_name": "Michael W.",
+                "family_name": "Mahoney",
+                "institution": null
+            }
+        ],
+        "url": "https://proceedings.mlr.press/v161/khanna21a/khanna21a.pdf"
+    },
+    {
+        "title": "Sequential core-set Monte Carlo",
+        "authors": [
+            {
+                "given_name": "Boyan",
+                "family_name": "Beronov",
+                "institution": null
+            },
+            {
+                "given_name": "Christian",
+                "family_name": "Weilbach",
+                "institution": null
+            },
+            {
+                "given_name": "Frank",
+                "family_name": "Wood",
+                "institution": null
+            },
+            {
+                "given_name": "Trevor",
+                "family_name": "Campbell",
+                "institution": null
+            }
+        ],
+        "url": "https://proceedings.mlr.press/v161/beronov21a/beronov21a.pdf"
+    }
+]
