@@ -1,0 +1,954 @@
+[
+    {
+        "title": "Preface",
+        "authors": [
+            {
+                "given_name": "Min-Ling",
+                "family_name": "Zhang",
+                "institution": null
+            },
+            {
+                "given_name": "Yung-Kyun",
+                "family_name": "Noh",
+                "institution": null
+            }
+        ],
+        "url": "http://proceedings.mlr.press/v77/zhang17a/zhang17a.pdf"
+    },
+    {
+        "title": "Learning Convolutional Neural Networks using Hybrid Orthogonal Projection and Estimation",
+        "authors": [
+            {
+                "given_name": "Hengyue",
+                "family_name": "Pan",
+                "institution": null
+            },
+            {
+                "given_name": "Hui",
+                "family_name": "Jiang",
+                "institution": null
+            }
+        ],
+        "url": "http://proceedings.mlr.press/v77/pan17a/pan17a.pdf"
+    },
+    {
+        "title": "Limits of End-to-End Learning",
+        "authors": [
+            {
+                "given_name": "Tobias",
+                "family_name": "Glasmachers",
+                "institution": null
+            }
+        ],
+        "url": "http://proceedings.mlr.press/v77/glasmachers17a/glasmachers17a.pdf"
+    },
+    {
+        "title": "A Study on Trust Region Update Rules in Newton Methods for Large-scale Linear Classification",
+        "authors": [
+            {
+                "given_name": "Chih-Yang",
+                "family_name": "Hsia",
+                "institution": null
+            },
+            {
+                "given_name": "Ya",
+                "family_name": "Zhu",
+                "institution": null
+            },
+            {
+                "given_name": "Chih-Jen",
+                "family_name": "Lin",
+                "institution": null
+            }
+        ],
+        "url": "http://proceedings.mlr.press/v77/hsia17a/hsia17a.pdf"
+    },
+    {
+        "title": "Mini-batch Block-coordinate based Stochastic Average Adjusted Gradient Methods to Solve Big Data Problems",
+        "authors": [
+            {
+                "given_name": "Vinod Kumar",
+                "family_name": "Chauhan",
+                "institution": null
+            },
+            {
+                "given_name": "Kalpana",
+                "family_name": "Dahiya",
+                "institution": null
+            },
+            {
+                "given_name": "Anuj",
+                "family_name": "Sharma",
+                "institution": null
+            }
+        ],
+        "url": "http://proceedings.mlr.press/v77/chauhan17a/chauhan17a.pdf"
+    },
+    {
+        "title": "Instance Specific Discriminative Modal Pursuit: A Serialized Approach",
+        "authors": [
+            {
+                "given_name": "Yang",
+                "family_name": "Yang",
+                "institution": null
+            },
+            {
+                "given_name": "De-Chuan",
+                "family_name": "Zhan",
+                "institution": null
+            },
+            {
+                "given_name": "Ying",
+                "family_name": "Fan",
+                "institution": null
+            },
+            {
+                "given_name": "Yuan",
+                "family_name": "Jiang",
+                "institution": null
+            }
+        ],
+        "url": "http://proceedings.mlr.press/v77/yang17a/yang17a.pdf"
+    },
+    {
+        "title": "A Quantum-Inspired Ensemble Method and Quantum-Inspired Forest Regressors",
+        "authors": [
+            {
+                "given_name": "Zeke",
+                "family_name": "Xie",
+                "institution": null
+            },
+            {
+                "given_name": "Issei",
+                "family_name": "Sato",
+                "institution": null
+            }
+        ],
+        "url": "http://proceedings.mlr.press/v77/xie17a/xie17a.pdf"
+    },
+    {
+        "title": "Distributionally Robust Groupwise Regularization Estimator",
+        "authors": [
+            {
+                "given_name": "Jose",
+                "family_name": "Blanchet",
+                "institution": null
+            },
+            {
+                "given_name": "Yang",
+                "family_name": "Kang",
+                "institution": null
+            }
+        ],
+        "url": "http://proceedings.mlr.press/v77/blanchet17a/blanchet17a.pdf"
+    },
+    {
+        "title": "Multi-view Clustering with Adaptively Learned Graph",
+        "authors": [
+            {
+                "given_name": "Hong",
+                "family_name": "Tao",
+                "institution": null
+            },
+            {
+                "given_name": "Chenping",
+                "family_name": "Hou",
+                "institution": null
+            },
+            {
+                "given_name": "Jubo",
+                "family_name": "Zhu",
+                "institution": null
+            },
+            {
+                "given_name": "Dongyun",
+                "family_name": "Yi",
+                "institution": null
+            }
+        ],
+        "url": "http://proceedings.mlr.press/v77/tao17a/tao17a.pdf"
+    },
+    {
+        "title": "Select-and-Evaluate: A Learning Framework for Large-Scale Knowledge Graph Search",
+        "authors": [
+            {
+                "given_name": "F A Rezaur Rahman",
+                "family_name": "Chowdhury",
+                "institution": null
+            },
+            {
+                "given_name": "Chao",
+                "family_name": "Ma",
+                "institution": null
+            },
+            {
+                "given_name": "Md Rakibul",
+                "family_name": "Islam",
+                "institution": null
+            },
+            {
+                "given_name": "Mohammad Hossein",
+                "family_name": "Namaki",
+                "institution": null
+            },
+            {
+                "given_name": "Mohammad Omar",
+                "family_name": "Faruk",
+                "institution": null
+            },
+            {
+                "given_name": "Janardhan Rao",
+                "family_name": "Doppa",
+                "institution": null
+            }
+        ],
+        "url": "http://proceedings.mlr.press/v77/chowdhury17a/chowdhury17a.pdf"
+    },
+    {
+        "title": "Probability Calibration Trees",
+        "authors": [
+            {
+                "given_name": "Tim",
+                "family_name": "Leathart",
+                "institution": null
+            },
+            {
+                "given_name": "Eibe",
+                "family_name": "Frank",
+                "institution": null
+            },
+            {
+                "given_name": "Geoffrey",
+                "family_name": "Holmes",
+                "institution": null
+            },
+            {
+                "given_name": "Bernhard",
+                "family_name": "Pfahringer",
+                "institution": null
+            }
+        ],
+        "url": "http://proceedings.mlr.press/v77/leathart17a/leathart17a.pdf"
+    },
+    {
+        "title": "Learning Predictive Leading Indicators for Forecasting Time Series Systems with Unknown Clusters of Forecast Tasks",
+        "authors": [
+            {
+                "given_name": "Magda",
+                "family_name": "Gregorová",
+                "institution": null
+            },
+            {
+                "given_name": "Alexandros",
+                "family_name": "Kalousis",
+                "institution": null
+            },
+            {
+                "given_name": "Stéphane",
+                "family_name": "Marchand-Maillet",
+                "institution": null
+            }
+        ],
+        "url": "http://proceedings.mlr.press/v77/gregorova17a/gregorova17a.pdf"
+    },
+    {
+        "title": "Locally Smoothed Neural Networks",
+        "authors": [
+            {
+                "given_name": "Liang",
+                "family_name": "Pang",
+                "institution": null
+            },
+            {
+                "given_name": "Yanyan",
+                "family_name": "Lan",
+                "institution": null
+            },
+            {
+                "given_name": "Jun",
+                "family_name": "Xu",
+                "institution": null
+            },
+            {
+                "given_name": "Jiafeng",
+                "family_name": "Guo",
+                "institution": null
+            },
+            {
+                "given_name": "Xueqi",
+                "family_name": "Cheng",
+                "institution": null
+            }
+        ],
+        "url": "http://proceedings.mlr.press/v77/pang17a/pang17a.pdf"
+    },
+    {
+        "title": "Data sparse nonparametric regression with $ε$-insensitive losses",
+        "authors": [
+            {
+                "given_name": "Maxime",
+                "family_name": "Sangnier",
+                "institution": null
+            },
+            {
+                "given_name": "Olivier",
+                "family_name": "Fercoq",
+                "institution": null
+            },
+            {
+                "given_name": "Florence",
+                "family_name": "D’Alché-Buc",
+                "institution": null
+            }
+        ],
+        "url": "http://proceedings.mlr.press/v77/sangnier17a/sangnier17a.pdf"
+    },
+    {
+        "title": "Rate Optimal Estimation for High Dimensional Spatial Covariance Matrices",
+        "authors": [
+            {
+                "given_name": "Yi",
+                "family_name": "Li",
+                "institution": null
+            },
+            {
+                "given_name": "Aidong Adam",
+                "family_name": "Ding",
+                "institution": null
+            },
+            {
+                "given_name": "Jennifer",
+                "family_name": "Dy",
+                "institution": null
+            }
+        ],
+        "url": "http://proceedings.mlr.press/v77/li17a/li17a.pdf"
+    },
+    {
+        "title": "PHD: A Probabilistic Model of Hybrid Deep Collaborative Filtering for Recommender Systems",
+        "authors": [
+            {
+                "given_name": "Jie",
+                "family_name": "Liu",
+                "institution": null
+            },
+            {
+                "given_name": "Dong",
+                "family_name": "Wang",
+                "institution": null
+            },
+            {
+                "given_name": "Yue",
+                "family_name": "Ding",
+                "institution": null
+            }
+        ],
+        "url": "http://proceedings.mlr.press/v77/liu17a/liu17a.pdf"
+    },
+    {
+        "title": "Adaptive Sampling Scheme for Learning in Severely Imbalanced Large Scale Data",
+        "authors": [
+            {
+                "given_name": "Wei",
+                "family_name": "Zhang",
+                "institution": null
+            },
+            {
+                "given_name": "Said",
+                "family_name": "Kobeissi",
+                "institution": null
+            },
+            {
+                "given_name": "Scott",
+                "family_name": "Tomko",
+                "institution": null
+            },
+            {
+                "given_name": "Chris",
+                "family_name": "Challis",
+                "institution": null
+            }
+        ],
+        "url": "http://proceedings.mlr.press/v77/zhang17b/zhang17b.pdf"
+    },
+    {
+        "title": "ST-GAN: Unsupervised Facial Image Semantic Transformation Using Generative Adversarial Networks",
+        "authors": [
+            {
+                "given_name": "Jichao",
+                "family_name": "Zhang",
+                "institution": null
+            },
+            {
+                "given_name": "Fan",
+                "family_name": "Zhong",
+                "institution": null
+            },
+            {
+                "given_name": "Gongze",
+                "family_name": "Cao",
+                "institution": null
+            },
+            {
+                "given_name": "Xueying",
+                "family_name": "Qin",
+                "institution": null
+            }
+        ],
+        "url": "http://proceedings.mlr.press/v77/zhang17c/zhang17c.pdf"
+    },
+    {
+        "title": "Deep Competitive Pathway Networks",
+        "authors": [
+            {
+                "given_name": "Jia-Ren",
+                "family_name": "Chang",
+                "institution": null
+            },
+            {
+                "given_name": "Yong-Sheng",
+                "family_name": "Chen",
+                "institution": null
+            }
+        ],
+        "url": "http://proceedings.mlr.press/v77/chang17a/chang17a.pdf"
+    },
+    {
+        "title": "Regret for Expected Improvement over the Best-Observed Value and Stopping Condition",
+        "authors": [
+            {
+                "given_name": "Vu",
+                "family_name": "Nguyen",
+                "institution": null
+            },
+            {
+                "given_name": "Sunil",
+                "family_name": "Gupta",
+                "institution": null
+            },
+            {
+                "given_name": "Santu",
+                "family_name": "Rana",
+                "institution": null
+            },
+            {
+                "given_name": "Cheng",
+                "family_name": "Li",
+                "institution": null
+            },
+            {
+                "given_name": "Svetha",
+                "family_name": "Venkatesh",
+                "institution": null
+            }
+        ],
+        "url": "http://proceedings.mlr.press/v77/nguyen17a/nguyen17a.pdf"
+    },
+    {
+        "title": "Scale-Invariant Recognition by Weight-Shared CNNs in Parallel",
+        "authors": [
+            {
+                "given_name": "Ryo",
+                "family_name": "Takahashi",
+                "institution": null
+            },
+            {
+                "given_name": "Takashi",
+                "family_name": "Matsubara",
+                "institution": null
+            },
+            {
+                "given_name": "Kuniaki",
+                "family_name": "Uehara",
+                "institution": null
+            }
+        ],
+        "url": "http://proceedings.mlr.press/v77/takahashi17a/takahashi17a.pdf"
+    },
+    {
+        "title": "Using Deep Neural Networks to Automate Large Scale Statistical Analysis for Big Data Applications",
+        "authors": [
+            {
+                "given_name": "Rongrong",
+                "family_name": "Zhang",
+                "institution": null
+            },
+            {
+                "given_name": "Wei",
+                "family_name": "Deng",
+                "institution": null
+            },
+            {
+                "given_name": "Michael Yu",
+                "family_name": "Zhu",
+                "institution": null
+            }
+        ],
+        "url": "http://proceedings.mlr.press/v77/zhang17d/zhang17d.pdf"
+    },
+    {
+        "title": "Recognizing Art Style Automatically in Painting with Deep Learning",
+        "authors": [
+            {
+                "given_name": "Adrian",
+                "family_name": "Lecoutre",
+                "institution": null
+            },
+            {
+                "given_name": "Benjamin",
+                "family_name": "Negrevergne",
+                "institution": null
+            },
+            {
+                "given_name": "Florian",
+                "family_name": "Yger",
+                "institution": null
+            }
+        ],
+        "url": "http://proceedings.mlr.press/v77/lecoutre17a/lecoutre17a.pdf"
+    },
+    {
+        "title": "One Class Splitting Criteria for Random Forests",
+        "authors": [
+            {
+                "given_name": "Nicolas",
+                "family_name": "Goix",
+                "institution": null
+            },
+            {
+                "given_name": "Nicolas",
+                "family_name": "Drougard",
+                "institution": null
+            },
+            {
+                "given_name": "Romain",
+                "family_name": "Brault",
+                "institution": null
+            },
+            {
+                "given_name": "Mael",
+                "family_name": "Chiapino",
+                "institution": null
+            }
+        ],
+        "url": "http://proceedings.mlr.press/v77/goix17a/goix17a.pdf"
+    },
+    {
+        "title": "Computer Assisted Composition with Recurrent Neural Networks",
+        "authors": [
+            {
+                "given_name": "Christian",
+                "family_name": "Walder",
+                "institution": null
+            },
+            {
+                "given_name": "Dongwoo",
+                "family_name": "Kim",
+                "institution": null
+            }
+        ],
+        "url": "http://proceedings.mlr.press/v77/walder17a/walder17a.pdf"
+    },
+    {
+        "title": "Whitening-Free Least-Squares Non-Gaussian Component Analysis",
+        "authors": [
+            {
+                "given_name": "Hiroaki",
+                "family_name": "Shiino",
+                "institution": null
+            },
+            {
+                "given_name": "Hiroaki",
+                "family_name": "Sasaki",
+                "institution": null
+            },
+            {
+                "given_name": "Gang",
+                "family_name": "Niu",
+                "institution": null
+            },
+            {
+                "given_name": "Masashi",
+                "family_name": "Sugiyama",
+                "institution": null
+            }
+        ],
+        "url": "http://proceedings.mlr.press/v77/shiino17a/shiino17a.pdf"
+    },
+    {
+        "title": "Semi-supervised Convolutional Neural Networks for Identifying Wi-Fi Interference Sources",
+        "authors": [
+            {
+                "given_name": "Krista",
+                "family_name": "Longi",
+                "institution": null
+            },
+            {
+                "given_name": "Teemu",
+                "family_name": "Pulkkinen",
+                "institution": null
+            },
+            {
+                "given_name": "Arto",
+                "family_name": "Klami",
+                "institution": null
+            }
+        ],
+        "url": "http://proceedings.mlr.press/v77/longi17a/longi17a.pdf"
+    },
+    {
+        "title": "Magnitude-Preserving Ranking for Structured Outputs",
+        "authors": [
+            {
+                "given_name": "Céline",
+                "family_name": "Brouard",
+                "institution": null
+            },
+            {
+                "given_name": "Eric",
+                "family_name": "Bach",
+                "institution": null
+            },
+            {
+                "given_name": "Sebastian",
+                "family_name": "Böcker",
+                "institution": null
+            },
+            {
+                "given_name": "Juho",
+                "family_name": "Rousu",
+                "institution": null
+            }
+        ],
+        "url": "http://proceedings.mlr.press/v77/brouard17a/brouard17a.pdf"
+    },
+    {
+        "title": "A Word Embeddings Informed Focused Topic Model",
+        "authors": [
+            {
+                "given_name": "He",
+                "family_name": "Zhao",
+                "institution": null
+            },
+            {
+                "given_name": "Lan",
+                "family_name": "Du",
+                "institution": null
+            },
+            {
+                "given_name": "Wray",
+                "family_name": "Buntine",
+                "institution": null
+            }
+        ],
+        "url": "http://proceedings.mlr.press/v77/zhao17a/zhao17a.pdf"
+    },
+    {
+        "title": "Accumulated Gradient Normalization",
+        "authors": [
+            {
+                "given_name": "Joeri R.",
+                "family_name": "Hermans",
+                "institution": null
+            },
+            {
+                "given_name": "Gerasimos",
+                "family_name": "Spanakis",
+                "institution": null
+            },
+            {
+                "given_name": "Rico",
+                "family_name": "Möckel",
+                "institution": null
+            }
+        ],
+        "url": "http://proceedings.mlr.press/v77/hermans17a/hermans17a.pdf"
+    },
+    {
+        "title": "A Mutually-Dependent Hadamard Kernel for Modelling Latent Variable Couplings",
+        "authors": [
+            {
+                "given_name": "Sami",
+                "family_name": "Remes",
+                "institution": null
+            },
+            {
+                "given_name": "Markus",
+                "family_name": "Heinonen",
+                "institution": null
+            },
+            {
+                "given_name": "Samuel",
+                "family_name": "Kaski",
+                "institution": null
+            }
+        ],
+        "url": "http://proceedings.mlr.press/v77/remes17a/remes17a.pdf"
+    },
+    {
+        "title": "Learning Deep Semantic Embeddings for Cross-Modal Retrieval",
+        "authors": [
+            {
+                "given_name": "Cuicui",
+                "family_name": "Kang",
+                "institution": null
+            },
+            {
+                "given_name": "Shengcai",
+                "family_name": "Liao",
+                "institution": null
+            },
+            {
+                "given_name": "Zhen",
+                "family_name": "Li",
+                "institution": null
+            },
+            {
+                "given_name": "Zigang",
+                "family_name": "Cao",
+                "institution": null
+            },
+            {
+                "given_name": "Gang",
+                "family_name": "Xiong",
+                "institution": null
+            }
+        ],
+        "url": "http://proceedings.mlr.press/v77/kang17a/kang17a.pdf"
+    },
+    {
+        "title": "Pyramid Person Matching Network for Person Re-identification",
+        "authors": [
+            {
+                "given_name": "Chaojie",
+                "family_name": "Mao",
+                "institution": null
+            },
+            {
+                "given_name": "Yingming",
+                "family_name": "Li",
+                "institution": null
+            },
+            {
+                "given_name": "Zhongfei",
+                "family_name": "Zhang",
+                "institution": null
+            },
+            {
+                "given_name": "Yaqing",
+                "family_name": "Zhang",
+                "institution": null
+            },
+            {
+                "given_name": "Xi",
+                "family_name": "Li",
+                "institution": null
+            }
+        ],
+        "url": "http://proceedings.mlr.press/v77/mao17a/mao17a.pdf"
+    },
+    {
+        "title": "Learning RBM with a DC programming Approach",
+        "authors": [
+            {
+                "given_name": "Vidyadhar",
+                "family_name": "Upadhya",
+                "institution": null
+            },
+            {
+                "given_name": "P. S.",
+                "family_name": "Sastry",
+                "institution": null
+            }
+        ],
+        "url": "http://proceedings.mlr.press/v77/upadhya17a/upadhya17a.pdf"
+    },
+    {
+        "title": "Multi-Task Structured Prediction for Entity Analysis: Search-Based Learning Algorithms",
+        "authors": [
+            {
+                "given_name": "Chao",
+                "family_name": "Ma",
+                "institution": null
+            },
+            {
+                "given_name": "Janardhan Rao",
+                "family_name": "Doppa",
+                "institution": null
+            },
+            {
+                "given_name": "Prasad",
+                "family_name": "Tadepalli",
+                "institution": null
+            },
+            {
+                "given_name": "Hamed",
+                "family_name": "Shahbazi",
+                "institution": null
+            },
+            {
+                "given_name": "Xiaoli",
+                "family_name": "Fern",
+                "institution": null
+            }
+        ],
+        "url": "http://proceedings.mlr.press/v77/ma17a/ma17a.pdf"
+    },
+    {
+        "title": "Nested LSTMs",
+        "authors": [
+            {
+                "given_name": "Joel Ruben Antony",
+                "family_name": "Moniz",
+                "institution": null
+            },
+            {
+                "given_name": "David",
+                "family_name": "Krueger",
+                "institution": null
+            }
+        ],
+        "url": "http://proceedings.mlr.press/v77/moniz17a/moniz17a.pdf"
+    },
+    {
+        "title": "On the Flatness of Loss Surface for Two-layered ReLU Networks",
+        "authors": [
+            {
+                "given_name": "Jiezhang",
+                "family_name": "Cao",
+                "institution": null
+            },
+            {
+                "given_name": "Qingyao",
+                "family_name": "Wu",
+                "institution": null
+            },
+            {
+                "given_name": "Yuguang",
+                "family_name": "Yan",
+                "institution": null
+            },
+            {
+                "given_name": "Li",
+                "family_name": "Wang",
+                "institution": null
+            },
+            {
+                "given_name": "Mingkui",
+                "family_name": "Tan",
+                "institution": null
+            }
+        ],
+        "url": "http://proceedings.mlr.press/v77/cao17a/cao17a.pdf"
+    },
+    {
+        "title": "Radical-level Ideograph Encoder for RNN-based Sentiment Analysis of Chinese and Japanese",
+        "authors": [
+            {
+                "given_name": "Yuanzhi",
+                "family_name": "Ke",
+                "institution": null
+            },
+            {
+                "given_name": "Masafumi",
+                "family_name": "Hagiwara",
+                "institution": null
+            }
+        ],
+        "url": "http://proceedings.mlr.press/v77/ke17a/ke17a.pdf"
+    },
+    {
+        "title": "Recovering Probability Distributions from Missing Data",
+        "authors": [
+            {
+                "given_name": "Jin",
+                "family_name": "Tian",
+                "institution": null
+            }
+        ],
+        "url": "http://proceedings.mlr.press/v77/tian17a/tian17a.pdf"
+    },
+    {
+        "title": "Attentive Path Combination for Knowledge Graph Completion",
+        "authors": [
+            {
+                "given_name": "Xiaotian",
+                "family_name": "Jiang",
+                "institution": null
+            },
+            {
+                "given_name": "Quan",
+                "family_name": "Wang",
+                "institution": null
+            },
+            {
+                "given_name": "Baoyuan",
+                "family_name": "Qi",
+                "institution": null
+            },
+            {
+                "given_name": "Yongqin",
+                "family_name": "Qiu",
+                "institution": null
+            },
+            {
+                "given_name": "Peng",
+                "family_name": "Li",
+                "institution": null
+            },
+            {
+                "given_name": "Bin",
+                "family_name": "Wang",
+                "institution": null
+            }
+        ],
+        "url": "http://proceedings.mlr.press/v77/jiang17a/jiang17a.pdf"
+    },
+    {
+        "title": "A Covariance Matrix Adaptation Evolution Strategy for Direct Policy Search in Reproducing Kernel Hilbert Space",
+        "authors": [
+            {
+                "given_name": "Ngo Anh",
+                "family_name": "Vien",
+                "institution": null
+            },
+            {
+                "given_name": "Viet-Hung",
+                "family_name": "Dang",
+                "institution": null
+            },
+            {
+                "given_name": "Taechoong",
+                "family_name": "Chung",
+                "institution": null
+            }
+        ],
+        "url": "http://proceedings.mlr.press/v77/vien17a/vien17a.pdf"
+    },
+    {
+        "title": "NeuralPower: Predict and Deploy Energy-Efficient Convolutional Neural Networks",
+        "authors": [
+            {
+                "given_name": "Ermao",
+                "family_name": "Cai",
+                "institution": null
+            },
+            {
+                "given_name": "Da-Cheng",
+                "family_name": "Juan",
+                "institution": null
+            },
+            {
+                "given_name": "Dimitrios",
+                "family_name": "Stamoulis",
+                "institution": null
+            },
+            {
+                "given_name": "Diana",
+                "family_name": "Marculescu",
+                "institution": null
+            }
+        ],
+        "url": "http://proceedings.mlr.press/v77/cai17a/cai17a.pdf"
+    }
+]

@@ -1,0 +1,503 @@
+[
+    {
+        "title": "Preface",
+        "authors": [
+            {
+                "given_name": "Dinh",
+                "family_name": "Phung",
+                "institution": null
+            },
+            {
+                "given_name": "Hang",
+                "family_name": "Li",
+                "institution": null
+            }
+        ],
+        "url": "http://proceedings.mlr.press/v39/preface.pdf"
+    },
+    {
+        "title": "Theoretical Analyses on Ensemble and Multiple Kernel Regressors",
+        "authors": [
+            {
+                "given_name": "Akira",
+                "family_name": "Tanaka",
+                "institution": null
+            },
+            {
+                "given_name": "Ichigaku",
+                "family_name": "Takigawa",
+                "institution": null
+            },
+            {
+                "given_name": "Hideyuki",
+                "family_name": "Imai",
+                "institution": null
+            },
+            {
+                "given_name": "Mineichi",
+                "family_name": "Kudo",
+                "institution": null
+            }
+        ],
+        "url": "http://proceedings.mlr.press/v39/tanaka14.pdf"
+    },
+    {
+        "title": "Sparsity on Statistical Simplexes and Diversity in Social Ranking",
+        "authors": [
+            {
+                "given_name": "Ke",
+                "family_name": "Sun",
+                "institution": null
+            },
+            {
+                "given_name": "Hisham",
+                "family_name": "Mohamed",
+                "institution": null
+            },
+            {
+                "given_name": "Stephane",
+                "family_name": "Marchand-Maillet",
+                "institution": null
+            }
+        ],
+        "url": "http://proceedings.mlr.press/v39/sun14.pdf"
+    },
+    {
+        "title": "Support vector machines with indefinite kernels",
+        "authors": [
+            {
+                "given_name": "Ibrahim",
+                "family_name": "Alabdulmohsin",
+                "institution": null
+            },
+            {
+                "given_name": "Xin",
+                "family_name": "Gao",
+                "institution": null
+            },
+            {
+                "given_name": "Xiangliang Zhang",
+                "family_name": "Zhang",
+                "institution": null
+            }
+        ],
+        "url": "http://proceedings.mlr.press/v39/alabdulmohsin14.pdf"
+    },
+    {
+        "title": "Efficient Sample Mining for Object Detection",
+        "authors": [
+            {
+                "given_name": "Olivier",
+                "family_name": "Canevet",
+                "institution": null
+            },
+            {
+                "given_name": "Francois",
+                "family_name": "Fleuret",
+                "institution": null
+            }
+        ],
+        "url": "http://proceedings.mlr.press/v39/canevet14a.pdf"
+    },
+    {
+        "title": "Sample Distillation for Object Detection and Image Classification",
+        "authors": [
+            {
+                "given_name": "Olivier",
+                "family_name": "Canevet",
+                "institution": null
+            },
+            {
+                "given_name": "Leonidas",
+                "family_name": "Lefakis",
+                "institution": null
+            },
+            {
+                "given_name": "Francois",
+                "family_name": "Fleuret",
+                "institution": null
+            }
+        ],
+        "url": "http://proceedings.mlr.press/v39/canevet14b.pdf"
+    },
+    {
+        "title": "Dual online inference for latent Dirichlet allocation",
+        "authors": [
+            {
+                "given_name": "Khoat",
+                "family_name": "Than",
+                "institution": null
+            },
+            {
+                "given_name": "Tung",
+                "family_name": "Doan",
+                "institution": null
+            }
+        ],
+        "url": "http://proceedings.mlr.press/v39/than14.pdf"
+    },
+    {
+        "title": "Structured Denoising Autoencoder for Fault Detection and Analysis",
+        "authors": [
+            {
+                "given_name": "Takaaki",
+                "family_name": "Tagawa",
+                "institution": null
+            },
+            {
+                "given_name": "Yukihiro",
+                "family_name": "Tadokoro",
+                "institution": null
+            },
+            {
+                "given_name": "Takehisa",
+                "family_name": "Yairi",
+                "institution": null
+            }
+        ],
+        "url": "http://proceedings.mlr.press/v39/tagawa14.pdf"
+    },
+    {
+        "title": "Polya-gamma augmentations for factor models",
+        "authors": [
+            {
+                "given_name": "Arto",
+                "family_name": "Klami",
+                "institution": null
+            }
+        ],
+        "url": "http://proceedings.mlr.press/v39/klami14.pdf"
+    },
+    {
+        "title": "A Fast Hierarchical Alternating Least Squares Algorithm for Orthogonal Nonnegative Matrix Factorization",
+        "authors": [
+            {
+                "given_name": "Keigo",
+                "family_name": "Kimura",
+                "institution": null
+            },
+            {
+                "given_name": "Yuzuru",
+                "family_name": "Tanaka",
+                "institution": null
+            },
+            {
+                "given_name": "Mineichi",
+                "family_name": "Kudo",
+                "institution": null
+            }
+        ],
+        "url": "http://proceedings.mlr.press/v39/kimura14.pdf"
+    },
+    {
+        "title": "Bibliographic Analysis with the Citation Network Topic Model",
+        "authors": [
+            {
+                "given_name": "Kar Wai",
+                "family_name": "Lim",
+                "institution": null
+            },
+            {
+                "given_name": "Wray",
+                "family_name": "Buntine",
+                "institution": null
+            }
+        ],
+        "url": "http://proceedings.mlr.press/v39/lim14.pdf"
+    },
+    {
+        "title": "Quasi Newton Temporal Difference Learning",
+        "authors": [
+            {
+                "given_name": "Arash",
+                "family_name": "Givchi",
+                "institution": null
+            },
+            {
+                "given_name": "Maziar",
+                "family_name": "Palhang",
+                "institution": null
+            }
+        ],
+        "url": "http://proceedings.mlr.press/v39/givchi14.pdf"
+    },
+    {
+        "title": "Sparse binary zero-sum games",
+        "authors": [
+            {
+                "given_name": "David",
+                "family_name": "Auger",
+                "institution": null
+            },
+            {
+                "given_name": "Jianlin",
+                "family_name": "Liu",
+                "institution": null
+            },
+            {
+                "given_name": "Sylkvie",
+                "family_name": "Ruette",
+                "institution": null
+            },
+            {
+                "given_name": "David",
+                "family_name": "Saint-Pierre",
+                "institution": null
+            },
+            {
+                "given_name": "Oliver",
+                "family_name": "Teytaud",
+                "institution": null
+            }
+        ],
+        "url": "http://proceedings.mlr.press/v39/auger14.pdf"
+    },
+    {
+        "title": "Interval Insensitive Loss for Ordinal Classification",
+        "authors": [
+            {
+                "given_name": "Kostiantyn",
+                "family_name": "Antoniuk",
+                "institution": null
+            },
+            {
+                "given_name": "Vojtech",
+                "family_name": "Franc",
+                "institution": null
+            },
+            {
+                "given_name": "Vaclav",
+                "family_name": "Hlavac",
+                "institution": null
+            }
+        ],
+        "url": "http://proceedings.mlr.press/v39/antoniuk14.pdf"
+    },
+    {
+        "title": "Towards Maximum Likelihood: Learning Undirected Graphical Models using Persistent Sequential Monte Carlo",
+        "authors": [
+            {
+                "given_name": "Hanchen",
+                "family_name": "Xiong",
+                "institution": null
+            },
+            {
+                "given_name": "Sandor",
+                "family_name": "Szedmak",
+                "institution": null
+            },
+            {
+                "given_name": "Justus",
+                "family_name": "Piater",
+                "institution": null
+            }
+        ],
+        "url": "http://proceedings.mlr.press/v39/xiong14.pdf"
+    },
+    {
+        "title": "Nonlinear Dimensionality Reduction of Data by Deep Distributed Random Samplings",
+        "authors": [
+            {
+                "given_name": "Xiao-Lei",
+                "family_name": "Zhang",
+                "institution": null
+            }
+        ],
+        "url": "http://proceedings.mlr.press/v39/zhang14.pdf"
+    },
+    {
+        "title": "Learning with Augmented Multi-Instance View",
+        "authors": [
+            {
+                "given_name": "Yue",
+                "family_name": "Zhu",
+                "institution": null
+            },
+            {
+                "given_name": "Jianxin",
+                "family_name": "Wu",
+                "institution": null
+            },
+            {
+                "given_name": "Yuan",
+                "family_name": "Jiang",
+                "institution": null
+            },
+            {
+                "given_name": "Zhi-Hua",
+                "family_name": "Zhou",
+                "institution": null
+            }
+        ],
+        "url": "http://proceedings.mlr.press/v39/zhu14.pdf"
+    },
+    {
+        "title": "Online matrix prediction for sparse loss matrices",
+        "authors": [
+            {
+                "given_name": "Ken-Ichiro",
+                "family_name": "Moridomi",
+                "institution": null
+            },
+            {
+                "given_name": "Kohei",
+                "family_name": "Hatano",
+                "institution": null
+            },
+            {
+                "given_name": "Eiji",
+                "family_name": "Takimoto",
+                "institution": null
+            },
+            {
+                "given_name": "Koji",
+                "family_name": "Tsuda",
+                "institution": null
+            }
+        ],
+        "url": "http://proceedings.mlr.press/v39/moridomi14.pdf"
+    },
+    {
+        "title": "Online Passive Aggressive Active Learning and Its Applications",
+        "authors": [
+            {
+                "given_name": "Jing",
+                "family_name": "Lu",
+                "institution": null
+            },
+            {
+                "given_name": "Peilin",
+                "family_name": "Zhao",
+                "institution": null
+            },
+            {
+                "given_name": "Steven",
+                "family_name": "Hoi",
+                "institution": null
+            }
+        ],
+        "url": "http://proceedings.mlr.press/v39/lu14.pdf"
+    },
+    {
+        "title": "Ordinal Random Fields for Recommender Systems",
+        "authors": [
+            {
+                "given_name": "Shaowu",
+                "family_name": "Liu",
+                "institution": null
+            },
+            {
+                "given_name": "Truyen",
+                "family_name": "Tran",
+                "institution": null
+            },
+            {
+                "given_name": "Gang",
+                "family_name": "Li",
+                "institution": null
+            }
+        ],
+        "url": "http://proceedings.mlr.press/v39/liu14.pdf"
+    },
+    {
+        "title": "Reinforcement learning with value advice",
+        "authors": [
+            {
+                "given_name": "Mayank",
+                "family_name": "Daswani",
+                "institution": null
+            },
+            {
+                "given_name": "Peter",
+                "family_name": "Sunehag",
+                "institution": null
+            },
+            {
+                "given_name": "Marcus",
+                "family_name": "Hutter",
+                "institution": null
+            }
+        ],
+        "url": "http://proceedings.mlr.press/v39/daswani14.pdf"
+    },
+    {
+        "title": "A UCB-Like Strategy of Collaborative Filtering",
+        "authors": [
+            {
+                "given_name": "Atsuyoshi",
+                "family_name": "Nakamura",
+                "institution": null
+            }
+        ],
+        "url": "http://proceedings.mlr.press/v39/nakamura14.pdf"
+    },
+    {
+        "title": "Variational Gaussian Inference for Bilinear Models of Count Data",
+        "authors": [
+            {
+                "given_name": "Young-Jun",
+                "family_name": "Ko",
+                "institution": null
+            },
+            {
+                "given_name": "Mohammad",
+                "family_name": "Khan",
+                "institution": null
+            }
+        ],
+        "url": "http://proceedings.mlr.press/v39/ko14.pdf"
+    },
+    {
+        "title": "Pseudo-reward Algorithms for Contextual Bandits with Linear Payoff Functions",
+        "authors": [
+            {
+                "given_name": "Ku-Chun",
+                "family_name": "Chou",
+                "institution": null
+            },
+            {
+                "given_name": "Hsuan-Tien",
+                "family_name": "Lin",
+                "institution": null
+            },
+            {
+                "given_name": "Chao-Kai",
+                "family_name": "Chiang",
+                "institution": null
+            },
+            {
+                "given_name": "Chi-Jen",
+                "family_name": "Lu",
+                "institution": null
+            }
+        ],
+        "url": "http://proceedings.mlr.press/v39/chou14.pdf"
+    },
+    {
+        "title": "Ensembles for Time Series Forecasting",
+        "authors": [
+            {
+                "given_name": "Mariana",
+                "family_name": "Oliveira",
+                "institution": null
+            },
+            {
+                "given_name": "Luis",
+                "family_name": "Torgo",
+                "institution": null
+            }
+        ],
+        "url": "http://proceedings.mlr.press/v39/oliveira14.pdf"
+    },
+    {
+        "title": "Reduction from Cost-Sensitive Multiclass Classification to One-versus-One Binary Classification",
+        "authors": [
+            {
+                "given_name": "Hsuan-Tien",
+                "family_name": "Lin",
+                "institution": null
+            }
+        ],
+        "url": "http://proceedings.mlr.press/v39/lin14.pdf"
+    }
+]

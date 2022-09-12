@@ -1,0 +1,1475 @@
+[
+    {
+        "title": "Preface",
+        "authors": [
+            {
+                "given_name": "Jun",
+                "family_name": "Zhu",
+                "institution": null
+            },
+            {
+                "given_name": "Ichiro",
+                "family_name": "Takeuchi",
+                "institution": null
+            }
+        ],
+        "url": "http://proceedings.mlr.press/v95/zhu18a/zhu18a.pdf"
+    },
+    {
+        "title": "Deep Correlation Structure Preserved Label Space Embedding for Multi-label Classification",
+        "authors": [
+            {
+                "given_name": "Kaixiang",
+                "family_name": "Wang",
+                "institution": null
+            },
+            {
+                "given_name": "Ming",
+                "family_name": "Yang",
+                "institution": null
+            },
+            {
+                "given_name": "Wanqi",
+                "family_name": "Yang",
+                "institution": null
+            },
+            {
+                "given_name": "Yilong",
+                "family_name": "Yin",
+                "institution": null
+            }
+        ],
+        "url": "http://proceedings.mlr.press/v95/wang18a/wang18a.pdf"
+    },
+    {
+        "title": "Co-regularized Multi-view Subspace Clustering",
+        "authors": [
+            {
+                "given_name": "Hong",
+                "family_name": "Yu",
+                "institution": null
+            },
+            {
+                "given_name": "Tiantian",
+                "family_name": "Zhang",
+                "institution": null
+            },
+            {
+                "given_name": "Yahong",
+                "family_name": "Lian",
+                "institution": null
+            },
+            {
+                "given_name": "Yu",
+                "family_name": "Cai",
+                "institution": null
+            }
+        ],
+        "url": "http://proceedings.mlr.press/v95/yu18a/yu18a.pdf"
+    },
+    {
+        "title": "Feature-correlation-aware Gaussian Process Latent Variable Model",
+        "authors": [
+            {
+                "given_name": "Ping",
+                "family_name": "Li",
+                "institution": null
+            },
+            {
+                "given_name": "Songcan",
+                "family_name": "Chen",
+                "institution": null
+            }
+        ],
+        "url": "http://proceedings.mlr.press/v95/li18a/li18a.pdf"
+    },
+    {
+        "title": "RDEC: Integrating Regularization into Deep Embedded Clustering for Imbalanced Datasets",
+        "authors": [
+            {
+                "given_name": "Yaling",
+                "family_name": "Tao",
+                "institution": null
+            },
+            {
+                "given_name": "Kentaro",
+                "family_name": "Takagi",
+                "institution": null
+            },
+            {
+                "given_name": "Kouta",
+                "family_name": "Nakata",
+                "institution": null
+            }
+        ],
+        "url": "http://proceedings.mlr.press/v95/tao18a/tao18a.pdf"
+    },
+    {
+        "title": "Structured Gaussian Processes with Twin Multiple Kernel Learning",
+        "authors": [
+            {
+                "given_name": "Çiğdem",
+                "family_name": "Ak",
+                "institution": null
+            },
+            {
+                "given_name": "Önder",
+                "family_name": "Ergönül",
+                "institution": null
+            },
+            {
+                "given_name": "Mehmet",
+                "family_name": "Gönen",
+                "institution": null
+            }
+        ],
+        "url": "http://proceedings.mlr.press/v95/ak18a/ak18a.pdf"
+    },
+    {
+        "title": "End-to-End Learning of Multi-scale Convolutional Neural Network for Stereo Matching",
+        "authors": [
+            {
+                "given_name": "Li",
+                "family_name": "Zhang",
+                "institution": null
+            },
+            {
+                "given_name": "Quanhong",
+                "family_name": "Wang",
+                "institution": null
+            },
+            {
+                "given_name": "Haihua",
+                "family_name": "Lu",
+                "institution": null
+            },
+            {
+                "given_name": "Yong",
+                "family_name": "Zhao",
+                "institution": null
+            }
+        ],
+        "url": "http://proceedings.mlr.press/v95/zhang18a/zhang18a.pdf"
+    },
+    {
+        "title": "Multidimensional Time Series Anomaly Detection: A GRU-based Gaussian Mixture Variational Autoencoder Approach",
+        "authors": [
+            {
+                "given_name": "Yifan",
+                "family_name": "Guo",
+                "institution": null
+            },
+            {
+                "given_name": "Weixian",
+                "family_name": "Liao",
+                "institution": null
+            },
+            {
+                "given_name": "Qianlong",
+                "family_name": "Wang",
+                "institution": null
+            },
+            {
+                "given_name": "Lixing",
+                "family_name": "Yu",
+                "institution": null
+            },
+            {
+                "given_name": "Tianxi",
+                "family_name": "Ji",
+                "institution": null
+            },
+            {
+                "given_name": "Pan",
+                "family_name": "Li",
+                "institution": null
+            }
+        ],
+        "url": "http://proceedings.mlr.press/v95/guo18a/guo18a.pdf"
+    },
+    {
+        "title": "Learning Selfie-Friendly Abstraction from Artistic Style Images",
+        "authors": [
+            {
+                "given_name": "Yicun",
+                "family_name": "Liu",
+                "institution": null
+            },
+            {
+                "given_name": "Jimmy",
+                "family_name": "Ren",
+                "institution": null
+            },
+            {
+                "given_name": "Jianbo",
+                "family_name": "Liu",
+                "institution": null
+            },
+            {
+                "given_name": "Xiaohao",
+                "family_name": "Chen",
+                "institution": null
+            }
+        ],
+        "url": "http://proceedings.mlr.press/v95/liu18a/liu18a.pdf"
+    },
+    {
+        "title": "Clustering Induced Kernel Learning",
+        "authors": [
+            {
+                "given_name": "Khanh",
+                "family_name": "Nguyen",
+                "institution": null
+            },
+            {
+                "given_name": "Nhan",
+                "family_name": "Dam",
+                "institution": null
+            },
+            {
+                "given_name": "Trung",
+                "family_name": "Le",
+                "institution": null
+            },
+            {
+                "given_name": "Tu Dinh",
+                "family_name": "Nguyen",
+                "institution": null
+            },
+            {
+                "given_name": "Dinh",
+                "family_name": "Phung",
+                "institution": null
+            }
+        ],
+        "url": "http://proceedings.mlr.press/v95/nguyen18a/nguyen18a.pdf"
+    },
+    {
+        "title": "Joint Patch-Group Based Sparse Representation for Image Inpainting",
+        "authors": [
+            {
+                "given_name": "Zhiyuan",
+                "family_name": "Zha",
+                "institution": null
+            },
+            {
+                "given_name": "Xin",
+                "family_name": "Yuan",
+                "institution": null
+            },
+            {
+                "given_name": "Bihan",
+                "family_name": "Wen",
+                "institution": null
+            },
+            {
+                "given_name": "Jiantao",
+                "family_name": "Zhou",
+                "institution": null
+            },
+            {
+                "given_name": "Ce",
+                "family_name": "Zhu",
+                "institution": null
+            }
+        ],
+        "url": "http://proceedings.mlr.press/v95/zha18a/zha18a.pdf"
+    },
+    {
+        "title": "CHS-NET: A Cascaded Neural Network with Semi-Focal Loss for Mitosis Detection",
+        "authors": [
+            {
+                "given_name": "Yanbo",
+                "family_name": "Ma",
+                "institution": null
+            },
+            {
+                "given_name": "Jiarui",
+                "family_name": "Sun",
+                "institution": null
+            },
+            {
+                "given_name": "Qiuhao",
+                "family_name": "Zhou",
+                "institution": null
+            },
+            {
+                "given_name": "Kaili",
+                "family_name": "Cheng",
+                "institution": null
+            },
+            {
+                "given_name": "Xuesong",
+                "family_name": "Chen",
+                "institution": null
+            },
+            {
+                "given_name": "Yong",
+                "family_name": "Zhao",
+                "institution": null
+            }
+        ],
+        "url": "http://proceedings.mlr.press/v95/ma18a/ma18a.pdf"
+    },
+    {
+        "title": "Hypernetwork-based Implicit Posterior Estimation and Model Averaging of CNN",
+        "authors": [
+            {
+                "given_name": "Kenya",
+                "family_name": "Ukai",
+                "institution": null
+            },
+            {
+                "given_name": "Takashi",
+                "family_name": "Matsubara",
+                "institution": null
+            },
+            {
+                "given_name": "Kuniaki",
+                "family_name": "Uehara",
+                "institution": null
+            }
+        ],
+        "url": "http://proceedings.mlr.press/v95/ukai18a/ukai18a.pdf"
+    },
+    {
+        "title": "Distinguishing Question Subjectivity from Difficulty for Improved Crowdsourcing",
+        "authors": [
+            {
+                "given_name": "Yuan",
+                "family_name": "Jin",
+                "institution": null
+            },
+            {
+                "given_name": "Mark",
+                "family_name": "Carman",
+                "institution": null
+            },
+            {
+                "given_name": "Ye",
+                "family_name": "Zhu",
+                "institution": null
+            },
+            {
+                "given_name": "Wray",
+                "family_name": "Buntine",
+                "institution": null
+            }
+        ],
+        "url": "http://proceedings.mlr.press/v95/jin18a/jin18a.pdf"
+    },
+    {
+        "title": "Discriminative Feature Representation for Person Re-identification by Batch-contrastive Loss",
+        "authors": [
+            {
+                "given_name": "Guopeng",
+                "family_name": "Zhang",
+                "institution": null
+            },
+            {
+                "given_name": "Jinhua",
+                "family_name": "Xu",
+                "institution": null
+            }
+        ],
+        "url": "http://proceedings.mlr.press/v95/zhang18b/zhang18b.pdf"
+    },
+    {
+        "title": "Person Re-identification by Mid-level Attribute and Part-based Identity Learning",
+        "authors": [
+            {
+                "given_name": "Guopeng",
+                "family_name": "Zhang",
+                "institution": null
+            },
+            {
+                "given_name": "Jinhua",
+                "family_name": "Xu",
+                "institution": null
+            }
+        ],
+        "url": "http://proceedings.mlr.press/v95/zhang18c/zhang18c.pdf"
+    },
+    {
+        "title": "Clustering Uncertain Graphs with Node Attributes",
+        "authors": [
+            {
+                "given_name": "Yafang",
+                "family_name": "Li",
+                "institution": null
+            },
+            {
+                "given_name": "Xiangnan",
+                "family_name": "Kong",
+                "institution": null
+            },
+            {
+                "given_name": "Caiyan",
+                "family_name": "Jia",
+                "institution": null
+            },
+            {
+                "given_name": "Jianqiang",
+                "family_name": "Li",
+                "institution": null
+            }
+        ],
+        "url": "http://proceedings.mlr.press/v95/li18b/li18b.pdf"
+    },
+    {
+        "title": "End-to-End Time Series Imputation via Residual Short Paths",
+        "authors": [
+            {
+                "given_name": "Lifeng",
+                "family_name": "Shen",
+                "institution": null
+            },
+            {
+                "given_name": "Qianli",
+                "family_name": "Ma",
+                "institution": null
+            },
+            {
+                "given_name": "Sen",
+                "family_name": "Li",
+                "institution": null
+            }
+        ],
+        "url": "http://proceedings.mlr.press/v95/shen18a/shen18a.pdf"
+    },
+    {
+        "title": "A Scalable Heterogeneous Parallel SOM Based on MPI/CUDA",
+        "authors": [
+            {
+                "given_name": "Yao",
+                "family_name": "Liu",
+                "institution": null
+            },
+            {
+                "given_name": "Jun",
+                "family_name": "Sun",
+                "institution": null
+            },
+            {
+                "given_name": "Qing",
+                "family_name": "Yao",
+                "institution": null
+            },
+            {
+                "given_name": "Su",
+                "family_name": "Wang",
+                "institution": null
+            },
+            {
+                "given_name": "Kai",
+                "family_name": "Zheng",
+                "institution": null
+            },
+            {
+                "given_name": "Yan",
+                "family_name": "Liu",
+                "institution": null
+            }
+        ],
+        "url": "http://proceedings.mlr.press/v95/liu18b/liu18b.pdf"
+    },
+    {
+        "title": "Making Classifier Chains Resilient to Class Imbalance",
+        "authors": [
+            {
+                "given_name": "Bin",
+                "family_name": "Liu",
+                "institution": null
+            },
+            {
+                "given_name": "Grigorios",
+                "family_name": "Tsoumakas",
+                "institution": null
+            }
+        ],
+        "url": "http://proceedings.mlr.press/v95/liu18c/liu18c.pdf"
+    },
+    {
+        "title": "Underwater Image Restoration Based on Convolutional Neural Network",
+        "authors": [
+            {
+                "given_name": "Yan",
+                "family_name": "Hu",
+                "institution": null
+            },
+            {
+                "given_name": "Keyan",
+                "family_name": "Wang",
+                "institution": null
+            },
+            {
+                "given_name": "Xi",
+                "family_name": "Zhao",
+                "institution": null
+            },
+            {
+                "given_name": "Hui",
+                "family_name": "Wang",
+                "institution": null
+            },
+            {
+                "given_name": "Yunsong",
+                "family_name": "Li",
+                "institution": null
+            }
+        ],
+        "url": "http://proceedings.mlr.press/v95/hu18a/hu18a.pdf"
+    },
+    {
+        "title": "Preconditioned Conjugate Gradient Methods in Truncated Newton Frameworks for Large-scale Linear Classification",
+        "authors": [
+            {
+                "given_name": "Chih-Yang",
+                "family_name": "Hsia",
+                "institution": null
+            },
+            {
+                "given_name": "Wei-Lin",
+                "family_name": "Chiang",
+                "institution": null
+            },
+            {
+                "given_name": "Chih-Jen",
+                "family_name": "Lin",
+                "institution": null
+            }
+        ],
+        "url": "http://proceedings.mlr.press/v95/hsia18a/hsia18a.pdf"
+    },
+    {
+        "title": "Deep Fully-Connected Part-Based Models for Human Pose Estimation",
+        "authors": [
+            {
+                "given_name": "Rodrigo De",
+                "family_name": "Bem",
+                "institution": null
+            },
+            {
+                "given_name": "Anurag",
+                "family_name": "Arnab",
+                "institution": null
+            },
+            {
+                "given_name": "Stuart",
+                "family_name": "Golodetz",
+                "institution": null
+            },
+            {
+                "given_name": "Michael",
+                "family_name": "Sapienza",
+                "institution": null
+            },
+            {
+                "given_name": "Philip",
+                "family_name": "Torr",
+                "institution": null
+            }
+        ],
+        "url": "http://proceedings.mlr.press/v95/de-bem18a/de-bem18a.pdf"
+    },
+    {
+        "title": "A Faster Sampling Algorithm for Spherical $k$-means",
+        "authors": [
+            {
+                "given_name": "Rameshwar",
+                "family_name": "Pratap",
+                "institution": null
+            },
+            {
+                "given_name": "Anup",
+                "family_name": "Deshmukh",
+                "institution": null
+            },
+            {
+                "given_name": "Pratheeksha",
+                "family_name": "Nair",
+                "institution": null
+            },
+            {
+                "given_name": "Tarun",
+                "family_name": "Dutt",
+                "institution": null
+            }
+        ],
+        "url": "http://proceedings.mlr.press/v95/pratap18a/pratap18a.pdf"
+    },
+    {
+        "title": "Batch Normalized Deep Boltzmann Machines",
+        "authors": [
+            {
+                "given_name": "Hung",
+                "family_name": "Vu",
+                "institution": null
+            },
+            {
+                "given_name": "Tu Dinh",
+                "family_name": "Nguyen",
+                "institution": null
+            },
+            {
+                "given_name": "Trung",
+                "family_name": "Le",
+                "institution": null
+            },
+            {
+                "given_name": "Wei",
+                "family_name": "Luo",
+                "institution": null
+            },
+            {
+                "given_name": "Dinh",
+                "family_name": "Phung",
+                "institution": null
+            }
+        ],
+        "url": "http://proceedings.mlr.press/v95/vu18a/vu18a.pdf"
+    },
+    {
+        "title": "Unsupervised Heterogeneous Domain Adaptation with Sparse Feature Transformation",
+        "authors": [
+            {
+                "given_name": "Chen",
+                "family_name": "Shen",
+                "institution": null
+            },
+            {
+                "given_name": "Yuhong",
+                "family_name": "Guo",
+                "institution": null
+            }
+        ],
+        "url": "http://proceedings.mlr.press/v95/shen18b/shen18b.pdf"
+    },
+    {
+        "title": "Adversarial TableQA: Attention Supervision for Question Answering on Tables",
+        "authors": [
+            {
+                "given_name": "Minseok",
+                "family_name": "Cho",
+                "institution": null
+            },
+            {
+                "given_name": "Reinald Kim",
+                "family_name": "Amplayo",
+                "institution": null
+            },
+            {
+                "given_name": "Seung-Won",
+                "family_name": "Hwang",
+                "institution": null
+            },
+            {
+                "given_name": "Jonghyuck",
+                "family_name": "Park",
+                "institution": null
+            }
+        ],
+        "url": "http://proceedings.mlr.press/v95/cho18a/cho18a.pdf"
+    },
+    {
+        "title": "Concorde: Morphological Agreement in Conversational Models",
+        "authors": [
+            {
+                "given_name": "Daniil",
+                "family_name": "Polykovskiy",
+                "institution": null
+            },
+            {
+                "given_name": "Dmitry",
+                "family_name": "Soloviev",
+                "institution": null
+            },
+            {
+                "given_name": "Sergey",
+                "family_name": "Nikolenko",
+                "institution": null
+            }
+        ],
+        "url": "http://proceedings.mlr.press/v95/polykovskiy18a/polykovskiy18a.pdf"
+    },
+    {
+        "title": "ReSet: Learning Recurrent Dynamic Routing in ResNet-like Neural Networks",
+        "authors": [
+            {
+                "given_name": "Iurii",
+                "family_name": "Kemaev",
+                "institution": null
+            },
+            {
+                "given_name": "Daniil",
+                "family_name": "Polykovskiy",
+                "institution": null
+            },
+            {
+                "given_name": "Dmitry",
+                "family_name": "Vetrov",
+                "institution": null
+            }
+        ],
+        "url": "http://proceedings.mlr.press/v95/kemaev18a/kemaev18a.pdf"
+    },
+    {
+        "title": "Extracting Invariant Features From Images Using An Equivariant Autoencoder",
+        "authors": [
+            {
+                "given_name": "Denis",
+                "family_name": "Kuzminykh",
+                "institution": null
+            },
+            {
+                "given_name": "Daniil",
+                "family_name": "Polykovskiy",
+                "institution": null
+            },
+            {
+                "given_name": "Alexander",
+                "family_name": "Zhebrak",
+                "institution": null
+            }
+        ],
+        "url": "http://proceedings.mlr.press/v95/kuzminykh18a/kuzminykh18a.pdf"
+    },
+    {
+        "title": "Stock Price Prediction Using Attention-based Multi-Input LSTM",
+        "authors": [
+            {
+                "given_name": "Hao",
+                "family_name": "Li",
+                "institution": null
+            },
+            {
+                "given_name": "Yanyan",
+                "family_name": "Shen",
+                "institution": null
+            },
+            {
+                "given_name": "Yanmin",
+                "family_name": "Zhu",
+                "institution": null
+            }
+        ],
+        "url": "http://proceedings.mlr.press/v95/li18c/li18c.pdf"
+    },
+    {
+        "title": "Who Are Raising Their Hands? Hand-Raiser Seeking Based on Object Detection and Pose Estimation",
+        "authors": [
+            {
+                "given_name": "Huayi",
+                "family_name": "Zhou",
+                "institution": null
+            },
+            {
+                "given_name": "Fei",
+                "family_name": "Jiang",
+                "institution": null
+            },
+            {
+                "given_name": "Ruimin",
+                "family_name": "Shen",
+                "institution": null
+            }
+        ],
+        "url": "http://proceedings.mlr.press/v95/zhou18a/zhou18a.pdf"
+    },
+    {
+        "title": "ZoomNet: Deep Aggregation Learning for High-Performance Small Pedestrian Detection",
+        "authors": [
+            {
+                "given_name": "Chong",
+                "family_name": "Shang",
+                "institution": null
+            },
+            {
+                "given_name": "Haizhou",
+                "family_name": "Ai",
+                "institution": null
+            },
+            {
+                "given_name": "Zijie",
+                "family_name": "Zhuang",
+                "institution": null
+            },
+            {
+                "given_name": "Long",
+                "family_name": "Chen",
+                "institution": null
+            },
+            {
+                "given_name": "Junliang",
+                "family_name": "Xing",
+                "institution": null
+            }
+        ],
+        "url": "http://proceedings.mlr.press/v95/shang18a/shang18a.pdf"
+    },
+    {
+        "title": "Collaboratively Weighting Deep and Classic Representation via $l_2$ Regularization for Image Classification",
+        "authors": [
+            {
+                "given_name": "Shaoning",
+                "family_name": "Zeng",
+                "institution": null
+            },
+            {
+                "given_name": "Bob",
+                "family_name": "Zhang",
+                "institution": null
+            },
+            {
+                "given_name": "Yanghao",
+                "family_name": "Zhang",
+                "institution": null
+            },
+            {
+                "given_name": "Jianping",
+                "family_name": "Gou",
+                "institution": null
+            }
+        ],
+        "url": "http://proceedings.mlr.press/v95/zeng18a/zeng18a.pdf"
+    },
+    {
+        "title": "Character-based BiLSTM-CRF Incorporating POS and Dictionaries for Chinese Opinion Target Extraction",
+        "authors": [
+            {
+                "given_name": "Yanzeng",
+                "family_name": "Li",
+                "institution": null
+            },
+            {
+                "given_name": "Tingwen",
+                "family_name": "Liu",
+                "institution": null
+            },
+            {
+                "given_name": "Diying",
+                "family_name": "Li",
+                "institution": null
+            },
+            {
+                "given_name": "Quangang",
+                "family_name": "Li",
+                "institution": null
+            },
+            {
+                "given_name": "Jinqiao",
+                "family_name": "Shi",
+                "institution": null
+            },
+            {
+                "given_name": "Yanqiu",
+                "family_name": "Wang",
+                "institution": null
+            }
+        ],
+        "url": "http://proceedings.mlr.press/v95/li18d/li18d.pdf"
+    },
+    {
+        "title": "Adversarial Neural Machine Translation",
+        "authors": [
+            {
+                "given_name": "Lijun",
+                "family_name": "Wu",
+                "institution": null
+            },
+            {
+                "given_name": "Yingce",
+                "family_name": "Xia",
+                "institution": null
+            },
+            {
+                "given_name": "Fei",
+                "family_name": "Tian",
+                "institution": null
+            },
+            {
+                "given_name": "Li",
+                "family_name": "Zhao",
+                "institution": null
+            },
+            {
+                "given_name": "Tao",
+                "family_name": "Qin",
+                "institution": null
+            },
+            {
+                "given_name": "Jianhuang",
+                "family_name": "Lai",
+                "institution": null
+            },
+            {
+                "given_name": "Tie-Yan",
+                "family_name": "Liu",
+                "institution": null
+            }
+        ],
+        "url": "http://proceedings.mlr.press/v95/wu18a/wu18a.pdf"
+    },
+    {
+        "title": "Deep Embedded Clustering with Data Augmentation",
+        "authors": [
+            {
+                "given_name": "Xifeng",
+                "family_name": "Guo",
+                "institution": null
+            },
+            {
+                "given_name": "En",
+                "family_name": "Zhu",
+                "institution": null
+            },
+            {
+                "given_name": "Xinwang",
+                "family_name": "Liu",
+                "institution": null
+            },
+            {
+                "given_name": "Jianping",
+                "family_name": "Yin",
+                "institution": null
+            }
+        ],
+        "url": "http://proceedings.mlr.press/v95/guo18b/guo18b.pdf"
+    },
+    {
+        "title": "Cartoon-to-Photo Facial Translation with Generative Adversarial Networks",
+        "authors": [
+            {
+                "given_name": "Junhong",
+                "family_name": "Huang",
+                "institution": null
+            },
+            {
+                "given_name": "Mingkui",
+                "family_name": "Tan",
+                "institution": null
+            },
+            {
+                "given_name": "Yuguang",
+                "family_name": "Yan",
+                "institution": null
+            },
+            {
+                "given_name": "Chunmei",
+                "family_name": "Qing",
+                "institution": null
+            },
+            {
+                "given_name": "Qingyao",
+                "family_name": "Wu",
+                "institution": null
+            },
+            {
+                "given_name": "Zhuliang",
+                "family_name": "Yu",
+                "institution": null
+            }
+        ],
+        "url": "http://proceedings.mlr.press/v95/huang18a/huang18a.pdf"
+    },
+    {
+        "title": "CCNet: Cluster-Coordinated Net for Learning Multi-agent Communication Protocols with Reinforcement Learning",
+        "authors": [
+            {
+                "given_name": "Xin",
+                "family_name": "Wen",
+                "institution": null
+            },
+            {
+                "given_name": "Zheng-Jun",
+                "family_name": "Zha",
+                "institution": null
+            },
+            {
+                "given_name": "Zilei",
+                "family_name": "Wang",
+                "institution": null
+            },
+            {
+                "given_name": "Liansheng",
+                "family_name": "Zhuang",
+                "institution": null
+            },
+            {
+                "given_name": "Houqiang",
+                "family_name": "Li",
+                "institution": null
+            }
+        ],
+        "url": "http://proceedings.mlr.press/v95/wen18a/wen18a.pdf"
+    },
+    {
+        "title": "Construction of Incoherent Dictionaries via Direct Babel Function Minimization",
+        "authors": [
+            {
+                "given_name": "Huan",
+                "family_name": "Li",
+                "institution": null
+            },
+            {
+                "given_name": "Zhouchen",
+                "family_name": "Lin",
+                "institution": null
+            }
+        ],
+        "url": "http://proceedings.mlr.press/v95/li18e/li18e.pdf"
+    },
+    {
+        "title": "Optimization Algorithm Inspired Deep Neural Network Structure Design",
+        "authors": [
+            {
+                "given_name": "Huan",
+                "family_name": "Li",
+                "institution": null
+            },
+            {
+                "given_name": "Yibo",
+                "family_name": "Yang",
+                "institution": null
+            },
+            {
+                "given_name": "Dongmin",
+                "family_name": "Chen",
+                "institution": null
+            },
+            {
+                "given_name": "Zhouchen",
+                "family_name": "Lin",
+                "institution": null
+            }
+        ],
+        "url": "http://proceedings.mlr.press/v95/li18f/li18f.pdf"
+    },
+    {
+        "title": "A Self-Attentive Hierarchical Model for Jointly Improving Text Summarization and Sentiment Classification",
+        "authors": [
+            {
+                "given_name": "Hongli",
+                "family_name": "Wang",
+                "institution": null
+            },
+            {
+                "given_name": "Jiangtao",
+                "family_name": "Ren",
+                "institution": null
+            }
+        ],
+        "url": "http://proceedings.mlr.press/v95/wang18b/wang18b.pdf"
+    },
+    {
+        "title": "SecureNets: Secure Inference of Deep Neural Networks on an Untrusted Cloud",
+        "authors": [
+            {
+                "given_name": "Xuhui",
+                "family_name": "Chen",
+                "institution": null
+            },
+            {
+                "given_name": "Jinlong",
+                "family_name": "Ji",
+                "institution": null
+            },
+            {
+                "given_name": "Lixing",
+                "family_name": "Yu",
+                "institution": null
+            },
+            {
+                "given_name": "Changqing",
+                "family_name": "Luo",
+                "institution": null
+            },
+            {
+                "given_name": "Pan",
+                "family_name": "Li",
+                "institution": null
+            }
+        ],
+        "url": "http://proceedings.mlr.press/v95/chen18a/chen18a.pdf"
+    },
+    {
+        "title": "Deep Multi-instance Learning with Dynamic Pooling",
+        "authors": [
+            {
+                "given_name": "Yongluan",
+                "family_name": "Yan",
+                "institution": null
+            },
+            {
+                "given_name": "Xinggang",
+                "family_name": "Wang",
+                "institution": null
+            },
+            {
+                "given_name": "Xiaojie",
+                "family_name": "Guo",
+                "institution": null
+            },
+            {
+                "given_name": "Jiemin",
+                "family_name": "Fang",
+                "institution": null
+            },
+            {
+                "given_name": "Wenyu",
+                "family_name": "Liu",
+                "institution": null
+            },
+            {
+                "given_name": "Junzhou",
+                "family_name": "Huang",
+                "institution": null
+            }
+        ],
+        "url": "http://proceedings.mlr.press/v95/yan18a/yan18a.pdf"
+    },
+    {
+        "title": "A Data Driven Approach to Predicting Rating Scores for New Restaurants",
+        "authors": [
+            {
+                "given_name": "Xiaochen",
+                "family_name": "Wang",
+                "institution": null
+            },
+            {
+                "given_name": "Yanyan",
+                "family_name": "Shen",
+                "institution": null
+            },
+            {
+                "given_name": "Yanmin",
+                "family_name": "Zhu",
+                "institution": null
+            }
+        ],
+        "url": "http://proceedings.mlr.press/v95/wang18c/wang18c.pdf"
+    },
+    {
+        "title": "Profitable Bandits",
+        "authors": [
+            {
+                "given_name": "Mastane",
+                "family_name": "Achab",
+                "institution": null
+            },
+            {
+                "given_name": "Stephan",
+                "family_name": "Clémençon",
+                "institution": null
+            },
+            {
+                "given_name": "Aurélien",
+                "family_name": "Garivier",
+                "institution": null
+            }
+        ],
+        "url": "http://proceedings.mlr.press/v95/achab18a/achab18a.pdf"
+    },
+    {
+        "title": "Fast Randomized PCA for Sparse Data",
+        "authors": [
+            {
+                "given_name": "Xu",
+                "family_name": "Feng",
+                "institution": null
+            },
+            {
+                "given_name": "Yuyang",
+                "family_name": "Xie",
+                "institution": null
+            },
+            {
+                "given_name": "Mingye",
+                "family_name": "Song",
+                "institution": null
+            },
+            {
+                "given_name": "Wenjian",
+                "family_name": "Yu",
+                "institution": null
+            },
+            {
+                "given_name": "Jie",
+                "family_name": "Tang",
+                "institution": null
+            }
+        ],
+        "url": "http://proceedings.mlr.press/v95/feng18a/feng18a.pdf"
+    },
+    {
+        "title": "Boosting Dynamic Programming with Neural Networks for Solving NP-hard Problems",
+        "authors": [
+            {
+                "given_name": "Feidiao",
+                "family_name": "Yang",
+                "institution": null
+            },
+            {
+                "given_name": "Tiancheng",
+                "family_name": "Jin",
+                "institution": null
+            },
+            {
+                "given_name": "Tie-Yan",
+                "family_name": "Liu",
+                "institution": null
+            },
+            {
+                "given_name": "Xiaoming",
+                "family_name": "Sun",
+                "institution": null
+            },
+            {
+                "given_name": "Jialin",
+                "family_name": "Zhang",
+                "institution": null
+            }
+        ],
+        "url": "http://proceedings.mlr.press/v95/yang18a/yang18a.pdf"
+    },
+    {
+        "title": "Efficient Mechanisms for Peer Grading and Dueling Bandits",
+        "authors": [
+            {
+                "given_name": "Chuang-Chieh",
+                "family_name": "Lin",
+                "institution": null
+            },
+            {
+                "given_name": "Chi-Jen",
+                "family_name": "Lu",
+                "institution": null
+            }
+        ],
+        "url": "http://proceedings.mlr.press/v95/lin18a/lin18a.pdf"
+    },
+    {
+        "title": "A Joint Selective Mechanism for Abstractive Sentence Summarization",
+        "authors": [
+            {
+                "given_name": "Junjie",
+                "family_name": "Fu",
+                "institution": null
+            },
+            {
+                "given_name": "Gongshen",
+                "family_name": "Liu",
+                "institution": null
+            }
+        ],
+        "url": "http://proceedings.mlr.press/v95/fu18a/fu18a.pdf"
+    },
+    {
+        "title": "Fast Dynamic Convolutional Neural Networks for Visual\r Tracking",
+        "authors": [
+            {
+                "given_name": "Zhiyan",
+                "family_name": "Cui",
+                "institution": null
+            },
+            {
+                "given_name": "Na",
+                "family_name": "Lu",
+                "institution": null
+            },
+            {
+                "given_name": "Xue",
+                "family_name": "Jing",
+                "institution": null
+            },
+            {
+                "given_name": "Xiahao",
+                "family_name": "Shi",
+                "institution": null
+            }
+        ],
+        "url": "http://proceedings.mlr.press/v95/cui18a/cui18a.pdf"
+    },
+    {
+        "title": "RICAP: Random Image Cropping and Patching Data Augmentation for Deep CNNs",
+        "authors": [
+            {
+                "given_name": "Ryo",
+                "family_name": "Takahashi",
+                "institution": null
+            },
+            {
+                "given_name": "Takashi",
+                "family_name": "Matsubara",
+                "institution": null
+            },
+            {
+                "given_name": "Kuniaki",
+                "family_name": "Uehara",
+                "institution": null
+            }
+        ],
+        "url": "http://proceedings.mlr.press/v95/takahashi18a/takahashi18a.pdf"
+    },
+    {
+        "title": "An Empirical Evaluation of Sketched SVD and its Application to Leverage Score Ordering",
+        "authors": [
+            {
+                "given_name": "Hui Han",
+                "family_name": "Chin",
+                "institution": null
+            },
+            {
+                "given_name": "Paul Pu",
+                "family_name": "Liang",
+                "institution": null
+            }
+        ],
+        "url": "http://proceedings.mlr.press/v95/chin18a/chin18a.pdf"
+    },
+    {
+        "title": "ASVRG: Accelerated Proximal SVRG",
+        "authors": [
+            {
+                "given_name": "Fanhua",
+                "family_name": "Shang",
+                "institution": null
+            },
+            {
+                "given_name": "Licheng",
+                "family_name": "Jiao",
+                "institution": null
+            },
+            {
+                "given_name": "Kaiwen",
+                "family_name": "Zhou",
+                "institution": null
+            },
+            {
+                "given_name": "James",
+                "family_name": "Cheng",
+                "institution": null
+            },
+            {
+                "given_name": "Yan",
+                "family_name": "Ren",
+                "institution": null
+            },
+            {
+                "given_name": "Yufei",
+                "family_name": "Jin",
+                "institution": null
+            }
+        ],
+        "url": "http://proceedings.mlr.press/v95/shang18b/shang18b.pdf"
+    },
+    {
+        "title": "Knowledge Guided Multi-instance Multi-label Learning via Neural Networks in Medicines Prediction",
+        "authors": [
+            {
+                "given_name": "Junyuan",
+                "family_name": "Shang",
+                "institution": null
+            },
+            {
+                "given_name": "Shenda",
+                "family_name": "Hong",
+                "institution": null
+            },
+            {
+                "given_name": "Yuxi",
+                "family_name": "Zhou",
+                "institution": null
+            },
+            {
+                "given_name": "Meng",
+                "family_name": "Wu",
+                "institution": null
+            },
+            {
+                "given_name": "Hongyan",
+                "family_name": "Li",
+                "institution": null
+            }
+        ],
+        "url": "http://proceedings.mlr.press/v95/shang18c/shang18c.pdf"
+    },
+    {
+        "title": "TVT: Two-View Transformer Network for Video Captioning",
+        "authors": [
+            {
+                "given_name": "Ming",
+                "family_name": "Chen",
+                "institution": null
+            },
+            {
+                "given_name": "Yingming",
+                "family_name": "Li",
+                "institution": null
+            },
+            {
+                "given_name": "Zhongfei",
+                "family_name": "Zhang",
+                "institution": null
+            },
+            {
+                "given_name": "Siyu",
+                "family_name": "Huang",
+                "institution": null
+            }
+        ],
+        "url": "http://proceedings.mlr.press/v95/chen18b/chen18b.pdf"
+    },
+    {
+        "title": "Refining Synthetic Images with Semantic Layouts by Adversarial Training",
+        "authors": [
+            {
+                "given_name": "Tongtong",
+                "family_name": "Zhao",
+                "institution": null
+            },
+            {
+                "given_name": "Yuxiao",
+                "family_name": "Yan",
+                "institution": null
+            },
+            {
+                "given_name": "Jinjia",
+                "family_name": "Peng",
+                "institution": null
+            },
+            {
+                "given_name": "Haohui",
+                "family_name": "Wei",
+                "institution": null
+            },
+            {
+                "given_name": "Xianping",
+                "family_name": "Fu",
+                "institution": null
+            }
+        ],
+        "url": "http://proceedings.mlr.press/v95/zhao18a/zhao18a.pdf"
+    },
+    {
+        "title": "Relative Attribute Learning with Deep Attentive Cross-image Representation",
+        "authors": [
+            {
+                "given_name": "Zeshang",
+                "family_name": "Zhang",
+                "institution": null
+            },
+            {
+                "given_name": "Yingming",
+                "family_name": "Li",
+                "institution": null
+            },
+            {
+                "given_name": "Zhongfei",
+                "family_name": "Zhang",
+                "institution": null
+            }
+        ],
+        "url": "http://proceedings.mlr.press/v95/zhang18d/zhang18d.pdf"
+    }
+]

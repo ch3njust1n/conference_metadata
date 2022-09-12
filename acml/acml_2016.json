@@ -1,0 +1,722 @@
+[
+    {
+        "title": "Preface",
+        "authors": [
+            {
+                "given_name": "Robert J.",
+                "family_name": "Durrant",
+                "institution": null
+            },
+            {
+                "given_name": "Kee-Eung",
+                "family_name": "Kim",
+                "institution": null
+            }
+        ],
+        "url": "http://proceedings.mlr.press/v63/preface.pdf"
+    },
+    {
+        "title": "Non-Linear Smoothed Transductive Network Embedding with Text Information",
+        "authors": [
+            {
+                "given_name": "Weizheng",
+                "family_name": "Chen",
+                "institution": null
+            },
+            {
+                "given_name": "Xia",
+                "family_name": "Zhang",
+                "institution": null
+            },
+            {
+                "given_name": "Jinpeng",
+                "family_name": "Wang",
+                "institution": null
+            },
+            {
+                "given_name": "Yan",
+                "family_name": "Zhang",
+                "institution": null
+            },
+            {
+                "given_name": "Hongfei",
+                "family_name": "Yan",
+                "institution": null
+            },
+            {
+                "given_name": "Xiaoming",
+                "family_name": "Li",
+                "institution": null
+            }
+        ],
+        "url": "http://proceedings.mlr.press/v63/chen115.pdf"
+    },
+    {
+        "title": "Long Short-term Memory Network over Rhetorical Structure Theory for Sentence-level Sentiment Analysis",
+        "authors": [
+            {
+                "given_name": "Xianghua",
+                "family_name": "Fu",
+                "institution": null
+            },
+            {
+                "given_name": "Wangwang",
+                "family_name": "Liu",
+                "institution": null
+            },
+            {
+                "given_name": "Yingying",
+                "family_name": "Xu",
+                "institution": null
+            },
+            {
+                "given_name": "Chong",
+                "family_name": "Yu",
+                "institution": null
+            },
+            {
+                "given_name": "Ting",
+                "family_name": "Wang",
+                "institution": null
+            }
+        ],
+        "url": "http://proceedings.mlr.press/v63/Fu62.pdf"
+    },
+    {
+        "title": "Enhancing Topic Modeling on Short Texts with Crowdsourcing",
+        "authors": [
+            {
+                "given_name": "Xiaoyan",
+                "family_name": "Yang",
+                "institution": null
+            },
+            {
+                "given_name": "Shanshan",
+                "family_name": "Ying",
+                "institution": null
+            },
+            {
+                "given_name": "Wenzhe",
+                "family_name": "Yu",
+                "institution": null
+            },
+            {
+                "given_name": "Rong",
+                "family_name": "Zhang",
+                "institution": null
+            },
+            {
+                "given_name": "Zhenjie",
+                "family_name": "Zhang",
+                "institution": null
+            }
+        ],
+        "url": "http://proceedings.mlr.press/v63/yang54.pdf"
+    },
+    {
+        "title": "Multiple Kernel Learning with Data Augmentation",
+        "authors": [
+            {
+                "given_name": "Khanh",
+                "family_name": "Nguyen",
+                "institution": null
+            },
+            {
+                "given_name": "Trung",
+                "family_name": "Le",
+                "institution": null
+            },
+            {
+                "given_name": "Vu",
+                "family_name": "Nguyen",
+                "institution": null
+            },
+            {
+                "given_name": "Tu",
+                "family_name": "Nguyen",
+                "institution": null
+            },
+            {
+                "given_name": "Dinh",
+                "family_name": "Phung",
+                "institution": null
+            }
+        ],
+        "url": "http://proceedings.mlr.press/v63/nguyen19.pdf"
+    },
+    {
+        "title": "Cost Sensitive Online Multiple Kernel Classification",
+        "authors": [
+            {
+                "given_name": "Doyen",
+                "family_name": "Sahoo",
+                "institution": null
+            },
+            {
+                "given_name": "Steven",
+                "family_name": "Hoi",
+                "institution": null
+            },
+            {
+                "given_name": "Peilin",
+                "family_name": "Zhao",
+                "institution": null
+            }
+        ],
+        "url": "http://proceedings.mlr.press/v63/sahoo56.pdf"
+    },
+    {
+        "title": "Localized Multiple Kernel Learning—A Convex Approach",
+        "authors": [
+            {
+                "given_name": "Yunwen",
+                "family_name": "Lei",
+                "institution": null
+            },
+            {
+                "given_name": "Alexander",
+                "family_name": "Binder",
+                "institution": null
+            },
+            {
+                "given_name": "Urun",
+                "family_name": "Dogan",
+                "institution": null
+            },
+            {
+                "given_name": "Marius",
+                "family_name": "Kloft",
+                "institution": null
+            }
+        ],
+        "url": "http://proceedings.mlr.press/v63/lei63.pdf"
+    },
+    {
+        "title": "Linearized Alternating Direction Method of Multipliers for Constrained Nonconvex Regularized Optimization",
+        "authors": [
+            {
+                "given_name": "Linbo",
+                "family_name": "Qiao",
+                "institution": null
+            },
+            {
+                "given_name": "Bofeng",
+                "family_name": "Zhang",
+                "institution": null
+            },
+            {
+                "given_name": "Jinshu",
+                "family_name": "Su",
+                "institution": null
+            },
+            {
+                "given_name": "Xicheng",
+                "family_name": "Lu",
+                "institution": null
+            }
+        ],
+        "url": "http://proceedings.mlr.press/v63/qiao37.pdf"
+    },
+    {
+        "title": "Random Fourier Features For Operator-Valued Kernels",
+        "authors": [
+            {
+                "given_name": "Romain",
+                "family_name": "Brault",
+                "institution": null
+            },
+            {
+                "given_name": "Markus",
+                "family_name": "Heinonen",
+                "institution": null
+            },
+            {
+                "given_name": "Florence",
+                "family_name": "Buc",
+                "institution": null
+            }
+        ],
+        "url": "http://proceedings.mlr.press/v63/Brault39.pdf"
+    },
+    {
+        "title": "Secure Approximation Guarantee for Cryptographically Private Empirical Risk Minimization",
+        "authors": [
+            {
+                "given_name": "Toshiyuki",
+                "family_name": "Takada",
+                "institution": null
+            },
+            {
+                "given_name": "Hiroyuki",
+                "family_name": "Hanada",
+                "institution": null
+            },
+            {
+                "given_name": "Yoshiji",
+                "family_name": "Yamada",
+                "institution": null
+            },
+            {
+                "given_name": "Jun",
+                "family_name": "Sakuma",
+                "institution": null
+            },
+            {
+                "given_name": "Ichiro",
+                "family_name": "Takeuchi",
+                "institution": null
+            }
+        ],
+        "url": "http://proceedings.mlr.press/v63/takada48.pdf"
+    },
+    {
+        "title": "Learning from Survey Training Samples: Rate Bounds for Horvitz-Thompson Risk Minimizers",
+        "authors": [
+            {
+                "given_name": "Stephan",
+                "family_name": "Clemencon",
+                "institution": null
+            },
+            {
+                "given_name": "Patrice",
+                "family_name": "Bertail",
+                "institution": null
+            },
+            {
+                "given_name": "Guillaume",
+                "family_name": "Papa",
+                "institution": null
+            }
+        ],
+        "url": "http://proceedings.mlr.press/v63/clemencon64.pdf"
+    },
+    {
+        "title": "Learnability of Non-I.I.D.",
+        "authors": [
+            {
+                "given_name": "Wei",
+                "family_name": "Gao",
+                "institution": null
+            },
+            {
+                "given_name": "Xin-Yi",
+                "family_name": "Niu",
+                "institution": null
+            },
+            {
+                "given_name": "Zhi-Hua",
+                "family_name": "Zhou",
+                "institution": null
+            }
+        ],
+        "url": "http://proceedings.mlr.press/v63/Gao09.pdf"
+    },
+    {
+        "title": "Modelling Symbolic Music: Beyond the Piano Roll",
+        "authors": [
+            {
+                "given_name": "Christian",
+                "family_name": "Walder",
+                "institution": null
+            }
+        ],
+        "url": "http://proceedings.mlr.press/v63/walder88.pdf"
+    },
+    {
+        "title": "Improving Distributed Word Representation and Topic Model by Word-Topic Mixture Model",
+        "authors": [
+            {
+                "given_name": "Xianghua",
+                "family_name": "Fu",
+                "institution": null
+            },
+            {
+                "given_name": "Ting",
+                "family_name": "Wang",
+                "institution": null
+            },
+            {
+                "given_name": "Jing",
+                "family_name": "Li",
+                "institution": null
+            },
+            {
+                "given_name": "Chong",
+                "family_name": "Yu",
+                "institution": null
+            },
+            {
+                "given_name": "Wangwang",
+                "family_name": "Liu",
+                "institution": null
+            }
+        ],
+        "url": "http://proceedings.mlr.press/v63/Fu60.pdf"
+    },
+    {
+        "title": "Fast Collaborative Filtering from Implicit Feedback with Provable Guarantees",
+        "authors": [
+            {
+                "given_name": "Sayantan",
+                "family_name": "Dasgupta",
+                "institution": null
+            }
+        ],
+        "url": "http://proceedings.mlr.press/v63/Dasgupta79.pdf"
+    },
+    {
+        "title": "Unifying Topic, Sentiment & Preference in an HDP-Based Rating Regression Model for Online Reviews",
+        "authors": [
+            {
+                "given_name": "Zheng",
+                "family_name": "Chen",
+                "institution": null
+            },
+            {
+                "given_name": "Yong",
+                "family_name": "Zhang",
+                "institution": null
+            },
+            {
+                "given_name": "Yue",
+                "family_name": "Shang",
+                "institution": null
+            },
+            {
+                "given_name": "Xiaohua",
+                "family_name": "Hu",
+                "institution": null
+            }
+        ],
+        "url": "http://proceedings.mlr.press/v63/chen33.pdf"
+    },
+    {
+        "title": "Simulation and Calibration of a Fully Bayesian Marked Multidimensional Hawkes Process with Dissimilar Decays",
+        "authors": [
+            {
+                "given_name": "Kar Wai",
+                "family_name": "Lim",
+                "institution": null
+            },
+            {
+                "given_name": "Young",
+                "family_name": "Lee",
+                "institution": null
+            },
+            {
+                "given_name": "Leif",
+                "family_name": "Hanlen",
+                "institution": null
+            },
+            {
+                "given_name": "Hongbiao",
+                "family_name": "Zhao",
+                "institution": null
+            }
+        ],
+        "url": "http://proceedings.mlr.press/v63/lim83.pdf"
+    },
+    {
+        "title": "A Bayesian Nonparametric Approach for Multi-label Classification",
+        "authors": [
+            {
+                "given_name": "Vu",
+                "family_name": "Nguyen",
+                "institution": null
+            },
+            {
+                "given_name": "Sunil",
+                "family_name": "Gupta",
+                "institution": null
+            },
+            {
+                "given_name": "Santu",
+                "family_name": "Rana",
+                "institution": null
+            },
+            {
+                "given_name": "Cheng",
+                "family_name": "Li",
+                "institution": null
+            },
+            {
+                "given_name": "Svetha",
+                "family_name": "Venkatesh",
+                "institution": null
+            }
+        ],
+        "url": "http://proceedings.mlr.press/v63/nguyen93.pdf"
+    },
+    {
+        "title": "Hierarchical Probabilistic Matrix Factorization with Network Topology for Multi-relational Social Network",
+        "authors": [
+            {
+                "given_name": "Haoli",
+                "family_name": "Bai",
+                "institution": null
+            },
+            {
+                "given_name": "Zenglin",
+                "family_name": "Xu",
+                "institution": null
+            },
+            {
+                "given_name": "Bin",
+                "family_name": "Liu",
+                "institution": null
+            },
+            {
+                "given_name": "Yingming",
+                "family_name": "Li",
+                "institution": null
+            }
+        ],
+        "url": "http://proceedings.mlr.press/v63/bai103.pdf"
+    },
+    {
+        "title": "Learning Feature Aware Metric",
+        "authors": [
+            {
+                "given_name": "Han-Jia",
+                "family_name": "Ye",
+                "institution": null
+            },
+            {
+                "given_name": "De-Chuan",
+                "family_name": "Zhan",
+                "institution": null
+            },
+            {
+                "given_name": "Xue-Min",
+                "family_name": "Si",
+                "institution": null
+            },
+            {
+                "given_name": "Yuan",
+                "family_name": "Jiang",
+                "institution": null
+            }
+        ],
+        "url": "http://proceedings.mlr.press/v63/ye4.pdf"
+    },
+    {
+        "title": "Multitask Principal Component Analysis",
+        "authors": [
+            {
+                "given_name": "Ikko",
+                "family_name": "Yamane",
+                "institution": null
+            },
+            {
+                "given_name": "Florian",
+                "family_name": "Yger",
+                "institution": null
+            },
+            {
+                "given_name": "Maxime",
+                "family_name": "Berar",
+                "institution": null
+            },
+            {
+                "given_name": "Masashi",
+                "family_name": "Sugiyama",
+                "institution": null
+            }
+        ],
+        "url": "http://proceedings.mlr.press/v63/yamane65.pdf"
+    },
+    {
+        "title": "Learning Distance Metrics for Multi-Label Classification",
+        "authors": [
+            {
+                "given_name": "Henry",
+                "family_name": "Gouk",
+                "institution": null
+            },
+            {
+                "given_name": "Bernhard",
+                "family_name": "Pfahringer",
+                "institution": null
+            },
+            {
+                "given_name": "Michael",
+                "family_name": "Cree",
+                "institution": null
+            }
+        ],
+        "url": "http://proceedings.mlr.press/v63/Gouk8.pdf"
+    },
+    {
+        "title": "Bank of Weight Filters for Deep CNNs",
+        "authors": [
+            {
+                "given_name": "Suresh Kirthi",
+                "family_name": "Kumaraswamy",
+                "institution": null
+            },
+            {
+                "given_name": "Ps",
+                "family_name": "Sastry",
+                "institution": null
+            },
+            {
+                "given_name": "Kalpathi",
+                "family_name": "Ramakrishnan",
+                "institution": null
+            }
+        ],
+        "url": "http://proceedings.mlr.press/v63/kumaraswamy29.pdf"
+    },
+    {
+        "title": "Deep Gate Recurrent Neural Network",
+        "authors": [
+            {
+                "given_name": "Yuan",
+                "family_name": "Gao",
+                "institution": null
+            },
+            {
+                "given_name": "Dorota",
+                "family_name": "Glowacka",
+                "institution": null
+            }
+        ],
+        "url": "http://proceedings.mlr.press/v63/gao30.pdf"
+    },
+    {
+        "title": "Collaborative Recurrent Neural Networks for Dynamic Recommender Systems",
+        "authors": [
+            {
+                "given_name": "Young-Jun",
+                "family_name": "Ko",
+                "institution": null
+            },
+            {
+                "given_name": "Lucas",
+                "family_name": "Maystre",
+                "institution": null
+            },
+            {
+                "given_name": "Matthias",
+                "family_name": "Grossglauser",
+                "institution": null
+            }
+        ],
+        "url": "http://proceedings.mlr.press/v63/ko101.pdf"
+    },
+    {
+        "title": "Echo State Hoeffding Tree Learning",
+        "authors": [
+            {
+                "given_name": "Diego",
+                "family_name": "Marron",
+                "institution": null
+            },
+            {
+                "given_name": "Jesse",
+                "family_name": "Read",
+                "institution": null
+            },
+            {
+                "given_name": "Albert",
+                "family_name": "Bifet",
+                "institution": null
+            },
+            {
+                "given_name": "Talel",
+                "family_name": "Abdessalem",
+                "institution": null
+            },
+            {
+                "given_name": "Eduard",
+                "family_name": "Ayguade",
+                "institution": null
+            },
+            {
+                "given_name": "José",
+                "family_name": "Herrero",
+                "institution": null
+            }
+        ],
+        "url": "http://proceedings.mlr.press/v63/Marron87.pdf"
+    },
+    {
+        "title": "Proper Inner Product with Mean Displacement for Gaussian Noise Invariant ICA",
+        "authors": [
+            {
+                "given_name": "Liyan",
+                "family_name": "Song",
+                "institution": null
+            },
+            {
+                "given_name": "Haiping",
+                "family_name": "Lu",
+                "institution": null
+            }
+        ],
+        "url": "http://proceedings.mlr.press/v63/Song106.pdf"
+    },
+    {
+        "title": "An Efficient Approach for Multi-Sentence Compression",
+        "authors": [
+            {
+                "given_name": "Elaheh",
+                "family_name": "Shafieibavani",
+                "institution": null
+            },
+            {
+                "given_name": "Mohammad",
+                "family_name": "Ebrahimi",
+                "institution": null
+            },
+            {
+                "given_name": "Raymond K.",
+                "family_name": "Wong",
+                "institution": null
+            },
+            {
+                "given_name": "Fang",
+                "family_name": "Chen",
+                "institution": null
+            }
+        ],
+        "url": "http://proceedings.mlr.press/v63/ShafieiBavani24.pdf"
+    },
+    {
+        "title": "Geometry-aware stationary subspace analysis",
+        "authors": [
+            {
+                "given_name": "Inbal",
+                "family_name": "Horev",
+                "institution": null
+            },
+            {
+                "given_name": "Florian",
+                "family_name": "Yger",
+                "institution": null
+            },
+            {
+                "given_name": "Masashi",
+                "family_name": "Sugiyama",
+                "institution": null
+            }
+        ],
+        "url": "http://proceedings.mlr.press/v63/Horev84.pdf"
+    },
+    {
+        "title": "EcoICA: Skewness-based ICA via Eigenvectors of Cumulant Operator",
+        "authors": [
+            {
+                "given_name": "Liyan",
+                "family_name": "Song",
+                "institution": null
+            },
+            {
+                "given_name": "Haiping",
+                "family_name": "Lu",
+                "institution": null
+            }
+        ],
+        "url": "http://proceedings.mlr.press/v63/Song94.pdf"
+    }
+]

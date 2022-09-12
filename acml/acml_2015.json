@@ -1,0 +1,606 @@
+[
+    {
+        "title": "Preface",
+        "authors": [
+            {
+                "given_name": "Geoffrey",
+                "family_name": "Holmes",
+                "institution": null
+            },
+            {
+                "given_name": "Tie-Yan",
+                "family_name": "Liu",
+                "institution": null
+            }
+        ],
+        "url": "http://proceedings.mlr.press/v45/preface.pdf"
+    },
+    {
+        "title": "Geometry-Aware Principal Component Analysis for Symmetric Positive Definite Matrices",
+        "authors": [
+            {
+                "given_name": "Inbal",
+                "family_name": "Horev",
+                "institution": null
+            },
+            {
+                "given_name": "Florian",
+                "family_name": "Yger",
+                "institution": null
+            },
+            {
+                "given_name": "Masashi",
+                "family_name": "Sugiyama",
+                "institution": null
+            }
+        ],
+        "url": "http://proceedings.mlr.press/v45/Horev15.pdf"
+    },
+    {
+        "title": "Non-asymptotic Analysis of Compressive Fisher Discriminants in terms of the Effective Dimension",
+        "authors": [
+            {
+                "given_name": "Ata",
+                "family_name": "Kaban",
+                "institution": null
+            }
+        ],
+        "url": "http://proceedings.mlr.press/v45/Kaban15a.pdf"
+    },
+    {
+        "title": "Sufficient Dimension Reduction via Direct Estimation of the Gradients of Logarithmic Conditional Densities",
+        "authors": [
+            {
+                "given_name": "Hiroaki",
+                "family_name": "Sasaki",
+                "institution": null
+            },
+            {
+                "given_name": "Voot",
+                "family_name": "Tangkaratt",
+                "institution": null
+            },
+            {
+                "given_name": "Masashi",
+                "family_name": "Sugiyama",
+                "institution": null
+            }
+        ],
+        "url": "http://proceedings.mlr.press/v45/Sasaki15.pdf"
+    },
+    {
+        "title": "Bayesian Masking: Sparse Bayesian Estimation with Weaker Shrinkage Bias",
+        "authors": [
+            {
+                "given_name": "Yohei",
+                "family_name": "Kondo",
+                "institution": null
+            },
+            {
+                "given_name": "Shin-Ichi",
+                "family_name": "Maeda",
+                "institution": null
+            },
+            {
+                "given_name": "Kohei",
+                "family_name": "Hayashi",
+                "institution": null
+            }
+        ],
+        "url": "http://proceedings.mlr.press/v45/Kondo15.pdf"
+    },
+    {
+        "title": "A New Look at Nearest Neighbours: Identifying Benign Input Geometries via Random Projections",
+        "authors": [
+            {
+                "given_name": "Ata",
+                "family_name": "Kaban",
+                "institution": null
+            }
+        ],
+        "url": "http://proceedings.mlr.press/v45/Kaban15b.pdf"
+    },
+    {
+        "title": "Consistency of structured output learning with missing labels",
+        "authors": [
+            {
+                "given_name": "Kostiantyn",
+                "family_name": "Antoniuk",
+                "institution": null
+            },
+            {
+                "given_name": "Vojtech",
+                "family_name": "Franc",
+                "institution": null
+            },
+            {
+                "given_name": "Vaclav",
+                "family_name": "Hlavac",
+                "institution": null
+            }
+        ],
+        "url": "http://proceedings.mlr.press/v45/Antoniuk15.pdf"
+    },
+    {
+        "title": "Maximum Margin Partial Label Learning",
+        "authors": [
+            {
+                "given_name": "Fei",
+                "family_name": "Yu",
+                "institution": null
+            },
+            {
+                "given_name": "Min-Ling",
+                "family_name": "Zhang",
+                "institution": null
+            }
+        ],
+        "url": "http://proceedings.mlr.press/v45/Yu15.pdf"
+    },
+    {
+        "title": "Robust Multivariate Regression with Grossly Corrupted Observations and Its Application to Personality Prediction",
+        "authors": [
+            {
+                "given_name": "Xiaowei",
+                "family_name": "Zhang",
+                "institution": null
+            },
+            {
+                "given_name": "Li",
+                "family_name": "Cheng",
+                "institution": null
+            },
+            {
+                "given_name": "Tingshao",
+                "family_name": "Zhu",
+                "institution": null
+            }
+        ],
+        "url": "http://proceedings.mlr.press/v45/Zhang15a.pdf"
+    },
+    {
+        "title": "Data-Guided Approach for Learning and Improving User Experience in Computer Networks",
+        "authors": [
+            {
+                "given_name": "Yanan",
+                "family_name": "Bao",
+                "institution": null
+            },
+            {
+                "given_name": "Xin",
+                "family_name": "Liu",
+                "institution": null
+            },
+            {
+                "given_name": "Amit",
+                "family_name": "Pande",
+                "institution": null
+            }
+        ],
+        "url": "http://proceedings.mlr.press/v45/Bao15.pdf"
+    },
+    {
+        "title": "A Unified Framework for Jointly Learning Distributed Representations of Word and Attributes",
+        "authors": [
+            {
+                "given_name": "Liqiang",
+                "family_name": "Niu",
+                "institution": null
+            },
+            {
+                "given_name": "Xin-Yu",
+                "family_name": "Dai",
+                "institution": null
+            },
+            {
+                "given_name": "Shujian",
+                "family_name": "Huang",
+                "institution": null
+            },
+            {
+                "given_name": "Jiajun",
+                "family_name": "Chen",
+                "institution": null
+            }
+        ],
+        "url": "http://proceedings.mlr.press/v45/Niu15.pdf"
+    },
+    {
+        "title": "Preference Relation-based Markov Random Fields for Recommender Systems",
+        "authors": [
+            {
+                "given_name": "Shaowu",
+                "family_name": "Liu",
+                "institution": null
+            },
+            {
+                "given_name": "Gang",
+                "family_name": "Li",
+                "institution": null
+            },
+            {
+                "given_name": "Truyen",
+                "family_name": "Tran",
+                "institution": null
+            },
+            {
+                "given_name": "Yuan",
+                "family_name": "Jiang",
+                "institution": null
+            }
+        ],
+        "url": "http://proceedings.mlr.press/v45/Liu15.pdf"
+    },
+    {
+        "title": "Detecting Accounting Frauds in Publicly Traded U.S. Firms: A Machine Learning Approach",
+        "authors": [
+            {
+                "given_name": "Bin",
+                "family_name": "Li",
+                "institution": null
+            },
+            {
+                "given_name": "Julia",
+                "family_name": "Yu",
+                "institution": null
+            },
+            {
+                "given_name": "Jie",
+                "family_name": "Zhang",
+                "institution": null
+            },
+            {
+                "given_name": "Bin",
+                "family_name": "Ke",
+                "institution": null
+            }
+        ],
+        "url": "http://proceedings.mlr.press/v45/Li15.pdf"
+    },
+    {
+        "title": "Improving Sybil Detection via Graph Pruning and Regularization Techniques",
+        "authors": [
+            {
+                "given_name": "Huanhuan",
+                "family_name": "Zhang",
+                "institution": null
+            },
+            {
+                "given_name": "Jie",
+                "family_name": "Zhang",
+                "institution": null
+            },
+            {
+                "given_name": "Carol",
+                "family_name": "Fung",
+                "institution": null
+            },
+            {
+                "given_name": "Chang",
+                "family_name": "Xu",
+                "institution": null
+            }
+        ],
+        "url": "http://proceedings.mlr.press/v45/Zhang15b.pdf"
+    },
+    {
+        "title": "Proximal Average Approximated Incremental Gradient Method for Composite Penalty Regularized Empirical Risk Minimization",
+        "authors": [
+            {
+                "given_name": "Yiu-Ming",
+                "family_name": "Cheung",
+                "institution": null
+            },
+            {
+                "given_name": "Jian",
+                "family_name": "Lou",
+                "institution": null
+            }
+        ],
+        "url": "http://proceedings.mlr.press/v45/Cheung15.pdf"
+    },
+    {
+        "title": "Class-prior Estimation for Learning from Positive and Unlabeled Data",
+        "authors": [
+            {
+                "given_name": "Marthinus",
+                "family_name": "Christoffel",
+                "institution": null
+            },
+            {
+                "given_name": "Gang",
+                "family_name": "Niu",
+                "institution": null
+            },
+            {
+                "given_name": "Masashi",
+                "family_name": "Sugiyama",
+                "institution": null
+            }
+        ],
+        "url": "http://proceedings.mlr.press/v45/Christoffel15.pdf"
+    },
+    {
+        "title": "Streaming Variational Inference for Dirichlet Process Mixtures",
+        "authors": [
+            {
+                "given_name": "Viet",
+                "family_name": "Huynh",
+                "institution": null
+            },
+            {
+                "given_name": "Dinh",
+                "family_name": "Phung",
+                "institution": null
+            },
+            {
+                "given_name": "Svetha",
+                "family_name": "Venkatesh",
+                "institution": null
+            }
+        ],
+        "url": "http://proceedings.mlr.press/v45/Huynh15.pdf"
+    },
+    {
+        "title": "Expectation Propagation for Rectified Linear Poisson Regression",
+        "authors": [
+            {
+                "given_name": "Young-Jun",
+                "family_name": "Ko",
+                "institution": null
+            },
+            {
+                "given_name": "Matthias W.",
+                "family_name": "Seeger",
+                "institution": null
+            }
+        ],
+        "url": "http://proceedings.mlr.press/v45/Ko15.pdf"
+    },
+    {
+        "title": "Curriculum Learning of Bayesian Network Structures",
+        "authors": [
+            {
+                "given_name": "Yanpeng",
+                "family_name": "Zhao",
+                "institution": null
+            },
+            {
+                "given_name": "Yetian",
+                "family_name": "Chen",
+                "institution": null
+            },
+            {
+                "given_name": "Kewei",
+                "family_name": "Tu",
+                "institution": null
+            },
+            {
+                "given_name": "Jin",
+                "family_name": "Tian",
+                "institution": null
+            }
+        ],
+        "url": "http://proceedings.mlr.press/v45/Zhao15a.pdf"
+    },
+    {
+        "title": "Continuous Target Shift Adaptation in Supervised Learning",
+        "authors": [
+            {
+                "given_name": "Tuan Duong",
+                "family_name": "Nguyen",
+                "institution": null
+            },
+            {
+                "given_name": "Marthinus",
+                "family_name": "Christoffel",
+                "institution": null
+            },
+            {
+                "given_name": "Masashi",
+                "family_name": "Sugiyama",
+                "institution": null
+            }
+        ],
+        "url": "http://proceedings.mlr.press/v45/Nguyen15.pdf"
+    },
+    {
+        "title": "Surrogate regret bounds for generalized classification performance metrics",
+        "authors": [
+            {
+                "given_name": "Wojciech",
+                "family_name": "Kotlowski",
+                "institution": null
+            },
+            {
+                "given_name": "Krzysztof",
+                "family_name": "Dembczyński",
+                "institution": null
+            }
+        ],
+        "url": "http://proceedings.mlr.press/v45/Kotlowski15.pdf"
+    },
+    {
+        "title": "Budgeted Bandit Problems with Continuous Random Costs",
+        "authors": [
+            {
+                "given_name": "Yingce",
+                "family_name": "Xia",
+                "institution": null
+            },
+            {
+                "given_name": "Wenkui",
+                "family_name": "Ding",
+                "institution": null
+            },
+            {
+                "given_name": "Xu-Dong",
+                "family_name": "Zhang",
+                "institution": null
+            },
+            {
+                "given_name": "Nenghai",
+                "family_name": "Yu",
+                "institution": null
+            },
+            {
+                "given_name": "Tao",
+                "family_name": "Qin",
+                "institution": null
+            }
+        ],
+        "url": "http://proceedings.mlr.press/v45/Xia15.pdf"
+    },
+    {
+        "title": "Regularized Policy Gradients: Direct Variance Reduction in Policy Gradient Estimation",
+        "authors": [
+            {
+                "given_name": "Tingting",
+                "family_name": "Zhao",
+                "institution": null
+            },
+            {
+                "given_name": "Gang",
+                "family_name": "Niu",
+                "institution": null
+            },
+            {
+                "given_name": "Ning",
+                "family_name": "Xie",
+                "institution": null
+            },
+            {
+                "given_name": "Jucheng",
+                "family_name": "Yang",
+                "institution": null
+            },
+            {
+                "given_name": "Masashi",
+                "family_name": "Sugiyama",
+                "institution": null
+            }
+        ],
+        "url": "http://proceedings.mlr.press/v45/Zhao15b.pdf"
+    },
+    {
+        "title": "Statistical Unfolded Logic Learning",
+        "authors": [
+            {
+                "given_name": "Wang-Zhou",
+                "family_name": "Dai",
+                "institution": null
+            },
+            {
+                "given_name": "Zhi-Hua",
+                "family_name": "Zhou",
+                "institution": null
+            }
+        ],
+        "url": "http://proceedings.mlr.press/v45/Dai15.pdf"
+    },
+    {
+        "title": "Integration of Single-view Graphs with Diffusion of Tensor Product Graphs for Multi-view Spectral Clustering",
+        "authors": [
+            {
+                "given_name": "Le",
+                "family_name": "Shu",
+                "institution": null
+            },
+            {
+                "given_name": "Longin Jan",
+                "family_name": "Latecki",
+                "institution": null
+            }
+        ],
+        "url": "http://proceedings.mlr.press/v45/Shu15.pdf"
+    },
+    {
+        "title": "Autoencoder Trees",
+        "authors": [
+            {
+                "given_name": "Ozan",
+                "family_name": "İrsoy",
+                "institution": null
+            },
+            {
+                "given_name": "Ethem",
+                "family_name": "Alpaydin",
+                "institution": null
+            }
+        ],
+        "url": "http://proceedings.mlr.press/v45/Irsoy15.pdf"
+    },
+    {
+        "title": "Similarity-based Contrastive Divergence Methods for Energy-based Deep Learning Models",
+        "authors": [
+            {
+                "given_name": "Adepu Ravi",
+                "family_name": "Sankar",
+                "institution": null
+            },
+            {
+                "given_name": "Vineeth N",
+                "family_name": "Balasubramanian",
+                "institution": null
+            }
+        ],
+        "url": "http://proceedings.mlr.press/v45/Sankar15.pdf"
+    },
+    {
+        "title": "One-Pass Multi-View Learning",
+        "authors": [
+            {
+                "given_name": "Yue",
+                "family_name": "Zhu",
+                "institution": null
+            },
+            {
+                "given_name": "Wei",
+                "family_name": "Gao",
+                "institution": null
+            },
+            {
+                "given_name": "Zhi-Hua",
+                "family_name": "Zhou",
+                "institution": null
+            }
+        ],
+        "url": "http://proceedings.mlr.press/v45/Zhu15.pdf"
+    },
+    {
+        "title": "Largest Source Subset Selection for Instance Transfer",
+        "authors": [
+            {
+                "given_name": "Shuang",
+                "family_name": "Zhou",
+                "institution": null
+            },
+            {
+                "given_name": "Gijs",
+                "family_name": "Schoenmakers",
+                "institution": null
+            },
+            {
+                "given_name": "Evgueni",
+                "family_name": "Smirnov",
+                "institution": null
+            },
+            {
+                "given_name": "Ralf",
+                "family_name": "Peeters",
+                "institution": null
+            },
+            {
+                "given_name": "Kurt",
+                "family_name": "Driessens",
+                "institution": null
+            },
+            {
+                "given_name": "Siqi",
+                "family_name": "Chen",
+                "institution": null
+            }
+        ],
+        "url": "http://proceedings.mlr.press/v45/Zhou15.pdf"
+    }
+]
