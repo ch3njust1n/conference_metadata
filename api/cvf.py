@@ -1,9 +1,7 @@
 '''
 '''
-import os
 import re
 import sys
-import json
 import logging
 import urllib.request
 from collections import defaultdict
@@ -72,9 +70,10 @@ class CVF(object):
 		proceedings = []
 		paper = defaultdict()
 
+		i = 0
 		for tag in soup.find('dl').children:
 			if isinstance(tag, Tag):
-				if tag.find_all('a')[0].text.lower() == 'back': 
+				if 'go back' in tag.find_all('a')[0].text.lower(): 
 					continue
 				else:
 					count = count % 3 + 1
@@ -95,31 +94,42 @@ class CVF(object):
 
 						paper["authors"] = authors
 					elif count == 3:
-						paper["url"] = [f"{self.base}{link['href']}" for link in tag.find_all('a', href=True) if link['href'].endswith('.pdf') and link['href'].startswith('/content')]
+						paper["url"] = [utils.join_url([self.base, link['href']]) for link in tag.find_all('a', href=True) if link['href'].endswith('.pdf')]
 						proceedings.append(paper)
+
+					print(paper)
+					if count == 3: print('\n\n')
 
 		return proceedings
 
-		
 	
 	def accepted_papers(self, use_checkpoint=True, kw='cvpr'):
+		completed_years =  utils.load_cached_years(kw)
 		proceedings = self.build_proceedings_list(kw=kw)
-		print(proceedings)
-		is_sorted_by_days = lambda html: any('day=' in tag['href'] for tag in html.find_all('a'))
 
-		for conf, year in proceedings:
+		for conf, year in tqdm(proceedings):
+			if year in completed_years:
+				continue
+			
+			print(f'scraping {kw}{year}...')
 			conf_url =f"{self.base}/{conf.replace(' ','')}"
 			page = urllib.request.urlopen(conf_url)
 			soup = BeautifulSoup(page.read(), 'html.parser', from_encoding='utf-8')
-			papers = []
+			day_urls = utils.get_tags(soup, 'a', 'href', 'day=')
 
-			if is_sorted_by_days(soup):
-				papers = self.extract_papers(urllib.request.urlopen(conf_url+'?day=all'))
-				pprint(papers)
-				pass
+			if len(day_urls) > 0:
+				if any(tag.endswith('day=all') for tag in day_urls):
+					papers = self.extract_papers(urllib.request.urlopen(conf_url+'?day=all'))
+					utils.save_json(f'./{kw}', f'{kw}_{year}', papers)
+				else:
+					papers = []
+
+					for url in day_urls:
+						if url.endswith('day=all'): continue
+						url = url.split('?')[1]
+						papers.extend(self.extract_papers(urllib.request.urlopen(conf_url+'?'+url)))
+
+					utils.save_json(f'./{kw}', f'{kw}_{year}', papers)
 			else:
 				pass
-
-			utils.save_json(f'./{kw}', f'{kw}_{year}', papers)
-
 			break

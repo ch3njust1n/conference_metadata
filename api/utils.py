@@ -1,6 +1,7 @@
 '''
 '''
 import os
+import re
 import json
 import logging
 from time import time
@@ -66,3 +67,41 @@ Return Unix Epoch time in milliseconds
 def unix_epoch():
     decimals = len(str(time()).split('.'))
     return int(time() * 10**decimals)
+
+
+'''
+inputs:
+html   (bs4.element.Tag) BeautifulSoup element
+tag    (string)          Tag type
+prop   (string)          Property contained in tag
+substr (string)          Substring of property
+
+outputs:
+tags   (list) List of bs4.element.Tag objects with specific properties containing substrings
+'''
+def get_tags(html, tag, prop, substr): 
+    return [t[prop] for t in html.find_all(tag) if substr in t[prop]]
+
+
+'''
+Get years for completed conferences
+
+inputs:
+conf (string) Name of the conference
+
+outputs:
+years (set) Years completed
+'''
+def load_cached_years(conf):
+    return {re.search(r'\d{4}', file).group() for file in os.listdir(conf)}
+
+
+'''
+inputs:
+parts (list) List of URL paths
+
+outputs:
+url (string) Complete URL
+'''
+def join_url(parts):
+    return '/'.join(p.strip('/') for p in parts)
