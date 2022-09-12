@@ -94,3 +94,14 @@ years (set) Years completed
 '''
 def load_cached_years(conf):
     return {re.search(r'\d{4}', file).group() for file in os.listdir(conf)}
+
+
+'''
+inputs:
+parts (list) List of URL paths
+
+outputs:
+url (string) Complete URL
+'''
+def join_url(parts):
+    return '/'.join(p.strip('/') for p in parts)
