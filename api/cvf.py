@@ -2,8 +2,6 @@
 '''
 import os
 import re
-import sys
-import json
 import logging
 import urllib.request
 from collections import defaultdict
@@ -100,14 +98,30 @@ class CVF(object):
 
 		return proceedings
 
-		
+
+	'''
+	Get years for completed conferences
+
+	inputs:
+	conf (string) Name of the conference
+
+	outputs:
+	years (set) Years completed
+	'''
+	def load_cached_years(self, conf):
+		return {re.search(r'\d{4}', file).group() for file in os.listdir(conf)}
+
 	
 	def accepted_papers(self, use_checkpoint=True, kw='cvpr'):
+		completed_years =  self.load_cached_years(kw)
 		proceedings = self.build_proceedings_list(kw=kw)
-		print(proceedings)
 		is_sorted_by_days = lambda html: any('day=' in tag['href'] for tag in html.find_all('a'))
 
-		for conf, year in proceedings:
+		for conf, year in tqdm(proceedings):
+			if year in completed_years:
+				continue
+			
+			print(f'scraping {kw}{year}...')
 			conf_url =f"{self.base}/{conf.replace(' ','')}"
 			page = urllib.request.urlopen(conf_url)
 			soup = BeautifulSoup(page.read(), 'html.parser', from_encoding='utf-8')
@@ -115,11 +129,10 @@ class CVF(object):
 
 			if is_sorted_by_days(soup):
 				papers = self.extract_papers(urllib.request.urlopen(conf_url+'?day=all'))
-				pprint(papers)
-				pass
 			else:
 				pass
 
 			utils.save_json(f'./{kw}', f'{kw}_{year}', papers)
-
-			break
+			i += 1
+			if i == 1: break
+			
