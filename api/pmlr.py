@@ -61,16 +61,18 @@ class PMLR(object):
 		for t in tags:
 			proceedings.extend([title.strip().replace('\n', ' ') for title in t.text.split('Volume') if len(title) > 0])
 		
-		return [('Volume '+p, re.search(r'\d{4}', p).group()) for p in proceedings if len(p) > 0 and kw.upper() in p]
+		return [('Volume '+p, re.search(r'\d{4}', p).group()) for p in proceedings if len(p) > 0 and kw.lower() in p.lower()]
 		
 	
-	def accepted_papers(self, use_checkpoint=True):
-		proceedings = self.build_proceedings_list(kw='icml')
+	def accepted_papers(self, use_checkpoint=True, kw='colt'):
+		proceedings = self.build_proceedings_list(kw=kw)
 		print(proceedings)
 		confs = defaultdict()
 
 		for conf, year in tqdm(proceedings):
-			resp = urllib.request.urlopen(f'https://proceedings.mlr.press/v{conf.split()[1]}')
+			volume = conf.split()[1]
+			if volume.startswith('R'): continue
+			resp = urllib.request.urlopen(f'https://proceedings.mlr.press/v{volume}')
 			soup = BeautifulSoup(resp.read(), 'html.parser', from_encoding='utf-8')
 			tags = soup.find_all('div', {'class': 'paper'})
 			
@@ -86,7 +88,7 @@ class PMLR(object):
 					'url': urls
 				})
 
-			utils.save_json('./icml', f'icml_{year}', papers)
+			utils.save_json(f'./{kw}', f'{kw}_{year}', papers)
 			# confs[f'icml{year}']
 
 		# return confs
