@@ -33,7 +33,7 @@ class ICLR(object):
 	outputs:
 	papers (list) List of dicts of accepted papers with keys as the paper title and value as the authors.
 	'''
-	def accepted_papers(self):
+	def accepted_papers(self, use_checkpoint=True):
 
 		now = datetime.datetime.now()
 
