@@ -1573,5 +1573,109 @@
             }
         ],
         "url": "https://openreview.net/pdf?id=qj1IZ-6TInc"
+    },
+    {
+        "title": "Analytic-DPM: an Analytic Estimate of the Optimal Reverse Variance in Diffusion Probabilistic Models",
+        "authors": [
+            {
+                "given_name": "Fan",
+                "family_name": "Bao",
+                "institution": ""
+            },
+            {
+                "given_name": "Chongxuan",
+                "family_name": "Li",
+                "institution": ""
+            },
+            {
+                "given_name": "Jun",
+                "family_name": "Zhu",
+                "institution": ""
+            },
+            {
+                "given_name": "Bo",
+                "family_name": "Zhang",
+                "institution": ""
+            }
+        ],
+        "url": "https://openreview.net/pdf?id=0xiJLKH-ufZ"
+    },
+    {
+        "title": "RISP: Rendering-Invariant State Predictor with Differentiable Simulation and Rendering for Cross-Domain Parameter Estimation",
+        "authors": [
+            {
+                "given_name": "Pingchuan",
+                "family_name": "Ma",
+                "institution": ""
+            },
+            {
+                "given_name": "Tao",
+                "family_name": "Du",
+                "institution": ""
+            },
+            {
+                "given_name": "Joshua B.",
+                "family_name": "Tenenbaum",
+                "institution": ""
+            },
+            {
+                "given_name": "Wojciech",
+                "family_name": "Matusik",
+                "institution": ""
+            },
+            {
+                "given_name": "Chuang",
+                "family_name": "Gan",
+                "institution": ""
+            }
+        ],
+        "url": "https://openreview.net/pdf?id=uSE03demja"
+    },
+    {
+        "title": "The Information Geometry of Unsupervised Reinforcement Learning",
+        "authors": [
+            {
+                "given_name": "Benjamin",
+                "family_name": "Eysenbach",
+                "institution": ""
+            },
+            {
+                "given_name": "Ruslan",
+                "family_name": "Salakhutdinov",
+                "institution": ""
+            },
+            {
+                "given_name": "Sergey",
+                "family_name": "Levine",
+                "institution": ""
+            }
+        ],
+        "url": "https://openreview.net/pdf?id=3wU2UX0voE"
+    },
+    {
+        "title": "Language modeling via stochastic processes",
+        "authors": [
+            {
+                "given_name": "Rose E",
+                "family_name": "Wang",
+                "institution": ""
+            },
+            {
+                "given_name": "Esin",
+                "family_name": "Durmus",
+                "institution": ""
+            },
+            {
+                "given_name": "Noah",
+                "family_name": "Goodman",
+                "institution": ""
+            },
+            {
+                "given_name": "Tatsunori",
+                "family_name": "Hashimoto",
+                "institution": ""
+            }
+        ],
+        "url": "https://openreview.net/pdf?id=pMQwKL1yctf"
     }
 ]
