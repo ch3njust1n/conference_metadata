@@ -1,0 +1,3847 @@
+[
+    {
+        "url": "https://openreview.net/pdf?id=rJxdQ3jeg",
+        "title": "End-to-end Optimized Image Compression.",
+        "authors": [
+            {
+                "given_name": "Johannes",
+                "family_name": "Ballé",
+                "institution": null
+            },
+            {
+                "given_name": "Valero",
+                "family_name": "Laparra",
+                "institution": null
+            },
+            {
+                "given_name": "Eero P.",
+                "family_name": "Simoncelli",
+                "institution": null
+            }
+        ]
+    },
+    {
+        "url": "https://openreview.net/pdf?id=S1Bb3D5gg",
+        "title": "Learning End-to-End Goal-Oriented Dialog.",
+        "authors": [
+            {
+                "given_name": "Antoine",
+                "family_name": "Bordes",
+                "institution": null
+            },
+            {
+                "given_name": "Y-Lan",
+                "family_name": "Boureau",
+                "institution": null
+            },
+            {
+                "given_name": "Jason",
+                "family_name": "Weston",
+                "institution": null
+            }
+        ]
+    },
+    {
+        "url": "https://openreview.net/pdf?id=SJ6yPD5xg",
+        "title": "Reinforcement Learning with Unsupervised Auxiliary Tasks.",
+        "authors": [
+            {
+                "given_name": "Max",
+                "family_name": "Jaderberg",
+                "institution": null
+            },
+            {
+                "given_name": "Volodymyr",
+                "family_name": "Mnih",
+                "institution": null
+            },
+            {
+                "given_name": "Wojciech Marian",
+                "family_name": "Czarnecki",
+                "institution": null
+            },
+            {
+                "given_name": "Tom",
+                "family_name": "Schaul",
+                "institution": null
+            },
+            {
+                "given_name": "Joel Z.",
+                "family_name": "Leibo",
+                "institution": null
+            },
+            {
+                "given_name": "David",
+                "family_name": "Silver",
+                "institution": null
+            },
+            {
+                "given_name": "Koray",
+                "family_name": "Kavukcuoglu",
+                "institution": null
+            }
+        ]
+    },
+    {
+        "url": "https://openreview.net/pdf?id=Sy8gdB9xx",
+        "title": "Understanding deep learning requires rethinking generalization.",
+        "authors": [
+            {
+                "given_name": "Chiyuan",
+                "family_name": "Zhang",
+                "institution": null
+            },
+            {
+                "given_name": "Samy",
+                "family_name": "Bengio",
+                "institution": null
+            },
+            {
+                "given_name": "Moritz",
+                "family_name": "Hardt",
+                "institution": null
+            },
+            {
+                "given_name": "Benjamin",
+                "family_name": "Recht",
+                "institution": null
+            },
+            {
+                "given_name": "Oriol",
+                "family_name": "Vinyals",
+                "institution": null
+            }
+        ]
+    },
+    {
+        "url": "https://openreview.net/pdf?id=SJ3rcZcxl",
+        "title": "Q-Prop: Sample-Efficient Policy Gradient with An Off-Policy Critic.",
+        "authors": [
+            {
+                "given_name": "Shixiang",
+                "family_name": "Gu",
+                "institution": null
+            },
+            {
+                "given_name": "Timothy P.",
+                "family_name": "Lillicrap",
+                "institution": null
+            },
+            {
+                "given_name": "Zoubin",
+                "family_name": "Ghahramani",
+                "institution": null
+            },
+            {
+                "given_name": "Richard E.",
+                "family_name": "Turner",
+                "institution": null
+            },
+            {
+                "given_name": "Sergey",
+                "family_name": "Levine",
+                "institution": null
+            }
+        ]
+    },
+    {
+        "url": "https://openreview.net/pdf?id=H1oyRlYgg",
+        "title": "On Large-Batch Training for Deep Learning: Generalization Gap and Sharp Minima.",
+        "authors": [
+            {
+                "given_name": "Nitish Shirish",
+                "family_name": "Keskar",
+                "institution": null
+            },
+            {
+                "given_name": "Dheevatsa",
+                "family_name": "Mudigere",
+                "institution": null
+            },
+            {
+                "given_name": "Jorge",
+                "family_name": "Nocedal",
+                "institution": null
+            },
+            {
+                "given_name": "Mikhail",
+                "family_name": "Smelyanskiy",
+                "institution": null
+            },
+            {
+                "given_name": "Ping Tak Peter",
+                "family_name": "Tang",
+                "institution": null
+            }
+        ]
+    },
+    {
+        "url": "https://openreview.net/pdf?id=S1RP6GLle",
+        "title": "Amortised MAP Inference for Image Super-resolution.",
+        "authors": [
+            {
+                "given_name": "Casper Kaae",
+                "family_name": "Sønderby",
+                "institution": null
+            },
+            {
+                "given_name": "Jose",
+                "family_name": "Caballero",
+                "institution": null
+            },
+            {
+                "given_name": "Lucas",
+                "family_name": "Theis",
+                "institution": null
+            },
+            {
+                "given_name": "Wenzhe",
+                "family_name": "Shi",
+                "institution": null
+            },
+            {
+                "given_name": "Ferenc",
+                "family_name": "Huszár",
+                "institution": null
+            }
+        ]
+    },
+    {
+        "url": "https://openreview.net/pdf?id=H1acq85gx",
+        "title": "Maximum Entropy Flow Networks.",
+        "authors": [
+            {
+                "given_name": "Gabriel",
+                "family_name": "Loaiza-Ganem",
+                "institution": null
+            },
+            {
+                "given_name": "Yuanjun",
+                "family_name": "Gao",
+                "institution": null
+            },
+            {
+                "given_name": "John P.",
+                "family_name": "Cunningham",
+                "institution": null
+            }
+        ]
+    },
+    {
+        "url": "https://openreview.net/pdf?id=Sks9_ajex",
+        "title": "Paying More Attention to Attention: Improving the Performance of Convolutional Neural Networks via Attention Transfer.",
+        "authors": [
+            {
+                "given_name": "Sergey",
+                "family_name": "Zagoruyko",
+                "institution": null
+            },
+            {
+                "given_name": "Nikos",
+                "family_name": "Komodakis",
+                "institution": null
+            }
+        ]
+    },
+    {
+        "url": "https://openreview.net/pdf?id=B1oK8aoxe",
+        "title": "Stochastic Neural Networks for Hierarchical Reinforcement Learning.",
+        "authors": [
+            {
+                "given_name": "Carlos",
+                "family_name": "Florensa",
+                "institution": null
+            },
+            {
+                "given_name": "Yan",
+                "family_name": "Duan",
+                "institution": null
+            },
+            {
+                "given_name": "Pieter",
+                "family_name": "Abbeel",
+                "institution": null
+            }
+        ]
+    },
+    {
+        "url": "https://openreview.net/pdf?id=SkkTMpjex",
+        "title": "Distributed Second-Order Optimization using Kronecker-Factored Approximations.",
+        "authors": [
+            {
+                "given_name": "Jimmy",
+                "family_name": "Ba",
+                "institution": null
+            },
+            {
+                "given_name": "Roger B.",
+                "family_name": "Grosse",
+                "institution": null
+            },
+            {
+                "given_name": "James",
+                "family_name": "Martens",
+                "institution": null
+            }
+        ]
+    },
+    {
+        "url": "https://openreview.net/pdf?id=BJAFbaolg",
+        "title": "Learning to Generate Samples from Noise through Infusion Training.",
+        "authors": [
+            {
+                "given_name": "Florian",
+                "family_name": "Bordes",
+                "institution": null
+            },
+            {
+                "given_name": "Sina",
+                "family_name": "Honari",
+                "institution": null
+            },
+            {
+                "given_name": "Pascal",
+                "family_name": "Vincent",
+                "institution": null
+            }
+        ]
+    },
+    {
+        "url": "https://openreview.net/pdf?id=rk5upnsxe",
+        "title": "Normalizing the Normalizers: Comparing and Extending Network Normalization Schemes.",
+        "authors": [
+            {
+                "given_name": "Mengye",
+                "family_name": "Ren",
+                "institution": null
+            },
+            {
+                "given_name": "Renjie",
+                "family_name": "Liao",
+                "institution": null
+            },
+            {
+                "given_name": "Raquel",
+                "family_name": "Urtasun",
+                "institution": null
+            },
+            {
+                "given_name": "Fabian H.",
+                "family_name": "Sinz",
+                "institution": null
+            },
+            {
+                "given_name": "Richard S.",
+                "family_name": "Zemel",
+                "institution": null
+            }
+        ]
+    },
+    {
+        "url": "https://openreview.net/pdf?id=S1X7nhsxl",
+        "title": "Improving Generative Adversarial Networks with Denoising Feature Matching.",
+        "authors": [
+            {
+                "given_name": "David",
+                "family_name": "Warde-Farley",
+                "institution": null
+            },
+            {
+                "given_name": "Yoshua",
+                "family_name": "Bengio",
+                "institution": null
+            }
+        ]
+    },
+    {
+        "url": "https://openreview.net/pdf?id=Hyq4yhile",
+        "title": "Learning Invariant Feature Spaces to Transfer Skills with Reinforcement Learning.",
+        "authors": [
+            {
+                "given_name": "Abhishek",
+                "family_name": "Gupta",
+                "institution": null
+            },
+            {
+                "given_name": "Coline",
+                "family_name": "Devin",
+                "institution": null
+            },
+            {
+                "given_name": "Yuxuan",
+                "family_name": "Liu",
+                "institution": null
+            },
+            {
+                "given_name": "Pieter",
+                "family_name": "Abbeel",
+                "institution": null
+            },
+            {
+                "given_name": "Sergey",
+                "family_name": "Levine",
+                "institution": null
+            }
+        ]
+    },
+    {
+        "url": "https://openreview.net/pdf?id=BJhZeLsxx",
+        "title": "What does it take to generate natural textures?",
+        "authors": [
+            {
+                "given_name": "Ivan",
+                "family_name": "Ustyuzhaninov",
+                "institution": null
+            },
+            {
+                "given_name": "Wieland",
+                "family_name": "Brendel",
+                "institution": null
+            },
+            {
+                "given_name": "Leon A.",
+                "family_name": "Gatys",
+                "institution": null
+            },
+            {
+                "given_name": "Matthias",
+                "family_name": "Bethge",
+                "institution": null
+            }
+        ]
+    },
+    {
+        "url": "https://openreview.net/pdf?id=SkYbF1slg",
+        "title": "An Information-Theoretic Framework for Fast and Robust Unsupervised Learning via Neural Population Infomax.",
+        "authors": [
+            {
+                "given_name": "Wentao",
+                "family_name": "Huang",
+                "institution": null
+            },
+            {
+                "given_name": "Kechen",
+                "family_name": "Zhang",
+                "institution": null
+            }
+        ]
+    },
+    {
+        "url": "https://openreview.net/pdf?id=HJKkY35le",
+        "title": "Mode Regularized Generative Adversarial Networks.",
+        "authors": [
+            {
+                "given_name": "Tong",
+                "family_name": "Che",
+                "institution": null
+            },
+            {
+                "given_name": "Yanran",
+                "family_name": "Li",
+                "institution": null
+            },
+            {
+                "given_name": "Athul Paul",
+                "family_name": "Jacob",
+                "institution": null
+            },
+            {
+                "given_name": "Yoshua",
+                "family_name": "Bengio",
+                "institution": null
+            },
+            {
+                "given_name": "Wenjie",
+                "family_name": "Li",
+                "institution": null
+            }
+        ]
+    },
+    {
+        "url": "https://openreview.net/pdf?id=B184E5qee",
+        "title": "Improving Neural Language Models with a Continuous Cache.",
+        "authors": [
+            {
+                "given_name": "Edouard",
+                "family_name": "Grave",
+                "institution": null
+            },
+            {
+                "given_name": "Armand",
+                "family_name": "Joulin",
+                "institution": null
+            },
+            {
+                "given_name": "Nicolas",
+                "family_name": "Usunier",
+                "institution": null
+            }
+        ]
+    },
+    {
+        "url": "https://openreview.net/pdf?id=B16dGcqlx",
+        "title": "Third Person Imitation Learning.",
+        "authors": [
+            {
+                "given_name": "Bradly C.",
+                "family_name": "Stadie",
+                "institution": null
+            },
+            {
+                "given_name": "Pieter",
+                "family_name": "Abbeel",
+                "institution": null
+            },
+            {
+                "given_name": "Ilya",
+                "family_name": "Sutskever",
+                "institution": null
+            }
+        ]
+    },
+    {
+        "url": "https://openreview.net/pdf?id=ry_sjFqgx",
+        "title": "Program Synthesis for Character Level Language Modeling.",
+        "authors": [
+            {
+                "given_name": "Pavol",
+                "family_name": "Bielik",
+                "institution": null
+            },
+            {
+                "given_name": "Veselin",
+                "family_name": "Raychev",
+                "institution": null
+            },
+            {
+                "given_name": "Martin T.",
+                "family_name": "Vechev",
+                "institution": null
+            }
+        ]
+    },
+    {
+        "url": "https://openreview.net/pdf?id=HJGwcKclx",
+        "title": "Soft Weight-Sharing for Neural Network Compression.",
+        "authors": [
+            {
+                "given_name": "Karen",
+                "family_name": "Ullrich",
+                "institution": null
+            },
+            {
+                "given_name": "Edward",
+                "family_name": "Meeds",
+                "institution": null
+            },
+            {
+                "given_name": "Max",
+                "family_name": "Welling",
+                "institution": null
+            }
+        ]
+    },
+    {
+        "url": "https://openreview.net/pdf?id=rJTKKKqeg",
+        "title": "Tracking the World State with Recurrent Entity Networks.",
+        "authors": [
+            {
+                "given_name": "Mikael",
+                "family_name": "Henaff",
+                "institution": null
+            },
+            {
+                "given_name": "Jason",
+                "family_name": "Weston",
+                "institution": null
+            },
+            {
+                "given_name": "Arthur",
+                "family_name": "Szlam",
+                "institution": null
+            },
+            {
+                "given_name": "Antoine",
+                "family_name": "Bordes",
+                "institution": null
+            },
+            {
+                "given_name": "Yann",
+                "family_name": "Lecun",
+                "institution": null
+            }
+        ]
+    },
+    {
+        "url": "https://openreview.net/pdf?id=rJ0-tY5xe",
+        "title": "Learning to Query, Reason, and Answer Questions On Ambiguous Texts.",
+        "authors": [
+            {
+                "given_name": "Xiaoxiao",
+                "family_name": "Guo",
+                "institution": null
+            },
+            {
+                "given_name": "Tim",
+                "family_name": "Klinger",
+                "institution": null
+            },
+            {
+                "given_name": "Clemens",
+                "family_name": "Rosenbaum",
+                "institution": null
+            },
+            {
+                "given_name": "Joseph P.",
+                "family_name": "Bigus",
+                "institution": null
+            },
+            {
+                "given_name": "Murray",
+                "family_name": "Campbell",
+                "institution": null
+            },
+            {
+                "given_name": "Ban",
+                "family_name": "Kawas",
+                "institution": null
+            },
+            {
+                "given_name": "Kartik",
+                "family_name": "Talamadupula",
+                "institution": null
+            },
+            {
+                "given_name": "Gerry",
+                "family_name": "Tesauro",
+                "institution": null
+            },
+            {
+                "given_name": "Satinder",
+                "family_name": "Singh",
+                "institution": null
+            }
+        ]
+    },
+    {
+        "url": "https://openreview.net/pdf?id=Sk-oDY9ge",
+        "title": "Diet Networks: Thin Parameters for Fat Genomics.",
+        "authors": [
+            {
+                "given_name": "Adriana",
+                "family_name": "Romero",
+                "institution": null
+            },
+            {
+                "given_name": "Pierre Luc",
+                "family_name": "Carrier",
+                "institution": null
+            },
+            {
+                "given_name": "Akram",
+                "family_name": "Erraqabi",
+                "institution": null
+            },
+            {
+                "given_name": "Tristan",
+                "family_name": "Sylvain",
+                "institution": null
+            },
+            {
+                "given_name": "Alex",
+                "family_name": "Auvolat",
+                "institution": null
+            },
+            {
+                "given_name": "Etienne",
+                "family_name": "Dejoie",
+                "institution": null
+            },
+            {
+                "given_name": "Marc-André",
+                "family_name": "Legault",
+                "institution": null
+            },
+            {
+                "given_name": "Marie-Pierre",
+                "family_name": "Dubé",
+                "institution": null
+            },
+            {
+                "given_name": "Julie G.",
+                "family_name": "Hussin",
+                "institution": null
+            },
+            {
+                "given_name": "Yoshua",
+                "family_name": "Bengio",
+                "institution": null
+            }
+        ]
+    },
+    {
+        "url": "https://openreview.net/pdf?id=BJKYvt5lg",
+        "title": "PixelVAE: A Latent Variable Model for Natural Images.",
+        "authors": [
+            {
+                "given_name": "Ishaan",
+                "family_name": "Gulrajani",
+                "institution": null
+            },
+            {
+                "given_name": "Kundan",
+                "family_name": "Kumar",
+                "institution": null
+            },
+            {
+                "given_name": "Faruk",
+                "family_name": "Ahmed",
+                "institution": null
+            },
+            {
+                "given_name": "Adrien Ali",
+                "family_name": "Taïga",
+                "institution": null
+            },
+            {
+                "given_name": "Francesco",
+                "family_name": "Visin",
+                "institution": null
+            },
+            {
+                "given_name": "David",
+                "family_name": "Vázquez",
+                "institution": null
+            },
+            {
+                "given_name": "Aaron C.",
+                "family_name": "Courville",
+                "institution": null
+            }
+        ]
+    },
+    {
+        "url": "https://openreview.net/pdf?id=Hk3mPK5gg",
+        "title": "Training Agent for First-Person Shooter Game with Actor-Critic Curriculum Learning.",
+        "authors": [
+            {
+                "given_name": "Yuxin",
+                "family_name": "Wu",
+                "institution": null
+            },
+            {
+                "given_name": "Yuandong",
+                "family_name": "Tian",
+                "institution": null
+            }
+        ]
+    },
+    {
+        "url": "https://openreview.net/pdf?id=rkEFLFqee",
+        "title": "Decomposing Motion and Content for Natural Video Sequence Prediction.",
+        "authors": [
+            {
+                "given_name": "Ruben",
+                "family_name": "Villegas",
+                "institution": null
+            },
+            {
+                "given_name": "Jimei",
+                "family_name": "Yang",
+                "institution": null
+            },
+            {
+                "given_name": "Seunghoon",
+                "family_name": "Hong",
+                "institution": null
+            },
+            {
+                "given_name": "Xunyu",
+                "family_name": "Lin",
+                "institution": null
+            },
+            {
+                "given_name": "Honglak",
+                "family_name": "Lee",
+                "institution": null
+            }
+        ]
+    },
+    {
+        "url": "https://openreview.net/pdf?id=HJWHIKqgl",
+        "title": "Generative Models and Model Criticism via Optimized Maximum Mean Discrepancy.",
+        "authors": [
+            {
+                "given_name": "Danica J.",
+                "family_name": "Sutherland",
+                "institution": null
+            },
+            {
+                "given_name": "Hsiao-Yu",
+                "family_name": "Tung",
+                "institution": null
+            },
+            {
+                "given_name": "Heiko",
+                "family_name": "Strathmann",
+                "institution": null
+            },
+            {
+                "given_name": "Soumyajit",
+                "family_name": "De",
+                "institution": null
+            },
+            {
+                "given_name": "Aaditya",
+                "family_name": "Ramdas",
+                "institution": null
+            },
+            {
+                "given_name": "Alexander J.",
+                "family_name": "Smola",
+                "institution": null
+            },
+            {
+                "given_name": "Arthur",
+                "family_name": "Gretton",
+                "institution": null
+            }
+        ]
+    },
+    {
+        "url": "https://openreview.net/pdf?id=S11KBYclx",
+        "title": "Learning Curve Prediction with Bayesian Neural Networks.",
+        "authors": [
+            {
+                "given_name": "Aaron",
+                "family_name": "Klein",
+                "institution": null
+            },
+            {
+                "given_name": "Stefan",
+                "family_name": "Falkner",
+                "institution": null
+            },
+            {
+                "given_name": "Jost Tobias",
+                "family_name": "Springenberg",
+                "institution": null
+            },
+            {
+                "given_name": "Frank",
+                "family_name": "Hutter",
+                "institution": null
+            }
+        ]
+    },
+    {
+        "url": "https://openreview.net/pdf?id=HJTzHtqee",
+        "title": "A Compare-Aggregate Model for Matching Text Sequences.",
+        "authors": [
+            {
+                "given_name": "Shuohang",
+                "family_name": "Wang",
+                "institution": null
+            },
+            {
+                "given_name": "Jing",
+                "family_name": "Jiang",
+                "institution": null
+            }
+        ]
+    },
+    {
+        "url": "https://openreview.net/pdf?id=Hku9NK5lx",
+        "title": "Training Compressed Fully-Connected Networks with a Density-Diversity Penalty.",
+        "authors": [
+            {
+                "given_name": "Shengjie",
+                "family_name": "Wang",
+                "institution": null
+            },
+            {
+                "given_name": "Haoran",
+                "family_name": "Cai",
+                "institution": null
+            },
+            {
+                "given_name": "Jeff A.",
+                "family_name": "Bilmes",
+                "institution": null
+            },
+            {
+                "given_name": "William S.",
+                "family_name": "Noble",
+                "institution": null
+            }
+        ]
+    },
+    {
+        "url": "https://openreview.net/pdf?id=ryelgY5eg",
+        "title": "Optimal Binary Autoencoding with Pairwise Correlations.",
+        "authors": [
+            {
+                "given_name": "Akshay",
+                "family_name": "Balsubramani",
+                "institution": null
+            }
+        ]
+    },
+    {
+        "url": "https://openreview.net/pdf?id=S1_pAu9xl",
+        "title": "Trained Ternary Quantization.",
+        "authors": [
+            {
+                "given_name": "Chenzhuo",
+                "family_name": "Zhu",
+                "institution": null
+            },
+            {
+                "given_name": "Song",
+                "family_name": "Han",
+                "institution": null
+            },
+            {
+                "given_name": "Huizi",
+                "family_name": "Mao",
+                "institution": null
+            },
+            {
+                "given_name": "William J.",
+                "family_name": "Dally",
+                "institution": null
+            }
+        ]
+    },
+    {
+        "url": "https://openreview.net/pdf?id=Bkab5dqxe",
+        "title": "A Compositional Object-Based Approach to Learning Physical Dynamics.",
+        "authors": [
+            {
+                "given_name": "Michael",
+                "family_name": "Chang",
+                "institution": null
+            },
+            {
+                "given_name": "Tomer D.",
+                "family_name": "Ullman",
+                "institution": null
+            },
+            {
+                "given_name": "Antonio",
+                "family_name": "Torralba",
+                "institution": null
+            },
+            {
+                "given_name": "Joshua B.",
+                "family_name": "Tenenbaum",
+                "institution": null
+            }
+        ]
+    },
+    {
+        "url": "https://openreview.net/pdf?id=ByxpMd9lx",
+        "title": "Transfer Learning for Sequence Tagging with Hierarchical Recurrent Networks.",
+        "authors": [
+            {
+                "given_name": "Zhilin",
+                "family_name": "Yang",
+                "institution": null
+            },
+            {
+                "given_name": "Ruslan",
+                "family_name": "Salakhutdinov",
+                "institution": null
+            },
+            {
+                "given_name": "William W.",
+                "family_name": "Cohen",
+                "institution": null
+            }
+        ]
+    },
+    {
+        "url": "https://openreview.net/pdf?id=SyK00v5xx",
+        "title": "A Simple but Tough-to-Beat Baseline for Sentence Embeddings.",
+        "authors": [
+            {
+                "given_name": "Sanjeev",
+                "family_name": "Arora",
+                "institution": null
+            },
+            {
+                "given_name": "Yingyu",
+                "family_name": "Liang",
+                "institution": null
+            },
+            {
+                "given_name": "Tengyu",
+                "family_name": "Ma",
+                "institution": null
+            }
+        ]
+    },
+    {
+        "url": "https://openreview.net/pdf?id=r1nTpv9eg",
+        "title": "Learning to Perform Physics Experiments via Deep Reinforcement Learning.",
+        "authors": [
+            {
+                "given_name": "Misha",
+                "family_name": "Denil",
+                "institution": null
+            },
+            {
+                "given_name": "Pulkit",
+                "family_name": "Agrawal",
+                "institution": null
+            },
+            {
+                "given_name": "Tejas D.",
+                "family_name": "Kulkarni",
+                "institution": null
+            },
+            {
+                "given_name": "Tom",
+                "family_name": "Erez",
+                "institution": null
+            },
+            {
+                "given_name": "Peter W.",
+                "family_name": "Battaglia",
+                "institution": null
+            },
+            {
+                "given_name": "Nando De",
+                "family_name": "Freitas",
+                "institution": null
+            }
+        ]
+    },
+    {
+        "url": "https://openreview.net/pdf?id=ryrGawqex",
+        "title": "Deep Learning with Dynamic Computation Graphs.",
+        "authors": [
+            {
+                "given_name": "Moshe",
+                "family_name": "Looks",
+                "institution": null
+            },
+            {
+                "given_name": "Marcello",
+                "family_name": "Herreshoff",
+                "institution": null
+            },
+            {
+                "given_name": "Delesley",
+                "family_name": "Hutchins",
+                "institution": null
+            },
+            {
+                "given_name": "Peter",
+                "family_name": "Norvig",
+                "institution": null
+            }
+        ]
+    },
+    {
+        "url": "https://openreview.net/pdf?id=SJGCiw5gl",
+        "title": "Pruning Convolutional Neural Networks for Resource Efficient Inference.",
+        "authors": [
+            {
+                "given_name": "Pavlo",
+                "family_name": "Molchanov",
+                "institution": null
+            },
+            {
+                "given_name": "Stephen",
+                "family_name": "Tyree",
+                "institution": null
+            },
+            {
+                "given_name": "Tero",
+                "family_name": "Karras",
+                "institution": null
+            },
+            {
+                "given_name": "Timo",
+                "family_name": "Aila",
+                "institution": null
+            },
+            {
+                "given_name": "Jan",
+                "family_name": "Kautz",
+                "institution": null
+            }
+        ]
+    },
+    {
+        "url": "https://openreview.net/pdf?id=S1c2cvqee",
+        "title": "Designing Neural Network Architectures using Reinforcement Learning.",
+        "authors": [
+            {
+                "given_name": "Bowen",
+                "family_name": "Baker",
+                "institution": null
+            },
+            {
+                "given_name": "Otkrist",
+                "family_name": "Gupta",
+                "institution": null
+            },
+            {
+                "given_name": "Nikhil",
+                "family_name": "Naik",
+                "institution": null
+            },
+            {
+                "given_name": "Ramesh",
+                "family_name": "Raskar",
+                "institution": null
+            }
+        ]
+    },
+    {
+        "url": "https://openreview.net/pdf?id=Bks8cPcxe",
+        "title": "DeepDSL: A Compilation-based Domain-Specific Language for Deep Learning.",
+        "authors": [
+            {
+                "given_name": "Tian",
+                "family_name": "Zhao",
+                "institution": null
+            },
+            {
+                "given_name": "Xiaobing",
+                "family_name": "Huang",
+                "institution": null
+            },
+            {
+                "given_name": "Yu",
+                "family_name": "Cao",
+                "institution": null
+            }
+        ]
+    },
+    {
+        "url": "https://openreview.net/pdf?id=HyGTuv9eg",
+        "title": "Incorporating long-range consistency in CNN-based texture generation.",
+        "authors": [
+            {
+                "given_name": "Guillaume",
+                "family_name": "Berger",
+                "institution": null
+            },
+            {
+                "given_name": "Roland",
+                "family_name": "Memisevic",
+                "institution": null
+            }
+        ]
+    },
+    {
+        "url": "https://openreview.net/pdf?id=SkxKPDv5xl",
+        "title": "SampleRNN: An Unconditional End-to-End Neural Audio Generation Model.",
+        "authors": [
+            {
+                "given_name": "Soroush",
+                "family_name": "Mehri",
+                "institution": null
+            },
+            {
+                "given_name": "Kundan",
+                "family_name": "Kumar",
+                "institution": null
+            },
+            {
+                "given_name": "Ishaan",
+                "family_name": "Gulrajani",
+                "institution": null
+            },
+            {
+                "given_name": "Rithesh",
+                "family_name": "Kumar",
+                "institution": null
+            },
+            {
+                "given_name": "Shubham",
+                "family_name": "Jain",
+                "institution": null
+            },
+            {
+                "given_name": "Jose",
+                "family_name": "Sotelo",
+                "institution": null
+            },
+            {
+                "given_name": "Aaron C.",
+                "family_name": "Courville",
+                "institution": null
+            },
+            {
+                "given_name": "Yoshua",
+                "family_name": "Bengio",
+                "institution": null
+            }
+        ]
+    },
+    {
+        "url": "https://openreview.net/pdf?id=BylSPv9gx",
+        "title": "Exploring Sparsity in Recurrent Neural Networks.",
+        "authors": [
+            {
+                "given_name": "Sharan",
+                "family_name": "Narang",
+                "institution": null
+            },
+            {
+                "given_name": "Greg",
+                "family_name": "Diamos",
+                "institution": null
+            },
+            {
+                "given_name": "Shubho",
+                "family_name": "Sengupta",
+                "institution": null
+            },
+            {
+                "given_name": "Erich",
+                "family_name": "Elsen",
+                "institution": null
+            }
+        ]
+    },
+    {
+        "url": "https://openreview.net/pdf?id=HkE0Nvqlg",
+        "title": "Structured Attention Networks.",
+        "authors": [
+            {
+                "given_name": "Yoon",
+                "family_name": "Kim",
+                "institution": null
+            },
+            {
+                "given_name": "Carl",
+                "family_name": "Denton",
+                "institution": null
+            },
+            {
+                "given_name": "Luong",
+                "family_name": "Hoang",
+                "institution": null
+            },
+            {
+                "given_name": "Alexander M.",
+                "family_name": "Rush",
+                "institution": null
+            }
+        ]
+    },
+    {
+        "url": "https://openreview.net/pdf?id=Hy6b4Pqee",
+        "title": "Deep Probabilistic Programming.",
+        "authors": [
+            {
+                "given_name": "Dustin",
+                "family_name": "Tran",
+                "institution": null
+            },
+            {
+                "given_name": "Matthew D.",
+                "family_name": "Hoffman",
+                "institution": null
+            },
+            {
+                "given_name": "Rif A.",
+                "family_name": "Saurous",
+                "institution": null
+            },
+            {
+                "given_name": "Eugene",
+                "family_name": "Brevdo",
+                "institution": null
+            },
+            {
+                "given_name": "Kevin",
+                "family_name": "Murphy",
+                "institution": null
+            },
+            {
+                "given_name": "David M.",
+                "family_name": "Blei",
+                "institution": null
+            }
+        ]
+    },
+    {
+        "url": "https://openreview.net/pdf?id=BysvGP5ee",
+        "title": "Variational Lossy Autoencoder.",
+        "authors": [
+            {
+                "given_name": "Xi",
+                "family_name": "Chen",
+                "institution": null
+            },
+            {
+                "given_name": "Diederik P.",
+                "family_name": "Kingma",
+                "institution": null
+            },
+            {
+                "given_name": "Tim",
+                "family_name": "Salimans",
+                "institution": null
+            },
+            {
+                "given_name": "Yan",
+                "family_name": "Duan",
+                "institution": null
+            },
+            {
+                "given_name": "Prafulla",
+                "family_name": "Dhariwal",
+                "institution": null
+            },
+            {
+                "given_name": "John",
+                "family_name": "Schulman",
+                "institution": null
+            },
+            {
+                "given_name": "Ilya",
+                "family_name": "Sutskever",
+                "institution": null
+            },
+            {
+                "given_name": "Pieter",
+                "family_name": "Abbeel",
+                "institution": null
+            }
+        ]
+    },
+    {
+        "url": "https://openreview.net/pdf?id=B1ckMDqlg",
+        "title": "Outrageously Large Neural Networks: The Sparsely-Gated Mixture-of-Experts Layer.",
+        "authors": [
+            {
+                "given_name": "Noam",
+                "family_name": "Shazeer",
+                "institution": null
+            },
+            {
+                "given_name": "Azalia",
+                "family_name": "Mirhoseini",
+                "institution": null
+            },
+            {
+                "given_name": "Krzysztof",
+                "family_name": "Maziarz",
+                "institution": null
+            },
+            {
+                "given_name": "Andy",
+                "family_name": "Davis",
+                "institution": null
+            },
+            {
+                "given_name": "Quoc V.",
+                "family_name": "Le",
+                "institution": null
+            },
+            {
+                "given_name": "Geoffrey E.",
+                "family_name": "Hinton",
+                "institution": null
+            },
+            {
+                "given_name": "Jeff",
+                "family_name": "Dean",
+                "institution": null
+            }
+        ]
+    },
+    {
+        "url": "https://openreview.net/pdf?id=Hkg8bDqee",
+        "title": "Introspection: Accelerating Neural Network Training By Learning Weight Evolution.",
+        "authors": [
+            {
+                "given_name": "Abhishek",
+                "family_name": "Sinha",
+                "institution": null
+            },
+            {
+                "given_name": "Aahitagni",
+                "family_name": "Mukherjee",
+                "institution": null
+            },
+            {
+                "given_name": "Mausoom",
+                "family_name": "Sarkar",
+                "institution": null
+            },
+            {
+                "given_name": "Balaji",
+                "family_name": "Krishnamurthy",
+                "institution": null
+            }
+        ]
+    },
+    {
+        "url": "https://openreview.net/pdf?id=Byiy-Pqlx",
+        "title": "Lie-Access Neural Turing Machines.",
+        "authors": [
+            {
+                "given_name": "Greg",
+                "family_name": "Yang",
+                "institution": null
+            },
+            {
+                "given_name": "Alexander M.",
+                "family_name": "Rush",
+                "institution": null
+            }
+        ]
+    },
+    {
+        "url": "https://openreview.net/pdf?id=B1s6xvqlx",
+        "title": "Recurrent Environment Simulators.",
+        "authors": [
+            {
+                "given_name": "Silvia",
+                "family_name": "Chiappa",
+                "institution": null
+            },
+            {
+                "given_name": "Sébastien",
+                "family_name": "Racanière",
+                "institution": null
+            },
+            {
+                "given_name": "Daan",
+                "family_name": "Wierstra",
+                "institution": null
+            },
+            {
+                "given_name": "Shakir",
+                "family_name": "Mohamed",
+                "institution": null
+            }
+        ]
+    },
+    {
+        "url": "https://openreview.net/pdf?id=Sy6iJDqlx",
+        "title": "Attend, Adapt and Transfer: Attentive Deep Architecture for Adaptive Transfer from multiple sources in the same domain.",
+        "authors": [
+            {
+                "given_name": "Janarthanan",
+                "family_name": "Rajendran",
+                "institution": null
+            },
+            {
+                "given_name": "Aravind S.",
+                "family_name": "Lakshminarayanan",
+                "institution": null
+            },
+            {
+                "given_name": "Mitesh M.",
+                "family_name": "Khapra",
+                "institution": null
+            },
+            {
+                "given_name": "P.",
+                "family_name": "Prasanna",
+                "institution": null
+            },
+            {
+                "given_name": "Balaraman",
+                "family_name": "Ravindran",
+                "institution": null
+            }
+        ]
+    },
+    {
+        "url": "https://openreview.net/pdf?id=rkFBJv9gg",
+        "title": "Learning Features of Music From Scratch.",
+        "authors": [
+            {
+                "given_name": "John",
+                "family_name": "Thickstun",
+                "institution": null
+            },
+            {
+                "given_name": "Zaïd",
+                "family_name": "Harchaoui",
+                "institution": null
+            },
+            {
+                "given_name": "Sham M.",
+                "family_name": "Kakade",
+                "institution": null
+            }
+        ]
+    },
+    {
+        "url": "https://openreview.net/pdf?id=r1rz6U5lg",
+        "title": "Learning to superoptimize programs.",
+        "authors": [
+            {
+                "given_name": "Rudy",
+                "family_name": "Bunel",
+                "institution": null
+            },
+            {
+                "given_name": "Alban",
+                "family_name": "Desmaison",
+                "institution": null
+            },
+            {
+                "given_name": "M. Pawan",
+                "family_name": "Kumar",
+                "institution": null
+            },
+            {
+                "given_name": "Philip H. S.",
+                "family_name": "Torr",
+                "institution": null
+            },
+            {
+                "given_name": "Pushmeet",
+                "family_name": "Kohli",
+                "institution": null
+            }
+        ]
+    },
+    {
+        "url": "https://openreview.net/pdf?id=HkNRsU5ge",
+        "title": "Sigma Delta Quantized Networks.",
+        "authors": [
+            {
+                "given_name": "Peter",
+                "family_name": "O'Connor",
+                "institution": null
+            },
+            {
+                "given_name": "Max",
+                "family_name": "Welling",
+                "institution": null
+            }
+        ]
+    },
+    {
+        "url": "https://openreview.net/pdf?id=ByOvsIqeg",
+        "title": "Regularizing CNNs with Locally Constrained Decorrelations.",
+        "authors": [
+            {
+                "given_name": "Pau",
+                "family_name": "Rodríguez",
+                "institution": null
+            },
+            {
+                "given_name": "Jordi",
+                "family_name": "Gonzàlez",
+                "institution": null
+            },
+            {
+                "given_name": "Guillem",
+                "family_name": "Cucurull",
+                "institution": null
+            },
+            {
+                "given_name": "Josep M.",
+                "family_name": "Gonfaus",
+                "institution": null
+            },
+            {
+                "given_name": "F. Xavier",
+                "family_name": "Roca",
+                "institution": null
+            }
+        ]
+    },
+    {
+        "url": "https://openreview.net/pdf?id=BydrOIcle",
+        "title": "Unrolled Generative Adversarial Networks.",
+        "authors": [
+            {
+                "given_name": "Luke",
+                "family_name": "Metz",
+                "institution": null
+            },
+            {
+                "given_name": "Ben",
+                "family_name": "Poole",
+                "institution": null
+            },
+            {
+                "given_name": "David",
+                "family_name": "Pfau",
+                "institution": null
+            },
+            {
+                "given_name": "Jascha",
+                "family_name": "Sohl-Dickstein",
+                "institution": null
+            }
+        ]
+    },
+    {
+        "url": "https://openreview.net/pdf?id=ByIAPUcee",
+        "title": "Frustratingly Short Attention Spans in Neural Language Modeling.",
+        "authors": [
+            {
+                "given_name": "Michal",
+                "family_name": "Daniluk",
+                "institution": null
+            },
+            {
+                "given_name": "Tim",
+                "family_name": "Rocktäschel",
+                "institution": null
+            },
+            {
+                "given_name": "Johannes",
+                "family_name": "Welbl",
+                "institution": null
+            },
+            {
+                "given_name": "Sebastian",
+                "family_name": "Riedel",
+                "institution": null
+            }
+        ]
+    },
+    {
+        "url": "https://openreview.net/pdf?id=HyTqHL5xg",
+        "title": "Deep Variational Bayes Filters: Unsupervised Learning of State Space Models from Raw Data.",
+        "authors": [
+            {
+                "given_name": "Maximilian",
+                "family_name": "Karl",
+                "institution": null
+            },
+            {
+                "given_name": "Maximilian",
+                "family_name": "Soelch",
+                "institution": null
+            },
+            {
+                "given_name": "Justin",
+                "family_name": "Bayer",
+                "institution": null
+            },
+            {
+                "given_name": "Patrick Van Der",
+                "family_name": "Smagt",
+                "institution": null
+            }
+        ]
+    },
+    {
+        "url": "https://openreview.net/pdf?id=r1G4z8cge",
+        "title": "Mollifying Networks.",
+        "authors": [
+            {
+                "given_name": "Çaglar",
+                "family_name": "Gülçehre",
+                "institution": null
+            },
+            {
+                "given_name": "Marcin",
+                "family_name": "Moczulski",
+                "institution": null
+            },
+            {
+                "given_name": "Francesco",
+                "family_name": "Visin",
+                "institution": null
+            },
+            {
+                "given_name": "Yoshua",
+                "family_name": "Bengio",
+                "institution": null
+            }
+        ]
+    },
+    {
+        "url": "https://openreview.net/pdf?id=r1Aab85gg",
+        "title": "Offline bilingual word vectors, orthogonal transformations and the inverted softmax.",
+        "authors": [
+            {
+                "given_name": "Samuel L.",
+                "family_name": "Smith",
+                "institution": null
+            },
+            {
+                "given_name": "David H. P.",
+                "family_name": "Turban",
+                "institution": null
+            },
+            {
+                "given_name": "Steven",
+                "family_name": "Hamblin",
+                "institution": null
+            },
+            {
+                "given_name": "Nils Y.",
+                "family_name": "Hammerla",
+                "institution": null
+            }
+        ]
+    },
+    {
+        "url": "https://openreview.net/pdf?id=rkE3y85ee",
+        "title": "Categorical Reparameterization with Gumbel-Softmax.",
+        "authors": [
+            {
+                "given_name": "Eric",
+                "family_name": "Jang",
+                "institution": null
+            },
+            {
+                "given_name": "Shixiang",
+                "family_name": "Gu",
+                "institution": null
+            },
+            {
+                "given_name": "Ben",
+                "family_name": "Poole",
+                "institution": null
+            }
+        ]
+    },
+    {
+        "url": "https://openreview.net/pdf?id=SyQq185lg",
+        "title": "Latent Sequence Decompositions.",
+        "authors": [
+            {
+                "given_name": "William",
+                "family_name": "Chan",
+                "institution": null
+            },
+            {
+                "given_name": "Yu",
+                "family_name": "Zhang",
+                "institution": null
+            },
+            {
+                "given_name": "Quoc V.",
+                "family_name": "Le",
+                "institution": null
+            },
+            {
+                "given_name": "Navdeep",
+                "family_name": "Jaitly",
+                "institution": null
+            }
+        ]
+    },
+    {
+        "url": "https://openreview.net/pdf?id=B1kJ6H9ex",
+        "title": "Combining policy gradient and Q-learning.",
+        "authors": [
+            {
+                "given_name": "Brendan",
+                "family_name": "O'Donoghue",
+                "institution": null
+            },
+            {
+                "given_name": "Rémi",
+                "family_name": "Munos",
+                "institution": null
+            },
+            {
+                "given_name": "Koray",
+                "family_name": "Kavukcuoglu",
+                "institution": null
+            },
+            {
+                "given_name": "Volodymyr",
+                "family_name": "Mnih",
+                "institution": null
+            }
+        ]
+    },
+    {
+        "url": "https://openreview.net/pdf?id=r1VdcHcxx",
+        "title": "Recurrent Batch Normalization.",
+        "authors": [
+            {
+                "given_name": "Tim",
+                "family_name": "Cooijmans",
+                "institution": null
+            },
+            {
+                "given_name": "Nicolas",
+                "family_name": "Ballas",
+                "institution": null
+            },
+            {
+                "given_name": "César",
+                "family_name": "Laurent",
+                "institution": null
+            },
+            {
+                "given_name": "Çaglar",
+                "family_name": "Gülçehre",
+                "institution": null
+            },
+            {
+                "given_name": "Aaron C.",
+                "family_name": "Courville",
+                "institution": null
+            }
+        ]
+    },
+    {
+        "url": "https://openreview.net/pdf?id=ry2YOrcge",
+        "title": "Learning a Natural Language Interface with Neural Programmer.",
+        "authors": [
+            {
+                "given_name": "Arvind",
+                "family_name": "Neelakantan",
+                "institution": null
+            },
+            {
+                "given_name": "Quoc V.",
+                "family_name": "Le",
+                "institution": null
+            },
+            {
+                "given_name": "Martín",
+                "family_name": "Abadi",
+                "institution": null
+            },
+            {
+                "given_name": "Andrew",
+                "family_name": "Mccallum",
+                "institution": null
+            },
+            {
+                "given_name": "Dario",
+                "family_name": "Amodei",
+                "institution": null
+            }
+        ]
+    },
+    {
+        "url": "https://openreview.net/pdf?id=SJMGPrcle",
+        "title": "Learning to Navigate in Complex Environments.",
+        "authors": [
+            {
+                "given_name": "Piotr",
+                "family_name": "Mirowski",
+                "institution": null
+            },
+            {
+                "given_name": "Razvan",
+                "family_name": "Pascanu",
+                "institution": null
+            },
+            {
+                "given_name": "Fabio",
+                "family_name": "Viola",
+                "institution": null
+            },
+            {
+                "given_name": "Hubert",
+                "family_name": "Soyer",
+                "institution": null
+            },
+            {
+                "given_name": "Andy",
+                "family_name": "Ballard",
+                "institution": null
+            },
+            {
+                "given_name": "Andrea",
+                "family_name": "Banino",
+                "institution": null
+            },
+            {
+                "given_name": "Misha",
+                "family_name": "Denil",
+                "institution": null
+            },
+            {
+                "given_name": "Ross",
+                "family_name": "Goroshin",
+                "institution": null
+            },
+            {
+                "given_name": "Laurent",
+                "family_name": "Sifre",
+                "institution": null
+            },
+            {
+                "given_name": "Koray",
+                "family_name": "Kavukcuoglu",
+                "institution": null
+            },
+            {
+                "given_name": "Dharshan",
+                "family_name": "Kumaran",
+                "institution": null
+            },
+            {
+                "given_name": "Raia",
+                "family_name": "Hadsell",
+                "institution": null
+            }
+        ]
+    },
+    {
+        "url": "https://openreview.net/pdf?id=H1fl8S9ee",
+        "title": "Learning and Policy Search in Stochastic Dynamical Systems with Bayesian Neural Networks.",
+        "authors": [
+            {
+                "given_name": "Stefan",
+                "family_name": "Depeweg",
+                "institution": null
+            },
+            {
+                "given_name": "José Miguel",
+                "family_name": "Hernández-Lobato",
+                "institution": null
+            },
+            {
+                "given_name": "Finale",
+                "family_name": "Doshi-Velez",
+                "institution": null
+            },
+            {
+                "given_name": "Steffen",
+                "family_name": "Udluft",
+                "institution": null
+            }
+        ]
+    },
+    {
+        "url": "https://openreview.net/pdf?id=HyxQzBceg",
+        "title": "Deep Variational Information Bottleneck.",
+        "authors": [
+            {
+                "given_name": "Alexander A.",
+                "family_name": "Alemi",
+                "institution": null
+            },
+            {
+                "given_name": "Ian",
+                "family_name": "Fischer",
+                "institution": null
+            },
+            {
+                "given_name": "Joshua V.",
+                "family_name": "Dillon",
+                "institution": null
+            },
+            {
+                "given_name": "Kevin",
+                "family_name": "Murphy",
+                "institution": null
+            }
+        ]
+    },
+    {
+        "url": "https://openreview.net/pdf?id=SJvYgH9xe",
+        "title": "Automatic Rule Extraction from Long Short Term Memory Networks.",
+        "authors": [
+            {
+                "given_name": "W. James",
+                "family_name": "Murdoch",
+                "institution": null
+            },
+            {
+                "given_name": "Arthur",
+                "family_name": "Szlam",
+                "institution": null
+            }
+        ]
+    },
+    {
+        "url": "https://openreview.net/pdf?id=B1ElR4cgg",
+        "title": "Adversarially Learned Inference.",
+        "authors": [
+            {
+                "given_name": "Vincent",
+                "family_name": "Dumoulin",
+                "institution": null
+            },
+            {
+                "given_name": "Ishmael",
+                "family_name": "Belghazi",
+                "institution": null
+            },
+            {
+                "given_name": "Ben",
+                "family_name": "Poole",
+                "institution": null
+            },
+            {
+                "given_name": "Alex",
+                "family_name": "Lamb",
+                "institution": null
+            },
+            {
+                "given_name": "Martín",
+                "family_name": "Arjovsky",
+                "institution": null
+            },
+            {
+                "given_name": "Olivier",
+                "family_name": "Mastropietro",
+                "institution": null
+            },
+            {
+                "given_name": "Aaron C.",
+                "family_name": "Courville",
+                "institution": null
+            }
+        ]
+    },
+    {
+        "url": "https://openreview.net/pdf?id=H1W1UN9gg",
+        "title": "Deep Information Propagation.",
+        "authors": [
+            {
+                "given_name": "Samuel S.",
+                "family_name": "Schoenholz",
+                "institution": null
+            },
+            {
+                "given_name": "Justin",
+                "family_name": "Gilmer",
+                "institution": null
+            },
+            {
+                "given_name": "Surya",
+                "family_name": "Ganguli",
+                "institution": null
+            },
+            {
+                "given_name": "Jascha",
+                "family_name": "Sohl-Dickstein",
+                "institution": null
+            }
+        ]
+    },
+    {
+        "url": "https://openreview.net/pdf?id=SJkXfE5xx",
+        "title": "Revisiting Classifier Two-Sample Tests.",
+        "authors": [
+            {
+                "given_name": "David",
+                "family_name": "Lopez-Paz",
+                "institution": null
+            },
+            {
+                "given_name": "Maxime",
+                "family_name": "Oquab",
+                "institution": null
+            }
+        ]
+    },
+    {
+        "url": "https://openreview.net/pdf?id=S1oWlN9ll",
+        "title": "Loss-aware Binarization of Deep Networks.",
+        "authors": [
+            {
+                "given_name": "Lu",
+                "family_name": "Hou",
+                "institution": null
+            },
+            {
+                "given_name": "Quanming",
+                "family_name": "Yao",
+                "institution": null
+            },
+            {
+                "given_name": "James T.",
+                "family_name": "Kwok",
+                "institution": null
+            }
+        ]
+    },
+    {
+        "url": "https://openreview.net/pdf?id=ryh9pmcee",
+        "title": "Energy-based Generative Adversarial Networks.",
+        "authors": [
+            {
+                "given_name": "Junbo Jake",
+                "family_name": "Zhao",
+                "institution": null
+            },
+            {
+                "given_name": "Michaël",
+                "family_name": "Mathieu",
+                "institution": null
+            },
+            {
+                "given_name": "Yann",
+                "family_name": "Lecun",
+                "institution": null
+            }
+        ]
+    },
+    {
+        "url": "https://openreview.net/pdf?id=HyQJ-mclg",
+        "title": "Incremental Network Quantization: Towards Lossless CNNs with Low-precision Weights.",
+        "authors": [
+            {
+                "given_name": "Aojun",
+                "family_name": "Zhou",
+                "institution": null
+            },
+            {
+                "given_name": "Anbang",
+                "family_name": "Yao",
+                "institution": null
+            },
+            {
+                "given_name": "Yiwen",
+                "family_name": "Guo",
+                "institution": null
+            },
+            {
+                "given_name": "Lin",
+                "family_name": "Xu",
+                "institution": null
+            },
+            {
+                "given_name": "Yurong",
+                "family_name": "Chen",
+                "institution": null
+            }
+        ]
+    },
+    {
+        "url": "https://openreview.net/pdf?id=SkhU2fcll",
+        "title": "Deep Multi-task Representation Learning: A Tensor Factorisation Approach.",
+        "authors": [
+            {
+                "given_name": "Yongxin",
+                "family_name": "Yang",
+                "institution": null
+            },
+            {
+                "given_name": "Timothy M.",
+                "family_name": "Hospedales",
+                "institution": null
+            }
+        ]
+    },
+    {
+        "url": "https://openreview.net/pdf?id=BJ6oOfqge",
+        "title": "Temporal Ensembling for Semi-Supervised Learning.",
+        "authors": [
+            {
+                "given_name": "Samuli",
+                "family_name": "Laine",
+                "institution": null
+            },
+            {
+                "given_name": "Timo",
+                "family_name": "Aila",
+                "institution": null
+            }
+        ]
+    },
+    {
+        "url": "https://openreview.net/pdf?id=H12GRgcxg",
+        "title": "Training deep neural-networks using a noise adaptation layer.",
+        "authors": [
+            {
+                "given_name": "Jacob",
+                "family_name": "Goldberger",
+                "institution": null
+            },
+            {
+                "given_name": "Ehud",
+                "family_name": "Ben-Reuven",
+                "institution": null
+            }
+        ]
+    },
+    {
+        "url": "https://openreview.net/pdf?id=Sys6GJqxl",
+        "title": "Delving into Transferable Adversarial Examples and Black-box Attacks.",
+        "authors": [
+            {
+                "given_name": "Yanpei",
+                "family_name": "Liu",
+                "institution": null
+            },
+            {
+                "given_name": "Xinyun",
+                "family_name": "Chen",
+                "institution": null
+            },
+            {
+                "given_name": "Chang",
+                "family_name": "Liu",
+                "institution": null
+            },
+            {
+                "given_name": "Dawn",
+                "family_name": "Song",
+                "institution": null
+            }
+        ]
+    },
+    {
+        "url": "https://openreview.net/pdf?id=BJtNZAFgg",
+        "title": "Adversarial Feature Learning.",
+        "authors": [
+            {
+                "given_name": "Jeff",
+                "family_name": "Donahue",
+                "institution": null
+            },
+            {
+                "given_name": "Philipp",
+                "family_name": "Krähenbühl",
+                "institution": null
+            },
+            {
+                "given_name": "Trevor",
+                "family_name": "Darrell",
+                "institution": null
+            }
+        ]
+    },
+    {
+        "url": "https://openreview.net/pdf?id=rJPcZ3txx",
+        "title": "Faster CNNs with Direct Sparse Convolutions and Guided Pruning.",
+        "authors": [
+            {
+                "given_name": "Jongsoo",
+                "family_name": "Park",
+                "institution": null
+            },
+            {
+                "given_name": "Sheng R.",
+                "family_name": "Li",
+                "institution": null
+            },
+            {
+                "given_name": "Wei",
+                "family_name": "Wen",
+                "institution": null
+            },
+            {
+                "given_name": "Ping Tak Peter",
+                "family_name": "Tang",
+                "institution": null
+            },
+            {
+                "given_name": "Hai",
+                "family_name": "Li",
+                "institution": null
+            },
+            {
+                "given_name": "Yiran",
+                "family_name": "Chen",
+                "institution": null
+            },
+            {
+                "given_name": "Pradeep",
+                "family_name": "Dubey",
+                "institution": null
+            }
+        ]
+    },
+    {
+        "url": "https://openreview.net/pdf?id=rJfMusFll",
+        "title": "Batch Policy Gradient Methods for Improving Neural Conversation Models.",
+        "authors": [
+            {
+                "given_name": "Kirthevasan",
+                "family_name": "Kandasamy",
+                "institution": null
+            },
+            {
+                "given_name": "Yoram",
+                "family_name": "Bachrach",
+                "institution": null
+            },
+            {
+                "given_name": "Ryota",
+                "family_name": "Tomioka",
+                "institution": null
+            },
+            {
+                "given_name": "Daniel",
+                "family_name": "Tarlow",
+                "institution": null
+            },
+            {
+                "given_name": "David",
+                "family_name": "Carter",
+                "institution": null
+            }
+        ]
+    },
+    {
+        "url": "https://openreview.net/pdf?id=r1aPbsFle",
+        "title": "Tying Word Vectors and Word Classifiers: A Loss Framework for Language Modeling.",
+        "authors": [
+            {
+                "given_name": "Hakan",
+                "family_name": "Inan",
+                "institution": null
+            },
+            {
+                "given_name": "Khashayar",
+                "family_name": "Khosravi",
+                "institution": null
+            },
+            {
+                "given_name": "Richard",
+                "family_name": "Socher",
+                "institution": null
+            }
+        ]
+    },
+    {
+        "url": "https://openreview.net/pdf?id=ryMxXPFex",
+        "title": "Discrete Variational Autoencoders.",
+        "authors": [
+            {
+                "given_name": "Jason Tyler",
+                "family_name": "Rolfe",
+                "institution": null
+            }
+        ]
+    },
+    {
+        "url": "https://openreview.net/pdf?id=HJpfMIFll",
+        "title": "Geometry of Polysemy.",
+        "authors": [
+            {
+                "given_name": "Jiaqi",
+                "family_name": "Mu",
+                "institution": null
+            },
+            {
+                "given_name": "Suma",
+                "family_name": "Bhat",
+                "institution": null
+            },
+            {
+                "given_name": "Pramod",
+                "family_name": "Viswanath",
+                "institution": null
+            }
+        ]
+    },
+    {
+        "url": "https://openreview.net/pdf?id=Hk8TGSKlg",
+        "title": "Reasoning with Memory Augmented Neural Networks for Language Comprehension.",
+        "authors": [
+            {
+                "given_name": "Tsendsuren",
+                "family_name": "Munkhdalai",
+                "institution": null
+            },
+            {
+                "given_name": "Hong",
+                "family_name": "Yu",
+                "institution": null
+            }
+        ]
+    },
+    {
+        "url": "https://openreview.net/pdf?id=BJm4T4Kgx",
+        "title": "Adversarial Machine Learning at Scale.",
+        "authors": [
+            {
+                "given_name": "Alexey",
+                "family_name": "Kurakin",
+                "institution": null
+            },
+            {
+                "given_name": "Ian J.",
+                "family_name": "Goodfellow",
+                "institution": null
+            },
+            {
+                "given_name": "Samy",
+                "family_name": "Bengio",
+                "institution": null
+            }
+        ]
+    },
+    {
+        "url": "https://openreview.net/pdf?id=SJRpRfKxx",
+        "title": "Recurrent Mixture Density Network for Spatiotemporal Visual Attention.",
+        "authors": [
+            {
+                "given_name": "Loris",
+                "family_name": "Bazzani",
+                "institution": null
+            },
+            {
+                "given_name": "Hugo",
+                "family_name": "Larochelle",
+                "institution": null
+            },
+            {
+                "given_name": "Lorenzo",
+                "family_name": "Torresani",
+                "institution": null
+            }
+        ]
+    },
+    {
+        "url": "https://openreview.net/pdf?id=BJ3filKll",
+        "title": "Efficient Representation of Low-Dimensional Manifolds using Deep Networks.",
+        "authors": [
+            {
+                "given_name": "Ronen",
+                "family_name": "Basri",
+                "institution": null
+            },
+            {
+                "given_name": "David W.",
+                "family_name": "Jacobs",
+                "institution": null
+            }
+        ]
+    },
+    {
+        "url": "https://openreview.net/pdf?id=r1fYuytex",
+        "title": "Sparsely-Connected Neural Networks: Towards Efficient VLSI Implementation of Deep Neural Networks.",
+        "authors": [
+            {
+                "given_name": "Arash",
+                "family_name": "Ardakani",
+                "institution": null
+            },
+            {
+                "given_name": "Carlo",
+                "family_name": "Condo",
+                "institution": null
+            },
+            {
+                "given_name": "Warren J.",
+                "family_name": "Gross",
+                "institution": null
+            }
+        ]
+    },
+    {
+        "url": "https://openreview.net/pdf?id=BJh6Ztuxl",
+        "title": "Fine-grained Analysis of Sentence Embeddings Using Auxiliary Prediction Tasks.",
+        "authors": [
+            {
+                "given_name": "Yossi",
+                "family_name": "Adi",
+                "institution": null
+            },
+            {
+                "given_name": "Einat",
+                "family_name": "Kermany",
+                "institution": null
+            },
+            {
+                "given_name": "Yonatan",
+                "family_name": "Belinkov",
+                "institution": null
+            },
+            {
+                "given_name": "Ofer",
+                "family_name": "Lavi",
+                "institution": null
+            },
+            {
+                "given_name": "Yoav",
+                "family_name": "Goldberg",
+                "institution": null
+            }
+        ]
+    },
+    {
+        "url": "https://openreview.net/pdf?id=SJDaqqveg",
+        "title": "An Actor-Critic Algorithm for Sequence Prediction.",
+        "authors": [
+            {
+                "given_name": "Dzmitry",
+                "family_name": "Bahdanau",
+                "institution": null
+            },
+            {
+                "given_name": "Philemon",
+                "family_name": "Brakel",
+                "institution": null
+            },
+            {
+                "given_name": "Kelvin",
+                "family_name": "Xu",
+                "institution": null
+            },
+            {
+                "given_name": "Anirudh",
+                "family_name": "Goyal",
+                "institution": null
+            },
+            {
+                "given_name": "Ryan",
+                "family_name": "Lowe",
+                "institution": null
+            },
+            {
+                "given_name": "Joelle",
+                "family_name": "Pineau",
+                "institution": null
+            },
+            {
+                "given_name": "Aaron C.",
+                "family_name": "Courville",
+                "institution": null
+            },
+            {
+                "given_name": "Yoshua",
+                "family_name": "Bengio",
+                "institution": null
+            }
+        ]
+    },
+    {
+        "url": "https://openreview.net/pdf?id=HyAbMKwxe",
+        "title": "Tighter bounds lead to improved classifiers.",
+        "authors": [
+            {
+                "given_name": "Nicolas Le",
+                "family_name": "Roux",
+                "institution": null
+            }
+        ]
+    },
+    {
+        "url": "https://openreview.net/pdf?id=SkpSlKIel",
+        "title": "Why Deep Neural Networks for Function Approximation?",
+        "authors": [
+            {
+                "given_name": "Shiyu",
+                "family_name": "Liang",
+                "institution": null
+            },
+            {
+                "given_name": "R.",
+                "family_name": "Srikant",
+                "institution": null
+            }
+        ]
+    },
+    {
+        "url": "https://openreview.net/pdf?id=HkNKFiGex",
+        "title": "Neural Photo Editing with Introspective Adversarial Networks.",
+        "authors": [
+            {
+                "given_name": "Andrew",
+                "family_name": "Brock",
+                "institution": null
+            },
+            {
+                "given_name": "Theodore",
+                "family_name": "Lim",
+                "institution": null
+            },
+            {
+                "given_name": "James M.",
+                "family_name": "Ritchie",
+                "institution": null
+            },
+            {
+                "given_name": "Nick",
+                "family_name": "Weston",
+                "institution": null
+            }
+        ]
+    },
+    {
+        "url": "https://openreview.net/pdf?id=rkpACe1lx",
+        "title": "HyperNetworks.",
+        "authors": [
+            {
+                "given_name": "David",
+                "family_name": "Ha",
+                "institution": null
+            },
+            {
+                "given_name": "Andrew M.",
+                "family_name": "Dai",
+                "institution": null
+            },
+            {
+                "given_name": "Quoc V.",
+                "family_name": "Le",
+                "institution": null
+            }
+        ]
+    },
+    {
+        "url": "https://openreview.net/pdf?id=r1rhWnZkg",
+        "title": "Hadamard Product for Low-rank Bilinear Pooling.",
+        "authors": [
+            {
+                "given_name": "Jin-Hwa",
+                "family_name": "Kim",
+                "institution": null
+            },
+            {
+                "given_name": "Kyoung Woon",
+                "family_name": "On",
+                "institution": null
+            },
+            {
+                "given_name": "Woosang",
+                "family_name": "Lim",
+                "institution": null
+            },
+            {
+                "given_name": "Jeonghee",
+                "family_name": "Kim",
+                "institution": null
+            },
+            {
+                "given_name": "Jung-Woo",
+                "family_name": "Ha",
+                "institution": null
+            },
+            {
+                "given_name": "Byoung-Tak",
+                "family_name": "Zhang",
+                "institution": null
+            }
+        ]
+    },
+    {
+        "url": "https://openreview.net/pdf?id=rJoZ1i3_l",
+        "title": "Semi-supervised deep learning by metric embedding.",
+        "authors": [
+            {
+                "given_name": "Elad",
+                "family_name": "Hoffer",
+                "institution": null
+            },
+            {
+                "given_name": "Nir",
+                "family_name": "Ailon",
+                "institution": null
+            }
+        ]
+    },
+    {
+        "url": "https://openreview.net/pdf?id=SJAM_pVte",
+        "title": "Programming With a Differentiable Forth Interpreter.",
+        "authors": [
+            {
+                "given_name": "Matko",
+                "family_name": "Bosnjak",
+                "institution": null
+            },
+            {
+                "given_name": "Tim",
+                "family_name": "Rocktäschel",
+                "institution": null
+            },
+            {
+                "given_name": "Jason",
+                "family_name": "Naradowsky",
+                "institution": null
+            },
+            {
+                "given_name": "Sebastian",
+                "family_name": "Riedel",
+                "institution": null
+            }
+        ]
+    },
+    {
+        "url": "https://openreview.net/pdf?id=Sk7c3yVYg",
+        "title": "Towards an automatic Turing test: Learning to evaluate dialogue responses.",
+        "authors": [
+            {
+                "given_name": "Ryan",
+                "family_name": "Lowe",
+                "institution": null
+            },
+            {
+                "given_name": "Michael",
+                "family_name": "Noseworthy",
+                "institution": null
+            },
+            {
+                "given_name": "Iulian Vlad",
+                "family_name": "Serban",
+                "institution": null
+            },
+            {
+                "given_name": "Nicolas",
+                "family_name": "Angelard-Gontier",
+                "institution": null
+            },
+            {
+                "given_name": "Yoshua",
+                "family_name": "Bengio",
+                "institution": null
+            },
+            {
+                "given_name": "Joelle",
+                "family_name": "Pineau",
+                "institution": null
+            }
+        ]
+    },
+    {
+        "url": "https://openreview.net/pdf?id=S1hsDCNFx",
+        "title": "Short and Deep: Sketching and Neural Networks.",
+        "authors": [
+            {
+                "given_name": "Amit",
+                "family_name": "Daniely",
+                "institution": null
+            },
+            {
+                "given_name": "Nevena",
+                "family_name": "Lazic",
+                "institution": null
+            },
+            {
+                "given_name": "Yoram",
+                "family_name": "Singer",
+                "institution": null
+            },
+            {
+                "given_name": "Kunal",
+                "family_name": "Talwar",
+                "institution": null
+            }
+        ]
+    },
+    {
+        "url": "https://openreview.net/pdf?id=Byf3mmNFl",
+        "title": "Unsupervised Perceptual Rewards for Imitation Learning.",
+        "authors": [
+            {
+                "given_name": "Pierre",
+                "family_name": "Sermanet",
+                "institution": null
+            },
+            {
+                "given_name": "Kelvin",
+                "family_name": "Xu",
+                "institution": null
+            },
+            {
+                "given_name": "Sergey",
+                "family_name": "Levine",
+                "institution": null
+            }
+        ]
+    },
+    {
+        "url": "https://openreview.net/pdf?id=Byp_ccVte",
+        "title": "Neural Functional Programming.",
+        "authors": [
+            {
+                "given_name": "John K.",
+                "family_name": "Feser",
+                "institution": null
+            },
+            {
+                "given_name": "Marc",
+                "family_name": "Brockschmidt",
+                "institution": null
+            },
+            {
+                "given_name": "Alexander L.",
+                "family_name": "Gaunt",
+                "institution": null
+            },
+            {
+                "given_name": "Daniel",
+                "family_name": "Tarlow",
+                "institution": null
+            }
+        ]
+    },
+    {
+        "url": "https://openreview.net/pdf?id=ByUg_SNte",
+        "title": "On Robust Concepts and Small Neural Nets.",
+        "authors": [
+            {
+                "given_name": "Amit",
+                "family_name": "Deshpande",
+                "institution": null
+            },
+            {
+                "given_name": "Sushrut",
+                "family_name": "Karmalkar",
+                "institution": null
+            }
+        ]
+    },
+    {
+        "url": "https://openreview.net/pdf?id=ryeF7mVFl",
+        "title": "Bit-Pragmatic Deep Neural Network Computing.",
+        "authors": [
+            {
+                "given_name": "Jorge",
+                "family_name": "Albericio",
+                "institution": null
+            },
+            {
+                "given_name": "Patrick",
+                "family_name": "Judd",
+                "institution": null
+            },
+            {
+                "given_name": "Alberto",
+                "family_name": "Delmas",
+                "institution": null
+            },
+            {
+                "given_name": "Sayeh",
+                "family_name": "Sharify",
+                "institution": null
+            },
+            {
+                "given_name": "Andreas",
+                "family_name": "Moshovos",
+                "institution": null
+            }
+        ]
+    },
+    {
+        "url": "https://openreview.net/pdf?id=Bkj2v6XYl",
+        "title": "Deep Learning with Sets and Point Clouds.",
+        "authors": [
+            {
+                "given_name": "Siamak",
+                "family_name": "Ravanbakhsh",
+                "institution": null
+            },
+            {
+                "given_name": "Jeff G.",
+                "family_name": "Schneider",
+                "institution": null
+            },
+            {
+                "given_name": "Barnabás",
+                "family_name": "Póczos",
+                "institution": null
+            }
+        ]
+    },
+    {
+        "url": "https://openreview.net/pdf?id=SJCS5rXFl",
+        "title": "Multiplicative LSTM for sequence modelling.",
+        "authors": [
+            {
+                "given_name": "Ben",
+                "family_name": "Krause",
+                "institution": null
+            },
+            {
+                "given_name": "Iain",
+                "family_name": "Murray",
+                "institution": null
+            },
+            {
+                "given_name": "Steve",
+                "family_name": "Renals",
+                "institution": null
+            },
+            {
+                "given_name": "Liang",
+                "family_name": "Lu",
+                "institution": null
+            }
+        ]
+    },
+    {
+        "url": "https://openreview.net/pdf?id=HkrB8XXte",
+        "title": "A Differentiable Physics Engine for Deep Learning in Robotics.",
+        "authors": [
+            {
+                "given_name": "Jonas",
+                "family_name": "Degrave",
+                "institution": null
+            },
+            {
+                "given_name": "Michiel",
+                "family_name": "Hermans",
+                "institution": null
+            },
+            {
+                "given_name": "Joni",
+                "family_name": "Dambre",
+                "institution": null
+            },
+            {
+                "given_name": "Francis",
+                "family_name": "Wyffels",
+                "institution": null
+            }
+        ]
+    },
+    {
+        "url": "https://openreview.net/pdf?id=r1hNW-MYg",
+        "title": "Recurrent Normalization Propagation.",
+        "authors": [
+            {
+                "given_name": "César",
+                "family_name": "Laurent",
+                "institution": null
+            },
+            {
+                "given_name": "Nicolas",
+                "family_name": "Ballas",
+                "institution": null
+            },
+            {
+                "given_name": "Pascal",
+                "family_name": "Vincent",
+                "institution": null
+            }
+        ]
+    },
+    {
+        "url": "https://openreview.net/pdf?id=Syyv2e-Kx",
+        "title": "Tuning Recurrent Neural Networks with Reinforcement Learning.",
+        "authors": [
+            {
+                "given_name": "Natasha",
+                "family_name": "Jaques",
+                "institution": null
+            },
+            {
+                "given_name": "Shixiang",
+                "family_name": "Gu",
+                "institution": null
+            },
+            {
+                "given_name": "Richard E.",
+                "family_name": "Turner",
+                "institution": null
+            },
+            {
+                "given_name": "Douglas",
+                "family_name": "Eck",
+                "institution": null
+            }
+        ]
+    },
+    {
+        "url": "https://openreview.net/pdf?id=H1JBMVpdx",
+        "title": "Perception Updating Networks: On architectural constraints for interpretable video generative models.",
+        "authors": [
+            {
+                "given_name": "Eder",
+                "family_name": "Santana",
+                "institution": null
+            },
+            {
+                "given_name": "José C.",
+                "family_name": "Príncipe",
+                "institution": null
+            }
+        ]
+    },
+    {
+        "url": "https://openreview.net/pdf?id=HyFq3EF_e",
+        "title": "Development of JavaScript-based deep learning platform and application to distributed training.",
+        "authors": [
+            {
+                "given_name": "Masatoshi",
+                "family_name": "Hidaka",
+                "institution": null
+            },
+            {
+                "given_name": "Ken",
+                "family_name": "Miura",
+                "institution": null
+            },
+            {
+                "given_name": "Tatsuya",
+                "family_name": "Harada",
+                "institution": null
+            }
+        ]
+    },
+    {
+        "url": "https://openreview.net/pdf?id=S12_nquOe",
+        "title": "Gated Multimodal Units for Information Fusion.",
+        "authors": [
+            {
+                "given_name": "John Edison Arevalo",
+                "family_name": "Ovalle",
+                "institution": null
+            },
+            {
+                "given_name": "Thamar",
+                "family_name": "Solorio",
+                "institution": null
+            },
+            {
+                "given_name": "Manuel",
+                "family_name": "Montes-Y-Gómez",
+                "institution": null
+            },
+            {
+                "given_name": "Fabio A.",
+                "family_name": "González",
+                "institution": null
+            }
+        ]
+    },
+    {
+        "url": "https://openreview.net/pdf?id=rk34W-DOl",
+        "title": "Compositional Kernel Machines.",
+        "authors": [
+            {
+                "given_name": "Robert",
+                "family_name": "Gens",
+                "institution": null
+            },
+            {
+                "given_name": "Pedro M.",
+                "family_name": "Domingos",
+                "institution": null
+            }
+        ]
+    },
+    {
+        "url": "https://openreview.net/pdf?id=SkCmfeSFg",
+        "title": "Forced to Learn: Discovering Disentangled Representations Without Exhaustive Labels.",
+        "authors": [
+            {
+                "given_name": "Alexey",
+                "family_name": "Romanov",
+                "institution": null
+            },
+            {
+                "given_name": "Anna",
+                "family_name": "Rumshisky",
+                "institution": null
+            }
+        ]
+    },
+    {
+        "url": "https://openreview.net/pdf?id=rJzabxSFg",
+        "title": "Intelligent synapses for multi-task and transfer learning.",
+        "authors": [
+            {
+                "given_name": "Ben",
+                "family_name": "Poole",
+                "institution": null
+            },
+            {
+                "given_name": "Friedemann",
+                "family_name": "Zenke",
+                "institution": null
+            },
+            {
+                "given_name": "Surya",
+                "family_name": "Ganguli",
+                "institution": null
+            }
+        ]
+    },
+    {
+        "url": "https://openreview.net/pdf?id=Syw2ZgrFx",
+        "title": "Reinterpreting Importance-Weighted Autoencoders.",
+        "authors": [
+            {
+                "given_name": "Chris",
+                "family_name": "Cremer",
+                "institution": null
+            },
+            {
+                "given_name": "Quaid",
+                "family_name": "Morris",
+                "institution": null
+            },
+            {
+                "given_name": "David",
+                "family_name": "Duvenaud",
+                "institution": null
+            }
+        ]
+    },
+    {
+        "url": "https://openreview.net/pdf?id=B1lpelBYl",
+        "title": "Accelerating SGD for Distributed Deep-Learning Using an Approximted Hessian Matrix.",
+        "authors": [
+            {
+                "given_name": "Sébastien M. R.",
+                "family_name": "Arnold",
+                "institution": null
+            },
+            {
+                "given_name": "Chunming",
+                "family_name": "Wang",
+                "institution": null
+            }
+        ]
+    },
+    {
+        "url": "https://openreview.net/pdf?id=S1cYxlSFx",
+        "title": "Robustness to Adversarial Examples through an Ensemble of Specialists.",
+        "authors": [
+            {
+                "given_name": "Mahdieh",
+                "family_name": "Abbasi",
+                "institution": null
+            },
+            {
+                "given_name": "Christian",
+                "family_name": "Gagné",
+                "institution": null
+            }
+        ]
+    },
+    {
+        "url": "https://openreview.net/pdf?id=BJMO1grtl",
+        "title": "Neural Expectation Maximization.",
+        "authors": [
+            {
+                "given_name": "Klaus",
+                "family_name": "Greff",
+                "institution": null
+            },
+            {
+                "given_name": "Sjoerd Van",
+                "family_name": "Steenkiste",
+                "institution": null
+            },
+            {
+                "given_name": "Jürgen",
+                "family_name": "Schmidhuber",
+                "institution": null
+            }
+        ]
+    },
+    {
+        "url": "https://openreview.net/pdf?id=ryvlRyBKl",
+        "title": "Adversarial Attacks on Neural Network Policies.",
+        "authors": [
+            {
+                "given_name": "Sandy H.",
+                "family_name": "Huang",
+                "institution": null
+            },
+            {
+                "given_name": "Nicolas",
+                "family_name": "Papernot",
+                "institution": null
+            },
+            {
+                "given_name": "Ian J.",
+                "family_name": "Goodfellow",
+                "institution": null
+            },
+            {
+                "given_name": "Yan",
+                "family_name": "Duan",
+                "institution": null
+            },
+            {
+                "given_name": "Pieter",
+                "family_name": "Abbeel",
+                "institution": null
+            }
+        ]
+    },
+    {
+        "url": "https://openreview.net/pdf?id=ry8u21rtl",
+        "title": "Mean teachers are better role models: Weight-averaged consistency targets improve semi-supervised deep learning results.",
+        "authors": [
+            {
+                "given_name": "Antti",
+                "family_name": "Tarvainen",
+                "institution": null
+            },
+            {
+                "given_name": "Harri",
+                "family_name": "Valpola",
+                "institution": null
+            }
+        ]
+    },
+    {
+        "url": "https://openreview.net/pdf?id=BkyScySKl",
+        "title": "Joint Embeddings of Scene Graphs and Images.",
+        "authors": [
+            {
+                "given_name": "Eugene",
+                "family_name": "Belilovsky",
+                "institution": null
+            },
+            {
+                "given_name": "Matthew B.",
+                "family_name": "Blaschko",
+                "institution": null
+            },
+            {
+                "given_name": "Jamie Ryan",
+                "family_name": "Kiros",
+                "institution": null
+            },
+            {
+                "given_name": "Raquel",
+                "family_name": "Urtasun",
+                "institution": null
+            },
+            {
+                "given_name": "Richard S.",
+                "family_name": "Zemel",
+                "institution": null
+            }
+        ]
+    },
+    {
+        "url": "https://openreview.net/pdf?id=Bkv9FyHYx",
+        "title": "Joint Training of Ratings and Reviews with Recurrent Recommender Networks.",
+        "authors": [
+            {
+                "given_name": "Chao-Yuan",
+                "family_name": "Wu",
+                "institution": null
+            },
+            {
+                "given_name": "Amr",
+                "family_name": "Ahmed",
+                "institution": null
+            },
+            {
+                "given_name": "Alex",
+                "family_name": "Beutel",
+                "institution": null
+            },
+            {
+                "given_name": "Alexander J.",
+                "family_name": "Smola",
+                "institution": null
+            }
+        ]
+    },
+    {
+        "url": "https://openreview.net/pdf?id=B1naD1rFx",
+        "title": "Natural Language Generation in Dialogue using Lexicalized and Delexicalized Data.",
+        "authors": [
+            {
+                "given_name": "Shikhar",
+                "family_name": "Sharma",
+                "institution": null
+            },
+            {
+                "given_name": "Jing",
+                "family_name": "He",
+                "institution": null
+            },
+            {
+                "given_name": "Kaheer",
+                "family_name": "Suleman",
+                "institution": null
+            },
+            {
+                "given_name": "Hannes",
+                "family_name": "Schulz",
+                "institution": null
+            },
+            {
+                "given_name": "Philip",
+                "family_name": "Bachman",
+                "institution": null
+            }
+        ]
+    },
+    {
+        "url": "https://openreview.net/pdf?id=SkkC41HYl",
+        "title": "De novo drug design with deep generative models : an empirical study.",
+        "authors": [
+            {
+                "given_name": "Mehdi",
+                "family_name": "Cherti",
+                "institution": null
+            },
+            {
+                "given_name": "Balázs",
+                "family_name": "Kégl",
+                "institution": null
+            },
+            {
+                "given_name": "Akin",
+                "family_name": "Kazakçi",
+                "institution": null
+            }
+        ]
+    },
+    {
+        "url": "https://openreview.net/pdf?id=ryh9ZySFg",
+        "title": "Memory Matching Networks for Genomic Sequence Classification.",
+        "authors": [
+            {
+                "given_name": "Jack",
+                "family_name": "Lanchantin",
+                "institution": null
+            },
+            {
+                "given_name": "Ritambhara",
+                "family_name": "Singh",
+                "institution": null
+            },
+            {
+                "given_name": "Yanjun",
+                "family_name": "Qi",
+                "institution": null
+            }
+        ]
+    },
+    {
+        "url": "https://openreview.net/pdf?id=B1Vjl1Stl",
+        "title": "Adversarial Discriminative Domain Adaptation (workshop extended abstract).",
+        "authors": [
+            {
+                "given_name": "Eric",
+                "family_name": "Tzeng",
+                "institution": null
+            },
+            {
+                "given_name": "Judy",
+                "family_name": "Hoffman",
+                "institution": null
+            },
+            {
+                "given_name": "Kate",
+                "family_name": "Saenko",
+                "institution": null
+            },
+            {
+                "given_name": "Trevor",
+                "family_name": "Darrell",
+                "institution": null
+            }
+        ]
+    },
+    {
+        "url": "https://openreview.net/pdf?id=r1rqJyHKg",
+        "title": "Efficient Sparse-Winograd Convolutional Neural Networks.",
+        "authors": [
+            {
+                "given_name": "Xingyu",
+                "family_name": "Liu",
+                "institution": null
+            },
+            {
+                "given_name": "Song",
+                "family_name": "Han",
+                "institution": null
+            },
+            {
+                "given_name": "Huizi",
+                "family_name": "Mao",
+                "institution": null
+            },
+            {
+                "given_name": "William J.",
+                "family_name": "Dally",
+                "institution": null
+            }
+        ]
+    },
+    {
+        "url": "https://openreview.net/pdf?id=rJNa3C4Yg",
+        "title": "Performance guarantees for transferring representations.",
+        "authors": [
+            {
+                "given_name": "Daniel",
+                "family_name": "Mcnamara",
+                "institution": null
+            },
+            {
+                "given_name": "Maria-Florina",
+                "family_name": "Balcan",
+                "institution": null
+            }
+        ]
+    },
+    {
+        "url": "https://openreview.net/pdf?id=HJ4-rAVtl",
+        "title": "Understanding intermediate layers using linear classifier probes.",
+        "authors": [
+            {
+                "given_name": "Guillaume",
+                "family_name": "Alain",
+                "institution": null
+            },
+            {
+                "given_name": "Yoshua",
+                "family_name": "Bengio",
+                "institution": null
+            }
+        ]
+    },
+    {
+        "url": "https://openreview.net/pdf?id=HkXKUTVFl",
+        "title": "Explaining the Learning Dynamics of Direct Feedback Alignment.",
+        "authors": [
+            {
+                "given_name": "Justin",
+                "family_name": "Gilmer",
+                "institution": null
+            },
+            {
+                "given_name": "Colin",
+                "family_name": "Raffel",
+                "institution": null
+            },
+            {
+                "given_name": "Samuel S.",
+                "family_name": "Schoenholz",
+                "institution": null
+            },
+            {
+                "given_name": "Maithra",
+                "family_name": "Raghu",
+                "institution": null
+            },
+            {
+                "given_name": "Jascha",
+                "family_name": "Sohl-Dickstein",
+                "institution": null
+            }
+        ]
+    },
+    {
+        "url": "https://openreview.net/pdf?id=Bkiqt3Ntg",
+        "title": "Deep Kernel Machines via the Kernel Reparametrization Trick.",
+        "authors": [
+            {
+                "given_name": "Jovana",
+                "family_name": "Mitrovic",
+                "institution": null
+            },
+            {
+                "given_name": "Dino",
+                "family_name": "Sejdinovic",
+                "institution": null
+            },
+            {
+                "given_name": "Yee Whye",
+                "family_name": "Teh",
+                "institution": null
+            }
+        ]
+    },
+    {
+        "url": "https://openreview.net/pdf?id=Sk1OOnNFx",
+        "title": "Restricted Boltzmann Machines provide an accurate metric for retinal responses to visual stimuli.",
+        "authors": [
+            {
+                "given_name": "Christophe",
+                "family_name": "Gardella",
+                "institution": null
+            },
+            {
+                "given_name": "Olivier",
+                "family_name": "Marre",
+                "institution": null
+            },
+            {
+                "given_name": "Thierry",
+                "family_name": "Mora",
+                "institution": null
+            }
+        ]
+    },
+    {
+        "url": "https://openreview.net/pdf?id=rJV7l2VFg",
+        "title": "Playing SNES in the Retro Learning Environment.",
+        "authors": [
+            {
+                "given_name": "Nadav",
+                "family_name": "Bhonker",
+                "institution": null
+            },
+            {
+                "given_name": "Shai",
+                "family_name": "Rozenberg",
+                "institution": null
+            },
+            {
+                "given_name": "Itay",
+                "family_name": "Hubara",
+                "institution": null
+            }
+        ]
+    },
+    {
+        "url": "https://openreview.net/pdf?id=rJeYrsEYg",
+        "title": "Unsupervised Feature Learning for Audio Analysis.",
+        "authors": [
+            {
+                "given_name": "Matthias",
+                "family_name": "Meyer",
+                "institution": null
+            },
+            {
+                "given_name": "Jan",
+                "family_name": "Beutel",
+                "institution": null
+            },
+            {
+                "given_name": "Lothar",
+                "family_name": "Thiele",
+                "institution": null
+            }
+        ]
+    },
+    {
+        "url": "https://openreview.net/pdf?id=Hy-po5NFx",
+        "title": "Efficient variational Bayesian neural network ensembles for outlier detection.",
+        "authors": [
+            {
+                "given_name": "Nick",
+                "family_name": "Pawlowski",
+                "institution": null
+            },
+            {
+                "given_name": "Miguel",
+                "family_name": "Jaques",
+                "institution": null
+            },
+            {
+                "given_name": "Ben",
+                "family_name": "Glocker",
+                "institution": null
+            }
+        ]
+    },
+    {
+        "url": "https://openreview.net/pdf?id=S1nFVFNYx",
+        "title": "A Smooth Optimisation Perspective on Training Feedforward Neural Networks.",
+        "authors": [
+            {
+                "given_name": "Hao",
+                "family_name": "Shen",
+                "institution": null
+            }
+        ]
+    },
+    {
+        "url": "https://openreview.net/pdf?id=rk7YG_4Yg",
+        "title": "The Preimage of Rectifier Network Activities.",
+        "authors": [
+            {
+                "given_name": "Stefan",
+                "family_name": "Carlsson",
+                "institution": null
+            },
+            {
+                "given_name": "Hossein",
+                "family_name": "Azizpour",
+                "institution": null
+            },
+            {
+                "given_name": "Ali Sharif",
+                "family_name": "Razavian",
+                "institution": null
+            },
+            {
+                "given_name": "Josephine",
+                "family_name": "Sullivan",
+                "institution": null
+            },
+            {
+                "given_name": "Kevin",
+                "family_name": "Smith",
+                "institution": null
+            }
+        ]
+    },
+    {
+        "url": "https://openreview.net/pdf?id=BJiMcB4Kl",
+        "title": "Training Triplet Networks with GAN.",
+        "authors": [
+            {
+                "given_name": "Maciej",
+                "family_name": "Zieba",
+                "institution": null
+            },
+            {
+                "given_name": "Lei",
+                "family_name": "Wang",
+                "institution": null
+            }
+        ]
+    },
+    {
+        "url": "https://openreview.net/pdf?id=HyzsgBEtg",
+        "title": "Dance Dance Convolution.",
+        "authors": [
+            {
+                "given_name": "Chris",
+                "family_name": "Donahue",
+                "institution": null
+            },
+            {
+                "given_name": "Zachary C.",
+                "family_name": "Lipton",
+                "institution": null
+            },
+            {
+                "given_name": "Julian J.",
+                "family_name": "Mcauley",
+                "institution": null
+            }
+        ]
+    },
+    {
+        "url": "https://openreview.net/pdf?id=H1XLbXEtg",
+        "title": "Online Multi-Task Learning Using Active Sampling.",
+        "authors": [
+            {
+                "given_name": "Sahil",
+                "family_name": "Sharma",
+                "institution": null
+            },
+            {
+                "given_name": "Balaraman",
+                "family_name": "Ravindran",
+                "institution": null
+            }
+        ]
+    },
+    {
+        "url": "https://openreview.net/pdf?id=rkdF0ZNKl",
+        "title": "Fast Generation for Convolutional Autoregressive Models.",
+        "authors": [
+            {
+                "given_name": "Prajit",
+                "family_name": "Ramachandran",
+                "institution": null
+            },
+            {
+                "given_name": "Tom Le",
+                "family_name": "Paine",
+                "institution": null
+            },
+            {
+                "given_name": "Pooya",
+                "family_name": "Khorrami",
+                "institution": null
+            },
+            {
+                "given_name": "Mohammad",
+                "family_name": "Babaeizadeh",
+                "institution": null
+            },
+            {
+                "given_name": "Shiyu",
+                "family_name": "Chang",
+                "institution": null
+            },
+            {
+                "given_name": "Yang",
+                "family_name": "Zhang",
+                "institution": null
+            },
+            {
+                "given_name": "Mark A.",
+                "family_name": "Hasegawa-Johnson",
+                "institution": null
+            },
+            {
+                "given_name": "Roy H.",
+                "family_name": "Campbell",
+                "institution": null
+            },
+            {
+                "given_name": "Thomas S.",
+                "family_name": "Huang",
+                "institution": null
+            }
+        ]
+    },
+    {
+        "url": "https://openreview.net/pdf?id=HkO-PCmYl",
+        "title": "Shake-Shake regularization of 3-branch residual networks.",
+        "authors": [
+            {
+                "given_name": "Xavier",
+                "family_name": "Gastaldi",
+                "institution": null
+            }
+        ]
+    },
+    {
+        "url": "https://openreview.net/pdf?id=S1dJ1smFg",
+        "title": "Neurogenesis-Inspired Dictionary Learning: Online Model Adaption in a Changing World.",
+        "authors": [
+            {
+                "given_name": "Sahil",
+                "family_name": "Garg",
+                "institution": null
+            },
+            {
+                "given_name": "Irina",
+                "family_name": "Rish",
+                "institution": null
+            },
+            {
+                "given_name": "Guillermo A.",
+                "family_name": "Cecchi",
+                "institution": null
+            },
+            {
+                "given_name": "Aurélie C.",
+                "family_name": "Lozano",
+                "institution": null
+            }
+        ]
+    },
+    {
+        "url": "https://openreview.net/pdf?id=SkvQFOmtg",
+        "title": "The High-Dimensional Geometry of Binary Neural Networks.",
+        "authors": [
+            {
+                "given_name": "Alexander G.",
+                "family_name": "Anderson",
+                "institution": null
+            },
+            {
+                "given_name": "Cory P.",
+                "family_name": "Berg",
+                "institution": null
+            }
+        ]
+    },
+    {
+        "url": "https://openreview.net/pdf?id=Hkx-gCfYl",
+        "title": "Coupling Distributed and Symbolic Execution for Natural Language Queries.",
+        "authors": [
+            {
+                "given_name": "Lili",
+                "family_name": "Mou",
+                "institution": null
+            },
+            {
+                "given_name": "Zhengdong",
+                "family_name": "Lu",
+                "institution": null
+            },
+            {
+                "given_name": "Hang",
+                "family_name": "Li",
+                "institution": null
+            },
+            {
+                "given_name": "Zhi",
+                "family_name": "Jin",
+                "institution": null
+            }
+        ]
+    },
+    {
+        "url": "https://openreview.net/pdf?id=HyhbYrGYe",
+        "title": "Regularizing Neural Networks by Penalizing Confident Output Distributions.",
+        "authors": [
+            {
+                "given_name": "Gabriel",
+                "family_name": "Pereyra",
+                "institution": null
+            },
+            {
+                "given_name": "George",
+                "family_name": "Tucker",
+                "institution": null
+            },
+            {
+                "given_name": "Jan",
+                "family_name": "Chorowski",
+                "institution": null
+            },
+            {
+                "given_name": "Lukasz",
+                "family_name": "Kaiser",
+                "institution": null
+            },
+            {
+                "given_name": "Geoffrey E.",
+                "family_name": "Hinton",
+                "institution": null
+            }
+        ]
+    },
+    {
+        "url": "https://openreview.net/pdf?id=B1fUVMzKg",
+        "title": "Arbitrary Style Transfer in Real-time with Adaptive Instance Normalization.",
+        "authors": [
+            {
+                "given_name": "Xun",
+                "family_name": "Huang",
+                "institution": null
+            },
+            {
+                "given_name": "Serge J.",
+                "family_name": "Belongie",
+                "institution": null
+            }
+        ]
+    },
+    {
+        "url": "https://openreview.net/pdf?id=rySCp-1Yg",
+        "title": "Compact Embedding of Binary-coded Inputs and Outputs using Bloom Filters.",
+        "authors": [
+            {
+                "given_name": "Joan",
+                "family_name": "Serrà",
+                "institution": null
+            },
+            {
+                "given_name": "Alexandros",
+                "family_name": "Karatzoglou",
+                "institution": null
+            }
+        ]
+    },
+    {
+        "url": "https://openreview.net/pdf?id=rJnjwsYde",
+        "title": "Variational Reference Priors.",
+        "authors": [
+            {
+                "given_name": "Eric T.",
+                "family_name": "Nalisnick",
+                "institution": null
+            },
+            {
+                "given_name": "Padhraic",
+                "family_name": "Smyth",
+                "institution": null
+            }
+        ]
+    },
+    {
+        "url": "https://openreview.net/pdf?id=SJ5JPtg_x",
+        "title": "Towards \"AlphaChem\": Chemical Synthesis Planning with Tree Search and Deep Neural Network Policies.",
+        "authors": [
+            {
+                "given_name": "Marwin H. S.",
+                "family_name": "Segler",
+                "institution": null
+            },
+            {
+                "given_name": "Mike",
+                "family_name": "Preuss",
+                "institution": null
+            },
+            {
+                "given_name": "Mark P.",
+                "family_name": "Waller",
+                "institution": null
+            }
+        ]
+    },
+    null
+]
