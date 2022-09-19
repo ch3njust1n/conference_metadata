@@ -170,7 +170,7 @@
         ]
     },
     {
-        "url": "https://openreview.net/pdf?id=BJxg\\_hVtwH",
+        "url": "https://openreview.net/pdf?id=BJxg_hVtwH",
         "title": "StructPool: Structured Graph Pooling via Conditional Random Fields.",
         "authors": [
             {
@@ -311,7 +311,7 @@
         ]
     },
     {
-        "url": "https://openreview.net/pdf?id=BJl2\\_nVFPB",
+        "url": "https://openreview.net/pdf?id=BJl2_nVFPB",
         "title": "Automatically Discovering and Learning New Visual Categories with Ranking Statistics.",
         "authors": [
             {
@@ -3821,7 +3821,7 @@
         ]
     },
     {
-        "url": "https://openreview.net/pdf?id=B1eY\\_pVYvB",
+        "url": "https://openreview.net/pdf?id=B1eY_pVYvB",
         "title": "Efficient and Information-Preserving Future Frame Prediction and Beyond.",
         "authors": [
             {
@@ -4070,7 +4070,7 @@
         ]
     },
     {
-        "url": "https://openreview.net/pdf?id=r1e\\_FpNFDr",
+        "url": "https://openreview.net/pdf?id=r1e_FpNFDr",
         "title": "Generalization bounds for deep convolutional neural networks.",
         "authors": [
             {
@@ -5093,7 +5093,7 @@
         ]
     },
     {
-        "url": "https://openreview.net/pdf?id=HJe\\_yR4Fwr",
+        "url": "https://openreview.net/pdf?id=HJe_yR4Fwr",
         "title": "Improved Sample Complexities for Deep Neural Networks and Robust Classification via an All-Layer Margin.",
         "authors": [
             {
@@ -5502,7 +5502,7 @@
         ]
     },
     {
-        "url": "https://openreview.net/pdf?id=HJe\\_Z04Yvr",
+        "url": "https://openreview.net/pdf?id=HJe_Z04Yvr",
         "title": "Adjustable Real-time Style Transfer.",
         "authors": [
             {
@@ -6274,7 +6274,7 @@
         ]
     },
     {
-        "url": "https://openreview.net/pdf?id=Hye\\_V0NKwr",
+        "url": "https://openreview.net/pdf?id=Hye_V0NKwr",
         "title": "Locality and Compositionality in Zero-Shot Learning.",
         "authors": [
             {
@@ -6965,7 +6965,7 @@
         ]
     },
     {
-        "url": "https://openreview.net/pdf?id=BJxG\\_0EtDS",
+        "url": "https://openreview.net/pdf?id=BJxG_0EtDS",
         "title": "Prediction, Consistency, Curvature: Representation Learning for Locally-Linear Control.",
         "authors": [
             {
@@ -7089,7 +7089,7 @@
         ]
     },
     {
-        "url": "https://openreview.net/pdf?id=r1lF\\_CEYwS",
+        "url": "https://openreview.net/pdf?id=r1lF_CEYwS",
         "title": "On the Need for Topology-Aware Generative Models for Manifold-Based Defenses.",
         "authors": [
             {
@@ -7167,7 +7167,7 @@
         ]
     },
     {
-        "url": "https://openreview.net/pdf?id=BylA\\_C4tPr",
+        "url": "https://openreview.net/pdf?id=BylA_C4tPr",
         "title": "Composition-based Multi-Relational Graph Convolutional Networks.",
         "authors": [
             {
@@ -7359,7 +7359,7 @@
         ]
     },
     {
-        "url": "https://openreview.net/pdf?id=Byx\\_YAVYPH",
+        "url": "https://openreview.net/pdf?id=Byx_YAVYPH",
         "title": "Jelly Bean World: A Testbed for Never-Ending Learning.",
         "authors": [
             {
@@ -7525,7 +7525,7 @@
         ]
     },
     {
-        "url": "https://openreview.net/pdf?id=H1e\\_cC4twS",
+        "url": "https://openreview.net/pdf?id=H1e_cC4twS",
         "title": "Non-Autoregressive Dialog State Tracking.",
         "authors": [
             {
@@ -10829,8 +10829,8 @@
         ]
     },
     {
-        "url": "https://openreview.net/pdf?id=rklk\\_ySYPB",
-        "title": "Provable robustness against all adversarial $l_p$-perturbations for $p\\geq 1$.",
+        "url": "https://openreview.net/pdf?id=rklk_ySYPB",
+        "title": "Provable robustness against all adversarial $l_p$-perturbations for $pgeq 1$.",
         "authors": [
             {
                 "given_name": "Francesco",
@@ -10918,7 +10918,7 @@
         ]
     },
     {
-        "url": "https://openreview.net/pdf?id=Hkx7\\_1rKwS",
+        "url": "https://openreview.net/pdf?id=Hkx7_1rKwS",
         "title": "On Solving Minimax Optimization Locally: A Follow-the-Ridge Approach.",
         "authors": [
             {
@@ -12004,7 +12004,7 @@
     },
     {
         "url": "https://openreview.net/pdf?id=ryxK0JBtPr",
-        "title": "Gradient $\\ell_1$ Regularization for Quantization Robustness.",
+        "title": "Gradient $ell_1$ Regularization for Quantization Robustness.",
         "authors": [
             {
                 "given_name": "Milad",
@@ -13687,7 +13687,7 @@
         ]
     },
     {
-        "url": "https://openreview.net/pdf?id=Bke\\_DertPB",
+        "url": "https://openreview.net/pdf?id=Bke_DertPB",
         "title": "Adversarial Lipschitz Regularization.",
         "authors": [
             {
@@ -13797,7 +13797,7 @@
         ]
     },
     {
-        "url": "https://openreview.net/pdf?id=rJe4\\_xSFDB",
+        "url": "https://openreview.net/pdf?id=rJe4_xSFDB",
         "title": "Lipschitz constant estimation of Neural Networks via sparse polynomial optimization.",
         "authors": [
             {
@@ -13885,7 +13885,7 @@
         ]
     },
     {
-        "url": "https://openreview.net/pdf?id=HJl8\\_eHYvS",
+        "url": "https://openreview.net/pdf?id=HJl8_eHYvS",
         "title": "Discriminative Particle Filter Reinforcement Learning for Complex Partial observations.",
         "authors": [
             {
@@ -13916,7 +13916,7 @@
         ]
     },
     {
-        "url": "https://openreview.net/pdf?id=Sye\\_OgHFwH",
+        "url": "https://openreview.net/pdf?id=Sye_OgHFwH",
         "title": "Unrestricted Adversarial Examples via Semantic Manipulation.",
         "authors": [
             {
@@ -13947,7 +13947,7 @@
         ]
     },
     {
-        "url": "https://openreview.net/pdf?id=H1lK\\_lBtvS",
+        "url": "https://openreview.net/pdf?id=H1lK_lBtvS",
         "title": "Classification-Based Anomaly Detection for General Data.",
         "authors": [
             {
@@ -17125,7 +17125,7 @@
         ]
     },
     {
-        "url": "https://openreview.net/pdf?id=H1l\\_0JBYwS",
+        "url": "https://openreview.net/pdf?id=H1l_0JBYwS",
         "title": "Spectral Embedding of Regularized Block Models.",
         "authors": [
             {
@@ -17717,7 +17717,7 @@
         ]
     },
     {
-        "url": "https://openreview.net/pdf?id=S1e\\_9xrFvS",
+        "url": "https://openreview.net/pdf?id=S1e_9xrFvS",
         "title": "Energy-based models for atomic-resolution protein conformations.",
         "authors": [
             {
