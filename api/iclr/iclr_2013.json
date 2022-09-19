@@ -1,0 +1,525 @@
+[
+    {
+        "url": "https://arxiv.org/pdf/1301.4083.pdf",
+        "title": "Knowledge Matters: Importance of Prior Information for Optimization.",
+        "authors": [
+            {
+                "given_name": "Çaglar",
+                "family_name": "Gülçehre",
+                "institution": null
+            },
+            {
+                "given_name": "Yoshua",
+                "family_name": "Bengio",
+                "institution": null
+            }
+        ]
+    },
+    {
+        "url": "https://arxiv.org/pdf/1301.3391.pdf",
+        "title": "Feature grouping from spatially constrained multiplicative interaction.",
+        "authors": [
+            {
+                "given_name": "Felix",
+                "family_name": "Bauer",
+                "institution": null
+            },
+            {
+                "given_name": "Roland",
+                "family_name": "Memisevic",
+                "institution": null
+            }
+        ]
+    },
+    {
+        "url": "https://arxiv.org/pdf/1301.3529.pdf",
+        "title": "Discrete Restricted Boltzmann Machines.",
+        "authors": [
+            {
+                "given_name": "Guido",
+                "family_name": "Montúfar",
+                "institution": null
+            },
+            {
+                "given_name": "Jason",
+                "family_name": "Morton",
+                "institution": null
+            }
+        ]
+    },
+    {
+        "url": "https://arxiv.org/pdf/1301.3557.pdf",
+        "title": "Stochastic Pooling for Regularization of Deep Convolutional Neural Networks.",
+        "authors": [
+            {
+                "given_name": "Matthew D.",
+                "family_name": "Zeiler",
+                "institution": null
+            },
+            {
+                "given_name": "Rob",
+                "family_name": "Fergus",
+                "institution": null
+            }
+        ]
+    },
+    {
+        "url": "https://arxiv.org/pdf/1211.4246.pdf",
+        "title": "Regularized Auto-Encoders Estimate Local Statistics.",
+        "authors": [
+            {
+                "given_name": "Guillaume",
+                "family_name": "Alain",
+                "institution": null
+            },
+            {
+                "given_name": "Yoshua",
+                "family_name": "Bengio",
+                "institution": null
+            },
+            {
+                "given_name": "Salah",
+                "family_name": "Rifai",
+                "institution": null
+            }
+        ]
+    },
+    {
+        "url": "https://arxiv.org/pdf/1301.3605.pdf",
+        "title": "Feature Learning in Deep Neural Networks - A Study on Speech Recognition Tasks.",
+        "authors": [
+            {
+                "given_name": "Dong",
+                "family_name": "Yu",
+                "institution": null
+            },
+            {
+                "given_name": "Michael L.",
+                "family_name": "Seltzer",
+                "institution": null
+            },
+            {
+                "given_name": "Jinyu",
+                "family_name": "Li",
+                "institution": null
+            },
+            {
+                "given_name": "Jui-Ting",
+                "family_name": "Huang",
+                "institution": null
+            },
+            {
+                "given_name": "Frank",
+                "family_name": "Seide",
+                "institution": null
+            }
+        ]
+    },
+    {
+        "url": "https://arxiv.org/pdf/1301.3224.pdf",
+        "title": "Efficient Learning of Domain-invariant Image Representations.",
+        "authors": [
+            {
+                "given_name": "Judy",
+                "family_name": "Hoffman",
+                "institution": null
+            },
+            {
+                "given_name": "Erik",
+                "family_name": "Rodner",
+                "institution": null
+            },
+            {
+                "given_name": "Jeff",
+                "family_name": "Donahue",
+                "institution": null
+            },
+            {
+                "given_name": "Kate",
+                "family_name": "Saenko",
+                "institution": null
+            },
+            {
+                "given_name": "Trevor",
+                "family_name": "Darrell",
+                "institution": null
+            }
+        ]
+    },
+    {
+        "url": "https://arxiv.org/pdf/1301.3577.pdf",
+        "title": "Saturating Auto-Encoder.",
+        "authors": [
+            {
+                "given_name": "Rostislav",
+                "family_name": "Goroshin",
+                "institution": null
+            },
+            {
+                "given_name": "Yann",
+                "family_name": "Lecun",
+                "institution": null
+            }
+        ]
+    },
+    {
+        "url": "https://arxiv.org/pdf/1301.3641.pdf",
+        "title": "Training Neural Networks with Stochastic Hessian-Free Optimization.",
+        "authors": [
+            {
+                "given_name": "Ryan",
+                "family_name": "Kiros",
+                "institution": null
+            }
+        ]
+    },
+    {
+        "url": "https://arxiv.org/pdf/1301.3764.pdf",
+        "title": "Adaptive learning rates and parallelization for stochastic, sparse, non-smooth gradients.",
+        "authors": [
+            {
+                "given_name": "Tom",
+                "family_name": "Schaul",
+                "institution": null
+            },
+            {
+                "given_name": "Yann",
+                "family_name": "Lecun",
+                "institution": null
+            }
+        ]
+    },
+    {
+        "url": "https://arxiv.org/pdf/1301.3389.pdf",
+        "title": "The Diagonalized Newton Algorithm for Nonnegative Matrix Factorization.",
+        "authors": [
+            {
+                "given_name": "Hugo Van",
+                "family_name": "Hamme",
+                "institution": null
+            }
+        ]
+    },
+    null,
+    {
+        "url": "https://arxiv.org/pdf/1301.4171.pdf",
+        "title": "Affinity Weighted Embedding.",
+        "authors": [
+            {
+                "given_name": "Jason",
+                "family_name": "Weston",
+                "institution": null
+            },
+            {
+                "given_name": "Ron J.",
+                "family_name": "Weiss",
+                "institution": null
+            },
+            {
+                "given_name": "Hector",
+                "family_name": "Yee",
+                "institution": null
+            }
+        ]
+    },
+    {
+        "url": "https://arxiv.org/pdf/1301.3583.pdf",
+        "title": "Big Neural Networks Waste Capacity.",
+        "authors": [
+            {
+                "given_name": "Yann N.",
+                "family_name": "Dauphin",
+                "institution": null
+            },
+            {
+                "given_name": "Yoshua",
+                "family_name": "Bengio",
+                "institution": null
+            }
+        ]
+    },
+    {
+        "url": "https://arxiv.org/pdf/1301.3570.pdf",
+        "title": "A Nested HDP for Hierarchical Topic Models.",
+        "authors": [
+            {
+                "given_name": "John W.",
+                "family_name": "Paisley",
+                "institution": null
+            },
+            {
+                "given_name": "Chong",
+                "family_name": "Wang",
+                "institution": null
+            },
+            {
+                "given_name": "David M.",
+                "family_name": "Blei",
+                "institution": null
+            },
+            {
+                "given_name": "Michael I.",
+                "family_name": "Jordan",
+                "institution": null
+            }
+        ]
+    },
+    {
+        "url": "https://arxiv.org/pdf/1301.6316.pdf",
+        "title": "Hierarchical Data Representation Model - Multi-layer NMF.",
+        "authors": [
+            {
+                "given_name": "Hyun Ah",
+                "family_name": "Song",
+                "institution": null
+            },
+            {
+                "given_name": "Soo-Young",
+                "family_name": "Lee",
+                "institution": null
+            }
+        ]
+    },
+    {
+        "url": "https://arxiv.org/pdf/1301.2840.pdf",
+        "title": "Unsupervised Feature Learning for low-level Local Image Descriptors.",
+        "authors": [
+            {
+                "given_name": "Christian",
+                "family_name": "Osendorfer",
+                "institution": null
+            },
+            {
+                "given_name": "Justin",
+                "family_name": "Bayer",
+                "institution": null
+            },
+            {
+                "given_name": "Patrick Van Der",
+                "family_name": "Smagt",
+                "institution": null
+            }
+        ]
+    },
+    {
+        "url": "https://arxiv.org/pdf/1301.3537.pdf",
+        "title": "Learning Stable Group Invariant Representations with Convolutional Networks.",
+        "authors": [
+            {
+                "given_name": "Joan",
+                "family_name": "Bruna",
+                "institution": null
+            },
+            {
+                "given_name": "Arthur",
+                "family_name": "Szlam",
+                "institution": null
+            },
+            {
+                "given_name": "Yann",
+                "family_name": "Lecun",
+                "institution": null
+            }
+        ]
+    },
+    {
+        "url": "https://arxiv.org/pdf/1301.3627.pdf",
+        "title": "Two SVDs produce more focal deep learning representations.",
+        "authors": [
+            {
+                "given_name": "Hinrich",
+                "family_name": "Schütze",
+                "institution": null
+            },
+            {
+                "given_name": "Christian",
+                "family_name": "Scheible",
+                "institution": null
+            }
+        ]
+    },
+    {
+        "url": "https://arxiv.org/pdf/1301.3516.pdf",
+        "title": "Learnable Pooling Regions for Image Classification.",
+        "authors": [
+            {
+                "given_name": "Mateusz",
+                "family_name": "Malinowski",
+                "institution": null
+            },
+            {
+                "given_name": "Mario",
+                "family_name": "Fritz",
+                "institution": null
+            }
+        ]
+    },
+    {
+        "url": "https://arxiv.org/pdf/1301.3755.pdf",
+        "title": "Gradient Driven Learning for Pooling in Visual Pipeline Feature Extraction Models.",
+        "authors": [
+            {
+                "given_name": "Derek C.",
+                "family_name": "Rose",
+                "institution": null
+            },
+            {
+                "given_name": "Itamar",
+                "family_name": "Arel",
+                "institution": null
+            }
+        ]
+    },
+    {
+        "url": "https://arxiv.org/pdf/1301.3590.pdf",
+        "title": "Tree structured sparse coding on cubes.",
+        "authors": [
+            {
+                "given_name": "Arthur",
+                "family_name": "Szlam",
+                "institution": null
+            }
+        ]
+    },
+    {
+        "url": "https://arxiv.org/pdf/1301.3781.pdf",
+        "title": "Efficient Estimation of Word Representations in Vector Space.",
+        "authors": [
+            {
+                "given_name": "Tomás",
+                "family_name": "Mikolov",
+                "institution": null
+            },
+            {
+                "given_name": "Kai",
+                "family_name": "Chen",
+                "institution": null
+            },
+            {
+                "given_name": "Greg",
+                "family_name": "Corrado",
+                "institution": null
+            },
+            {
+                "given_name": "Jeffrey",
+                "family_name": "Dean",
+                "institution": null
+            }
+        ]
+    },
+    {
+        "url": "https://arxiv.org/pdf/1301.3476.pdf",
+        "title": "Pushing Stochastic Gradient towards Second-Order Methods -- Backpropagation Learning with Transformations in Nonlinearities.",
+        "authors": [
+            {
+                "given_name": "Tommi",
+                "family_name": "Vatanen",
+                "institution": null
+            },
+            {
+                "given_name": "Tapani",
+                "family_name": "Raiko",
+                "institution": null
+            },
+            {
+                "given_name": "Harri",
+                "family_name": "Valpola",
+                "institution": null
+            },
+            {
+                "given_name": "Yann",
+                "family_name": "Lecun",
+                "institution": null
+            }
+        ]
+    },
+    {
+        "url": "https://arxiv.org/pdf/1301.3485.pdf",
+        "title": "A Semantic Matching Energy Function for Learning with Multi-relational Data.",
+        "authors": [
+            {
+                "given_name": "Xavier",
+                "family_name": "Glorot",
+                "institution": null
+            },
+            {
+                "given_name": "Antoine",
+                "family_name": "Bordes",
+                "institution": null
+            },
+            {
+                "given_name": "Jason",
+                "family_name": "Weston",
+                "institution": null
+            },
+            {
+                "given_name": "Yoshua",
+                "family_name": "Bengio",
+                "institution": null
+            }
+        ]
+    },
+    {
+        "url": "https://arxiv.org/pdf/1301.3192.pdf",
+        "title": "Matrix Approximation under Local Low-Rank Assumption.",
+        "authors": [
+            {
+                "given_name": "Joonseok",
+                "family_name": "Lee",
+                "institution": null
+            },
+            {
+                "given_name": "Seungyeon",
+                "family_name": "Kim",
+                "institution": null
+            },
+            {
+                "given_name": "Guy",
+                "family_name": "Lebanon",
+                "institution": null
+            },
+            {
+                "given_name": "Yoram",
+                "family_name": "Singer",
+                "institution": null
+            }
+        ]
+    },
+    {
+        "url": "https://arxiv.org/pdf/1301.3323.pdf",
+        "title": "Auto-pooling: Learning to Improve Invariance of Image Features from Image Sequences.",
+        "authors": [
+            {
+                "given_name": "Sainbayar",
+                "family_name": "Sukhbaatar",
+                "institution": null
+            },
+            {
+                "given_name": "Takaki",
+                "family_name": "Makino",
+                "institution": null
+            },
+            {
+                "given_name": "Kazuyuki",
+                "family_name": "Aihara",
+                "institution": null
+            }
+        ]
+    },
+    {
+        "url": "https://arxiv.org/pdf/1206.0387.pdf",
+        "title": "When Does a Mixture of Products Contain a Product of Mixtures?",
+        "authors": [
+            {
+                "given_name": "Guido F.",
+                "family_name": "Montúfar",
+                "institution": null
+            },
+            {
+                "given_name": "Jason",
+                "family_name": "Morton",
+                "institution": null
+            }
+        ]
+    }
+]
