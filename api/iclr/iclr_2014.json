@@ -1,0 +1,814 @@
+[
+    {
+        "url": "https://arxiv.org/pdf/1312.5650.pdf",
+        "title": "Zero-Shot Learning by Convex Combination of Semantic Embeddings.",
+        "authors": [
+            {
+                "given_name": "Mohammad",
+                "family_name": "Norouzi",
+                "institution": null
+            },
+            {
+                "given_name": "Tomás",
+                "family_name": "Mikolov",
+                "institution": null
+            },
+            {
+                "given_name": "Samy",
+                "family_name": "Bengio",
+                "institution": null
+            },
+            {
+                "given_name": "Yoram",
+                "family_name": "Singer",
+                "institution": null
+            },
+            {
+                "given_name": "Jonathon",
+                "family_name": "Shlens",
+                "institution": null
+            },
+            {
+                "given_name": "Andrea",
+                "family_name": "Frome",
+                "institution": null
+            },
+            {
+                "given_name": "Greg",
+                "family_name": "Corrado",
+                "institution": null
+            },
+            {
+                "given_name": "Jeffrey",
+                "family_name": "Dean",
+                "institution": null
+            }
+        ]
+    },
+    {
+        "url": "https://arxiv.org/pdf/1301.3584.pdf",
+        "title": "Revisiting Natural Gradient for Deep Networks.",
+        "authors": [
+            {
+                "given_name": "Razvan",
+                "family_name": "Pascanu",
+                "institution": null
+            },
+            {
+                "given_name": "Yoshua",
+                "family_name": "Bengio",
+                "institution": null
+            }
+        ]
+    },
+    {
+        "url": "https://arxiv.org/pdf/1312.6114.pdf",
+        "title": "Auto-Encoding Variational Bayes.",
+        "authors": [
+            {
+                "given_name": "Diederik P.",
+                "family_name": "Kingma",
+                "institution": null
+            },
+            {
+                "given_name": "Max",
+                "family_name": "Welling",
+                "institution": null
+            }
+        ]
+    },
+    {
+        "url": "https://arxiv.org/pdf/1312.6229.pdf",
+        "title": "OverFeat: Integrated Recognition, Localization and Detection using Convolutional Networks.",
+        "authors": [
+            {
+                "given_name": "Pierre",
+                "family_name": "Sermanet",
+                "institution": null
+            },
+            {
+                "given_name": "David",
+                "family_name": "Eigen",
+                "institution": null
+            },
+            {
+                "given_name": "Xiang",
+                "family_name": "Zhang",
+                "institution": null
+            },
+            {
+                "given_name": "Michaël",
+                "family_name": "Mathieu",
+                "institution": null
+            },
+            {
+                "given_name": "Rob",
+                "family_name": "Fergus",
+                "institution": null
+            },
+            {
+                "given_name": "Yann",
+                "family_name": "Lecun",
+                "institution": null
+            }
+        ]
+    },
+    {
+        "url": "https://arxiv.org/pdf/1312.6594.pdf",
+        "title": "Sequentially Generated Instance-Dependent Image Representations for Classification.",
+        "authors": [
+            {
+                "given_name": "Gabriel",
+                "family_name": "Dulac-Arnold",
+                "institution": null
+            },
+            {
+                "given_name": "Ludovic",
+                "family_name": "Denoyer",
+                "institution": null
+            },
+            {
+                "given_name": "Nicolas",
+                "family_name": "Thome",
+                "institution": null
+            },
+            {
+                "given_name": "Matthieu",
+                "family_name": "Cord",
+                "institution": null
+            },
+            {
+                "given_name": "Patrick",
+                "family_name": "Gallinari",
+                "institution": null
+            }
+        ]
+    },
+    {
+        "url": "https://arxiv.org/pdf/1312.6203.pdf",
+        "title": "Spectral Networks and Locally Connected Networks on Graphs.",
+        "authors": [
+            {
+                "given_name": "Joan",
+                "family_name": "Bruna",
+                "institution": null
+            },
+            {
+                "given_name": "Wojciech",
+                "family_name": "Zaremba",
+                "institution": null
+            },
+            {
+                "given_name": "Arthur",
+                "family_name": "Szlam",
+                "institution": null
+            },
+            {
+                "given_name": "Yann",
+                "family_name": "Lecun",
+                "institution": null
+            }
+        ]
+    },
+    {
+        "url": "https://arxiv.org/pdf/1312.5604.pdf",
+        "title": "Learning Transformations for Classification Forests.",
+        "authors": [
+            {
+                "given_name": "Qiang",
+                "family_name": "Qiu",
+                "institution": null
+            },
+            {
+                "given_name": "Guillermo",
+                "family_name": "Sapiro",
+                "institution": null
+            }
+        ]
+    },
+    {
+        "url": "https://arxiv.org/pdf/1312.6115.pdf",
+        "title": "Neuronal Synchrony in Complex-Valued Deep Networks.",
+        "authors": [
+            {
+                "given_name": "David P.",
+                "family_name": "Reichert",
+                "institution": null
+            },
+            {
+                "given_name": "Thomas",
+                "family_name": "Serre",
+                "institution": null
+            }
+        ]
+    },
+    {
+        "url": "https://arxiv.org/pdf/1312.5857.pdf",
+        "title": "A Generative Product-of-Filters Model of Audio.",
+        "authors": [
+            {
+                "given_name": "Dawen",
+                "family_name": "Liang",
+                "institution": null
+            },
+            {
+                "given_name": "Matthew D.",
+                "family_name": "Hoffman",
+                "institution": null
+            },
+            {
+                "given_name": "Gautham J.",
+                "family_name": "Mysore",
+                "institution": null
+            }
+        ]
+    },
+    {
+        "url": "https://arxiv.org/pdf/1401.0509.pdf",
+        "title": "Zero-Shot Learning and Clustering for Semantic Utterance Classification.",
+        "authors": [
+            {
+                "given_name": "Yann N.",
+                "family_name": "Dauphin",
+                "institution": null
+            },
+            {
+                "given_name": "Gökhan",
+                "family_name": "Tür",
+                "institution": null
+            },
+            {
+                "given_name": "Dilek",
+                "family_name": "Hakkani-Tür",
+                "institution": null
+            },
+            {
+                "given_name": "Larry P.",
+                "family_name": "Heck",
+                "institution": null
+            }
+        ]
+    },
+    {
+        "url": "https://arxiv.org/pdf/1312.6211.pdf",
+        "title": "An Empirical Investigation of Catastrophic Forgeting in Gradient-Based Neural Networks.",
+        "authors": [
+            {
+                "given_name": "Ian J.",
+                "family_name": "Goodfellow",
+                "institution": null
+            },
+            {
+                "given_name": "Mehdi",
+                "family_name": "Mirza",
+                "institution": null
+            },
+            {
+                "given_name": "Xia",
+                "family_name": "Da",
+                "institution": null
+            },
+            {
+                "given_name": "Aaron C.",
+                "family_name": "Courville",
+                "institution": null
+            },
+            {
+                "given_name": "Yoshua",
+                "family_name": "Bengio",
+                "institution": null
+            }
+        ]
+    },
+    {
+        "url": "https://arxiv.org/pdf/1312.4400.pdf",
+        "title": "Network In Network.",
+        "authors": [
+            {
+                "given_name": "Min",
+                "family_name": "Lin",
+                "institution": null
+            },
+            {
+                "given_name": "Qiang",
+                "family_name": "Chen",
+                "institution": null
+            },
+            {
+                "given_name": "Shuicheng",
+                "family_name": "Yan",
+                "institution": null
+            }
+        ]
+    },
+    {
+        "url": "https://arxiv.org/pdf/1312.5785.pdf",
+        "title": "EXMOVES: Classifier-based Features for Scalable Action Recognition.",
+        "authors": [
+            {
+                "given_name": "Du",
+                "family_name": "Tran",
+                "institution": null
+            },
+            {
+                "given_name": "Lorenzo",
+                "family_name": "Torresani",
+                "institution": null
+            }
+        ]
+    },
+    {
+        "url": "https://arxiv.org/pdf/1312.6199.pdf",
+        "title": "Intriguing properties of neural networks.",
+        "authors": [
+            {
+                "given_name": "Christian",
+                "family_name": "Szegedy",
+                "institution": null
+            },
+            {
+                "given_name": "Wojciech",
+                "family_name": "Zaremba",
+                "institution": null
+            },
+            {
+                "given_name": "Ilya",
+                "family_name": "Sutskever",
+                "institution": null
+            },
+            {
+                "given_name": "Joan",
+                "family_name": "Bruna",
+                "institution": null
+            },
+            {
+                "given_name": "Dumitru",
+                "family_name": "Erhan",
+                "institution": null
+            },
+            {
+                "given_name": "Ian J.",
+                "family_name": "Goodfellow",
+                "institution": null
+            },
+            {
+                "given_name": "Rob",
+                "family_name": "Fergus",
+                "institution": null
+            }
+        ]
+    },
+    {
+        "url": "https://arxiv.org/pdf/1310.0354.pdf",
+        "title": "Deep and Wide Multiscale Recursive Networks for Robust Image Labeling.",
+        "authors": [
+            {
+                "given_name": "Gary B.",
+                "family_name": "Huang",
+                "institution": null
+            },
+            {
+                "given_name": "Viren",
+                "family_name": "Jain",
+                "institution": null
+            }
+        ]
+    },
+    {
+        "url": "https://arxiv.org/pdf/1312.4894.pdf",
+        "title": "Deep Convolutional Ranking for Multilabel Image Annotation.",
+        "authors": [
+            {
+                "given_name": "Yunchao",
+                "family_name": "Gong",
+                "institution": null
+            },
+            {
+                "given_name": "Yangqing",
+                "family_name": "Jia",
+                "institution": null
+            },
+            {
+                "given_name": "Thomas",
+                "family_name": "Leung",
+                "institution": null
+            },
+            {
+                "given_name": "Alexander",
+                "family_name": "Toshev",
+                "institution": null
+            },
+            {
+                "given_name": "Sergey",
+                "family_name": "Ioffe",
+                "institution": null
+            }
+        ]
+    },
+    {
+        "url": "https://arxiv.org/pdf/1312.6095.pdf",
+        "title": "Multi-View Priors for Learning Detectors from Sparse Viewpoint Data.",
+        "authors": [
+            {
+                "given_name": "Bojan",
+                "family_name": "Pepik",
+                "institution": null
+            },
+            {
+                "given_name": "Michael",
+                "family_name": "Stark",
+                "institution": null
+            },
+            {
+                "given_name": "Peter V.",
+                "family_name": "Gehler",
+                "institution": null
+            },
+            {
+                "given_name": "Bernt",
+                "family_name": "Schiele",
+                "institution": null
+            }
+        ]
+    },
+    null,
+    {
+        "url": "https://arxiv.org/pdf/1312.5198.pdf",
+        "title": "Learning Semantic Script Knowledge with Event Embeddings.",
+        "authors": [
+            {
+                "given_name": "Ashutosh",
+                "family_name": "Modi",
+                "institution": null
+            },
+            {
+                "given_name": "Ivan",
+                "family_name": "Titov",
+                "institution": null
+            }
+        ]
+    },
+    {
+        "url": "https://arxiv.org/pdf/1310.1811.pdf",
+        "title": "End-to-End Text Recognition with Hybrid HMM Maxout Models.",
+        "authors": [
+            {
+                "given_name": "Ouais",
+                "family_name": "Alsharif",
+                "institution": null
+            },
+            {
+                "given_name": "Joelle",
+                "family_name": "Pineau",
+                "institution": null
+            }
+        ]
+    },
+    {
+        "url": "https://arxiv.org/pdf/1312.4314.pdf",
+        "title": "Learning Factored Representations in a Deep Mixture of Experts.",
+        "authors": [
+            {
+                "given_name": "David",
+                "family_name": "Eigen",
+                "institution": null
+            },
+            {
+                "given_name": "Marc'Aurelio",
+                "family_name": "Ranzato",
+                "institution": null
+            },
+            {
+                "given_name": "Ilya",
+                "family_name": "Sutskever",
+                "institution": null
+            }
+        ]
+    },
+    {
+        "url": "https://arxiv.org/pdf/1312.6042.pdf",
+        "title": "Learning States Representations in POMDP.",
+        "authors": [
+            {
+                "given_name": "Gabriella",
+                "family_name": "Contardo",
+                "institution": null
+            },
+            {
+                "given_name": "Ludovic",
+                "family_name": "Denoyer",
+                "institution": null
+            },
+            {
+                "given_name": "Thierry",
+                "family_name": "Artières",
+                "institution": null
+            },
+            {
+                "given_name": "Patrick",
+                "family_name": "Gallinari",
+                "institution": null
+            }
+        ]
+    },
+    {
+        "url": "https://arxiv.org/pdf/1312.6002.pdf",
+        "title": "Stochastic Gradient Estimate Variance in Contrastive Divergence and Persistent Contrastive Divergence.",
+        "authors": [
+            {
+                "given_name": "Mathias",
+                "family_name": "Berglund",
+                "institution": null
+            },
+            {
+                "given_name": "Tapani",
+                "family_name": "Raiko",
+                "institution": null
+            }
+        ]
+    },
+    {
+        "url": "https://arxiv.org/pdf/1312.5398.pdf",
+        "title": "Continuous Learning: Engineering Super Features With Feature Algebras.",
+        "authors": [
+            {
+                "given_name": "Michael",
+                "family_name": "Tetelman",
+                "institution": null
+            }
+        ]
+    },
+    {
+        "url": "https://arxiv.org/pdf/1312.6168.pdf",
+        "title": "Factorial Hidden Markov Models for Learning Representations of Natural Language.",
+        "authors": [
+            {
+                "given_name": "Anjan",
+                "family_name": "Nepal",
+                "institution": null
+            },
+            {
+                "given_name": "Alexander",
+                "family_name": "Yates",
+                "institution": null
+            }
+        ]
+    },
+    {
+        "url": "https://arxiv.org/pdf/1311.6091.pdf",
+        "title": "A New Method for Learning Deep Recurrent Neural Networks.",
+        "authors": [
+            {
+                "given_name": "Jianshu",
+                "family_name": "Chen",
+                "institution": null
+            },
+            {
+                "given_name": "Li",
+                "family_name": "Deng",
+                "institution": null
+            }
+        ]
+    },
+    {
+        "url": "https://arxiv.org/pdf/1312.7381.pdf",
+        "title": "Rate-Distortion Auto-Encoders.",
+        "authors": [
+            {
+                "given_name": "Luis Gonzalo Sánchez",
+                "family_name": "Giraldo",
+                "institution": null
+            },
+            {
+                "given_name": "José C.",
+                "family_name": "Príncipe",
+                "institution": null
+            }
+        ]
+    },
+    {
+        "url": "https://arxiv.org/pdf/1309.1369.pdf",
+        "title": "Semistochastic Quadratic Bound Methods for Convex and Nonconvex Learning Problems.",
+        "authors": [
+            {
+                "given_name": "Aleksandr Y.",
+                "family_name": "Aravkin",
+                "institution": null
+            },
+            {
+                "given_name": "Anna",
+                "family_name": "Choromanska",
+                "institution": null
+            },
+            {
+                "given_name": "Dimitri",
+                "family_name": "Kanevsky",
+                "institution": null
+            },
+            {
+                "given_name": "Tony",
+                "family_name": "Jebara",
+                "institution": null
+            }
+        ]
+    },
+    {
+        "url": "https://arxiv.org/pdf/1312.5853.pdf",
+        "title": "Multi-GPU Training of ConvNets.",
+        "authors": [
+            {
+                "given_name": "Omry",
+                "family_name": "Yadan",
+                "institution": null
+            },
+            {
+                "given_name": "Keith",
+                "family_name": "Adams",
+                "institution": null
+            },
+            {
+                "given_name": "Yaniv",
+                "family_name": "Taigman",
+                "institution": null
+            },
+            {
+                "given_name": "Marc'Aurelio",
+                "family_name": "Ranzato",
+                "institution": null
+            }
+        ]
+    },
+    {
+        "url": "https://arxiv.org/pdf/1312.5940.pdf",
+        "title": "Generic Deep Networks with Wavelet Scattering.",
+        "authors": [
+            {
+                "given_name": "Edouard",
+                "family_name": "Oyallon",
+                "institution": null
+            },
+            {
+                "given_name": "Stéphane",
+                "family_name": "Mallat",
+                "institution": null
+            },
+            {
+                "given_name": "Laurent",
+                "family_name": "Sifre",
+                "institution": null
+            }
+        ]
+    },
+    {
+        "url": "https://arxiv.org/pdf/1312.6034.pdf",
+        "title": "Deep Inside Convolutional Networks: Visualising Image Classification Models and Saliency Maps.",
+        "authors": [
+            {
+                "given_name": "Karen",
+                "family_name": "Simonyan",
+                "institution": null
+            },
+            {
+                "given_name": "Andrea",
+                "family_name": "Vedaldi",
+                "institution": null
+            },
+            {
+                "given_name": "Andrew",
+                "family_name": "Zisserman",
+                "institution": null
+            }
+        ]
+    },
+    {
+        "url": "https://arxiv.org/pdf/1312.7335.pdf",
+        "title": "Correlation-based construction of neighborhood and edge features.",
+        "authors": [
+            {
+                "given_name": "Balázs",
+                "family_name": "Kégl",
+                "institution": null
+            }
+        ]
+    },
+    {
+        "url": "https://arxiv.org/pdf/1312.1847.pdf",
+        "title": "Understanding Deep Architectures using a Recursive Convolutional Network.",
+        "authors": [
+            {
+                "given_name": "David",
+                "family_name": "Eigen",
+                "institution": null
+            },
+            {
+                "given_name": "Jason Tyler",
+                "family_name": "Rolfe",
+                "institution": null
+            },
+            {
+                "given_name": "Rob",
+                "family_name": "Fergus",
+                "institution": null
+            },
+            {
+                "given_name": "Yann",
+                "family_name": "Lecun",
+                "institution": null
+            }
+        ]
+    },
+    {
+        "url": "https://arxiv.org/pdf/1312.6204.pdf",
+        "title": "One-Shot Adaptation of Supervised Deep Convolutional Models.",
+        "authors": [
+            {
+                "given_name": "Judy",
+                "family_name": "Hoffman",
+                "institution": null
+            },
+            {
+                "given_name": "Eric",
+                "family_name": "Tzeng",
+                "institution": null
+            },
+            {
+                "given_name": "Jeff",
+                "family_name": "Donahue",
+                "institution": null
+            },
+            {
+                "given_name": "Yangqing",
+                "family_name": "Jia",
+                "institution": null
+            },
+            {
+                "given_name": "Kate",
+                "family_name": "Saenko",
+                "institution": null
+            },
+            {
+                "given_name": "Trevor",
+                "family_name": "Darrell",
+                "institution": null
+            }
+        ]
+    },
+    {
+        "url": "https://arxiv.org/pdf/1312.6077.pdf",
+        "title": "Efficient Visual Coding: From Retina To V2.",
+        "authors": [
+            {
+                "given_name": "Honghao",
+                "family_name": "Shan",
+                "institution": null
+            },
+            {
+                "given_name": "Garrison W.",
+                "family_name": "Cottrell",
+                "institution": null
+            }
+        ]
+    },
+    {
+        "url": "https://arxiv.org/pdf/1312.0786.pdf",
+        "title": "Image Representation Learning Using Graph Regularized Auto-Encoders.",
+        "authors": [
+            {
+                "given_name": "Yiyi",
+                "family_name": "Liao",
+                "institution": null
+            },
+            {
+                "given_name": "Yue",
+                "family_name": "Wang",
+                "institution": null
+            },
+            {
+                "given_name": "Yong",
+                "family_name": "Liu",
+                "institution": null
+            }
+        ]
+    },
+    {
+        "url": "https://arxiv.org/pdf/1312.5412.pdf",
+        "title": "Approximated Infomax Early Stopping: Revisiting Gaussian RBMs on Natural Images.",
+        "authors": [
+            {
+                "given_name": "Taichi",
+                "family_name": "Kiwaki",
+                "institution": null
+            },
+            {
+                "given_name": "Takaki",
+                "family_name": "Makino",
+                "institution": null
+            },
+            {
+                "given_name": "Kazuyuki",
+                "family_name": "Aihara",
+                "institution": null
+            }
+        ]
+    }
+]
