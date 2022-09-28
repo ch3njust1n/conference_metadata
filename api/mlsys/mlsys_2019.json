@@ -1,0 +1,1121 @@
+[
+    {
+        "title": "Accurate and Efficient 2-bit Quantized Neural Networks",
+        "abstract": "Deep learning algorithms achieve high classification accuracy at the expense of significant computation cost. In order to reduce this cost, several quantization schemes have gained attention recently with some focusing on weight quantization, and others focusing on quantizing activations. This paper proposes novel techniques that individually target weight and activation quantizations resulting in an overall quantized neural network (QNN). Our activation quantization technique, PArameterized Clipping acTivation (PACT), uses an activation clipping parameter $\\alpha$ that is optimized during training to find the right quantization scale. Our weight quantization scheme, statistics-aware weight binning (SAWB), finds the optimal scaling factor that minimizes the quantization error based on the statistical characteristics of weight distribution without the need for an exhaustive search. Furthermore, we provide an innovative insight for quantization in the presence of shortcut connections, which motivates the use of high-precision for the shortcuts. The combination of PACT and SAWB results in a 2-bit QNN that achieves state-of-the-art classification accuracy (comparable to full precision networks) across a range of popular models and datasets. Using a detailed hardware accelerator system performance model, we also demonstrate that relative to the more recently proposed Wide Residual Network (WRPN) approach to quantization, PACT-SAWB not only achieves iso-accuracy but also achieves 2.7~3.1X speedup. ",
+        "authors": [
+            {
+                "given_name": "Jungwook",
+                "family_name": "Choi",
+                "institution": ""
+            },
+            {
+                "given_name": "Swagath",
+                "family_name": "Venkataramani",
+                "institution": ""
+            },
+            {
+                "given_name": "Vijayalakshmi (Viji)",
+                "family_name": "Srinivasan",
+                "institution": ""
+            },
+            {
+                "given_name": "Kailash",
+                "family_name": "Gopalakrishnan",
+                "institution": ""
+            },
+            {
+                "given_name": "Zhuo",
+                "family_name": "Wang",
+                "institution": ""
+            },
+            {
+                "given_name": "Pierce",
+                "family_name": "Chuang",
+                "institution": ""
+            }
+        ],
+        "url": "https://proceedings.mlsys.org/paper/2019/file/006f52e9102a8d3be2fe5614f42ba989-Paper.pdf"
+    },
+    {
+        "title": "FixyNN: Energy-Efficient Real-Time Mobile Computer Vision Hardware Acceleration via Transfer Learning",
+        "abstract": "The computational demands of computer vision tasks based on state-of-the-art Convolutional Neural Network (CNN) image classification far exceed the energy budgets of mobile devices.\nThis paper proposes FixyNN, which consists of a fixed-weight feature extractor that generates ubiquitous CNN features, and a conventional programmable CNN accelerator which processes a dataset-specific CNN.\nImage classification models for FixyNN are trained end-to-end via transfer learning, with the common feature extractor representing the transfered part, and the programmable part being learnt on the target dataset.\nExperimental results demonstrate FixyNN hardware can achieve very high energy efficiencies up to 26.6 TOPS/W (4.81x better than iso-area programmable accelerator).\nOver a suite of six datasets we trained models via transfer learning with an accuracy loss of <1% resulting in up to 11.2 TOPS/W -- nearly 2x more efficient than a conventional programmable CNN accelerator of the same area.",
+        "authors": [
+            {
+                "given_name": "Paul",
+                "family_name": "Whatmough",
+                "institution": "Arm Research"
+            },
+            {
+                "given_name": "Chuteng",
+                "family_name": "Zhou",
+                "institution": "Arm Research"
+            },
+            {
+                "given_name": "Patrick",
+                "family_name": "Hansen",
+                "institution": "Arm Research"
+            },
+            {
+                "given_name": "Shreyas",
+                "family_name": "Venkataramanaiah",
+                "institution": "Arizona State University"
+            },
+            {
+                "given_name": "Jae-sun",
+                "family_name": "Seo",
+                "institution": "Arizona State University"
+            },
+            {
+                "given_name": "Matthew",
+                "family_name": "Mattina",
+                "institution": "ARM Research"
+            }
+        ],
+        "url": "https://proceedings.mlsys.org/paper/2019/file/14bfa6bb14875e45bba028a21ed38046-Paper.pdf"
+    },
+    {
+        "title": "RLgraph: Modular Computation Graphs for Deep Reinforcement Learning",
+        "abstract": "Reinforcement learning (RL) tasks are challenging to implement, execute and test due to algorithmic instability, hyper-parameter sensitivity, and heterogeneous distributed communication patterns. We argue for the separation of logical component composition, backend graph definition, and distributed execution. To this end, we introduce RLgraph, a library for designing and executing reinforcement learning tasks in both static graph and define-by-run paradigms. The resulting implementations are robust, incrementally testable, and yield high performance across different deep learning frameworks and distributed backends.",
+        "authors": [
+            {
+                "given_name": "Michael",
+                "family_name": "Schaarschmidt",
+                "institution": "University of Cambridge"
+            },
+            {
+                "given_name": "Sven",
+                "family_name": "Mika",
+                "institution": "rlcore"
+            },
+            {
+                "given_name": "Kai",
+                "family_name": "Fricke",
+                "institution": "Helmut Schmidt University"
+            },
+            {
+                "given_name": "Eiko",
+                "family_name": "Yoneki",
+                "institution": "University of Cambridge"
+            }
+        ],
+        "url": "https://proceedings.mlsys.org/paper/2019/file/17e62166fc8586dfa4d1bc0e1742c08b-Paper.pdf"
+    },
+    {
+        "title": "TensorFlow.js: Machine Learning For The Web and Beyond",
+        "abstract": "TensorFlow.js is a library for building and executing machine learning algorithms in JavaScript. TensorFlow.js models run in a web browser and in the Node.js environment. The library is part of the TensorFlow ecosystem, providing a set of APIs that are compatible with those in Python, allowing models to be ported between the Python and JavaScript ecosystems. TensorFlow.js has empowered a new set of developers from the extensive JavaScript community to build and deploy machine learning models and enabled new classes of on-device computation. This paper describes the design, API, and implementation of TensorFlow.js, and highlights some of the impactful use cases.",
+        "authors": [
+            {
+                "given_name": "Daniel",
+                "family_name": "Smilkov",
+                "institution": "Google"
+            },
+            {
+                "given_name": "Nikhil",
+                "family_name": "Thorat",
+                "institution": "Google"
+            },
+            {
+                "given_name": "Yannick",
+                "family_name": "Assogba",
+                "institution": "Google"
+            },
+            {
+                "given_name": "Charles",
+                "family_name": "Nicholson",
+                "institution": "Verily"
+            },
+            {
+                "given_name": "Nick",
+                "family_name": "Kreeger",
+                "institution": "Google"
+            },
+            {
+                "given_name": "Ping",
+                "family_name": "Yu",
+                "institution": "Google"
+            },
+            {
+                "given_name": "Shanqing",
+                "family_name": "Cai",
+                "institution": "Google"
+            },
+            {
+                "given_name": "Eric",
+                "family_name": "Nielsen",
+                "institution": "Google"
+            },
+            {
+                "given_name": "David",
+                "family_name": "Soegel",
+                "institution": "Google"
+            },
+            {
+                "given_name": "Stan",
+                "family_name": "Bileschi",
+                "institution": "Google"
+            },
+            {
+                "given_name": "Michael",
+                "family_name": "Terry",
+                "institution": "Google"
+            },
+            {
+                "given_name": "Ann",
+                "family_name": "Yuan",
+                "institution": "Google"
+            },
+            {
+                "given_name": "Kangyi",
+                "family_name": "Zhang",
+                "institution": "Google"
+            },
+            {
+                "given_name": "Sandeep",
+                "family_name": "Gupta",
+                "institution": "Google"
+            },
+            {
+                "given_name": "Sarah",
+                "family_name": "Sirajuddin",
+                "institution": "Google"
+            },
+            {
+                "given_name": "D",
+                "family_name": "Sculley",
+                "institution": "Google"
+            },
+            {
+                "given_name": "Rajat",
+                "family_name": "Monga",
+                "institution": ""
+            },
+            {
+                "given_name": "Greg",
+                "family_name": "Corrado",
+                "institution": "Google"
+            },
+            {
+                "given_name": "Fernanda",
+                "family_name": "Viegas",
+                "institution": "Google"
+            },
+            {
+                "given_name": "Martin M",
+                "family_name": "Wattenberg",
+                "institution": "Google"
+            }
+        ],
+        "url": "https://proceedings.mlsys.org/paper/2019/file/1d7f7abc18fcb43975065399b0d1e48e-Paper.pdf"
+    },
+    {
+        "title": "TensorFlow Eager:  A multi-stage, Python-embedded DSL for machine learning",
+        "abstract": "TensorFlow Eager is a multi-stage, Python-embedded domain-specific language for hardware-accelerated machine learning, suitable for both interactive research and production. TensorFlow, which TensorFlow Eager extends, requires users to represent computations as dataflow graphs; this permits compiler optimizations and simplifies deployment but hinders rapid prototyping and run-time dynamism. TensorFlow Eager eliminates these usability costs without sacrificing the benefits furnished by graphs:  It provides an imperative front-end to TensorFlow that executes operations immediately and a JIT tracer that translates Python functions composed of TensorFlow operations into executable dataflow graphs. TensorFlow Eager thus offers a multi-stage programming model that makes it easy to interpolate between imperative and staged execution in a single package.",
+        "authors": [
+            {
+                "given_name": "Akshay",
+                "family_name": "Agrawal",
+                "institution": "Stanford University"
+            },
+            {
+                "given_name": "Akshay",
+                "family_name": "Modi",
+                "institution": "Google"
+            },
+            {
+                "given_name": "Alexandre",
+                "family_name": "Passos",
+                "institution": "Google"
+            },
+            {
+                "given_name": "Allen",
+                "family_name": "Lavoie",
+                "institution": "Google"
+            },
+            {
+                "given_name": "Ashish",
+                "family_name": "Agarwal",
+                "institution": "Google Brain"
+            },
+            {
+                "given_name": "Asim",
+                "family_name": "Shankar",
+                "institution": "Google"
+            },
+            {
+                "given_name": "Igor",
+                "family_name": "Ganichev",
+                "institution": "Google Brain"
+            },
+            {
+                "given_name": "Josh",
+                "family_name": "Levenberg",
+                "institution": "Google"
+            },
+            {
+                "given_name": "Mingsheng",
+                "family_name": "Hong",
+                "institution": "google.com"
+            },
+            {
+                "given_name": "Rajat",
+                "family_name": "Monga",
+                "institution": ""
+            },
+            {
+                "given_name": "Shanqing",
+                "family_name": "Cai",
+                "institution": "Google"
+            }
+        ],
+        "url": "https://proceedings.mlsys.org/paper/2019/file/2a38a4a9316c49e5a833517c45d31070-Paper.pdf"
+    },
+    {
+        "title": "Bandana: Using Non-Volatile Memory for Storing Deep Learning Models",
+        "abstract": "Typical large-scale recommender systems use deep learning models that are stored on a large amount of DRAM. These models often rely on embeddings, which consume most of the required memory. We present Bandana, a storage system that reduces the DRAM footprint of embeddings, by using Non-volatile Memory (NVM) as the primary storage medium, with a small amount of DRAM as cache. The main challenge in storing embeddings on NVM is its limited read bandwidth compared to DRAM. Bandana uses two primary techniques to address\nthis limitation: first, it stores embedding vectors that are likely to be read together in the same physical location, using hypergraph partitioning, and second, it decides the number of embedding vectors to cache in DRAM by simulating dozens of small caches. These techniques allow Bandana to increase the effective read bandwidth of NVM by 2-3× and thereby significantly reduce the total cost of ownership.",
+        "authors": [
+            {
+                "given_name": "Assaf ",
+                "family_name": "Eisenman",
+                "institution": "Stanford University"
+            },
+            {
+                "given_name": "Maxim",
+                "family_name": "Naumov",
+                "institution": "Facebook, Inc."
+            },
+            {
+                "given_name": "Darryl",
+                "family_name": "Gardner",
+                "institution": "Facebook"
+            },
+            {
+                "given_name": "Misha",
+                "family_name": "Smelyanskiy",
+                "institution": "Facebook"
+            },
+            {
+                "given_name": "Sergey",
+                "family_name": "Pupyrev",
+                "institution": "Facebook"
+            },
+            {
+                "given_name": "Kim",
+                "family_name": "Hazelwood",
+                "institution": "Facebook"
+            },
+            {
+                "given_name": "Asaf",
+                "family_name": "Cidon",
+                "institution": "Stanford University"
+            },
+            {
+                "given_name": "Sachin",
+                "family_name": "Katti",
+                "institution": "Stanford University"
+            }
+        ],
+        "url": "https://proceedings.mlsys.org/paper/2019/file/34173cb38f07f89ddbebc2ac9128303f-Paper.pdf"
+    },
+    {
+        "title": "Parmac: Distributed Optimisation Of Nested Functions, With Application To Learning Binary Autoencoders",
+        "abstract": "Many powerful machine learning models are based on the composition of multiple processing layers, such as deep nets, which gives rise to nonconvex objective functions. A general, recent approach to optimise such \"nested\" functions is the method of auxiliary coordinates (MAC). MAC introduces an auxiliary coordinate for each data point in order to decouple the nested model into independent submodels. This decomposes the optimisation into steps that alternate between training single layers and updating the coordinates. It has the advantage that it reuses existing single-layer algorithms, introduces parallelism, and does not need to use chain-rule gradients, so it works with nondifferentiable layers. We describe ParMAC, a distributed-computation model for MAC. This trains on a dataset distributed across machines while limiting the amount of communication so it does not obliterate the benefit of parallelism. ParMAC works on a cluster of machines with a circular topology and alternates two steps until convergence: one step trains the submodels in parallel using stochastic updates, and the other trains the coordinates in parallel. Only submodel parameters, no data or coordinates, are ever communicated between machines. ParMAC exhibits high parallelism, low communication overhead, and facilitates data shuffling, load balancing, fault tolerance and streaming data processing. We study the convergence of ParMAC and its parallel speedup, and implement ParMAC using MPI to learn binary autoencoders for fast image retrieval, achieving nearly perfect speedups in a 128-processor cluster with a training set of 100 million images.",
+        "authors": [
+            {
+                "given_name": "Miguel A",
+                "family_name": "Carreira-Perpinan",
+                "institution": "UC Merced"
+            },
+            {
+                "given_name": "Mehdi",
+                "family_name": "Alizadeh",
+                "institution": "UC Merced"
+            }
+        ],
+        "url": "https://proceedings.mlsys.org/paper/2019/file/37a749d808e46495a8da1e5352d03cae-Paper.pdf"
+    },
+    {
+        "title": "Data Validation for Machine Learning",
+        "abstract": "Machine learning is a powerful tool for gleaning knowledge from massive amounts of data.  While a great deal of machine learning research has focused on improving the accuracy and efficiency of training and inference algorithms, there is less attention in the equally important problem of monitoring the quality of data fed to machine learning. The importance of this problem is hard to dispute: errors in the input data can nullify any benefits on speed and accuracy for training and inference. This argument points to a data-centric approach to machine learning that treats training and serving data as an important production asset, on par with the algorithm and infrastructure used for learning. \r\n\r\nIn this paper, we tackle this problem and present a data validation system that is designed to detect anomalies specifically in data fed into machine learning pipelines. This system is deployed in production as an integral part of TFX -- an end-to-end machine learning platform at Google. It is used by hundreds of product teams use it to continuously monitor and validate several petabytes of production data per day. We faced several challenges in developing our system, most notably around the ability of ML pipelines to soldier on in the face of unexpected patterns, schema-free data, or training/serving skew. We discuss these challenges, the techniques we used to address them, and the various design choices that we made in implementing the system. Finally, we present evidence from the system's deployment in production that illustrate the tangible benefits of data validation in the context of ML: early detection of errors, model-quality wins from using better data,  savings in engineering hours to debug problems, and a shift towards data-centric workflows in model development.",
+        "authors": [
+            {
+                "given_name": "Neoklis",
+                "family_name": "Polyzotis",
+                "institution": "Google"
+            },
+            {
+                "given_name": "Martin",
+                "family_name": "Zinkevich",
+                "institution": "Google"
+            },
+            {
+                "given_name": "Sudip",
+                "family_name": "Roy",
+                "institution": "Google"
+            },
+            {
+                "given_name": "Eric",
+                "family_name": "Breck",
+                "institution": "Google"
+            },
+            {
+                "given_name": "Steven",
+                "family_name": "Whang",
+                "institution": "KAIST"
+            }
+        ],
+        "url": "https://proceedings.mlsys.org/paper/2019/file/5878a7ab84fb43402106c575658472fa-Paper.pdf"
+    },
+    {
+        "title": "3LC: Lightweight and Effective Traffic Compression for Distributed Machine Learning",
+        "abstract": "3LC is a lossy compression scheme for state change traffic in distributed machine learning (ML) that strikes a balance between multiple goals: traffic reduction, accuracy, computation overhead, and generality.  It combines three techniques---3-value quantization with sparsity multiplication, base-3^5 encoding, and zero-run encoding---to leverage the strengths of quantization and sparsification techniques and avoid their drawbacks.  3LC achieves a data compression ratio of up to 39--107X, preserves the high test accuracy of trained models, and provides high compression speed.  Distributed ML frameworks can use 3LC without modifications to existing ML algorithms.  Our experiments show that 3LC reduces wall-clock training time of ResNet-110 for CIFAR-10 on a bandwidth-constrained 10-GPU cluster by up to 16--23X compared to TensorFlow's baseline design.\n",
+        "authors": [
+            {
+                "given_name": "Hyeontaek",
+                "family_name": "Lim",
+                "institution": "Google Brain"
+            },
+            {
+                "given_name": "David G",
+                "family_name": "Andersen",
+                "institution": "Carnegie Mellon University"
+            },
+            {
+                "given_name": "Michael",
+                "family_name": "Kaminsky",
+                "institution": "BrdgAI / Carnegie Mellon University"
+            }
+        ],
+        "url": "https://proceedings.mlsys.org/paper/2019/file/6364d3f0f495b6ab9dcf8d3b5c6e0b01-Paper.pdf"
+    },
+    {
+        "title": "CaTDet: Cascaded Tracked Detector for Efficient Object Detection from Video",
+        "abstract": "Detecting objects in a video is a compute-intensive task. In this paper we propose CaTDet, a system to speedup object detection by leveraging the temporal correlation in video. CaTDet consists of two DNN models that form a cascaded detector, and an additional tracker to predict regions of interests based on historic detections. We also propose a new metric, mean Delay(mD), which is designed for latency-critical video applications. Experiments on the KITTI dataset show that CaTDet reduces operation count by 5.1-8.7x with the same mean Average Precision(mAP) as the single-model Faster R-CNN detector and incurs additional delay of 0.3 frame. On CityPersons dataset, CaTDet achieves 13.0x reduction in operations with 0.8 mAP loss. ",
+        "authors": [
+            {
+                "given_name": "Huizi",
+                "family_name": "Mao",
+                "institution": "stanford university"
+            },
+            {
+                "given_name": "Taeyoung",
+                "family_name": "Kong",
+                "institution": "Stanford"
+            },
+            {
+                "given_name": "bill",
+                "family_name": "dally",
+                "institution": "stanford university"
+            }
+        ],
+        "url": "https://proceedings.mlsys.org/paper/2019/file/698d51a19d8a121ce581499d7b701668-Paper.pdf"
+    },
+    {
+        "title": "Restructuring Batch Normalization to Accelerate CNN Training",
+        "abstract": "Batch Normalization (BN) has become a core design block of modern Convolutional Neural Networks (CNNs). A typical modern CNN has a large number of BN layers in its lean and deep architecture. BN requires mean and variance calculations over each mini-batch during training. Therefore, the existing memory access reduction techniques, such as fusing multiple CONV layers, are not effective for accelerating BN due to their inability to optimize mini-batch related calculations during training. To address this increasingly important problem, we propose to restructure BN layers by first splitting a BN layer into two sub-layers (fission) and then combining the first sub-layer with its preceding CONV layer and the second sub-layer with the following activation and CONV layers (fusion). The proposed solution can significantly reduce main-memory accesses while training the latest CNN models, and the experiments on a chip multiprocessor show that the proposed BN restructuring can improve the performance of DenseNet-121 by 25.7%.",
+        "authors": [
+            {
+                "given_name": "Wonkyung",
+                "family_name": "Jung",
+                "institution": "Seoul National University"
+            },
+            {
+                "given_name": "Daejin",
+                "family_name": "Jung",
+                "institution": "Samsung"
+            },
+            {
+                "given_name": "Byeongho",
+                "family_name": "Kim",
+                "institution": "Seoul National University"
+            },
+            {
+                "given_name": "Sunjung",
+                "family_name": "Lee",
+                "institution": "Seoul National University"
+            },
+            {
+                "given_name": "Wonjong",
+                "family_name": "Rhee",
+                "institution": "Seoul National University"
+            },
+            {
+                "given_name": "Jung Ho",
+                "family_name": "Ahn",
+                "institution": "Seoul National University"
+            }
+        ],
+        "url": "https://proceedings.mlsys.org/paper/2019/file/6f4922f45568161a8cdf4ad2299f6d23-Paper.pdf"
+    },
+    {
+        "title": "Full Deep Neural Network Training On A Pruned Weight Budget",
+        "abstract": "We introduce a DNN training technique that learns only a fraction of the full parameter set without incurring an accuracy penalty. To do this, our algorithm constrains the total number of weights updated during backpropagation to those with the highest total gradients. The remaining weights are not tracked, and their initial value is regenerated at every access to avoid storing them in memory. This can dramatically reduce the number of off-chip memory accesses during both training and inference, a key component of the energy needs of DNN accelerators. By ensuring that the total weight diffusion remains close to that of baseline unpruned SGD, networks pruned using our technique are able to retain state-of-the-art accuracy across network architectures — including networks previously identified as difficult to compress, such as Densenet and WRN. With ResNet18 on ImageNet, we observe an 11.7× weight reduction with no accuracy loss, and up to 24.4× with a small accuracy impact.",
+        "authors": [
+            {
+                "given_name": "Mieszko",
+                "family_name": "Lis",
+                "institution": "University of British Columbia"
+            },
+            {
+                "given_name": "Maximilian",
+                "family_name": "Golub",
+                "institution": "UBC / Mercedes Benz Research & Dev."
+            },
+            {
+                "given_name": "Guy",
+                "family_name": "Lemieux",
+                "institution": "University of British Columbia"
+            }
+        ],
+        "url": "https://proceedings.mlsys.org/paper/2019/file/7f1de29e6da19d22b51c68001e7e0e54-Paper.pdf"
+    },
+    {
+        "title": "Continuous Integration of Machine Learning Models with ease.ml/ci: Towards a Rigorous Yet Practical Treatment",
+        "abstract": "Continuous integration is an indispensable step of modern software engineering practices to systematically manage the life cycles of system development. Developing a machine learning model is no difference — it is an engineering process with a life cycle, including design, implementation, tuning, testing, and deployment. However, most, if not all, existing continuous integration engines do not support machine learning as first-class citizens.\n\nIn this paper, we present ease.ml/ci, to our best knowledge, the first continuous integration system for machine learning. The challenge of building ease.ml/ci is to provide rigorous guarantees, e.g., single accuracy point error tolerance with 0.999 reliability, with a practical amount of labeling effort, e.g., 2K labels per test. We design a domain specific language that allows users to specify integration conditions with reliability constraints, and develop simple novel optimizations that can lower the number of labels required by up to two orders of magnitude for test conditions popularly used in real production systems.",
+        "authors": [
+            {
+                "given_name": "Cedric",
+                "family_name": "Renggli",
+                "institution": "ETH Zurich"
+            },
+            {
+                "given_name": "Bojan",
+                "family_name": "Karlaš",
+                "institution": "ETH Zürich"
+            },
+            {
+                "given_name": "Bolin",
+                "family_name": "Ding",
+                "institution": "\"Data Analytics and Intelligence Lab, Alibaba Group\""
+            },
+            {
+                "given_name": "Feng",
+                "family_name": "Liu",
+                "institution": "Huawei Technologies"
+            },
+            {
+                "given_name": "Kevin",
+                "family_name": "Schawinski",
+                "institution": "Modulos AG"
+            },
+            {
+                "given_name": "Wentao",
+                "family_name": "Wu",
+                "institution": "Microsoft Research"
+            },
+            {
+                "given_name": "Ce",
+                "family_name": "Zhang",
+                "institution": "ETH"
+            }
+        ],
+        "url": "https://proceedings.mlsys.org/paper/2019/file/82aa4b0af34c2313a562076992e50aa3-Paper.pdf"
+    },
+    {
+        "title": "TicTac: Accelerating Distributed Deep Learning with Communication Scheduling",
+        "abstract": "State-of-the-art deep learning systems rely on iterative distributed training to tackle the increasing complexity of models and input data. In this work, we identify an opportunity for accelerating distributed DNN training in systems that rely on graph representation for computation, such as TensorFlow and PyTorch, through communication scheduling. We develop a system, TicTac, that reduces the iteration time by identifying and enforcing parameter transfers in the order in which the parameters are consumed by the underlying computational model, thereby guaranteeing near-optimal overlap of communication and computation. Our system is implemented over TensorFlow and enforces the optimal ordering by prioritization of parameter transfers at the Parameter Server in data parallel training. TicTac requires no changes to the model or developer inputs and improves the throughput by up to $37.7\\%$ in inference and $19.2\\%$ in training, while also reducing straggler effect by up to $2.3\\times$. Our code is publicly available.",
+        "authors": [
+            {
+                "given_name": "Sayed Hadi",
+                "family_name": "Hashemi",
+                "institution": "University of Illinois at Urbana-Champaign"
+            },
+            {
+                "given_name": "Sangeetha",
+                "family_name": "Abdu Jyothi",
+                "institution": "University of Illinois at Urbana-Champaign"
+            },
+            {
+                "given_name": "Roy",
+                "family_name": "Campbell",
+                "institution": "University of Illinois at Urbana-Champaign"
+            }
+        ],
+        "url": "https://proceedings.mlsys.org/paper/2019/file/84d9ee44e457ddef7f2c4f25dc8fa865-Paper.pdf"
+    },
+    {
+        "title": "Scaling Video Analytics on Constrained Edge Nodes",
+        "abstract": "As video camera deployments continue to grow, the need to process large volumes of real-time data strains wide-area network infrastructure. When per-camera bandwidth is limited, it is infeasible for applications such as traffic monitoring and pedestrian tracking to offload high-quality video streams to a datacenter. This paper presents FilterForward, a new edge-to-cloud system that enables datacenter-based applications to process content from thousands of cameras by installing lightweight edge filters that backhaul only relevant video frames. FilterForward introduces fast and expressive per-application “microclassifiers” that share computation to simultaneously detect dozens of events on computationally-constrained edge nodes. Only matching events are transmitted to the datacenter. Evaluation on two real-world camera feed datasets shows that FilterForward improves computational efficiency and event detection accuracy for challenging video content while substantially reducing network bandwidth use.",
+        "authors": [
+            {
+                "given_name": "Christopher",
+                "family_name": "Canel",
+                "institution": "Carnegie Mellon University"
+            },
+            {
+                "given_name": "Thomas",
+                "family_name": "Kim",
+                "institution": "Carnegie Mellon University"
+            },
+            {
+                "given_name": "Giulio",
+                "family_name": "Zhou",
+                "institution": "Carnegie Mellon University"
+            },
+            {
+                "given_name": "Conglong",
+                "family_name": "Li",
+                "institution": "Carnegie Mellon University"
+            },
+            {
+                "given_name": "Hyeontaek",
+                "family_name": "Lim",
+                "institution": "Google Brain"
+            },
+            {
+                "given_name": "David G",
+                "family_name": "Andersen",
+                "institution": "Carnegie Mellon University"
+            },
+            {
+                "given_name": "Michael",
+                "family_name": "Kaminsky",
+                "institution": "BrdgAI / Carnegie Mellon University"
+            },
+            {
+                "given_name": "Subramanya",
+                "family_name": "Dulloor",
+                "institution": "Intel Labs"
+            }
+        ],
+        "url": "https://proceedings.mlsys.org/paper/2019/file/85d8ce590ad8981ca2c8286f79f59954-Paper.pdf"
+    },
+    {
+        "title": "BlueConnect: Decomposing All-Reduce for Deep Learning on Heterogeneous Network Hierarchy",
+        "abstract": "As deep neural networks get more complex and input datasets get larger, it can take days or\neven weeks to train a deep neural network to the desired accuracy. Therefore, enabling distributed deep learning at a\nmassive scale is a critical, since it offers the potential to reduce the training\ntime from weeks to hours. In this paper, we present BlueConnect, an\nefficient communication library for distributed deep learning that is highly optimized for popular GPU-based platforms.\nBlueConnect decomposes a single all-reduce operation into a large number of parallelizable reduce-scatter and all-gather operations\nto exploit the trade-off between\nlatency and bandwidth, and adapt to a variety of network configurations. Therefore, each individual operation can be mapped\nto a different network fabric and take advantage of the best performing library for that fabric.\nWe integrated BlueConnect into Caffe2, and demonstrated that BlueConnect significantly\npushes the state-of-the-art in large-scale deep learning\nby reducing communication overhead by 87\\% on 192 GPUs for Resnet-50 training over prior arts.",
+        "authors": [
+            {
+                "given_name": "Minsik",
+                "family_name": "Cho",
+                "institution": "IBM"
+            },
+            {
+                "given_name": "Ulrich",
+                "family_name": "Finkler",
+                "institution": "IBM Research"
+            },
+            {
+                "given_name": "David",
+                "family_name": "Kung",
+                "institution": "IBM Research"
+            },
+            {
+                "given_name": "Hillery",
+                "family_name": "Hunter",
+                "institution": "IBM Research"
+            }
+        ],
+        "url": "https://proceedings.mlsys.org/paper/2019/file/9b8619251a19057cff70779273e95aa6-Paper.pdf"
+    },
+    {
+        "title": "Kernel Machines That Adapt To Gpus For Effective Large Batch Training",
+        "abstract": "Modern machine learning models are typically trained using Stochastic Gradient Descent (SGD) on massively parallel computing resources such as GPUs. Increasing mini-batch size is a simple and direct way to utilize the parallel computing capacity. \r\nFor small batch an increase in batch size results in the proportional reduction in the training time, a phenomenon known as {\\it linear scaling}. \r\nHowever, increasing batch size beyond a certain value leads to no further improvement in training time. In this paper we develop the first analytical framework that  extends linear scaling to match the parallel computing capacity of a resource.\r\nThe framework is designed for a class of classical kernel machines. It automatically modifies a standard kernel machine to output  a mathematically equivalent prediction function, yet allowing for  extended linear scaling, i.e., higher effective parallelization and faster  training time on given hardware.  \r\n\r\nThe resulting algorithms are accurate, principled and very fast. For example, using a single Titan Xp GPU,  training on ImageNet with $1.3\\times 10^6$ data points and $1000$ labels  takes under an hour, while smaller datasets, such as MNIST, take seconds. As the parameters are chosen analytically, based on the theoretical bounds, little tuning beyond  selecting the kernel and the kernel parameter is needed, further facilitating the practical use of these methods.",
+        "authors": [
+            {
+                "given_name": "Siyuan",
+                "family_name": "Ma",
+                "institution": "The Ohio State University"
+            },
+            {
+                "given_name": "Mikhail",
+                "family_name": "Belkin",
+                "institution": "Ohio State University"
+            }
+        ],
+        "url": "https://proceedings.mlsys.org/paper/2019/file/a4a042cf4fd6bfb47701cbc8a1653ada-Paper.pdf"
+    },
+    {
+        "title": "AG: Imperative-style Coding with Graph-based Performance",
+        "abstract": "There is a perceived trade-off between machine learning code that is easy to write, and machine learning code that is scalable or fast to execute. In machine learning, {\\em imperative} style libraries like Autograd and PyTorch are easy to write, but suffer from high interpretive overhead and are not easily deployable in production or mobile settings. {\\em Graph-based} libraries like TensorFlow and Theano benefit from whole-program optimization and can be deployed broadly, but make expressing complex models more cumbersome. We describe how the use of staged programming in Python, via source code transformation, offers a midpoint between these two library design patterns, capturing the benefits of both. A key insight is to delay all type-dependent decisions until runtime, via dynamic dispatch. We instantiate these principles in AG, a software system that improves the programming experience of the TensorFlow library, and demonstrate usability improvements with no loss in performance compared to native TensorFlow graphs. We also show that our system is backend agnostic, and demonstrate targeting an alternate IR with characteristics not found in TensorFlow graphs.\n",
+        "authors": [
+            {
+                "given_name": "Dan",
+                "family_name": "Moldovan",
+                "institution": "Google Inc."
+            },
+            {
+                "given_name": "James",
+                "family_name": "Decker",
+                "institution": "Purdue University"
+            },
+            {
+                "given_name": "Fei",
+                "family_name": "Wang",
+                "institution": "Purdue University"
+            },
+            {
+                "given_name": "Andrew",
+                "family_name": "Johnson",
+                "institution": "Google Inc."
+            },
+            {
+                "given_name": "Brian",
+                "family_name": "Lee",
+                "institution": "Google Inc."
+            },
+            {
+                "given_name": "Zachary",
+                "family_name": "Nado",
+                "institution": "Google Brain"
+            },
+            {
+                "given_name": "D",
+                "family_name": "Sculley",
+                "institution": "Google"
+            },
+            {
+                "given_name": "Tiark",
+                "family_name": "Rompf",
+                "institution": "Purdue University"
+            },
+            {
+                "given_name": "Alexander B",
+                "family_name": "Wiltschko",
+                "institution": "Google Inc."
+            }
+        ],
+        "url": "https://proceedings.mlsys.org/paper/2019/file/a597e50502f5ff68e3e25b9114205d4a-Paper.pdf"
+    },
+    {
+        "title": "AGGREGATHOR: Byzantine Machine Learning via Robust Gradient Aggregation",
+        "abstract": "We present AGGREGATHOR, a framework that implements state-of-the-art robust (Byzantine-resilient) distributed stochastic gradient descent. Following the standard parameter server model, we assume that a minority of worker machines can be controlled by an adversary and behave arbitrarily. Such a setting has been theoretically studied with several of the existing approaches using a robust aggregation of the workers’ gradient estimations. Yet, the question is whether a Byzantine-resilient aggregation can leverage more workers to speed-up learning. We answer this theoretical question, and implement these state-of-the-art theoretical approaches on AGGREGATHOR, to assess their practical costs. We built AGGREGATHOR around TensorFlow and introduce modifications for vanilla TensorFlow towards making it usable in an actual Byzantine setting. AGGREGATHOR also permits the use of unreliable gradient transfer over UDP to provide further speed-up (without losing the accuracy) over the native communication protocols (TCP-based) of TensorFlow in saturated networks. We quantify the overhead of Byzantine resilience of AGGREGATHOR to 19% and 43% (to ensure weak and strong Byzantine resilience respectively) compared to vanilla TensorFlow.",
+        "authors": [
+            {
+                "given_name": "Georgios",
+                "family_name": "Damaskinos",
+                "institution": "EPFL"
+            },
+            {
+                "given_name": "El-Mahdi",
+                "family_name": "El-Mhamdi",
+                "institution": "EPFL"
+            },
+            {
+                "given_name": "Rachid",
+                "family_name": "Guerraoui",
+                "institution": "EPFL"
+            },
+            {
+                "given_name": "Arsany",
+                "family_name": "Guirguis",
+                "institution": "EPFL"
+            },
+            {
+                "given_name": "Sébastien",
+                "family_name": "Rouault",
+                "institution": "EPFL"
+            }
+        ],
+        "url": "https://proceedings.mlsys.org/paper/2019/file/a684eceee76fc522773286a895bc8436-Paper.pdf"
+    },
+    {
+        "title": "Mini-batch Serialization: CNN Training with Inter-layer Data Reuse",
+        "abstract": "Training convolutional neural networks (CNNs) requires intense computations and high memory bandwidth. We find that bandwidth today is over-provisioned because most memory accesses in CNN training can be eliminated by rearranging computation to better utilize on-chip buffers and avoid traffic resulting from large per-layer memory footprints. We introduce the MBS CNN training approach that significantly reduces memory traffic by partially serializing mini-batch processing across groups of layers. This optimizes reuse within on-chip buffers and balances both intra-layer and inter-layer reuse. We also introduce the WaveCore CNN training accelerator that effectively trains CNNs in the MBS approach with high functional-unit utilization. Combined, WaveCore and MBS reduce DRAM traffic by 75%, improve performance by 53%, and save 26% system energy for modern deep CNN training compared to conventional training mechanisms and accelerators.",
+        "authors": [
+            {
+                "given_name": "Sangkug",
+                "family_name": "Lym",
+                "institution": "The University of Texas at Austin"
+            },
+            {
+                "given_name": "Armand",
+                "family_name": "Behroozi",
+                "institution": "The University of Michigan"
+            },
+            {
+                "given_name": "Wei",
+                "family_name": "Wen",
+                "institution": "Duke University"
+            },
+            {
+                "given_name": "Ge",
+                "family_name": "Li",
+                "institution": "The University of Texas at Austin"
+            },
+            {
+                "given_name": "Yongkee",
+                "family_name": "Kwon",
+                "institution": "University of Texas at Austin"
+            },
+            {
+                "given_name": "Mattan",
+                "family_name": "Erez",
+                "institution": "UT Austin"
+            }
+        ],
+        "url": "https://proceedings.mlsys.org/paper/2019/file/a8baa56554f96369ab93e4f3bb068c22-Paper.pdf"
+    },
+    {
+        "title": "Ternary Hybrid Neural-Tree Networks for Highly Constrained IoT Applications",
+        "abstract": "Machine learning-based applications are increasingly prevalent in IoT devices. The power and storage constraints of these devices make it particularly challenging to run modern neural networks, limiting the number of new\napplications that can be deployed on an IoT system. A number of compression techniques have been proposed, each with its own trade-offs. We propose a hybrid network which combines the strengths of current neural-\nand tree-based learning techniques in conjunction with ternary quantization, and show a detailed analysis of the associated model design space. Using this hybrid model we obtained a 11.1% reduction in the number of computations, a 52.2% reduction in the model size, and a 30.6% reduction in the overall memory footprint over a state-of-the-art keyword-spotting neural network, with negligible loss in accuracy.",
+        "authors": [
+            {
+                "given_name": "Dibakar",
+                "family_name": "Gope",
+                "institution": "Arm Research"
+            },
+            {
+                "given_name": "Ganesh",
+                "family_name": "Dasika",
+                "institution": "Arm Research"
+            },
+            {
+                "given_name": "Matthew",
+                "family_name": "Mattina",
+                "institution": "ARM Research"
+            }
+        ],
+        "url": "https://proceedings.mlsys.org/paper/2019/file/a97da629b098b75c294dffdc3e463904-Paper.pdf"
+    },
+    {
+        "title": "AdaScale: Towards Real-time Video Object Detection using Adaptive Scaling",
+        "abstract": "In vision-enabled autonomous systems such as robots and autonomous cars, video object detection plays a crucial role, and both its speed and accuracy are important factors to provide reliable operation. The key insight we show in this paper is that speed and accuracy are not necessarily a trade-off when it comes to image scaling. Our results show that re-scaling the image to a lower resolution will sometimes produce better accuracy. Based on this observation, we propose a novel approach, dubbed AdaScale, which adaptively selects the input image scale that improves both accuracy and speed for video object detection. To this end, our results on ImageNet VID and mini YouTube-BoundingBoxes datasets demonstrate 1.3 points and 2.7 points mAP improvement with 1.6× and 1.8× speedup, respectively. Additionally, we improve state-of-the-art video acceleration work by an extra 1.25× speedup with slightly better mAP on ImageNet VID dataset.",
+        "authors": [
+            {
+                "given_name": "Ting-Wu",
+                "family_name": "Chin",
+                "institution": "Carnegie Mellon University"
+            },
+            {
+                "given_name": "Ruizhou",
+                "family_name": "Ding",
+                "institution": "Carnegie Mellon University"
+            },
+            {
+                "given_name": "Diana",
+                "family_name": "Marculescu",
+                "institution": "Carnegie Mellon University"
+            }
+        ],
+        "url": "https://proceedings.mlsys.org/paper/2019/file/b1d10e7bafa4421218a51b1e1f1b0ba2-Paper.pdf"
+    },
+    {
+        "title": "YellowFin and the Art of Momentum Tuning",
+        "abstract": "Hyperparameter tuning is one of the most time-consuming workloads in deep learning. State-of-the-art optimizers, such as AdaGrad, RMSProp and  Adam, reduce this labor by adaptively tuning an individual learning rate for each variable. Recently researchers have shown renewed interest in simpler methods like momentum SGD as they may yield better test metrics. Motivated by this trend, we ask: can simple adaptive methods based on SGD perform as well or better? We revisit the momentum SGD algorithm and show that hand-tuning a single learning rate and momentum makes it competitive with Adam. We then analyze its robustness to learning rate misspecification and objective curvature variation. Based on these insights, we design YellowFin, an automatic tuner for momentum and learning rate in SGD. YellowFin optionally uses a negative-feedback loop to compensate for the momentum dynamics in asynchronous settings on the fly. We empirically show that YellowFin can converge in fewer iterations than Adam on ResNets and LSTMs for image recognition, language modeling and constituency parsing, with a speedup of up to 3.28x in synchronous and up to 2.69x in asynchronous settings.\n",
+        "authors": [
+            {
+                "given_name": "Jian",
+                "family_name": "Zhang",
+                "institution": "Stanford University"
+            },
+            {
+                "given_name": "Ioannis",
+                "family_name": "Mitliagkas",
+                "institution": "Mila & University of Montreal"
+            }
+        ],
+        "url": "https://proceedings.mlsys.org/paper/2019/file/b3e3e393c77e35a4a3f3cbd1e429b5dc-Paper.pdf"
+    },
+    {
+        "title": "Optimizing DNN Computation with Relaxed Graph Substitutions",
+        "abstract": "Existing deep learning frameworks optimize the computation graph of a DNN model by performing greedy rule-based graph transformations, which generally only consider transformations that strictly improve runtime performance. We propose relaxed graph substitutions that enable the exploration of complex graph optimizations by relaxing the strict performance improvement constraint, which greatly increases the space of semantically equivalent computation graphs that can be discovered by repeated application of a suitable set of graph transformations. We introduce a backtracking search algorithm over a set of relaxed graph substitutions to find optimized networks and use a flow-based graph split algorithm to recursively split a computation graph into smaller subgraphs to allow efficient search. We implement relaxed graph substitutions in a system called MetaFlow and show that MetaFlow improves the inference and training performance by 1.1-1.6× and 1.1-1.2× respectively over existing deep learning frameworks.",
+        "authors": [
+            {
+                "given_name": "Zhihao",
+                "family_name": "Jia",
+                "institution": "Stanford University"
+            },
+            {
+                "given_name": "James",
+                "family_name": "Thomas",
+                "institution": "Stanford"
+            },
+            {
+                "given_name": "Todd",
+                "family_name": "Warszawski",
+                "institution": "Stanford University"
+            },
+            {
+                "given_name": "Mingyu",
+                "family_name": "Gao",
+                "institution": "Tsinghua University"
+            },
+            {
+                "given_name": "Matei",
+                "family_name": "Zaharia",
+                "institution": "Stanford and Databricks"
+            },
+            {
+                "given_name": "Alex",
+                "family_name": "Aiken",
+                "institution": "Stanford University"
+            }
+        ],
+        "url": "https://proceedings.mlsys.org/paper/2019/file/b6d767d2f8ed5d21a44b0e5886680cb9-Paper.pdf"
+    },
+    {
+        "title": "Towards Federated Learning at Scale: System Design",
+        "abstract": "Federated Learning is a distributed machine learning approach which enables model training on a large corpus of decentralized data. We have built a scalable production system for Federated Learning in the domain of mobile devices, based on TensorFlow. In this paper, we describe the resulting high-level design, sketch some of the challenges and their solutions, and touch upon the open problems and future directions.",
+        "authors": [
+            {
+                "given_name": "Keith",
+                "family_name": "Bonawitz",
+                "institution": "Google"
+            },
+            {
+                "given_name": "Hubert",
+                "family_name": "Eichner",
+                "institution": "Google"
+            },
+            {
+                "given_name": "Wolfgang",
+                "family_name": "Grieskamp",
+                "institution": "Google"
+            },
+            {
+                "given_name": "Dzmitry",
+                "family_name": "Huba",
+                "institution": "Google"
+            },
+            {
+                "given_name": "Alex",
+                "family_name": "Ingerman",
+                "institution": "Google"
+            },
+            {
+                "given_name": "Vladimir",
+                "family_name": "Ivanov",
+                "institution": "Google"
+            },
+            {
+                "given_name": "Chloé",
+                "family_name": "Kiddon",
+                "institution": "Google"
+            },
+            {
+                "given_name": "Jakub",
+                "family_name": "Konečný",
+                "institution": "Google Research"
+            },
+            {
+                "given_name": "Stefano",
+                "family_name": "Mazzocchi",
+                "institution": "Google"
+            },
+            {
+                "given_name": "Brendan",
+                "family_name": "McMahan",
+                "institution": "Google"
+            },
+            {
+                "given_name": "Timon",
+                "family_name": "Van Overveldt",
+                "institution": "Google"
+            },
+            {
+                "given_name": "David",
+                "family_name": "Petrou",
+                "institution": "Google"
+            },
+            {
+                "given_name": "Daniel",
+                "family_name": "Ramage",
+                "institution": "Google"
+            },
+            {
+                "given_name": "Jason",
+                "family_name": "Roselander",
+                "institution": "Google"
+            }
+        ],
+        "url": "https://proceedings.mlsys.org/paper/2019/file/bd686fd640be98efaae0091fa301e613-Paper.pdf"
+    },
+    {
+        "title": "Beyond Data and Model Parallelism for Deep Neural Networks.",
+        "abstract": "Existing deep learning systems commonly parallelize deep neural network (DNN) training using data or model parallelism, but these strategies often result in suboptimal parallelization performance. We introduce SOAP, a more comprehensive search space of parallelization strategies for DNNs that includes strategies to parallelize a DNN in the Sample, Operator, Attribute, and Parameter dimensions. We present FlexFlow, a deep learning engine that uses guided randomized search of the SOAP space to find a fast parallelization strategy for a specific parallel machine. To accelerate this search, FlexFlow introduces a novel execution simulator that can accurately predict a parallelization strategy’s performance and is three orders of magnitude faster than prior approaches that execute each strategy. We evaluate FlexFlow with six real-world DNN benchmarks on two GPU clusters and show that FlexFlow increases training throughput by up to 3.3× over state-of-the-art approaches, even when including its search time, and also improves scalability.",
+        "authors": [
+            {
+                "given_name": "Zhihao",
+                "family_name": "Jia",
+                "institution": "Stanford University"
+            },
+            {
+                "given_name": "Matei",
+                "family_name": "Zaharia",
+                "institution": "Stanford and Databricks"
+            },
+            {
+                "given_name": "Alex",
+                "family_name": "Aiken",
+                "institution": "Stanford University"
+            }
+        ],
+        "url": "https://proceedings.mlsys.org/paper/2019/file/c74d97b01eae257e44aa9d5bade97baf-Paper.pdf"
+    },
+    {
+        "title": "Serving Recurrent Neural Networks Efficiently with a Spatial Accelerator",
+        "abstract": "Recurrent Neural Network (RNN) applications form a major class of AI-powered, low-latency data center workloads. Most execution models for RNN acceleration break computation graphs into BLAS kernels, which lead to significant inter-kernel data movement and resource underutilization. We show that by supporting more general loop constructs that capture design parameters in accelerators, it is possible to improve resource utilization using cross-kernel optimization without sacrificing programmability. Such abstraction level enables a design space search that can lead to efficient usage of on-chip resources on a spatial architecture across a range of problem sizes. We evaluate our optimization strategy on such abstraction with DeepBench using a configurable spatial accelerator. We demonstrate that this implementation provides a geometric speedup of 30x in performance, 1.6x in area, and 2x in power efficiency compared to a Tesla V100 GPU, and a geometric speedup of 2x compared to Microsoft Brainwave implementation on a Stratix 10 FPGA.",
+        "authors": [
+            {
+                "given_name": "Tian",
+                "family_name": "Zhao",
+                "institution": "Stanford University"
+            },
+            {
+                "given_name": "Yaqi",
+                "family_name": "Zhang",
+                "institution": "Stanford University"
+            },
+            {
+                "given_name": "Kunle",
+                "family_name": "Olukotun",
+                "institution": "Stanford University"
+            }
+        ],
+        "url": "https://proceedings.mlsys.org/paper/2019/file/c7e1249ffc03eb9ded908c236bd1996d-Paper.pdf"
+    },
+    {
+        "title": "Adaptive Communication Strategies to Achieve the Best Error-Runtime Trade-off in Local-Update SGD",
+        "abstract": "Large-scale machine learning training, in particular distributed stochastic gradient descent, needs to be robust to inherent system variability such as node straggling and random communication delays. This work considers a distributed training framework where each worker node is allowed to perform local model updates and the resulting models are averaged periodically. We analyze the true speed of error convergence with respect to wall-clock time (instead of the number of iterations), and analyze how it is affected by the frequency of averaging. The main contribution is the design of AdaComm, an adaptive communication strategy that starts with infrequent averaging to save communication delay and improve convergence speed, and then increases the communication frequency in order to achieve a low error floor. Rigorous experiments on training deep neural networks show that AdaComm can take 3 times less time than fully synchronous SGD, and still reach the same final training loss.",
+        "authors": [
+            {
+                "given_name": "Jianyu",
+                "family_name": "Wang",
+                "institution": "Carnegie Mellon University"
+            },
+            {
+                "given_name": "Gauri",
+                "family_name": "Joshi",
+                "institution": "Carnegie Mellon University"
+            }
+        ],
+        "url": "https://proceedings.mlsys.org/paper/2019/file/c8ffe9a587b126f152ed3d89a146b445-Paper.pdf"
+    },
+    {
+        "title": "Priority-based Parameter Propagation for Distributed DNN Training",
+        "abstract": "Data parallel training is widely used for scaling distributed deep neural network (DNN) training. However, the performance benefits are often limited by the communication-heavy parameter synchronization step. In this paper, we take advantage of the domain specific knowledge of DNN training and overlap parameter synchronization with computation in order to improve the training performance. We make two key observations: (1) the optimal data representation granularity for the communication may differ from that used by the underlying DNN model implementation and (2) different parameters can afford different synchronization delays. Based on these observations, we propose a new synchronization mechanism called Priority-based Parameter Propagation (P3). P3 synchronizes parameters at a finer granularity and schedules data transmission in such a way that the training process incurs minimal communication delay. We show that P3 can improve the training throughput of ResNet-50, Sockeye and VGG-19 by as much as 25%, 38% and 66% respectively on clusters with realistic network bandwidth.",
+        "authors": [
+            {
+                "given_name": "Anand",
+                "family_name": "Jayarajan",
+                "institution": "University of British Columbia"
+            },
+            {
+                "given_name": "Jinliang",
+                "family_name": "Wei",
+                "institution": "Carnegie Mellon University"
+            },
+            {
+                "given_name": "Garth",
+                "family_name": "Gibson",
+                "institution": "Carnegie Mellon University"
+            },
+            {
+                "given_name": "Alexandra",
+                "family_name": "Fedorova",
+                "institution": "University of British Columbia"
+            },
+            {
+                "given_name": "Gennady",
+                "family_name": "Pekhimenko",
+                "institution": "University of Toronto"
+            }
+        ],
+        "url": "https://proceedings.mlsys.org/paper/2019/file/d09bf41544a3365a46c9077ebb5e35c3-Paper.pdf"
+    },
+    {
+        "title": "Discrete Adversarial Attacks and Submodular Optimization with Applications to Text Classification",
+        "abstract": "In this paper, we formulate the adversarial attacks with discrete input as an optimization task on a set function. We prove that this set function is submodular for some popular neural network text classifiers. This finding guarantees a $1-1/e$ approximation factor with the greedy algorithm. Meanwhile, we show how to use the gradient of the attacked classifier to guide the greedy search. Empirical studies with our proposed optimization scheme show significantly improved attack ability and efficiency, on three different text classification tasks over various baselines. We also use a joint sentence and word paraphrasing technique to maintain the original semantics and syntax. This is validated by a human subject evaluation in subjective metrics on the quality and semantic coherence of our generated adversarial text.",
+        "authors": [
+            {
+                "given_name": "Qi",
+                "family_name": "Lei",
+                "institution": "UT Austin"
+            },
+            {
+                "given_name": "Lingfei",
+                "family_name": "Wu",
+                "institution": "IBM T. J. Watson Research Center"
+            },
+            {
+                "given_name": "Pin-Yu",
+                "family_name": "Chen",
+                "institution": "IBM Research"
+            },
+            {
+                "given_name": "Alex",
+                "family_name": "Dimakis",
+                "institution": "UT Austin"
+            },
+            {
+                "given_name": "Inderjit S.",
+                "family_name": "Dhillon",
+                "institution": "UT Austin & Amazon"
+            },
+            {
+                "given_name": "Michael J",
+                "family_name": "Witbrock",
+                "institution": "IBM Research"
+            }
+        ],
+        "url": "https://proceedings.mlsys.org/paper/2019/file/d1fe173d08e959397adf34b1d77e88d7-Paper.pdf"
+    },
+    {
+        "title": "Pytorch-BigGraph: A Large Scale Graph Embedding System",
+        "abstract": "Graph embedding methods produce unsupervised node features from graphs that can then be used for a variety of machine learning tasks. However, modern graph datasets contain billions of nodes and trillions of edges, which exceeds the capability of existing embedding systems. We present Pytorch-BigGraph (PBG), an embedding system that incorporates several modifications to traditional multi-relation embedding systems that allow it to scale to graphs with billions of nodes and trillions of edges. PBG uses graph partitioning to train arbitrarily large embeddings on either a single machine or in a distributed environment. We evaluate demonstrate comparable performance with existing embedding systems on common benchmarks, while allowing for scaling to arbitrarily large graphs and parallelization on multiple machines. We train and evaluate embeddings on several\nlarge social network graphs and on the full Freebase dataset, which contains over 100 million nodes and 2 billion edges.",
+        "authors": [
+            {
+                "given_name": "Adam",
+                "family_name": "Lerer",
+                "institution": "Facebook AI Research"
+            },
+            {
+                "given_name": "Ledell",
+                "family_name": "Wu",
+                "institution": "Facebook AI Research"
+            },
+            {
+                "given_name": "Jiajun",
+                "family_name": "Shen",
+                "institution": "Facebook AI Research"
+            },
+            {
+                "given_name": "Timothee",
+                "family_name": "Lacroix",
+                "institution": "Facebook"
+            },
+            {
+                "given_name": "Luca",
+                "family_name": "Wehrstedt",
+                "institution": "Facebook AI Research"
+            },
+            {
+                "given_name": "Abhijit",
+                "family_name": "Bose",
+                "institution": "Facebook"
+            },
+            {
+                "given_name": "Alex",
+                "family_name": "Peysakhovich",
+                "institution": "Facebook"
+            }
+        ],
+        "url": "https://proceedings.mlsys.org/paper/2019/file/e2c420d928d4bf8ce0ff2ec19b371514-Paper.pdf"
+    },
+    {
+        "title": "To Compress Or Not To Compress: Understanding The Interactions Between Adversarial Attacks And Neural Network Compression",
+        "abstract": "As deep neural networks (DNNs) become widely used, pruned and quantised models are becoming ubiquitous on edge devices; such compressed DNNs lower the computational requirements. Meanwhile, multiple recent studies show ways of constructing adversarial samples that make DNNs misclassify. We therefore investigate the extent to which adversarial samples are transferable between uncompressed and compressed DNNs. We find that such samples remain transferable for both pruned and quantised models. For pruning, adversarial samples at high sparsities are marginally less transferable. For quantisation, we find the transferability of adversarial samples is highly sensitive to integer precision.",
+        "authors": [
+            {
+                "given_name": "Ilia",
+                "family_name": "Shumailov",
+                "institution": "University of Cambridge"
+            },
+            {
+                "given_name": "Yiren",
+                "family_name": "Zhao",
+                "institution": "University of Cambridge"
+            },
+            {
+                "given_name": "Robert",
+                "family_name": "Mullins",
+                "institution": "University of Cambridge"
+            },
+            {
+                "given_name": "Ross",
+                "family_name": "Anderson",
+                "institution": "University of Cambridge"
+            }
+        ],
+        "url": "https://proceedings.mlsys.org/paper/2019/file/ec5decca5ed3d6b8079e2e7e7bacc9f2-Paper.pdf"
+    }
+]
