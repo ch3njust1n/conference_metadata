@@ -1,0 +1,930 @@
+[
+    {
+        "url": "https://www.ijcai.org/Proceedings/69/Papers/001.pdf",
+        "title": "Toward a Programming Laboratory",
+        "authors": [
+            {
+                "given_name": "Warren",
+                "family_name": "Teitelman",
+                "institution": null
+            }
+        ]
+    },
+    {
+        "url": "https://www.ijcai.org/Proceedings/69/Papers/002.pdf",
+        "title": "On the Implementation of AMBIT/G: A Graphical Programming Language",
+        "authors": [
+            {
+                "given_name": "Paul",
+                "family_name": "Rovner",
+                "institution": null
+            },
+            {
+                "given_name": "D. Austin Henderson",
+                "family_name": "Jr.",
+                "institution": null
+            }
+        ]
+    },
+    {
+        "url": "https://www.ijcai.org/Proceedings/69/Papers/003.pdf",
+        "title": "Search for a Solution: A Case Study",
+        "authors": [
+            {
+                "given_name": "Robert",
+                "family_name": "Balzer",
+                "institution": null
+            }
+        ]
+    },
+    {
+        "url": "https://www.ijcai.org/Proceedings/69/Papers/004.pdf",
+        "title": "A Tablet Input Facility for an Interactive Graphics System",
+        "authors": [
+            {
+                "given_name": "James E.",
+                "family_name": "Curry",
+                "institution": null
+            }
+        ]
+    },
+    {
+        "url": "https://www.ijcai.org/Proceedings/69/Papers/005.pdf",
+        "title": "An Attack on the Problems of Speech Analysis and Synthesis with the Power of an On-Line System",
+        "authors": [
+            {
+                "given_name": "Glen J.",
+                "family_name": "Culler",
+                "institution": null
+            }
+        ]
+    },
+    {
+        "url": "https://www.ijcai.org/Proceedings/69/Papers/006.pdf",
+        "title": "Multiple Antenna Array Signal Collecting and Processing",
+        "authors": [
+            {
+                "given_name": "B.",
+                "family_name": "Boverie",
+                "institution": null
+            },
+            {
+                "given_name": "William D.",
+                "family_name": "Gregg",
+                "institution": null
+            }
+        ]
+    },
+    {
+        "url": "https://www.ijcai.org/Proceedings/69/Papers/007.pdf",
+        "title": "A Generalization of the k-Nearest Neighbor Rule",
+        "authors": [
+            {
+                "given_name": "Edward A.",
+                "family_name": "Patrick",
+                "institution": null
+            },
+            {
+                "given_name": "Frederic P. Fischer",
+                "family_name": "Ii",
+                "institution": null
+            }
+        ]
+    },
+    {
+        "url": "https://www.ijcai.org/Proceedings/69/Papers/008.pdf",
+        "title": "Geometrical Pattern Feature Extraction by Projection on Haar Orthonormal Basis",
+        "authors": [
+            {
+                "given_name": "Lucien A.",
+                "family_name": "Gerardin",
+                "institution": null
+            },
+            {
+                "given_name": "Jacques",
+                "family_name": "Flament",
+                "institution": null
+            }
+        ]
+    },
+    {
+        "url": "https://www.ijcai.org/Proceedings/69/Papers/009.pdf",
+        "title": "Optimizing a Video Preprocessor for OCR",
+        "authors": [
+            {
+                "given_name": "M. R.",
+                "family_name": "Hartz",
+                "institution": null
+            }
+        ]
+    },
+    {
+        "url": "https://www.ijcai.org/Proceedings/69/Papers/010.pdf",
+        "title": "The Effect of Noise on Visual Pattern Recognition",
+        "authors": [
+            {
+                "given_name": "R. L.",
+                "family_name": "Beurle",
+                "institution": null
+            },
+            {
+                "given_name": "M. V.",
+                "family_name": "Daniels",
+                "institution": null
+            },
+            {
+                "given_name": "B. L.",
+                "family_name": "Hills",
+                "institution": null
+            }
+        ]
+    },
+    {
+        "url": "https://www.ijcai.org/Proceedings/69/Papers/011.pdf",
+        "title": "Conic Sections in Chromosome Analysis",
+        "authors": [
+            {
+                "given_name": "Keith A.",
+                "family_name": "Paton",
+                "institution": null
+            }
+        ]
+    },
+    {
+        "url": "https://www.ijcai.org/Proceedings/69/Papers/012.pdf",
+        "title": "Recognizing Convex Blobs",
+        "authors": [
+            {
+                "given_name": "Jack",
+                "family_name": "Sklansky",
+                "institution": null
+            }
+        ]
+    },
+    {
+        "url": "https://www.ijcai.org/Proceedings/69/Papers/013.pdf",
+        "title": "Gestalt Pattern Recognition with Arrays of Predetermined Neural Functions",
+        "authors": [
+            {
+                "given_name": "William D.",
+                "family_name": "Rowe",
+                "institution": null
+            }
+        ]
+    },
+    {
+        "url": "https://www.ijcai.org/Proceedings/69/Papers/015.pdf",
+        "title": "A Dynamic Pattern Recognition Method Using the Preview Controlled Saccadic Movement of the Detector",
+        "authors": [
+            {
+                "given_name": "Masahiro",
+                "family_name": "Mori",
+                "institution": null
+            },
+            {
+                "given_name": "Kunikatsu",
+                "family_name": "Takase",
+                "institution": null
+            },
+            {
+                "given_name": "Harukazu",
+                "family_name": "Nishio",
+                "institution": null
+            }
+        ]
+    },
+    {
+        "url": "https://www.ijcai.org/Proceedings/69/Papers/016.pdf",
+        "title": "Computer-Aided Design for a Reader of Hand-Printed Characters",
+        "authors": [
+            {
+                "given_name": "T.",
+                "family_name": "Hoshino",
+                "institution": null
+            },
+            {
+                "given_name": "K.",
+                "family_name": "Kiji",
+                "institution": null
+            }
+        ]
+    },
+    {
+        "url": "https://www.ijcai.org/Proceedings/69/Papers/017.pdf",
+        "title": "Recognition of Handwritten Numerals Using a Decision Graph",
+        "authors": [
+            {
+                "given_name": "Sumio",
+                "family_name": "Katsuragi",
+                "institution": null
+            },
+            {
+                "given_name": "Hiroshi",
+                "family_name": "Genchi",
+                "institution": null
+            },
+            {
+                "given_name": "Ken-Ichi",
+                "family_name": "Mori",
+                "institution": null
+            },
+            {
+                "given_name": "Sadakazu",
+                "family_name": "Watanabe",
+                "institution": null
+            }
+        ]
+    },
+    {
+        "url": "https://www.ijcai.org/Proceedings/69/Papers/018.pdf",
+        "title": "A Recognition System Using Probabilistic Decisions Based on Extracted Features",
+        "authors": [
+            {
+                "given_name": "P.",
+                "family_name": "Murden",
+                "institution": null
+            },
+            {
+                "given_name": "M.",
+                "family_name": "Symons",
+                "institution": null
+            }
+        ]
+    },
+    {
+        "url": "https://www.ijcai.org/Proceedings/69/Papers/019.pdf",
+        "title": "Character Recognition Using a Log-Autocorrelation Function",
+        "authors": [
+            {
+                "given_name": "R. L.",
+                "family_name": "Beurle",
+                "institution": null
+            },
+            {
+                "given_name": "A. J.",
+                "family_name": "Crawford",
+                "institution": null
+            },
+            {
+                "given_name": "R. B.",
+                "family_name": "Guy",
+                "institution": null
+            }
+        ]
+    },
+    {
+        "url": "https://www.ijcai.org/Proceedings/69/Papers/020.pdf",
+        "title": "Adaptive Pattern Recognition",
+        "authors": [
+            {
+                "given_name": "P.",
+                "family_name": "Hauff",
+                "institution": null
+            },
+            {
+                "given_name": "E.",
+                "family_name": "Neidhart",
+                "institution": null
+            }
+        ]
+    },
+    {
+        "url": "https://www.ijcai.org/Proceedings/69/Papers/021.pdf",
+        "title": "A Task-Independent Experience-Gathering Scheme for a Problem Solver",
+        "authors": [
+            {
+                "given_name": "J. Ross",
+                "family_name": "Quinlan",
+                "institution": null
+            }
+        ]
+    },
+    {
+        "url": "https://www.ijcai.org/Proceedings/69/Papers/022.pdf",
+        "title": "Concepts and Methods for Heuristic Search",
+        "authors": [
+            {
+                "given_name": "Erik",
+                "family_name": "Sandewall",
+                "institution": null
+            }
+        ]
+    },
+    {
+        "url": "https://www.ijcai.org/Proceedings/69/Papers/023.pdf",
+        "title": "Application of Theorem Proving to Problem Solving",
+        "authors": [
+            {
+                "given_name": "C. Cordell",
+                "family_name": "Green",
+                "institution": null
+            }
+        ]
+    },
+    {
+        "url": "https://www.ijcai.org/Proceedings/69/Papers/024.pdf",
+        "title": "PROW: A Step Toward Automatic Program Writing",
+        "authors": [
+            {
+                "given_name": "Richard J.",
+                "family_name": "Waldinger",
+                "institution": null
+            },
+            {
+                "given_name": "Richard C. T.",
+                "family_name": "Lee",
+                "institution": null
+            }
+        ]
+    },
+    {
+        "url": "https://www.ijcai.org/Proceedings/69/Papers/025.pdf",
+        "title": "An Introduction to the Heuristic Programming System",
+        "authors": [
+            {
+                "given_name": "David K.",
+                "family_name": "Jefferson",
+                "institution": null
+            }
+        ]
+    },
+    {
+        "url": "https://www.ijcai.org/Proceedings/69/Papers/026.pdf",
+        "title": "On a Tool in Artificial Intelligence Research: An Associative Memory, Parallel Language, AMPPL-II",
+        "authors": [
+            {
+                "given_name": "Nicholas V.",
+                "family_name": "Findler",
+                "institution": null
+            },
+            {
+                "given_name": "Wiley R.",
+                "family_name": "Mckinzie",
+                "institution": null
+            }
+        ]
+    },
+    {
+        "url": "https://www.ijcai.org/Proceedings/69/Papers/027.pdf",
+        "title": "A Lifelike Model for Associative Relevance",
+        "authors": [
+            {
+                "given_name": "Paul B.",
+                "family_name": "Post",
+                "institution": null
+            }
+        ]
+    },
+    {
+        "url": "https://www.ijcai.org/Proceedings/69/Papers/028.pdf",
+        "title": "Completeness Theorems for Semantic Resolution in Consequence-Finding",
+        "authors": [
+            {
+                "given_name": "James R.",
+                "family_name": "Slagle",
+                "institution": null
+            },
+            {
+                "given_name": "Chin-Liang",
+                "family_name": "Chang",
+                "institution": null
+            },
+            {
+                "given_name": "Richard C. T.",
+                "family_name": "Lee",
+                "institution": null
+            }
+        ]
+    },
+    {
+        "url": "https://www.ijcai.org/Proceedings/69/Papers/029.pdf",
+        "title": "E-Resolution: Extension of Resolution to Include the Equality Relation",
+        "authors": [
+            {
+                "given_name": "James B.",
+                "family_name": "Morris",
+                "institution": null
+            }
+        ]
+    },
+    {
+        "url": "https://www.ijcai.org/Proceedings/69/Papers/030.pdf",
+        "title": "PLANNER: A Language for Proving Theorems in Robots",
+        "authors": [
+            {
+                "given_name": "Carl",
+                "family_name": "Hewitt",
+                "institution": null
+            }
+        ]
+    },
+    {
+        "url": "https://www.ijcai.org/Proceedings/69/Papers/031.pdf",
+        "title": "Computer Solution of Calculus Word Problems",
+        "authors": [
+            {
+                "given_name": "Eugene",
+                "family_name": "Charniak",
+                "institution": null
+            }
+        ]
+    },
+    {
+        "url": "https://www.ijcai.org/Proceedings/69/Papers/032.pdf",
+        "title": "Theorem Provers as Question Answerers",
+        "authors": [
+            {
+                "given_name": "Jared L.",
+                "family_name": "Darlington",
+                "institution": null
+            }
+        ]
+    },
+    {
+        "url": "https://www.ijcai.org/Proceedings/69/Papers/033.pdf",
+        "title": "Dialogues Between Humans and an Artificial Belief System",
+        "authors": [
+            {
+                "given_name": "Kenneth Mark",
+                "family_name": "Colby",
+                "institution": null
+            },
+            {
+                "given_name": "David Canfield",
+                "family_name": "Smith",
+                "institution": null
+            }
+        ]
+    },
+    {
+        "url": "https://www.ijcai.org/Proceedings/69/Papers/034.pdf",
+        "title": "A Net Structure Based Relational Question Answerer: Description and Examples",
+        "authors": [
+            {
+                "given_name": "Stuart C.",
+                "family_name": "Shapiro",
+                "institution": null
+            },
+            {
+                "given_name": "George H.",
+                "family_name": "Woodmansee",
+                "institution": null
+            }
+        ]
+    },
+    {
+        "url": "https://www.ijcai.org/Proceedings/69/Papers/035.pdf",
+        "title": "Cyclic Behavior of Randomly Growing Digital Structures in Finite Random Environment",
+        "authors": [
+            {
+                "given_name": "Konrad R.",
+                "family_name": "Fialkowski",
+                "institution": null
+            }
+        ]
+    },
+    {
+        "url": "https://www.ijcai.org/Proceedings/69/Papers/036.pdf",
+        "title": "Characteristics and Organizing Capability of Statistical Organizer",
+        "authors": [
+            {
+                "given_name": "Shoichi",
+                "family_name": "Noguchi",
+                "institution": null
+            },
+            {
+                "given_name": "Juro",
+                "family_name": "Oizumi",
+                "institution": null
+            }
+        ]
+    },
+    {
+        "url": "https://www.ijcai.org/Proceedings/69/Papers/037.pdf",
+        "title": "Learning Technique and the Stochastic Approximation Method",
+        "authors": [
+            {
+                "given_name": "Fridrich",
+                "family_name": "Sloboda",
+                "institution": null
+            },
+            {
+                "given_name": "Jaroslav",
+                "family_name": "Fogel",
+                "institution": null
+            }
+        ]
+    },
+    {
+        "url": "https://www.ijcai.org/Proceedings/69/Papers/038.pdf",
+        "title": "The Learning of Parameters for Generating Compound Characterizers for Pattern Recognition",
+        "authors": [
+            {
+                "given_name": "Leonard",
+                "family_name": "Uhr",
+                "institution": null
+            },
+            {
+                "given_name": "Sara",
+                "family_name": "Jordan",
+                "institution": null
+            }
+        ]
+    },
+    {
+        "url": "https://www.ijcai.org/Proceedings/69/Papers/039.pdf",
+        "title": "A Pattern Classification by the Time-Varying Threshold Method",
+        "authors": [
+            {
+                "given_name": "Shuhei",
+                "family_name": "Aida",
+                "institution": null
+            },
+            {
+                "given_name": "Gen-Ichiro",
+                "family_name": "Kinoshita",
+                "institution": null
+            }
+        ]
+    },
+    {
+        "url": "https://www.ijcai.org/Proceedings/69/Papers/040.pdf",
+        "title": "Some Properties of Small Networks of Randomly Connected Artificial Neurons",
+        "authors": [
+            {
+                "given_name": "R. B.",
+                "family_name": "Guy",
+                "institution": null
+            },
+            {
+                "given_name": "R. L.",
+                "family_name": "Beurle",
+                "institution": null
+            }
+        ]
+    },
+    {
+        "url": "https://www.ijcai.org/Proceedings/69/Papers/041.pdf",
+        "title": "Computer Simulation of Articulatory Activity in Speech Production",
+        "authors": [
+            {
+                "given_name": "Paul",
+                "family_name": "Mermelstein",
+                "institution": null
+            }
+        ]
+    },
+    {
+        "url": "https://www.ijcai.org/Proceedings/69/Papers/042.pdf",
+        "title": "A Statistical Study of Visual Resolution Thresholds",
+        "authors": [
+            {
+                "given_name": "B. L.",
+                "family_name": "Hills",
+                "institution": null
+            },
+            {
+                "given_name": "R. L.",
+                "family_name": "Beurle",
+                "institution": null
+            },
+            {
+                "given_name": "M. V.",
+                "family_name": "Daniels",
+                "institution": null
+            }
+        ]
+    },
+    {
+        "url": "https://www.ijcai.org/Proceedings/69/Papers/043.pdf",
+        "title": "Remarks on the Problem of the Logical Design of the Vertebrate Visual System",
+        "authors": [
+            {
+                "given_name": "Richard E.",
+                "family_name": "Warren",
+                "institution": null
+            }
+        ]
+    },
+    {
+        "url": "https://www.ijcai.org/Proceedings/69/Papers/044.pdf",
+        "title": "Human Control of Remote Computer-Manipulators",
+        "authors": [
+            {
+                "given_name": "Thomas B.",
+                "family_name": "Sheridan",
+                "institution": null
+            },
+            {
+                "given_name": "William R.",
+                "family_name": "Ferrell",
+                "institution": null
+            }
+        ]
+    },
+    {
+        "url": "https://www.ijcai.org/Proceedings/69/Papers/045.pdf",
+        "title": "State Space Models of Remote Manipulation Tasks",
+        "authors": [
+            {
+                "given_name": "Daniel E.",
+                "family_name": "Whitney",
+                "institution": null
+            }
+        ]
+    },
+    {
+        "url": "https://www.ijcai.org/Proceedings/69/Papers/045.pdf",
+        "title": "A Mobile Automaton: An Application of Artificial Intelligence Techniques",
+        "authors": [
+            {
+                "given_name": "Nils J.",
+                "family_name": "Nilsson",
+                "institution": null
+            }
+        ]
+    },
+    {
+        "url": "https://www.ijcai.org/Proceedings/69/Papers/046.pdf",
+        "title": "The Stanford Hand-Eye Project",
+        "authors": [
+            {
+                "given_name": "Jerome A.",
+                "family_name": "Feldman",
+                "institution": null
+            },
+            {
+                "given_name": "Gary M.",
+                "family_name": "Feldman",
+                "institution": null
+            },
+            {
+                "given_name": "Gilbert",
+                "family_name": "Falk",
+                "institution": null
+            },
+            {
+                "given_name": "Gunnar",
+                "family_name": "Grape",
+                "institution": null
+            },
+            {
+                "given_name": "J.",
+                "family_name": "Pearlman",
+                "institution": null
+            },
+            {
+                "given_name": "Irwin",
+                "family_name": "Sobel",
+                "institution": null
+            },
+            {
+                "given_name": "Jay M.",
+                "family_name": "Tenenbaum",
+                "institution": null
+            }
+        ]
+    },
+    {
+        "url": "https://www.ijcai.org/Proceedings/69/Papers/047.pdf",
+        "title": "Robot Control Strategy",
+        "authors": [
+            {
+                "given_name": "Leonard",
+                "family_name": "Friedman",
+                "institution": null
+            }
+        ]
+    },
+    {
+        "url": "https://www.ijcai.org/Proceedings/69/Papers/048.pdf",
+        "title": "MIKROKOSMS and Robots",
+        "authors": [
+            {
+                "given_name": "Leonard",
+                "family_name": "Uhr",
+                "institution": null
+            },
+            {
+                "given_name": "Manfred",
+                "family_name": "Kochen",
+                "institution": null
+            }
+        ]
+    },
+    {
+        "url": "https://www.ijcai.org/Proceedings/69/Papers/049.pdf",
+        "title": "An Augmented State Transition Network Analysis Procedure",
+        "authors": [
+            {
+                "given_name": "Daniel G.",
+                "family_name": "Bobrow",
+                "institution": null
+            },
+            {
+                "given_name": "J. Bruce",
+                "family_name": "Fraser",
+                "institution": null
+            }
+        ]
+    },
+    {
+        "url": "https://www.ijcai.org/Proceedings/69/Papers/050.pdf",
+        "title": "A Conceptual Parser for Natural Language",
+        "authors": [
+            {
+                "given_name": "Roger C.",
+                "family_name": "Schank",
+                "institution": null
+            },
+            {
+                "given_name": "Lawrence G.",
+                "family_name": "Tesler",
+                "institution": null
+            }
+        ]
+    },
+    {
+        "url": "https://www.ijcai.org/Proceedings/69/Papers/051.pdf",
+        "title": "Using Relational Operators to Structure Long-Term Memory",
+        "authors": [
+            {
+                "given_name": "Alan L.",
+                "family_name": "Tharp",
+                "institution": null
+            },
+            {
+                "given_name": "Gilbert K.",
+                "family_name": "Krulee",
+                "institution": null
+            }
+        ]
+    },
+    {
+        "url": "https://www.ijcai.org/Proceedings/69/Papers/052.pdf",
+        "title": "Talking with a Robot in English",
+        "authors": [
+            {
+                "given_name": "L. Stephen",
+                "family_name": "Coles",
+                "institution": null
+            }
+        ]
+    },
+    {
+        "url": "https://www.ijcai.org/Proceedings/69/Papers/053.pdf",
+        "title": "A Contextual Recognition System for Formal languages",
+        "authors": [
+            {
+                "given_name": "Stephen C.",
+                "family_name": "Darden",
+                "institution": null
+            }
+        ]
+    },
+    {
+        "url": "https://www.ijcai.org/Proceedings/69/Papers/054.pdf",
+        "title": "Web Grammars",
+        "authors": [
+            {
+                "given_name": "John L.",
+                "family_name": "Pfaltz",
+                "institution": null
+            },
+            {
+                "given_name": "Azriel",
+                "family_name": "Rosenfeld",
+                "institution": null
+            }
+        ]
+    },
+    {
+        "url": "https://www.ijcai.org/Proceedings/69/Papers/055.pdf",
+        "title": "A Formal Description for Two-Dimensional Patterns",
+        "authors": [
+            {
+                "given_name": "Charles T. Zahn",
+                "family_name": "Jr.",
+                "institution": null
+            }
+        ]
+    },
+    {
+        "url": "https://www.ijcai.org/Proceedings/69/Papers/056.pdf",
+        "title": "Machine Perception and Description of Pictorial Data",
+        "authors": [
+            {
+                "given_name": "Martin A.",
+                "family_name": "Fischler",
+                "institution": null
+            }
+        ]
+    },
+    {
+        "url": "https://www.ijcai.org/Proceedings/69/Papers/057.pdf",
+        "title": "Implicational Molecules: A Method for Extracting Meaning from Input Sentences",
+        "authors": [
+            {
+                "given_name": "Robert P.",
+                "family_name": "Abelson",
+                "institution": null
+            },
+            {
+                "given_name": "Carol M.",
+                "family_name": "Reich",
+                "institution": null
+            }
+        ]
+    },
+    {
+        "url": "https://www.ijcai.org/Proceedings/69/Papers/058.pdf",
+        "title": "Experiments with a Search Algorithm for the Data Base of a Human Belief System",
+        "authors": [
+            {
+                "given_name": "Kenneth Mark",
+                "family_name": "Colby",
+                "institution": null
+            },
+            {
+                "given_name": "Lawrence G.",
+                "family_name": "Tesler",
+                "institution": null
+            },
+            {
+                "given_name": "Horace J.",
+                "family_name": "Enea",
+                "institution": null
+            }
+        ]
+    },
+    {
+        "url": "https://www.ijcai.org/Proceedings/69/Papers/059.pdf",
+        "title": "The Modeling of Simple Analogic and Inductive Processes in a Semantic Memory System",
+        "authors": [
+            {
+                "given_name": "Joseph D.",
+                "family_name": "Becker",
+                "institution": null
+            }
+        ]
+    },
+    {
+        "url": "https://www.ijcai.org/Proceedings/69/Papers/060.pdf",
+        "title": "Cognitive Processes and III-Defined Problems: A Case Study from Design",
+        "authors": [
+            {
+                "given_name": "Charles M.",
+                "family_name": "Eastman",
+                "institution": null
+            }
+        ]
+    },
+    {
+        "url": "https://www.ijcai.org/Proceedings/69/Papers/061.pdf",
+        "title": "Explorations with a Simulation Model of Short-Term Memory",
+        "authors": [
+            {
+                "given_name": "Kenneth R.",
+                "family_name": "Laughery",
+                "institution": null
+            },
+            {
+                "given_name": "Allen L.",
+                "family_name": "Pinkus",
+                "institution": null
+            }
+        ]
+    },
+    {
+        "url": "https://www.ijcai.org/Proceedings/69/Papers/062.pdf",
+        "title": "A Computer Model for Certain Classes of Verbal Behavior",
+        "authors": [
+            {
+                "given_name": "George R.",
+                "family_name": "Kiss",
+                "institution": null
+            }
+        ]
+    },
+    {
+        "url": "https://www.ijcai.org/Proceedings/69/Papers/063.pdf",
+        "title": "Analogy Between Sequential Errors in Aphasia and the Behavior of a Cybernetic System (SARF)",
+        "authors": [
+            {
+                "given_name": "Daniel",
+                "family_name": "Bertaux",
+                "institution": null
+            },
+            {
+                "given_name": "André-Roch",
+                "family_name": "Lecours",
+                "institution": null
+            },
+            {
+                "given_name": "François",
+                "family_name": "Lhermitte",
+                "institution": null
+            }
+        ]
+    }
+]
